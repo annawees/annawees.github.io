@@ -1,0 +1,190 @@
+---
+layout: post
+title: Japchae
+category: recipe
+thumbnail:  
+tags: vegetarian, korean
+---
+Like sushi and the sandwich, this dish was created for royalty. In the 17th century Yi Chung created this dish to please King Gwanghaefun's palate. 
+Japchae translates to * jap "잡"*  (stir fried) and *chae 채* vegetables, but the vegetables are not the star of the show.
+While the original inception consisted solely of vegetables, when the Chinese introduced the method of creating cellophane noodles the *dangmyeon "당면"* quickly stole the show. 
+This sturdy, chewy noodle made of sweet potatoes nestles a variety of vegetables.
+Carrots, bell peppers and shiitake mushrooms are fried in sesame oil until tender and then tossed with cooked dangmyeon and fresh spinach.  
+The additon of soy sauce and honey adds the salty, sweet, umami flavor that our palates crave, and assists in wilting the spinach and keeping the noodles from sticking to the bottom ot the pan
+
+<ul>
+<div id= "recipedetails">
+<div id= "time"> Time </div>
+<div id= "skill"> Skill </div>
+<div id= "spice"> Spice </div>
+<div id= "serves"> Serves </div>
+</div>
+
+<div id= "recipenumbers">
+<div id= "time"><h1> 40 Minutes</h1> </div>
+<div id= "skill"><h1> Intermediate</h1> </div>
+<div id= "spice"><h1> Hot</h1> </div>
+<div id= "serves"><h1> Two </h1> </div>
+</div>
+
+<div id= "nutritiondetails">
+<div id="calories"> Calories </div>
+<div id="carbs"> Carbs </div>
+<div id="fiber"> Fiber </div>
+<div id="fat"> Fat </div>
+<div id="protein"> Protein </div>
+</div>
+
+<div id= "nutritionnumbers">
+<div id="calories"><h1> 620</h1> </div>
+<div id="carbs"><h1> 141g</h1> </div>
+<div id="fiber"><h1> 16g</h1> </div>
+<div id="fat"><h1> 51g</h1> </div>
+<div id="protein"><h1> 16g</h1> </div>
+</div>
+</ul>
+
+<div id= "ingredienthdr">
+<h1>Ingredients</h1>
+</div>
+
+
+<ul>
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/ingredients/shiitake.png"/>4 oz shiitake mushrooms </div>
+<div id="ingredienttwo"><img src="/images/ingredients/spinach.png"/>6 oz spinach</div>
+<div id="ingredientthree"><img src="/images/ingredients/carrots.png"/>4 carrots</div>
+<div id="ingredientfour"><img src="/images/ingredients/redbellpepper.png"/>1 red bell pepper</div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><a href="https://www.amazon.com/packs-Noodles-Korean-Vermicelli-Dangmyun/dp/B00SERLF6Y/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481335577&sr=1-1&keywords=dangmyeon&linkCode=ll1&tag=cilalime09-20&linkId=d75ede7d8e4a75035cfe850dd342c493"><img src="/images/ingredients/dangmyeon.png"/>4 oz dangmyeon</a></div>
+<div id="ingredienttwo"><img src="/images/ingredients/soysauce.png"/>1/4 cup soy sauce</div>
+<div id="ingredientthree"><img src="/images/ingredients/sesameoil.png"/>3 tbsp sesame oil</div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Sunchang-Pepper-Paste-Gold-Gochujang/dp/B013HB0CC4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481335706&sr=1-4&keywords=gochujang&linkCode=ll1&tag=cilalime09-20&linkId=562126e22018dcf2e7c9d91458414f64"><img src="/images/ingredients/gochujang.png"/>2 tbsp gochujang</a></div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/ingredients/honey.png"/>2 tbsp honey</div>
+<div id="ingredienttwo"><img src="/images/ingredients/sesameseeds.png"/>2 tbsp sesame seeds</div>
+<div id="ingredientthree"></div>
+<div id="ingredientfour"></div>
+</div>
+</ul>
+
+<div id="equipmenthdr">
+<h1>Equipment</h1>
+</div>
+
+<ul>
+<div id="equipment">
+<div id="equipmentone"><a href="http://amzn.to/2hlFqLs"><img src="/images/equipment/skillet.png"/>large skillet</a></div>
+<div id="equipmenttwo"><a href="https://www.amazon.com/All-Clad-E414S6-Stainless-Cookware-6-Quart/dp/B00DP2UYGK/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481256044&sr=1-4&keywords=all+clad+stock+pot&linkCode=ll1&tag=cilalime09-20&linkId=da7e4997f7565f2c9acdc281bc1b73e0"><img src="/images/ingredients/stockpot.png"/>stock pot</a></div>
+<div id="equipmentthree"></div>
+<div id="equipmentfour"></div>
+</div>
+</ul>
+
+<div id="preparation">
+<h1>Preparation</h1>
+</div>
+
+<ul>
+<div id="instruction">
+<div id="image"><img src="/images/japchae/japchae1.png"/> </div>
+<div id="step">Set a large stockpot on high heat to boil the noodles.<p>Cut the carrots into long strips.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/japchae/japchae2.png"/> </div>
+<div id="step">Cut the bell pepper into long, thin strips.<p>Finely slice the shiitake.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/japchae/japchae3.png"/> </div>
+<div id="step">Once the water has reached a boil, add the noodles to the boiling water.<p>Cook for 10 minutes, until tender, and then drain.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/japchae/japchae4.png"/> </div>
+<div id="step">Once the water has reached a boil, add the noodles to the boiling water.<p>Cook for 10 minutes, until tender, and then drain.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/japchae/japchae5.png"/> </div>
+<div id="step"><p><i>While the noodles are boiling, cook the vegetables.</i> Coat the bottom of a large skillet with sesame oil, honey, and place on medium high heat.</p>Add the carrots and sauté until the carrots tenderize and begin to char on the exterior.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/japchae/japchae6.png"/> </div>
+<div id="step">Add the sliced bell pepper and shiitakes to the pan and sauté until the mushrooms have released their liquid and the bell peppers strips are tender.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/japchae/japchae7.png"/> </div>
+<div id="step">Add the cooked noodles with the remaining sesame oil, cooked vegetables, honey, spinach and soy sauce. Toss to wilt the spinach. Sauté until the noodles absorbs all of the soy sauce.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/albondigas/albondigas8.png"/> </div>
+<div id="step">Plate the albondigas with the chipotle sauce. Top with the avocado, cilantro and pickled radishes. Crumble the queso fresco over the plate.</div>
+</div>
+</ul>
+
+<style>
+#recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
+#time { width: 26%; float: left;}
+#skill { width: 26%; float: left; margin-left: 2%;}
+#spice { width: 16%; float: left; margin-left: 2%;}
+#serves { width 16%; float: left; margin-left: 2%;}
+.clear {clear:both;}
+
+#recipenumbers {width: 90%; display:inline-block; float: left; margin-left: 5%;}
+#time { width: 26%; float: left;}
+#skill { width: 26%; float: left; margin-left: 2%;}
+#spice { width: 16%; float: left; margin-left: 2%;}
+#serves { width 16%; float: left; margin-left: 2%;}
+.clear {clear:both;}
+
+#nutritiondetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
+#calories { width: 18%; float: left;}
+#carbs { width: 18%; float: left; margin-left: 0%;}
+#fiber { width: 18%; float: left; margin-left: 0%;}
+#fat { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-left: 0%;}
+.clear {clear:both;}
+
+#nutritionnumbers { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-bottom: 100px;}
+#calories { width: 18%; float: left;}
+#carbs { width: 18%; float: left; margin-left: 0%;}
+#fiber { width: 18%; float: left; margin-left: 0%;}
+#fat { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-left: 0%;}
+.clear {clear:both;}
+
+#ingredienthdr { margin-top:200px; margin-bottom:50px;}
+
+#ingredients { width: 95%; display:inline-block;}
+#ingredientone { width: 20%; float:left;}
+#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
+#ingredientthree { width:20%; float:left; margin-left: 5%;}
+#ingredientfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#equipmenthdr { margin-top:200px; margin-bottom:50px;}
+
+#equipment { width: 95%; display:inline-block;}
+#equipmentone { width: 20%; float:left;}
+#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
+#equipmentthree { width:20%; float:left; margin-left: 5%;}
+#equipmentfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#preparation { margin-top: 150px; margin-bottom: 50px;}
+
+#instruction { width:95%; display:inline-block;}
+#image { width: 40%; float:left;}
+#step { width: 40%; float:right; margin-top: 30px; margin-bottom: 30px;}
+.clear {clear:both;}`
+
+</style>

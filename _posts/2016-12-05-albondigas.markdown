@@ -2,6 +2,7 @@
 layout: post
 title: Albondigas in Chipotle
 category: recipe
+thumbnail: /images/albondigas/albondigas8.png 
 tags: beef, ground beef, mexican, low carb
 ---
 <header>
