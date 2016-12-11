@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Cook"
+    url : /
+  - title: "Travel"
+    url : /
+  - title: "Shop"
+    url: http://cilantrolime.com/all/?cat=30
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

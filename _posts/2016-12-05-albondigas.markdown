@@ -3,7 +3,7 @@ layout: single
 title: Albondigas in Chipotle
 category: recipe
 thumbnail: "./images/albondigas/albondigas8.png"
-tags:beef,ground_beef,mexican,low_carb
+tags: [beef, ground beef, mexican, low carb]
 ---
 <header>
 <link href='http://fonts.googleapis.com/css?family=heebo:300' rel='stylesheet' type='text/css'>
