@@ -127,8 +127,7 @@ The additon of soy sauce and honey adds the salty, sweet, umami flavor that our 
 
 <div id="instruction">
 <div id="image"><img src="/images/albondigas/albondigas8.png"/> </div>
-<div id="step">Plate the albondigas with the chipotle sauce. Top with the avocado, cilantro and pickled radishes. Crumble the queso fresco over the plate.</div>
-</div>
+<div id="step"> Plate the japchae. Sprinkle the sesame seeds on top. Serve with gochujang.</div>
 </ul>
 
 <style>
