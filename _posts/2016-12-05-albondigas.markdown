@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Albondigas in Chipotle
 category: recipe
 thumbnail: "./images/albondigas/albondigas8.png"
