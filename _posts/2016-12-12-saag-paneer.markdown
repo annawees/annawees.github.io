@@ -6,7 +6,7 @@ thumbnail: ""
 tags: [cheese, vegetarian, indian]
 ---
 
-
+A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
 
 <ul>
 <div id= "recipedetails">
@@ -17,10 +17,10 @@ tags: [cheese, vegetarian, indian]
 </div>
 
 <div id= "recipenumbers">
-<div id= "time"><h1> 45 Minutes</h1> </div>
-<div id= "skill"><h1> Intermediate</h1> </div>
-<div id= "spice"><h1> Hot</h1> </div>
-<div id= "serves"><h1> Two </h1> </div>
+<div id= "time"><h3> 45 Minutes</h3> </div>
+<div id= "skill"><h3> Intermediate</h3> </div>
+<div id= "spice"><h3> Hot</h3> </div>
+<div id= "serves"><h3> Two </h3> </div>
 </div>
 
 <div id= "nutritiondetails">
@@ -32,11 +32,11 @@ tags: [cheese, vegetarian, indian]
 </div>
 
 <div id= "nutritionnumbers">
-<div id="calories"><h1> 590</h1> </div>
-<div id="carbs"><h1> 11g</h1> </div>
-<div id="fiber"><h1> 9g</h1> </div>
-<div id="fat"><h1> 28g</h1> </div>
-<div id="protein"><h1> 49g</h1> </div>
+<div id="calories"><h3> 590</h3> </div>
+<div id="carbs"><h3> 11g</h3> </div>
+<div id="fiber"><h3> 9g</h3> </div>
+<div id="fat"><h3> 28g</h3> </div>
+<div id="protein"><h3> 49g</h3> </div>
 </div>
 </ul>
 
@@ -67,10 +67,6 @@ tags: [cheese, vegetarian, indian]
 <div id="ingredientfour"><a href="">1/2 tsp ground cumin</a></div>
 </div>
 </ul
-
-<div>
-*if not available, you may substitute serranos for thai chiles.
-</div>
 
 <div id="preparation">
 <h1>Preparation</h1>
