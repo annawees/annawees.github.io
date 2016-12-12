@@ -47,33 +47,30 @@ tags: [cheese, vegetarian, indian]
 
 <ul>
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ingredients/groundchuck.png"/>3/4 lb ground chuck </div>
-<div id="ingredienttwo"><img src="/images/ingredients/quesofresco.png"/>1 oz queso fresco</div>
-<div id="ingredientthree"><img src="/images/ingredients/egg.png"/>1 egg</div>
-<div id="ingredientfour"><img src="/images/ingredients/radishes.png"/>3 radishes</div>
+<div id="ingredientone"><img src="/images/ingredients/paneer.png"/>6 oz paneer </div>
+<div id="ingredienttwo"><img src="/images/ingredients/yogurt.png"/>4 oz greek yogurt</div>
+<div id="ingredientthree"><img src="/images/ingredients/onion.png"/>1 onion</div>
+<div id="ingredientfour"><img src="/images/ingredients/spinach.png"/>12 oz spinach</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ingredients/avocado.png"/>1 avocado</div>
-<div id="ingredienttwo"><img src="/images/ingredients/cilantro.png"/>1/4 bunch cilantro</div>
-<div id="ingredientthree"><img src="/images/ingredients/shallots.png"/>2 shallots</div>
-<div id="ingredientfour"><a href="https://www.amazon.com/gp/product/B001SAWI38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001SAWI38&linkId=f50a9f64e07d6fe1dfa9c524415c9b72"><img src="/images/ingredients/tomatopuree.png"/>1 cup tomato puree</a></div>
+<div id="ingredientone"><img src="/images/ingredients/butter.png"/>2 tbsp butter</div>
+<div id="ingredienttwo"><img src="/images/ingredients/3garlic.png"/>3 garlic cloves</div>
+<div id="ingredientthree"><img src="/images/ingredients/ginger.png"/>1 tbsp ginger</div>
+<div id="ingredientfour"><img src="/images/ingredients/thaichile.png"/>2 thai chiles*</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/gp/product/B000LRKPAC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000LRKPAC&linkId=9f43b3d2ff96a2f6c8771dce441f2084"><img src="/images/ingredients/whitewinevinegar.png"/>1/4 cup white wine vinegar</a></div>
-<div id="ingredienttwo"><a href="https://www.amazon.com/gp/product/B0086PGTOC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0086PGTOC&linkId=865c1e77ae03f6c46059ff0763fc683d"><img src="/images/ingredients/panko.png"/>1/4 cup panko breadcrumbs</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/gp/product/B00DBETL5M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00DBETL5M&linkId=06994a432365b52df033e059887aa858"><img src="/images/ingredients/groundchipotle.png"/>1 1/2 tsp ground chipotle</a></div>
-<div id="ingredientfour"><a href="https://www.amazon.com/gp/product/B00A3811VG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00A3811VG&linkId=f28f3c9922f716503875538a24d95a8d"><img src="/images/ingredients/groundnmchili.png"/>1 tsp ground New Mexico chili</a></div>
+<div id="ingredientone"><a href=""><img src="/images/ingredients/basmati.png"/>1/2 cup basmati rice</a></div>
+<div id="ingredienttwo"><a href=""><img src="/images/ingredients/garammasala.png"/>1/2 tsp garam masala</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/ingredients/groundcumin.png"><img src="/images/ingredients/groundcumin.png"/>1/2 tsp ground cumin</a></div>
+<div id="ingredientfour"><a href="">1/2 tsp ground cumin</a></div>
 </div>
+</ul
 
-<div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/gp/product/B0035O0ZRQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0035O0ZRQ&linkId=4961647e23e075d146cf7f43b0f39ddb"><img src="/images/ingredients/groundchilidearbol.png"/>1/2 tsp ground cili de arbol</a></div>
-<div id="ingredienttwo"><a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/ingredients/groundcumin.png"/>1/2 tsp ground cumin</a></div>
-<div id="ingredientthree"></div>
-<div id="ingredientfour"></div>
+<div>
+*if not available, you may substitute serranos for thai chiles.
 </div>
-</ul>
 
 <div id="preparation">
 <h1>Preparation</h1>
