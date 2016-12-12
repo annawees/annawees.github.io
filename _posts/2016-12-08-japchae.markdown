@@ -3,11 +3,11 @@ layout: single
 title: Japchae
 category: recipe
 thumbnail:  
-tags: vegetarian, korean
+tags: (vegetarian, korean)
 ---
 Like sushi and the sandwich, this dish was created for royalty. In the 17th century Yi Chung created this dish to please King Gwanghaefun's palate. 
-Japchae translates to * jap "잡"*  (stir fried) and *chae 채* vegetables, but the vegetables are not the star of the show.
-While the original inception consisted solely of vegetables, when the Chinese introduced the method of creating cellophane noodles the *dangmyeon "당면"* quickly stole the show. 
+Japchae translates to *jap 잡*  (stir fried) and *chae 채* vegetables, but the vegetables are not the star of the show.
+While the original inception consisted solely of vegetables, when the Chinese introduced the method of creating cellophane noodles the *dangmyeon 당면* quickly stole the show. 
 This sturdy, chewy noodle made of sweet potatoes nestles a variety of vegetables.
 Carrots, bell peppers and shiitake mushrooms are fried in sesame oil until tender and then tossed with cooked dangmyeon and fresh spinach.  
 The additon of soy sauce and honey adds the salty, sweet, umami flavor that our palates crave, and assists in wilting the spinach and keeping the noodles from sticking to the bottom ot the pan
@@ -59,14 +59,15 @@ The additon of soy sauce and honey adds the salty, sweet, umami flavor that our 
 
 <div id="ingredients">
 <div id="ingredientone"><a href="https://www.amazon.com/packs-Noodles-Korean-Vermicelli-Dangmyun/dp/B00SERLF6Y/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481335577&sr=1-1&keywords=dangmyeon&linkCode=ll1&tag=cilalime09-20&linkId=d75ede7d8e4a75035cfe850dd342c493"><img src="/images/ingredients/dangmyeon.png"/>4 oz dangmyeon</a></div>
-<div id="ingredienttwo"><img src="/images/ingredients/soysauce.png"/>1/4 cup soy sauce</div>
-<div id="ingredientthree"><img src="/images/ingredients/sesameoil.png"/>3 tbsp sesame oil</div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Kikkoman-Soy-Sauce-33-8-oz/dp/B003XDIU30/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514395&sr=1-2&keywords=soy+sauce&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=415765787bbc2dc8941eee7571122ef7"><img src="/images/ingredients/soysauce.png"/>1/4 cup soy sauce</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?ie=UTF8&qid=1481514125&sr=8-3&keywords=sesame+oil&th=1&linkCode=ll1&tag=cilalime09-20&linkId=e3b1a64ef44b71e6247134f6cf267b92"><img src="/images/ingredients/sesameoil.png"/>3 tbsp sesame oil</a></div>
 <div id="ingredientfour"><a href="https://www.amazon.com/Sunchang-Pepper-Paste-Gold-Gochujang/dp/B013HB0CC4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481335706&sr=1-4&keywords=gochujang&linkCode=ll1&tag=cilalime09-20&linkId=562126e22018dcf2e7c9d91458414f64"><img src="/images/ingredients/gochujang.png"/>2 tbsp gochujang</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ingredients/honey.png"/>2 tbsp honey</div>
-<div id="ingredienttwo"><img src="/images/ingredients/sesameseeds.png"/>2 tbsp sesame seeds</div>
+<div id="ingredientone"><a href="https://www.amazon.com/Nature-Nates-Unfiltered-Honey-Ounce/dp/B00CMQD3VS/ref=sr_1_4_s_it?s=grocery&rps=1&ie=UTF8&qid=1481514747&sr=1-4&keywords=honey&refinements=p_85%3A2470955011"><img src="/images/ingredients/honey.png"/>2 tbsp honey</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Nutria-Organic-Certified-Superfood-Magnesium/dp/B019KXQDVM/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514809&sr=1-1-spons&keywords=sesame+seeds&refinements=p_85:2470955011&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=467563eedd31251bd3842de986cdd859"><img src="/images/ingredients/sesameseeds.png"/>2 tbsp sesame seeds</a>
+</div>
 <div id="ingredientthree"></div>
 <div id="ingredientfour"></div>
 </div>
