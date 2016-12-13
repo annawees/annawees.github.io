@@ -11,7 +11,7 @@ tags: [mexican, chicken, chicken breast, soup]
   </video>
 </div>
 
-Origin in Tlaxcala 
+Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards. 
 
 <ul>
 <div id= "recipedetails">
