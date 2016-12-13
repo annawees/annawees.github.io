@@ -8,11 +8,10 @@ tags: [mexican, chicken, chicken breast, soup]
 <div class="banner">
   <video autoplay loop muted class="banner__video" poster="/images/sopadetortilla.jpg">
     <source src="/images/SopadeTortilla.mp4" type="video/mp4">
-    <source src="/images/SopadeTortilla.webm" type="video/webm">
   </video>
 </div>
 
-A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
+Origin in Tlaxcala 
 
 <ul>
 <div id= "recipedetails">
