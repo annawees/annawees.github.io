@@ -13,7 +13,6 @@ tags: [mexican, chicken, chicken breast, soup]
 
 Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards. 
 
-<ul>
 <div id= "recipedetails">
 <div id= "time"> Time </div>
 <div id= "skill"> Skill </div>
@@ -43,7 +42,6 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 <div id="fat"><h3> 28g</h3> </div>
 <div id="protein"><h3> 49g</h3> </div>
 </div>
-</ul>
 
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
