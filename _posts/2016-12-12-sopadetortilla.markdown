@@ -79,23 +79,24 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer1.png"/> </div>
-<div id="step"> Fill the stop with water and place on high heat to boil. <p> Move one of the oven racks Place the tomatoes on a sheet pan or roating pan ans </div>
+<div id="image"><img src="/images/sopadetortilla/sopadetortilla1.png"/> </div>
+<div id="step"> Fill the stop with water and place on high heat to boil. <p> Move one of the oven racks to the upper third of the oven and set the oven to broil. Place the tomatoes on a a sheet pan and cook until the tomatoes char.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer2.png"/> </div>
-<div id="step">Peel the ginger. Finely dice the garlic and ginger. <p> Finely slice the thai chiles. </p></div>
+<div id="image"><img src="/images/sopadetortilla/sopadetortilla2.png"/> </div>
+<div id="step">Once the water begins to boil, add the chicken breast to the pot. Reduce the heat to medium high and simmer unil the chicken is cooke all the way through, and the fibers of the muscle begin to seperate. This will take approx. 10 minutes. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer3.png"/> </div>
-<div id="step">Cut the paneer into 1/2" cubes. Sprinkle the cubes of cheese with a pinch of salt.</div>
+<div id="image"><img src="/images/sopadetortilla/sopadetortilla3.png"/> </div>
+<div id="step">Transfer the cooked chicken to a plate or shallow bowl and shred the meat with two forks. <i><p>Do not discard the cooking liquid as you'll need it later.</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer4.png"/> </div>
-<div id="step">	Place the butter in a large sauté pan or wide bottomed stockpot and place on medium high heat. Once the butter is hot, fry the paneer cheese on all sides until golden brown. Remove the paneer from the pan, and set aside for later use.</div>
+<div id="image"><img src="/images/sopadetortilla/sopadetortilla4.png"/> </div>
+<div id="step">	Transfer the roasted tomatoes, garlic, pasilla, chipotle, 1 cup of water, and 1 tsp of salt to a blender. Puree until the dried chiles have broken up and the mixture is uniform.
+<p><i> Note that the contents of the blender will be hot. Hold the lid of the blender in place to prevent any spills.</i></p></div>
 
 <div id="instruction">
 <div id="image"><img src="/images/saagpaneer/saagpaneer5.png"/> </div>
