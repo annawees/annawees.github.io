@@ -7,7 +7,8 @@ tags: [mexican, chicken, chicken breast, soup]
 ---
 <div class="banner">
   <video autoplay loop muted class="banner__video" poster="/images/sopadetortilla.jpg">
-    <source src="/images/sopadetortilla.mp4" type="video/mp4">
+    <source src="/images/SopadeTortilla.mp4" type="video/mp4">
+    <source src="/images/SopadeTortilla.webm" type="video/webm">
   </video>
 </div>
 
