@@ -47,8 +47,6 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 <h1>Ingredients</h1>
 </div>
 
-
-<ul>
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/ingredients/onechickenbreast.png"/>1 chicken breast </div>
 <div id="ingredienttwo"><img src="/images/ingredients/camparitomatoes.png"/>1 lb campari tomatoes</div>
@@ -66,7 +64,6 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 <div id="ingredients">
 <div id="ingredientone"><a href="https://www.amazon.com/Ancho-Mexican-Whole-Chile-Resealable/dp/B01AYGHAG6/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1481597794&sr=8-5&keywords=pasilla+pepper&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c90a3eb34ee3b8948d009827a7e3e73e"><img src="/images/ingredients/pasillapepper.png"/>1 pasilla pepper</a></div>
 </div>
-</ul
 
 <div id= "equipmenthdr">
 <h1>Equipment</h1>
