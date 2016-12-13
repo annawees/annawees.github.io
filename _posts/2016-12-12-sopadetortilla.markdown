@@ -80,7 +80,7 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 
 <div id="instruction">
 <div id="image"><img src="/images/sopadetortilla/sopadetortilla1.png"/> </div>
-<div id="step"> Fill the stop with water and place on high heat to boil. <p> Move one of the oven racks to the upper third of the oven and set the oven to broil. Place the tomatoes on a a sheet pan and cook until the tomatoes char.</div>
+<div id="step"> Fill the stop with water and place on high heat to boil. <p> Move one of the oven racks to the upper third of the oven and set the oven to broil. Place the tomatoes on a a sheet pan and cook until the tomatoes char.</p></div>
 </div>
 
 <div id="instruction">
