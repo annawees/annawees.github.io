@@ -69,7 +69,7 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 </ul
 
 <div id= "equipmenthdr">
-<h1>Ingredients</h1>
+<h1>Equipment</h1>
 </div>
 
 <div id="equipment">
@@ -81,7 +81,6 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 <h1>Preparation</h1>
 </div>
 
-<ul>
 <div id="instruction">
 <div id="image"><img src="/images/saagpaneer/saagpaneer1.png"/> </div>
 <div id="step"> Fill the stop with water and place on high heat to boil. <p> Move one of the oven racks Place the tomatoes on a sheet pan or roating pan ans </div>
@@ -100,7 +99,6 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 <div id="instruction">
 <div id="image"><img src="/images/saagpaneer/saagpaneer4.png"/> </div>
 <div id="step">	Place the butter in a large sauté pan or wide bottomed stockpot and place on medium high heat. Once the butter is hot, fry the paneer cheese on all sides until golden brown. Remove the paneer from the pan, and set aside for later use.</div>
-</div>
 
 <div id="instruction">
 <div id="image"><img src="/images/saagpaneer/saagpaneer5.png"/> </div>
@@ -181,6 +179,8 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 #ingredientthree { width:20%; float:left; margin-left: 5%;}
 #ingredientfour { width:20%; float:left; margin-left: 5%;}
 .clear {clear:both;}
+
+#equipmenthdr { margin-top:200px; margin-bottom:50px;}
 
 #equipment { width: 95%; display:inline-block;}
 #equipmentone { width: 20%; float:left;}
