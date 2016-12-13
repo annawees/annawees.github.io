@@ -22,10 +22,10 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 </div>
 
 <div id= "recipenumbers">
-<div id= "time"><h3> 45 Minutes</h3> </div>
+<div id= "time"><h3> 1 hour</h3> </div>
 <div id= "skill"><h3> Intermediate</h3> </div>
 <div id= "spice"><h3> Hot</h3> </div>
-<div id= "serves"><h3> Two </h3> </div>
+<div id= "serves"><h3> Two to Three</h3> </div>
 </div>
 
 <div id= "nutritiondetails">
@@ -52,24 +52,21 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 
 <ul>
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ingredients/paneer.png"/>6 oz paneer </div>
-<div id="ingredienttwo"><img src="/images/ingredients/yogurt.png"/>4 oz greek yogurt</div>
-<div id="ingredientthree"><img src="/images/ingredients/onion.png"/>1 onion</div>
-<div id="ingredientfour"><img src="/images/ingredients/spinach.png"/>12 oz spinach</div>
+<div id="ingredientone"><img src="/images/ingredients/onechickenbreast.png"/>1 chicken breast </div>
+<div id="ingredienttwo"><img src="/images/ingredients/camparitomatoes.png"/>1 lb campari tomatoes</div>
+<div id="ingredientthree"><img src="/images/ingredients/quesochihuahua.png"/>3 oz queso Chihuahua</div>
+<div id="ingredientfour"><img src="/images/ingredients/corntortillas.png"/>6 corn tortillas</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ingredients/butter.png"/>2 tbsp butter</div>
-<div id="ingredienttwo"><img src="/images/ingredients/3garlic.png"/>3 garlic cloves</div>
-<div id="ingredientthree"><img src="/images/ingredients/ginger.png"/>1 tbsp ginger</div>
-<div id="ingredientfour"><img src="/images/ingredients/thaichile.png"/>2 thai chiles*</div>
+<div id="ingredientone"><img src="/images/ingredients/avocado.png"/>2 avocados</div>
+<div id="ingredienttwo"><img src="/images/ingredients/2garlic.png"/>2 garlic cloves</div>
+<div id="ingredientthree"><img src="/images/ingredients/cilantro.png"/>1/4 bunch cilantro</div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Los-Chileros-Organic-Chipotle-Package/dp/B00DIX9E3A/ref=as_li_ss_tl?ie=UTF8&qid=1481596889&sr=8-1&keywords=dried+chipotle+pepper&th=1&linkCode=ll1&tag=cilalime09-20&linkId=0458b689f247ea4baaafdb5f84085ce8"><img src="/images/ingredients/chipotlepepper.png"/>1 chipotle pepper</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href=""><img src="/images/ingredients/basmati.png"/>1/2 cup basmati rice</a></div>
-<div id="ingredienttwo"><a href=""><img src="/images/ingredients/garammasala.png"/>1/2 tsp garam masala</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/ingredients/groundcumin.png"><img src="/images/ingredients/groundcumin.png"/>1/2 tsp ground cumin</a></div>
-<div id="ingredientfour"><a href="">1/2 tsp ground cumin</a></div>
+<div id="ingredientone"><a href="https://www.amazon.com/Ancho-Mexican-Whole-Chile-Resealable/dp/B01AYGHAG6/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1481597794&sr=8-5&keywords=pasilla+pepper&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c90a3eb34ee3b8948d009827a7e3e73e"><img src="/images/ingredients/pasillapepper.png"/>1 pasilla pepper</a></div>
 </div>
 </ul
 
