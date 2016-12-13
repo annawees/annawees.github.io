@@ -68,6 +68,11 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 </div>
 </ul
 
+<div id="equipment">
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=b006520d939a82b80abca523f804e092"><img src="/images/equipment/stockpot.png"/> stockpot, between 3-5 qt. </a></div>
+<div id="equipmenttwo"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=sr_1_5?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85%3A2470955011"><img src="/images/equipment/bakingsheet.png"/>baking sheet</a></div>
+</div>
+
 <div id="preparation">
 <h1>Preparation</h1>
 </div>
@@ -75,7 +80,7 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 <ul>
 <div id="instruction">
 <div id="image"><img src="/images/saagpaneer/saagpaneer1.png"/> </div>
-<div id="step"> Slice the onion into 1" slices. </div>
+<div id="step"> Fill the stop with water and place on high heat to boil. <p> Move one of the oven racks Place the tomatoes on a sheet pan or roating pan ans </div>
 </div>
 
 <div id="instruction">
@@ -171,6 +176,13 @@ Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards.
 #ingredienttwo { width: 20%; float:left; margin-left: 5%;}
 #ingredientthree { width:20%; float:left; margin-left: 5%;}
 #ingredientfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#equipment { width: 95%; display:inline-block;}
+#equipmentone { width: 20%; float:left;}
+#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
+#equipmentthree { width:20%; float:left; margin-left: 5%;}
+#equipmentfour { width:20%; float:left; margin-left: 5%;}
 .clear {clear:both;}
 
 #preparation { margin-top: 150px; margin-bottom: 50px;}
