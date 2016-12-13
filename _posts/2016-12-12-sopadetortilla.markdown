@@ -11,7 +11,7 @@ tags: [mexican, chicken, chicken breast, soup]
   </video>
 </div>
 
-Origin in Tlaxcala. Fusion of prehispanic native cultures with the Spaniards. 
+From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican and Tex-Mex kitchens. *Caldo de pollo*, chicken stock builds complexity with roasted tomatoes, pasilla, and chipotle peppers. Crisp tortillas, melted queso de chihuaha, fresh cilantro and silky avocados accent this falvorful broth and deliver a complexity in textures, and contrast in flavors.
 
 <div id= "recipedetails">
 <div id= "time"> Time </div>
