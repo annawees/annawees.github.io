@@ -141,9 +141,9 @@ Cozy up with this classic French dish. Tender bites of lamb, bacon, Westphalia s
 .clear {clear:both;}
 
 #recipenumbers {width: 90%; display:inline-block; float: left; margin-left: 5%;}
-#time { width: 26%; float: left;}
-#skill { width: 26%; float: left; margin-left: 2%;}
-#spice { width: 16%; float: left; margin-left: 2%;}
+#time { width: 16%; float: left;}
+#skill { width: 31%; float: left; margin-left: 2%;}
+#spice { width: 21%; float: left; margin-left: 2%;}
 #serves { width 16%; float: left; margin-left: 2%;}
 .clear {clear:both;}
 
