@@ -72,9 +72,7 @@ Cozy up with this classic French dish. Tender bites of lamb, bacon, Westphalia s
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=b006520d939a82b80abca523f804e092"><img src="/images/equipment/stockpot.png"/> stockpot, between 3-5 qt. </a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=sr_1_5?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85%3A2470955011"><img src="/images/equipment/bakingsheet.png"/>baking sheet</a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/equipment/blender.png"/> blender </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=b006520d939a82b80abca523f804e092"><img src="/images/equipment/stockpot.png"/> oven safe stockpot, between 3-5 qt. </a></div>
 </div>
 
 <div id="preparation">
@@ -82,18 +80,18 @@ Cozy up with this classic French dish. Tender bites of lamb, bacon, Westphalia s
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla1.jpeg"/> </div>
-<div id="step"> Fill the stockpot with water and place on high heat to boil. <p> Move one of the oven racks to the upper third of the oven and set the oven to broil. Place the tomatoes on a a sheet pan and cook until the tomatoes char (about 20 minutes).</p></div>
+<div id="image"><img src="/images/cassoulet1.jpeg"/> </div>
+<div id="step">Slice the shallots, carrots, and celery.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla2.jpeg"/> </div>
-<div id="step">Once the water begins to boil, add the chicken breast to the pot. Reduce the heat to medium high and simmer unil the chicken is cooke all the way through, and the fibers of the muscle begin to seperate. This will take approx. 10 minutes. </div>
+<div id="image"><img src="/images/cassoulet2.jpeg"/> </div>
+<div id="step">Dice the bacon and then slice the sausage into 1" slices.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla3.jpeg"/> </div>
-<div id="step">Transfer the cooked chicken to a plate or shallow bowl and shred the meat with two forks. <p><i>Do not discard the cooking liquid as you'll need it later.</i></p></div>
+<div id="image"><img src="/images/cassoulet3.jpeg"/> </div>
+<div id="step">Preheat the oven to 450˚. <p>Set the stockpot on medium heat. Once the pan is hot, add the bacon and sausage and sauté until the fat has rendered from the meat and the exterior is brown.</p></div>
 </div>
 
 <div id="instruction">
