@@ -23,7 +23,7 @@ In this bright, flavorful dish from the Italian coast; pancetta, pine nuts, and 
 
 <div id= "recipenumbers">
 <div id= "time"><h3> 25 Minutes</h3> </div>
-<div id= "skill"><h3> Intermediate</h3> </div>
+<div id= "skill"><h3>Beginner</h3> </div>
 <div id= "spice"><h3> Mild</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
@@ -75,43 +75,53 @@ In this bright, flavorful dish from the Italian coast; pancetta, pine nuts, and 
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cassoulet1.jpeg"/> </div>
-<div id="step">Slice the shallots, carrots, and celery.</div>
+<div id="image"><img src="/images/gamberialrosmarino1.jpeg"/> </div>
+<div id="step">Remove the leaves of rosemary from their stems. Finely chop the parsley, and garlic.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cassoulet2.jpeg"/> </div>
-<div id="step">Dice the bacon and then slice the sausage into 1" slices.</div>
+<div id="image"><img src="/images/gamberialrosmarino2.jpeg"/> </div>
+<div id="step">Place the herbs in a bowl with 1/4 c of olive oil, 1/4 tsp of salt. Coat the shrimp in the herbs and place in the fridge to marinatte for 10 minutes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cassoulet3.jpeg"/> </div>
-<div id="step">Preheat the oven to 450˚. <p>Set the stockpot on medium heat. Once the pan is hot, add the bacon and sausage and sauté until the fat has rendered from the meat and the exterior is brown.</p></div>
+<div id="image"><img src="/images/gamberialrosmarino3.jpeg"/> </div>
+<div id="step">Peel the zucchinis into long ribbons by running a vegetable peeler lengthwise across the vegetable. <p><i>Tip: lay the zucchini flat on the cutting board for more leverage.</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cassoulet4.jpeg"/> </div>
-<div id="step">	Add the lamb and sauté for an additional three minutes to brown the exterior. <p>Transfer the meat to a plate for later use, leaving any rendered fat in the pan.</p></div>
+<div id="image"><img src="/images/gamberialrosmarino4.jpeg"/> </div>
+<div id="step">	Quarter the tomatoes</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cassoulet5.jpeg"/> </div>
-<div id="step">Add the shallots, carrots, celery and garlic cloves to the pot and saute until the garlic is caramelized and the vegetables are tender.</div>
+<div id="image"><img src="/images/gamberialrosmarino5.jpeg"/> </div>
+<div id="step">Dice the pancetta</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cassoulet6.jpeg"/> </div>
-<div id="step">Add the meat back to the pan along with the wine, 1 1/2 c water, thyme, rosemary, butter beans and 1/2 tsp of salt. <p> Move the stockpot into the oven and cook for 35 minutes.</p></div>
+<div id="image"><img src="/images/gamberialrosmarino6.jpeg"/> </div>
+<div id="step">Heat a large skillet on medium heat. Once the skillet is hott, add the pancetta until it turns crisp and the fat has rendered out. Remove the pancetta from the skillet, and transfer it to a plate. <p> Leave the rendered fat in the pan as you'll need it in the next step </p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cassoulet7.jpeg"/> </div>
-<div id="step">When the cassoulet has finished the liquid will have mostly evaporated, the meat and vegetables will be tender. </div>
+<div id="image"><img src="/images/gamberialrosmarino7.jpeg"/> </div>
+<div id="step">Add the shredded zucchini to the hot skillet and cook until the zucchini ribbons have started to change from bright white to a soft yellow, and the zucchini begins to sweat. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cassoulet8.jpeg"/> </div>
-<div id="step">Plate the cassoulet.</div>
+<div id="image"><img src="/images/gamberialrosmarino8.jpeg"/> </div>
+<div id="step">Add the tomatoes, and cook until the tomatoes become soft. Approximately 3 minutes. Once the tomato and zucchini has cooked down and is tender, set them aside for plating.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/gamberialrosmarino9.jpeg"/> </div>
+<div id="step"><i>While the zucchini and tomatoes are cooking, cook the shrimp </i> Coat a skillet with olive oil and place on high heat. Once the olive oil is hot, add the marinated shrimp and the pine nuts. Sauté the shrimp until they have turned from translucent to opaque, and have curled up into "Cs". Remove shrimp from heat.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/gamberialrosmarino10.jpeg"/> </div>
+<div id="step">Plate the zucchini and tomatoes with shrimp. Top with the crisp pancetta.</div>
 </div>
 
 <style>
