@@ -95,28 +95,28 @@ Cozy up with this classic French dish. Tender bites of lamb, bacon, Westphalia s
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla4.jpeg"/> </div>
-<div id="step">	Transfer the roasted tomatoes, garlic, pasilla, chipotle, 1 cup of water, and 1 tsp of salt to a blender. Puree until the dried chiles have broken up and the mixture is uniform.
-<p><i> Note that the contents of the blender will be hot. Hold the lid of the blender in place to prevent any spills.</i></p></div>
-
-<div id="instruction">
-<div id="image"><img src="/images/sopadetortilla5.jpeg"/> </div>
-<div id="step"> Add the blended tomatoes and shredded to the cooking liquid. Let the soup simmer for 20 minutes on medium heat.</div>
+<div id="image"><img src="/images/cassoulet4.jpeg"/> </div>
+<div id="step">	Add the lamb and sauté for an additional three minutes to brown the exterior. <p>Transfer the meat to a plate for later use, leaving any rendered fat in the pan.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla6.jpeg"/> </div>
-<div id="step"><i>While the soup simmers, prep the toppings.</i><p> Set the oven to 425˚. Cut the tortillas into 1/4" strips. Place the tortillas on a baking sheet and toss with a tbsp of olive oil. Place the tortillas in the upper third of the oven. Roast the tortillas until browned, check on them every 3 minutes to rotate the contents. </p></div>
+<div id="image"><img src="/images/cassoulet5.jpeg"/> </div>
+<div id="step">Add the shallots, carrots, celery and garlic cloves to the pot and saute until the garlic is caramelized and the vegetables are tender.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla7.jpeg"/> </div>
-<div id="step">Pull the queso chihuaha into fine strings, remove the cilantro leaves from the stems, and slice the avocados. </div>
+<div id="image"><img src="/images/cassoulet6.jpeg"/> </div>
+<div id="step">Add the meat back to the pan along with the wine, 1 1/2 c water, thyme, rosemary, butter beans and 1/2 tsp of salt. <p> Move the stockpot into the oven and cook for 35 minutes.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla8.jpeg"/> </div>
-<div id="step">Place the queso chihuaha and tortilla strips at the bottom of the bowl. Ladle the the soup over the tortillas. Accent the soup with the sliced avocados and cilantro leaves.</div>
+<div id="image"><img src="/images/cassoulet7.jpeg"/> </div>
+<div id="step">When the cassoulet has finished the liquid will have mostly evaporated, the meat and vegetables will be tender. </div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/cassoulet8.jpeg"/> </div>
+<div id="step">Plate the cassoulet.</div>
 </div>
 
 <style>
