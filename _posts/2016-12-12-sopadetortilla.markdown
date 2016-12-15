@@ -6,7 +6,7 @@ thumbnail: ""
 tags: [mexican, chicken, chicken breast, soup]
 ---
 <div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video" poster="/images/sopadetortilla.jpg">
+  <video autoplay loop muted class="banner__video" poster="/images/sopadetortilla8.jpeg">
   <source src="/images/SopadeTortilla.mp4" type="video/mp4"></video>
   <div class="overlay"> <h1> Sopa de Tortilla </h1></div>
 </div>
