@@ -9,6 +9,7 @@ tags: [mexican, chicken, chicken breast, soup]
   <video autoplay loop muted class="banner__video" poster="/images/sopadetortilla.jpg">
     <source src="/images/SopadeTortilla.mp4" type="video/mp4">
   </video>
+  <div class="overlay"> <h1> Sopa de Tortilla </h1></div>
 </div>
 
 From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican and Tex-Mex kitchens. *Caldo de pollo*, chicken stock builds complexity with roasted tomatoes, pasilla, and chipotle peppers. Crisp tortillas, melted queso de chihuaha, fresh cilantro and silky avocados accent this falvorful broth and deliver a complexity in textures, and contrast in flavors.
@@ -124,10 +125,17 @@ From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican an
 .h1 {margin-top: 100px;
 }
 
-.banner {
-}
+#banner { position:relative; }
 
-.banner__video {
+#banner video {
+    position:relative;
+    z-index:0;
+}
+#overlay {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:1;
 }
 
 #recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
