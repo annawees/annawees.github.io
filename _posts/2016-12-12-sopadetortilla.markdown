@@ -80,42 +80,42 @@ From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican an
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla/sopadetortilla1.png"/> </div>
+<div id="image"><img src="/images/sopadetortilla1.jpeg"/> </div>
 <div id="step"> Fill the stop with water and place on high heat to boil. <p> Move one of the oven racks to the upper third of the oven and set the oven to broil. Place the tomatoes on a a sheet pan and cook until the tomatoes char (about 20 minutes).</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla/sopadetortilla2.png"/> </div>
+<div id="image"><img src="/images/sopadetortilla2.jpeg"/> </div>
 <div id="step">Once the water begins to boil, add the chicken breast to the pot. Reduce the heat to medium high and simmer unil the chicken is cooke all the way through, and the fibers of the muscle begin to seperate. This will take approx. 10 minutes. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla/sopadetortilla3.png"/> </div>
+<div id="image"><img src="/images/sopadetortilla3.jpeg"/> </div>
 <div id="step">Transfer the cooked chicken to a plate or shallow bowl and shred the meat with two forks. <p><i>Do not discard the cooking liquid as you'll need it later.</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla/sopadetortilla4.png"/> </div>
+<div id="image"><img src="/images/sopadetortilla4.jpeg"/> </div>
 <div id="step">	Transfer the roasted tomatoes, garlic, pasilla, chipotle, 1 cup of water, and 1 tsp of salt to a blender. Puree until the dried chiles have broken up and the mixture is uniform.
 <p><i> Note that the contents of the blender will be hot. Hold the lid of the blender in place to prevent any spills.</i></p></div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla/sopadetortilla5.png"/> </div>
+<div id="image"><img src="/images/sopadetortilla5.jpeg"/> </div>
 <div id="step"> Add the blended tomatoes and shredded to the cooking liquid. Let the soup simmer for 20 minutes on medium heat.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla/sopadetortilla6.png"/> </div>
+<div id="image"><img src="/images/sopadetortilla6.jpeg"/> </div>
 <div id="step"><i>While the soup simmers, prep the toppings.</i><p> Set the oven to 425˚. Cut the tortillas into 1/4" strips. Place the tortillas on a baking sheet and toss with a tbsp of olive oil. Place the tortillas in the upper third of the oven. Roast the tortillas until browned, check on them every 3 minutes to rotate the contents. </p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla/sopadetortilla7.png"/> </div>
+<div id="image"><img src="/images/sopadetortilla7.jpeg"/> </div>
 <div id="step">Pull the queso chihuaha into fine strings, remove the cilantro leaves from the stems, and slice the avocados. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla/sopadetortilla8.png"/> </div>
+<div id="image"><img src="/images/sopadetortilla8.png"/> </div>
 <div id="step">Place the queso chihuaha and tortilla strips at the bottom of the bowl. Ladle the the soup over the tortillas. Accent the soup with the sliced avocados and cilantro leaves.</div>
 </div>
 
