@@ -11,6 +11,8 @@ tags: [french, provence, lamb, sausage, bacon, one pot]
   <div class="overlay"> <h1> Cassoulet </h1></div>
 </div>
 
+Cozy up with this classic French dish. Tender bites of lamb, bacon, Westphalia sausage, and beans are braised in white wine, rosemary, and thyme.
+
 <div id= "recipedetails">
 <div id= "time"> Time </div>
 <div id= "skill"> Skill </div>
@@ -21,8 +23,8 @@ tags: [french, provence, lamb, sausage, bacon, one pot]
 <div id= "recipenumbers">
 <div id= "time"><h3> 1 hour</h3> </div>
 <div id= "skill"><h3> Intermediate</h3> </div>
-<div id= "spice"><h3> Hot</h3> </div>
-<div id= "serves"><h3> Two to Three</h3> </div>
+<div id= "spice"><h3> Mild</h3> </div>
+<div id= "serves"><h3> Two </h3> </div>
 </div>
 
 <div id= "nutritiondetails">
@@ -34,11 +36,11 @@ tags: [french, provence, lamb, sausage, bacon, one pot]
 </div>
 
 <div id= "nutritionnumbers">
-<div id="calories"><h3> 520</h3> </div>
-<div id="carbs"><h3> 50g</h3> </div>
-<div id="fiber"><h3> 9g</h3> </div>
-<div id="fat"><h3> 23g</h3> </div>
-<div id="protein"><h3> 32g</h3> </div>
+<div id="calories"><h3> 620</h3> </div>
+<div id="carbs"><h3> 46g</h3> </div>
+<div id="fiber"><h3> 6g</h3> </div>
+<div id="fat"><h3> 24g</h3> </div>
+<div id="protein"><h3> 46g</h3> </div>
 </div>
 
 <div id= "ingredienthdr">
