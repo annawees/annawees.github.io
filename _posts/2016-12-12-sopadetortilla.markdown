@@ -5,7 +5,7 @@ category: recipe
 thumbnail: ""
 tags: [mexican, chicken, chicken breast, soup]
 ---
-<div class="banner">
+<div class="backgroundvideo">
   <video autoplay loop muted class="banner__video" poster="/images/sopadetortilla.jpg">
   <source src="/images/SopadeTortilla.mp4" type="video/mp4"></video>
   <div class="overlay"> <h1> Sopa de Tortilla </h1></div>
@@ -120,7 +120,7 @@ From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican an
 </div>
 
 <style>
-#banner {
+#backgroundvideo {
   position: relative; }
   
 #banner__video {
