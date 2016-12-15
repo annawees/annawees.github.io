@@ -127,7 +127,7 @@ From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican an
 
 #banner { position:relative; }
 
-#banner video {
+#banner__video {
     position:relative;
 }
 
