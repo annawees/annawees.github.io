@@ -48,21 +48,23 @@ Cozy up with this classic French dish. Tender bites of lamb, bacon, Westphalia s
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ingredients/onechickenbreast.png"/>1 chicken breast </div>
-<div id="ingredienttwo"><img src="/images/ingredients/camparitomatoes.png"/>1 lb campari tomatoes</div>
-<div id="ingredientthree"><img src="/images/ingredients/quesochihuahua.png"/>3 oz queso Chihuahua</div>
-<div id="ingredientfour"><img src="/images/ingredients/corntortillas.png"/>6 corn tortillas</div>
+<div id="ingredientone"><img src="/images/lambstewmeat.png"/>1/3 lb lamb stew meat </div>
+<div id="ingredienttwo"><img src="/images/sausage.png"/>1 link mild, sweet sausage</div>
+<div id="ingredientthree"><img src="/images/2bacon.png"/>2 slices bacon</div>
+<div id="ingredientfour"><img src="/images/butterbeans.png"/>1 1/2 c fresh or frozen butter beans</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ingredients/avocado.png"/>2 avocados</div>
-<div id="ingredienttwo"><img src="/images/ingredients/2garlic.png"/>2 garlic cloves</div>
-<div id="ingredientthree"><img src="/images/ingredients/cilantro.png"/>1/4 bunch cilantro</div>
-<div id="ingredientfour"><a href="https://www.amazon.com/Los-Chileros-Organic-Chipotle-Package/dp/B00DIX9E3A/ref=as_li_ss_tl?ie=UTF8&qid=1481596889&sr=8-1&keywords=dried+chipotle+pepper&th=1&linkCode=ll1&tag=cilalime09-20&linkId=0458b689f247ea4baaafdb5f84085ce8"><img src="/images/ingredients/chipotlepepper.png"/>1 chipotle pepper</a></div>
+<div id="ingredientone"><img src="/images/3shallos.png"/>3 shallos</div>
+<div id="ingredienttwo"><img src="/images/3garlic.png"/>3 garlic cloves</div>
+<div id="ingredientthree"><img src="/images/2carrots.png"/>2 carrots</div>
+<div id="ingredientfour"><img src="/images/2celery.png"/>2 celery sticks</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/Ancho-Mexican-Whole-Chile-Resealable/dp/B01AYGHAG6/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1481597794&sr=8-5&keywords=pasilla+pepper&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c90a3eb34ee3b8948d009827a7e3e73e"><img src="/images/ingredients/pasillapepper.png"/>1 pasilla pepper</a></div>
+<div id="ingredientone"><img src="/images/ingredients/thyme.png"/>1 sprig thyme</div>
+<div id="ingredienttwo"><img src="/images/ingredients/rosemary.png"/>1 sprig rosemary</div>
+<div id="ingredientthree"><img src="/images/ingredients/whitewine.png"/>1/2 cup French white wine (ex. White Bordeaux, White Burgundy)</div>
 </div>
 
 <div id= "equipmenthdr">
