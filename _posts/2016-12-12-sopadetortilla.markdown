@@ -81,7 +81,7 @@ From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican an
 
 <div id="instruction">
 <div id="image"><img src="/images/sopadetortilla1.jpeg"/> </div>
-<div id="step"> Fill the stop with water and place on high heat to boil. <p> Move one of the oven racks to the upper third of the oven and set the oven to broil. Place the tomatoes on a a sheet pan and cook until the tomatoes char (about 20 minutes).</p></div>
+<div id="step"> Fill the stockpot with water and place on high heat to boil. <p> Move one of the oven racks to the upper third of the oven and set the oven to broil. Place the tomatoes on a a sheet pan and cook until the tomatoes char (about 20 minutes).</p></div>
 </div>
 
 <div id="instruction">
