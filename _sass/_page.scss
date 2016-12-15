@@ -191,6 +191,71 @@
   }
 }
 
+.h1 {margin-top: 100px;
+}
+
+.banner {
+}
+
+.banner__video {
+}
+
+#recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
+#time { width: 26%; float: left;}
+#skill { width: 26%; float: left; margin-left: 2%;}
+#spice { width: 16%; float: left; margin-left: 2%;}
+#serves { width 16%; float: left; margin-left: 2%;}
+.clear {clear:both;}
+
+#recipenumbers {width: 90%; display:inline-block; float: left; margin-left: 5%;}
+#time { width: 26%; float: left;}
+#skill { width: 26%; float: left; margin-left: 2%;}
+#spice { width: 16%; float: left; margin-left: 2%;}
+#serves { width 16%; float: left; margin-left: 2%;}
+.clear {clear:both;}
+
+#nutritiondetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
+#calories { width: 18%; float: left;}
+#carbs { width: 18%; float: left; margin-left: 0%;}
+#fiber { width: 18%; float: left; margin-left: 0%;}
+#fat { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-left: 0%;}
+.clear {clear:both;}
+
+#nutritionnumbers { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-bottom: 100px;}
+#calories { width: 18%; float: left;}
+#carbs { width: 18%; float: left; margin-left: 0%;}
+#fiber { width: 18%; float: left; margin-left: 0%;}
+#fat { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-left: 0%;}
+.clear {clear:both;}
+
+#ingredienthdr { margin-top:200px; margin-bottom:50px;}
+
+#ingredients { width: 95%; display:inline-block;}
+#ingredientone { width: 20%; float:left;}
+#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
+#ingredientthree { width:20%; float:left; margin-left: 5%;}
+#ingredientfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#equipmenthdr { margin-top:200px; margin-bottom:50px;}
+
+#equipment { width: 95%; display:inline-block;}
+#equipmentone { width: 20%; float:left;}
+#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
+#equipmentthree { width:20%; float:left; margin-left: 5%;}
+#equipmentfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#preparation { margin-top: 150px; margin-bottom: 50px;}
+
+#instruction { width:95%; display:inline-block;}
+#image { width: 40%; float:left;}
+#step { width: 40%; float:right; margin-top: 30px; margin-bottom: 30px;}
+.clear {clear:both;}`
+
+
 /*
    Social sharing
    ========================================================================== */
