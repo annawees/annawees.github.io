@@ -2,7 +2,7 @@
 layout: single
 title: Sopa de Tortilla
 category: recipe
-thumbnail: ""
+thumbnail: "/images/sopadetortilla8.jpeg"
 tags: [mexican, chicken, chicken breast, soup]
 ---
 <div class="backgroundvideo">
@@ -115,7 +115,7 @@ From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican an
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sopadetortilla8.png"/> </div>
+<div id="image"><img src="/images/sopadetortilla8.jpeg"/> </div>
 <div id="step">Place the queso chihuaha and tortilla strips at the bottom of the bowl. Ladle the the soup over the tortillas. Accent the soup with the sliced avocados and cilantro leaves.</div>
 </div>
 
@@ -129,6 +129,7 @@ From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican an
 
 #overlay {
    position: absolute; 
+   margin-top: 300px;
    z-index: 10; }
 
 #recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
