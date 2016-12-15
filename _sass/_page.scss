@@ -44,7 +44,7 @@
 }
 
 .page__lead {
-  font-family: $global-font-family;
+  font-family: $serif;
   font-size: $type-size-4;
 }
 
@@ -52,6 +52,7 @@
 
   h2 {
     padding-bottom: 0.5em;
+    font-family: $serif;
     border-bottom: 1px solid $border-color;
   }
 
@@ -151,6 +152,7 @@
     }
 
     .page__title {
+       font-family: $serif;
       font-size: $type-size-2;
 
       @include breakpoint($small) {
