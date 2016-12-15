@@ -36,11 +36,11 @@ From the state of Tlaxcala in Mexico, Sopa de Tortilla is a staple in Mexican an
 </div>
 
 <div id= "nutritionnumbers">
-<div id="calories"><h3> 590</h3> </div>
-<div id="carbs"><h3> 11g</h3> </div>
+<div id="calories"><h3> 520</h3> </div>
+<div id="carbs"><h3> 50g</h3> </div>
 <div id="fiber"><h3> 9g</h3> </div>
-<div id="fat"><h3> 28g</h3> </div>
-<div id="protein"><h3> 49g</h3> </div>
+<div id="fat"><h3> 23g</h3> </div>
+<div id="protein"><h3> 32g</h3> </div>
 </div>
 
 <div id= "ingredienthdr">
