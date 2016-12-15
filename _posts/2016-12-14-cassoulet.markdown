@@ -6,7 +6,7 @@ thumbnail: ""
 tags: [french, provence, lamb, sausage, bacon, one pot]
 ---
 <div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video" poster="/images/sopadetortilla8.jpeg">
+  <video autoplay loop muted class="banner__video" poster="">
     <source src="" type="video/mp4"></video>
   <div class="overlay"> <h1> Cassoulet </h1></div>
 </div>
