@@ -59,7 +59,7 @@ In this bright, flavorful dish from the Italian coast; pancetta, pine nuts, and 
 <div id="ingredientone"><img src="/images/parsley.png"/>1/4 bunch parsley</div>
 <div id="ingredienttwo"><img src="/images/3garlic.png"/>3 garlic cloves</div>
 <div id="ingredientthree"><img src="/images/rosemary.png"/>1 sprig rosemary</div>
-<div id="ingredientfour"><img src="/images/pinenuts.png"/>2 tbsp pine nuts</div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Food-Live-Pine-Pignolias-Ounces/dp/B00KO8A68Y/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1481913528&sr=8-13&keywords=pine+nuts&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=be323856844f4eecd47f866b2e132aeb"><img src="/images/pinenuts.png"/>2 tbsp pine nuts</a></div>
 </div>
 
 <div id= "equipmenthdr">
