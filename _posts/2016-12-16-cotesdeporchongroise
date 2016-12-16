@@ -62,7 +62,7 @@ Rich vermouth, cream, and dijon sauce enrich the simplicity of pork chops, haric
 </div>
 
 <div id="ingredients">
-<div id="ingredientfour"><a href="https://www.amazon.com/Simply-Organic-Paprika-Certified-Container/dp/B00269YPB8/ref=as_li_ss_tl?ie=UTF8&qid=1481914778&sr=8-1&keywords=organic+paprika&th=1&linkCode=ll1&tag=cilalime09-20&linkId=bbefe1b15ddd5e5edbb8bf3588d5d23b"><img src="/images/paprika.png"/>2 tbsp paprika</a></div>
+<div id="ingredientone"><a href="https://www.amazon.com/Simply-Organic-Paprika-Certified-Container/dp/B00269YPB8/ref=as_li_ss_tl?ie=UTF8&qid=1481914778&sr=8-1&keywords=organic+paprika&th=1&linkCode=ll1&tag=cilalime09-20&linkId=bbefe1b15ddd5e5edbb8bf3588d5d23b"><img src="/images/paprika.png"/>2 tbsp paprika</a></div>
 </div>
 
 <div id= "equipmenthdr">
@@ -70,7 +70,10 @@ Rich vermouth, cream, and dijon sauce enrich the simplicity of pork chops, haric
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B0000DE824/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481814330&sr=1-7&keywords=vegetable+peeler&th=1&linkCode=ll1&tag=cilalime09-20&linkId=2fc82cf8497ed0ceda3796ce68033b14"><img src="/images/vegetablepeeler.jpg"/> vegetable peeler </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpg"/>stockpot</a></div>
+<div id="equipmenttwo"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpg"/>colander</a></div>
+<div id="equipmentthree"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpg"/>baking sheet</a></div>
+<div id="equipmentfour"><a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B0000DE824/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481814330&sr=1-7&keywords=vegetable+peeler&th=1&linkCode=ll1&tag=cilalime09-20&linkId=2fc82cf8497ed0ceda3796ce68033b14"><img src="/images/vegetablepeeler.jpg"/> vegetable peeler </a></div>
 </div>
 
 <div id="preparation">
