@@ -22,7 +22,7 @@ Rich vermouth, cream, and dijon sauce enrich the simplicity of pork chops, haric
 
 <div id= "recipenumbers">
 <div id= "time"><h3> 45 Minutes</h3> </div>
-<div id= "skill"><h3>Mild</h3> </div>
+<div id= "skill"><h3>Intermediate</h3> </div>
 <div id= "spice"><h3> Mild</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
