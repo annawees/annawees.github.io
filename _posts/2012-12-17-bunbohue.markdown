@@ -5,9 +5,7 @@ category: recipe
 thumbnail: ""
 tags: [vietnamese, beef, flank steak, soup]
 ---
-<div class="backgroundvideo"
-  <video autoplay loop muted class="banner__video" poster=""
-    <source src="" type="video/mp4"></video>
+<div class="backgroundvideo">
   <div class="overlay"> <h1> BÚN BÒ HUÊ </h1></div>
 </div>
 
