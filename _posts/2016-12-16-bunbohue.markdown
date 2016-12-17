@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Bún bò Huế
+title: Bún bò Huê
 category: recipe
 thumbnail: ""
 tags: [vietnamese, beef, flank steak, soup]
@@ -60,8 +60,13 @@ A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and 
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/Simply-Organic-Paprika-Certified-Container/dp/B00269YPB8/ref=as_li_ss_tl?ie=UTF8&qid=1481914778&sr=8-1&keywords=organic+paprika&th=1&linkCode=ll1&tag=cilalime09-20&linkId=bbefe1b15ddd5e5edbb8bf3588d5d23b"><img src="/images/paprika.png"/>2 tbsp paprika</a></div>
+<div id="ingredientone"><a href="https://www.amazon.com/Savory-Choice-Liquid-Concentrate-5-1-Ounce/dp/B0082AWRRE/ref=as_li_ss_tl?_encoding=UTF8&refRID=82HSPJ272H2HHKY60DWF&th=1&linkCode=ll1&tag=cilalime09-20&linkId=f3264305a9bf33930dda8bba9ae18898"><img src="/images/beefstock.png"/>1 pint beef stock</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Stick-Noodles-Royal-Elephant-brand/dp/B017H0LGIU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481942140&sr=1-3&keywords=flat+rice+noodles&linkCode=ll1&tag=cilalime09-20&linkId=c4827b143486f11fc2fd67c545a2ec7f"><img src="/images/flatricenoodles.png"/>4 oz flat rice noodles</a></div>
+<div id="ingredientthree"><img src="/images/pepperflakes.png"/>2 tsp red pepper flakes</div>
+<div id="ingredientfour"><img src="/images/lime.png"/>1 lime</div>
 </div>
+
+
 
 <div id= "equipmenthdr">
 <h1>Equipment</h1>
