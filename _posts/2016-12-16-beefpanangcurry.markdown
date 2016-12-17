@@ -82,9 +82,8 @@ This rich Thai curry explodes with the heat of the Carolina Reaper, Ghost Chile,
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpg"/>stockpot</a></div>
+<div id="equipmentone"><a href=""><img src="/images/blender.jpg"/>blender</a></div>
 <div id="equipmenttwo"><a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?ie=UTF8&qid=1481946192&sr=8-3&keywords=microplane+fine+grater&linkCode=ll1&tag=cilalime09-20&linkId=bb041caf65081d4a889796b169ef7407"><img src="/images/finegrater.jpg"/>fine grater</a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Shun-DM0705-Classic-9-Inch-Bread/dp/B0007D6GS0/ref=as_li_ss_tl?ie=UTF8&qid=1481946082&sr=8-2&keywords=shun+serrated+knife&linkCode=ll1&tag=cilalime09-20&linkId=26d95c69082300abf0fbd403f696b075"><img src="/images/serratedknife.jpg"/>serrated knife</a></div>
 </div>
 
 <div id="preparation">
@@ -92,43 +91,43 @@ This rich Thai curry explodes with the heat of the Carolina Reaper, Ghost Chile,
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/bunbohue1.jpeg"/> </div>
-<div id="step">Finely slice the shallots.<p>Finely dice the garlic.</p></div>
+<div id="image"><img src="/images/beefpanangcurry1.jpeg"/> </div>
+<div id="step">Set a saucepan with a lid on high heat with 3/4 c of water and 1/2 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish the rice with your hand until the water turns cloudy. Empty the cloudy water, add fresh water and swish again and empty. repeat once more.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/bunbohue2.jpeg"/> </div>
-<div id="step">Coat the bottom of a stockpot with sesame oil and place on medium heat. Once the oil is hot add the anatto and red pepper flakes. Sauté until the spices have toasted, approx. 1 minute.</div>
+<div id="image"><img src="/images/beefpanangcurry2.jpeg"/> </div>
+<div id="step">Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/bunbohue3.jpeg"/> </div>
-<div id="step">Add the garlic and shallots. Sauté until the shallots have softened. .</div>
+<div id="image"><img src="/images/beefpanangcurry3.jpeg"/> </div>
+<div id="step">Make the curry paste. Cut the onion into smaller pieces and place in a blender with the lemongrass, kaffir lime leaves, chiles, peanuts, coriander seeds, cumin seeds, garlic, ginger, peppercorns and 1/2 c of water in a blender. Grate the zest of the lime into the blender.<p>Puree until smooth.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/bunbohue4.jpeg"/> </div>
-<div id="step">Add 6 cups of water to the stockpot along with the beef stock concentrate, fish sauce, and lemongrass. Grate the ginger into the pot. Raise the heat to high.<p>Once the broth begins to boil add the noodles and reduce the heat to medium. Cook for 7 minutes. </p></div>
+<div id="image"><img src="/images/beefpanangcurry4.jpeg"/> </div>
+<div id="step">Cut the steak into 1/2-1" cubes. Eliminate any excess fat from the beef.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/bunbohue5.jpeg"/> </div>
-<div id="step"><i>While the noodles cook, prepare the steak.</i><p>Use a serrated knife to slice the flank steak into wafer thin pieces.</p></div>
+<div id="image"><img src="/images/beefpanangcurry5.jpeg"/> </div>
+<div id="step">Coat the bottom of a large skillet or stockpot with oil, and set on medium high heat. When the oil is hot add the beef and sauté.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/bunbohue6.jpeg"/> </div>
-<div id="step">Add the sliced flank to the broth. Once the meat has turned from bright red to brown, it's ready for plating.</div>
+<div id="image"><img src="/images/beefpanangcurry6.jpeg"/> </div>
+<div id="step">Once the meat begins to brown, add the curry paste, and continue stirring until the beef is coated.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/bunbohue7.jpeg"/> </div>
-<div id="step">Remove the basil leaves from the stems. Quarter the lime.</div>
+<div id="image"><img src="/images/beefpanangcurry7.jpeg"/> </div>
+<div id="step">Add the fish sauce, coconut milk, and 1/4 a cup of water to the pan. Reduce the heat to medium low and let the sauce reduce for 10 minutes</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/bunbohue8.jpeg"/> </div>
-<div id="step">Place the bean sprouts at the bottom of the bowls. Ladle the broth, meat, and noodles into the bowl.Accent with the basil leaves. Serve with lime and sambal olek.</div>
+<div id="image"><img src="/images/beefpanangcurry8.jpeg"/> </div>
+<div id="step">Once the curry has reduced, plate it with the jasmine rice. Sauce the plate generously and top with basil leaves</div>
 </div>
 
 <style>
