@@ -92,54 +92,38 @@ A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and 
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise2.jpeg"/> </div>
-<div id="step">Place the potatoes on a baking sheet or roasting pan. Toss the potatoes in olive oil and a 1/4 tsp of salt. Move the potatoes into the middle rack of the oven, and roast for 25 minutes.</div>
+<div id="image"><img src="/images/bunbohue2.jpeg"/> </div>
+<div id="step">Coat the bottom of a stockpot with sesame oil and place on medium heat. Once the oil is hot add the anatto and red pepper flakes. Sauté until the spices have toasted, approx. 1 minute.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise3.jpeg"/> </div>
-<div id="step">Slice the shallots finely.</div>
+<div id="image"><img src="/images/bunbohue3.jpeg"/> </div>
+<div id="step">Add the garlic and shallots. Sauté until the shallots have softened. .</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise4.jpeg"/> </div>
-<div id="step">Mix the paprika with a 1/4 tsp salt in a shallow bowl or on a plate. Toss the pork chops in the mixture so they are coated.</div>
+<div id="image"><img src="/images/bunbohue4.jpeg"/> </div>
+<div id="step">Add 6 cups of water to the stockpot along with the beef stock concentrate, fish sauce, and lemongrass. Grate the ginger into the pot. Raise the heat to high.<p>Once the broth begins to boil add the noodles and reduce the heat to medium. Cook for 7 minutes. </p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise5.jpeg"/> </div>
-<div id="step">Coat the bottom of a skillet with olive oil and place on medium high heat. Once the oil is hot, add the pork. Cook until nicely browned on one side, approx. 6-8 minutes, then flip and brown on the other side for 6-8 minutes. Transfer the pork to a plate to let it rest before plating. Set the pan aside for later use.
-<p><i>Note: all pork chops are different, make sure that your pork chop is fully cooked through.</i></p></div>
+<div id="image"><img src="/images/bunbohue5.jpeg"/> </div>
+<div id="step"><i>While the noodles cook, prepare the steak.</i><p>Use a serrated knife to slice the flank steak into wafer thin pieces.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise6.jpeg"/> </div>
-<div id="step">Add the green beans to the boiling water and blanch for 4 minutes. Then transfer the contents of the pan to a colander and run cold water over the beans to stop the cooking process.</div>
+<div id="image"><img src="/images/bunbohue6.jpeg"/> </div>
+<div id="step">Add the sliced flank to the broth. Once the meat has turned from bright red to brown, it's ready for plating.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise7.jpeg"/> </div>
-<div id="step">Coat the bottom of the skillet used for the pork with olive oil and place on medium high heat. Once the oil is hot, add the shallots and sauté until they are browned.</div>
+<div id="image"><img src="/images/bunbohue7.jpeg"/> </div>
+<div id="step">Remove the basil leaves from the stems. Quarter the lime.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise8.jpeg"/> </div>
-<div id="step">Add the vermouth to the pan and cook until the vermouth has halved in size.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise9.jpeg"/> </div>
-<div id="step">Remove the pan from heat, and then add the cream and dijon, stirring consistently to form the sauce. Set aside for plating.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise10.jpeg"/> </div>
-<div id="step">Finely chop the parsley and place in a bowl with the roasted potatoes. Toss to coat.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/cotesdeporchongroise11.jpeg"/> </div>
-<div id="step">Plate the haricot vert with the roasted potatoes and pork chop. Top with the cream sauce.</div>
+<div id="image"><img src="/images/bunbohue8.jpeg"/> </div>
+<div id="step">Place the bean sprouts at the bottom of the bowls. Ladle the broth, meat, and noodles into the bowl.Accent with the basil leaves. Serve with lime and sambal olek.</div>
 </div>
 
 <style>
