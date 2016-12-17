@@ -56,21 +56,21 @@ This rich Thai curry explodes with the heat of the Carolina Reaper, Ghost Chile,
 <div id="ingredientone"><img src="/images/3garlic.png"/>3 garlic cloves</div>
 <div id="ingredienttwo"><img src="/images/ginger.png"/>1 in piece of ginger</div>
 <div id="ingredientthree"><img src="/images/lime.png"/>1 lime</div>
-<div id="ingredientfour"><img src="/images/coconutmilk.png/">1 cup coconut milk</div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Native-Forest-Organic-Classic-13-5-oz/dp/B001HTJ2BQ/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481992149&sr=1-4&keywords=coconut+milk&th=1&linkCode=ll1&tag=cilalime09-20&linkId=8cc3d16d81745095ead7523476c17cba"><img src="/images/coconutmilk.png/">1 cup coconut milk</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href=""><img src="/images/kaffirlimeleaves.png"/>2 kaffir lime leaves</a></div>
-<div id="ingredienttwo"><a href=""><img src="/images/peanuts.png"/>3 tbsp peanuts</a></div>
-<div id="ingredientthree"><a href=""><img src="/images/pepperflakes.png"/>1/2 cup jasmine rice</a></div>
+<div id="ingredientone"><a href="https://www.amazon.com/Dried-Kaffir-Lime-Leaves-0-5oz/dp/B00TZ8BK5W/ref=as_li_ss_tl?ie=UTF8&qid=1481992025&sr=8-2&keywords=kaffir+lime+leaves&linkCode=ll1&tag=cilalime09-20&linkId=aa74e52f1b7c05f71970275a8a8970d6"><img src="/images/kaffirlimeleaves.png"/>2 kaffir lime leaves</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Planters-Dry-Roasted-Peanuts-Unsalted/dp/B00I8GL732/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1481991927&sr=8-7&keywords=roasted+unsalted+peanuts&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=e3db483bfbf1172b2603c3218d25e817"><img src="/images/peanuts.png"/>3 tbsp roasted, unsalted peanuts</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Lundberg-California-White-Jasmine-Ounce/dp/B000VHJG3E/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1481991247&sr=1-1&keywords=jasmine+rice&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=1991998c456a85de8997a447cb06ed6a"><img src="/images/jasminerice.png"/>1/2 cup jasmine rice</a></div>
 <div id="ingredientfour"><a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.png"/>2 tbsp fish sauce</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href=""><img src="/images/sesameoil.png"/>1 ghost chile</a></div>
-<div id="ingredienttwo"><a href=""><img src="/images/fishsauce.png"/>4 dried thai chiles</a></div>
-<div id="ingredientthree"><a href=""><img src="/images/ginger.png"/>1 tsp coriander seeds</a></div>
-<div id="ingredientfour"><a href=""><img src="/images/ginger.png"/>1 tsp cumin seeds</a></div>
+<div id="ingredientone"><a href="https://www.amazon.com/Smoked-Dried-Jolokia-Ghost-Pepper/dp/B007PM4PWK/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481990779&sr=1-3&keywords=ghost+pepper&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c7733736c5a41177b8e6f9db65e66115"><img src="/images/ghostchili.png"/>1 dried ghost chili</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Your-Kitchen-Organic-Dried-Chili/dp/B00K750D5K/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481990844&sr=1-2&keywords=dried+thai+chili&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=da81fa08f8e93e8d35007e58fe8791e5"><img src="/images/4driedthaichili.png"/>4 dried thai chilis</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Starwest-Botanicals-Organic-Coriander-Pound/dp/B00ZAVETNS/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481991117&sr=1-5&keywords=coriander+seeds&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=3024f3d1a2cd8cb0353bdfb7120209f2"><img src="/images/corianderseeds.png"/>1 tsp coriander seeds</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Organica-Certified-Organic-Jeera-Whole/dp/B00MFABFWK/ref=as_li_ss_tl?ie=UTF8&qid=1481990653&sr=8-1-spons&keywords=organic+cumin+seeds&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=92451cf69c4f1906ae1c08ecb9aadbb5"><img src="/images/cuminseeds.png"/>1 tsp cumin seeds</a></div>
 </div>
 
 <div id="ingredients">
@@ -82,7 +82,7 @@ This rich Thai curry explodes with the heat of the Carolina Reaper, Ghost Chile,
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href=""><img src="/images/blender.jpg"/>blender</a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/blender.jpg"/>blender</a></div>
 <div id="equipmenttwo"><a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?ie=UTF8&qid=1481946192&sr=8-3&keywords=microplane+fine+grater&linkCode=ll1&tag=cilalime09-20&linkId=bb041caf65081d4a889796b169ef7407"><img src="/images/finegrater.jpg"/>fine grater</a></div>
 </div>
 
