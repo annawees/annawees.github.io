@@ -157,20 +157,20 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 #serves { width: 200px; float: left; margin-left: 25px; margin-right:50px;}
 .clear {clear:both;}
 
-#nutritiondetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
-#calories { width: 18%; float: left;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-left: 0%;}
+#nutritiondetails { width: 750px; display:inline-block;}
+#calories {width: 120px; float:left; margin-left:45px;}
+#carbs {width: 120px; float:left; margin-left:15px;}
+#fiber {width: 120px; float:left; margin-left:15px;}
+#fat {width: 120px; float:left; margin-left:15px;}
+#protein {width: 120px; float:left; margin-left:15px; margin-right:45px;}
 .clear {clear:both;}
 
-#nutritionnumbers { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-bottom: 100px;}
-#calories { width: 18%; float: left;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-left: 0%;}
+#nutritionnumbers {width: 750px; display:inline-block;}
+#calories {width: 120px; float:left; margin-left:45px;}
+#carbs {width: 120px; float:left; margin-left:15px;}
+#fiber {width: 120px; float:left; margin-left:15px;}
+#fat {width: 120px; float:left; margin-left:15px;}
+#protein {width: 120px; float:left; margin-left:15px; margin-right:45px;}
 .clear {clear:both;}
 
 #ingredienthdr { margin-top:200px; margin-bottom: 50px;}
