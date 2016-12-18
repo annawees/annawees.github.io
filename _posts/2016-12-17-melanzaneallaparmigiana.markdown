@@ -17,14 +17,12 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 
 <div id= "recipedetails">
 <div id= "time"> Time </div>
-<div id= "skill"> Skill </div>
 <div id= "spice"> Spice </div>
 <div id= "serves"> Serves </div>
 </div>
 
 <div id= "recipenumbers">
 <div id= "time"><h3> 45 Minutes</h3> </div>
-<div id= "skill"><h3>Intermediate</h3> </div>
 <div id= "spice"><h3> Mild</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
@@ -146,14 +144,12 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 
 #recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
 #time { width: 26%; float: left;}
-#skill { width: 26%; float: left; margin-left: 2%;}
 #spice { width: 16%; float: left; margin-left: 2%;}
 #serves { width 16%; float: left; margin-left: 2%;}
 .clear {clear:both;}
 
 #recipenumbers {width: 90%; display:inline-block; float: left; margin-left: 5%;}
 #time { width: 16%; float: left;}
-#skill { width: 31%; float: left; margin-left: 2%;}
 #spice { width: 21%; float: left; margin-left: 2%;}
 #serves { width 16%; float: left; margin-left: 2%;}
 .clear {clear:both;}
