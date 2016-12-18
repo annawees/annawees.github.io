@@ -144,7 +144,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
    margin-top: 300px;
    z-index: 10; }
    
-#recipedescription {width: 700px: display:inline-block; margin-left:25px;}
+#recipedescription {width: 700px: display:inline-block; margin-left:25px; margin-bottom: 200px;}
 
 #recipedetails { width: 750px; display:inline-block; float: left;}
 #time { width: 200px; float: left; margin-left: 50px;}
