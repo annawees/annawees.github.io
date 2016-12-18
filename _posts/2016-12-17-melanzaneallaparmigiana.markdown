@@ -6,8 +6,9 @@ thumbnail: "annawees.github.io/images/melanzaneallaparmigianamain.jpg"
 tags: [italian, vegetarian, cheese]
 ---
 <div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video" poster="annawees.github.io/images/melanzaneallaparmigianamain.jpg">
+  <!-- <video autoplay loop muted class="banner__video" poster="annawees.github.io/images/melanzaneallaparmigianamain.jpg">
     <source src="" type="video/mp4"></video>
+  -->
   <div class="overlay"> <h1> MELANZANE alla PARMIGIANA </h1></div>
 </div>
 
