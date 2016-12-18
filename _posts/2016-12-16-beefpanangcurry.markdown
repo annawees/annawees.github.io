@@ -82,8 +82,8 @@ This rich Thai curry explodes with the heat of the Carolina Reaper, Ghost Chile,
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/blender.jpg"/>blender</a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?ie=UTF8&qid=1481946192&sr=8-3&keywords=microplane+fine+grater&linkCode=ll1&tag=cilalime09-20&linkId=bb041caf65081d4a889796b169ef7407"><img src="/images/finegrater.jpg"/>fine grater</a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/blender.jpeg"/>blender</a></div>
+<div id="equipmenttwo"><a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?ie=UTF8&qid=1481946192&sr=8-3&keywords=microplane+fine+grater&linkCode=ll1&tag=cilalime09-20&linkId=bb041caf65081d4a889796b169ef7407"><img src="/images/finegrater.jpeg"/>fine grater</a></div>
 </div>
 
 <div id="preparation">
