@@ -72,10 +72,10 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpg"/>stockpot</a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpg"/>baking sheet</a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpg"/>citrus juicer </a></div>
-<div id="equipmentfour"><a href="https://www.amazon.com/Microplane-35009-Medium-Ribbon-Grater/dp/B00009WE3V/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482039177&sr=1-10&keywords=microplane&linkCode=ll1&tag=cilalime09-20&linkId=e0f7f0f676e7565f4b0f1ff0b4f8c1f6"><img src="/images/coarsegrater.jpg"/>coarse grater </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
+<div id="equipmenttwo"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/>baking sheet</a></div>
+<div id="equipmentthree"><a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a></div>
+<div id="equipmentfour"><a href="https://www.amazon.com/Microplane-35009-Medium-Ribbon-Grater/dp/B00009WE3V/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482039177&sr=1-10&keywords=microplane&linkCode=ll1&tag=cilalime09-20&linkId=e0f7f0f676e7565f4b0f1ff0b4f8c1f6"><img src="/images/coarsegrater.jpeg"/>coarse grater </a></div>
 </div>
 
 <div id="preparation">
