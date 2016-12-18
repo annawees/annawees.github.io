@@ -77,9 +77,9 @@ A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and 
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpg"/>stockpot</a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?ie=UTF8&qid=1481946192&sr=8-3&keywords=microplane+fine+grater&linkCode=ll1&tag=cilalime09-20&linkId=bb041caf65081d4a889796b169ef7407"><img src="/images/finegrater.jpg"/>fine grater</a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Shun-DM0705-Classic-9-Inch-Bread/dp/B0007D6GS0/ref=as_li_ss_tl?ie=UTF8&qid=1481946082&sr=8-2&keywords=shun+serrated+knife&linkCode=ll1&tag=cilalime09-20&linkId=26d95c69082300abf0fbd403f696b075"><img src="/images/serratedknife.jpg"/>serrated knife</a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
+<div id="equipmenttwo"><a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?ie=UTF8&qid=1481946192&sr=8-3&keywords=microplane+fine+grater&linkCode=ll1&tag=cilalime09-20&linkId=bb041caf65081d4a889796b169ef7407"><img src="/images/finegrater.jpeg"/>fine grater</a></div>
+<div id="equipmentthree"><a href="https://www.amazon.com/Shun-DM0705-Classic-9-Inch-Bread/dp/B0007D6GS0/ref=as_li_ss_tl?ie=UTF8&qid=1481946082&sr=8-2&keywords=shun+serrated+knife&linkCode=ll1&tag=cilalime09-20&linkId=26d95c69082300abf0fbd403f696b075"><img src="/images/serratedknife.jpeg"/>serrated knife</a></div>
 </div>
 
 <div id="preparation">
