@@ -107,8 +107,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 <div id="instruction">
 <div id="image"><img src="/images/melanzaneallaparmigiana5.jpeg"/> </div>
 <div id="step"><i>While the tomato sauce reduces</i>, cut the mozzarella in wafer-thin slices. Remove the basil leaves from the stem.
-<p><i>Set aside any leaves smaller than 1/2 inch for plating</i><p>
-</div>
+<p><i>Set aside any leaves smaller than 1/2 inch for plating</i></p></div>
 </div>
 
 <div id="instruction">
