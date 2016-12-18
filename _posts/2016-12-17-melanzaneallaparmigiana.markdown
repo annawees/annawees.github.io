@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Melanzane alla Parmigiana
+title: MELANZANE alla PARMIGIANA
 category: recipe
 thumbnail: "annawees.github.io/images/melanzaneallaparmigianamain.jpg"
 tags: [italian, vegetarian, cheese]
