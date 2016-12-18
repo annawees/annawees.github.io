@@ -172,11 +172,11 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 
 #ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
 
-#ingredients { width: 95%; display:inline-block;}
-#ingredientone { width: 20%; float:left;}
-#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
-#ingredientthree { width:20%; float:left; margin-left: 5%;}
-#ingredientfour { width:20%; float:left; margin-left: 5%;}
+#ingredients { width: 750px; display:inline-block;}
+#ingredientone { width: 175px; float:left; margin-left: 10px;}
+#ingredienttwo { width: 175px; float:left; margin-left: 10px;}
+#ingredientthree { width: 175px; float:left; margin-left: 10px;}
+#ingredientfour { width: 175px; float:left; margin-left: 10px;}
 .clear {clear:both;}
 
 #equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
