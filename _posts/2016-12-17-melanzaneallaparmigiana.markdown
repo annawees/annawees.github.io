@@ -60,7 +60,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 <div id="ingredientone"><img src="/images/basil.png"/>3 sprigs basil</div>
 <div id="ingredienttwo"><img src="/images/4garlic.png"/>4 cloves of garlic</div>
 <div id="ingredientthree"><img src="/images/lemon.png"/>1 lemon</div>
-<div id="ingredientfour"><img src="/images/tomatopuree.png"/>2 cup pureed tomatoes</div>
+<div id="ingredientfour"><img src="/images/ingredients/tomatopuree.png"/>2 cup pureed tomatoes</div>
 </div>
 
 <div id="ingredients">
