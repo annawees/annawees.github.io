@@ -8,7 +8,7 @@ tags: [italian, vegetarian, cheese]
 <div class="spacer"></div>
 <div class="backgroundvideo">
   <!-- <video autoplay loop muted class="banner__video" poster="annawees.github.io/images/melanzaneallaparmigianamain.jpg">
-    <source src="" type="video/mp4"></video>
+    <source src="/images/melanzaneallaparmigiana.mp4" type="video/mp4"></video>
   -->
   <div class="overlay"> <h1> MELANZANE alla PARMIGIANA </h1></div>
 
@@ -135,8 +135,6 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 </div>
 
 <style>
-#spacer {padding-top:50px;}
-
 #backgroundvideo {
   position: absolute;
   z-index:0; }
@@ -149,46 +147,58 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
    position: absolute; 
    margin-top: 300px;
    z-index: 10; }
-   
-#recipedescription {width: 700px: display:inline-block; margin-left:25px;}
 
-#recipedetails { width: 750px; display:inline-block; float: left;}
-#time { width: 200px; float: left; margin-left: 50px;}
-#spice { width: 200px; float: left; margin-left: 25px;}
-#serves { width: 200px; float: left; margin-left: 25px; margin-right:50px;}
+#recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
+#time { width: 26%; float: left;}
+#spice { width: 16%; float: left; margin-left: 2%;}
+#serves { width 16%; float: left; margin-left: 2%;}
 .clear {clear:both;}
 
-#nutrition { width: 750px; display:inline-block;}
-#calories {width: 120px; float:left; margin-left:45px;}
-#carbs {width: 120px; float:left; margin-left:15px;}
-#fiber {width: 120px; float:left; margin-left:15px;}
-#fat {width: 120px; float:left; margin-left:15px;}
-#protein {width: 120px; float:left; margin-left:15px; margin-right:45px;}
+#recipenumbers {width: 90%; display:inline-block; float: left; margin-left: 5%;}
+#time { width: 16%; float: left;}
+#spice { width: 21%; float: left; margin-left: 2%;}
+#serves { width 16%; float: left; margin-left: 2%;}
 .clear {clear:both;}
 
-#ingredienthdr { margin-top:200px; margin-bottom: 50px;}
-
-#ingredients { width: 750px; display:inline-block;}
-#ingredientone { width: 175px; float:left; margin-left: 10px;}
-#ingredienttwo { width: 175px; float:left; margin-left: 10px;}
-#ingredientthree { width: 175px; float:left; margin-left: 10px;}
-#ingredientfour { width: 175px; float:left; margin-left: 10px;}
+#nutritiondetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
+#calories { width: 18%; float: left;}
+#carbs { width: 18%; float: left; margin-left: 0%;}
+#fiber { width: 18%; float: left; margin-left: 0%;}
+#fat { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-left: 0%;}
 .clear {clear:both;}
 
-#equipmenthdr { margin-top:200px; margin-bottom:50px;}
+#nutritionnumbers { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-bottom: 100px;}
+#calories { width: 18%; float: left;}
+#carbs { width: 18%; float: left; margin-left: 0%;}
+#fiber { width: 18%; float: left; margin-left: 0%;}
+#fat { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-left: 0%;}
+.clear {clear:both;}
 
-#equipment { width: 750px; display:inline-block;}
-#equipmentone { width: 175px; float:left; margin-left: 10px;}
-#equipmenttwo { width: 175px; float:left; margin-left: 10px;}
-#equipmentthree { width: 175px; float:left; margin-left: 10px;}
-#equipmentfour { width: 175px; float:left; margin-left: 10px;}
+#ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
+
+#ingredients { width: 95%; display:inline-block;}
+#ingredientone { width: 20%; float:left;}
+#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
+#ingredientthree { width:20%; float:left; margin-left: 5%;}
+#ingredientfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
+
+#equipment { width: 95%; display:inline-block;}
+#equipmentone { width: 20%; float:left;}
+#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
+#equipmentthree { width:20%; float:left; margin-left: 5%;}
+#equipmentfour { width:20%; float:left; margin-left: 5%;}
 .clear {clear:both;}
 
 #preparation { margin-top: 150px; margin-bottom: 50px; font-family: $serif;}
 
-#instruction { width:750px; display:inline-block;}
-#image { width:350px; float:left; margin:left: 10px;}
-#step { width:360px; float:right; margin-left: 20px; margin-top: 50px; margin-right: 10px;}
-.clear {clear:both;}`
+#instruction { width:95%; display:inline-block;}
+#image { width: 40%; float:left;}
+#step { width: 50%; float:right; margin-top: 30px; margin-bottom: 30px;}
+.clear {clear:both;}
 
 </style>
