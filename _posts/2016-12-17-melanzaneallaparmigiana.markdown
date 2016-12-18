@@ -50,14 +50,14 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/mozzarella.png"/> 8 oz fresh mozzarella </div>
+<div id="ingredientone"><img src="/images/mozzarella.jpeg"/> 8 oz fresh mozzarella </div>
 <div id="ingredienttwo"><img src="/images/parmesan.png"/>2 oz parmigiano reggiano</div>
-<div id="ingredientthree"><img src="/images/eggplant.png"/>1 1/2 lb eggplant</div>
-<div id="ingredientfour"><img src="/images/arugula.png"/>3 oz arugula</div>
+<div id="ingredientthree"><img src="/images/eggplant.jpeg"/>1 1/2 lb eggplant</div>
+<div id="ingredientfour"><img src="/images/arugula.jpeg"/>3 oz arugula</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/basil.png"/>3 sprigs basil</div>
+<div id="ingredientone"><img src="/images/basil.jpeg"/>3 sprigs basil</div>
 <div id="ingredienttwo"><img src="/images/4garlic.png"/>4 cloves of garlic</div>
 <div id="ingredientthree"><img src="/images/lemon.png"/>1 lemon</div>
 <div id="ingredientfour"><a href="https://www.amazon.com/gp/product/B001SAWI38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001SAWI38&linkId=f50a9f64e07d6fe1dfa9c524415c9b72"><img src="/images/ingredients/tomatopuree.png"/>2 cup pureed tomatoes</a></div>
