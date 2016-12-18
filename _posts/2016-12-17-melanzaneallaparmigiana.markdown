@@ -5,17 +5,19 @@ category: recipe
 thumbnail: "annawees.github.io/images/melanzaneallaparmigianamain.jpg"
 tags: [italian, vegetarian, cheese]
 ---
+<div class="spacer"></div>
 <div class="backgroundvideo">
   <!-- <video autoplay loop muted class="banner__video" poster="annawees.github.io/images/melanzaneallaparmigianamain.jpg">
     <source src="" type="video/mp4"></video>
   -->
   <div class="overlay"> <h1> MELANZANE alla PARMIGIANA </h1></div>
-</div>
 
 <div id="recipedescription">
 From Naples to Sicily, Melanzane alla Parmigiana, or Eggplant Parmigiana, is a staple of southern Italy. 
 Stacks of eggplant meld with hand pulled mozzarella, rich tomato sauce, fresh basil, and savory parmesan cheese. 
 Paired with a rocket salad, this is the perfect Italian comfort food. </div>
+
+<div class="spacer"></div>
 
 <div id= "recipedetails">
 <div id= "time"> Time </div>
@@ -28,6 +30,8 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 <div id= "spice"><h3> Mild</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
+
+<div class="spacer"></div>
 
 <div id= "nutrition">
 <div id="calories"> Calories </div>
@@ -131,6 +135,8 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 </div>
 
 <style>
+#spacer {padding:50px;}
+
 #backgroundvideo {
   position: absolute;
   z-index:0; }
@@ -144,7 +150,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
    margin-top: 300px;
    z-index: 10; }
    
-#recipedescription {width: 700px: display:inline-block; margin-left:25px; margin-bottom: 200px;}
+#recipedescription {width: 700px: display:inline-block; margin-left:25px;}
 
 #recipedetails { width: 750px; display:inline-block; float: left;}
 #time { width: 200px; float: left; margin-left: 50px;}
