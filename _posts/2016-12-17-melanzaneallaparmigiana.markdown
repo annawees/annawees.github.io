@@ -60,11 +60,11 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 <div id="ingredientone"><img src="/images/basil.png"/>3 sprigs basil</div>
 <div id="ingredienttwo"><img src="/images/4garlic.png"/>4 cloves of garlic</div>
 <div id="ingredientthree"><img src="/images/lemon.png"/>1 lemon</div>
-<div id="ingredientfour"><img src="/images/ingredients/tomatopuree.png"/>2 cup pureed tomatoes</div>
+<div id="ingredientfour"><a href="https://www.amazon.com/gp/product/B001SAWI38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001SAWI38&linkId=f50a9f64e07d6fe1dfa9c524415c9b72"><img src="/images/ingredients/tomatopuree.png"/>2 cup pureed tomatoes</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href=""><img src="/images/chiliflakes.png"/>1/2 tsp chili flakes</a></div>
+<div id="ingredientone"><a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=3eacf8e946e0323de7e947533f61f45f"><img src="/images/chiliflakes.png"/>1/2 tsp chili flakes</a></div>
 </div>
 
 <div id= "equipmenthdr">
