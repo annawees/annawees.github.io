@@ -142,10 +142,10 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
    margin-top: 300px;
    z-index: 10; }
 
-#recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
-#time { width: 26%; float: left;}
-#spice { width: 16%; float: left; margin-left: 2%;}
-#serves { width 16%; float: left; margin-left: 2%;}
+#recipedetails { width: 750px; display:inline-block; float: left; margin-top: 50px;}
+#time { width: 200px; float: left; margin-left: 50px;}
+#spice { width: 200px; float: left; margin-left: 25px;}
+#serves { width: 200px; float: left; margin-left: 25px;}
 .clear {clear:both;}
 
 #recipenumbers {width: 90%; display:inline-block; float: left; margin-left: 5%;}
@@ -170,7 +170,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 #protein { width: 18%; float: left; margin-left: 0%;}
 .clear {clear:both;}
 
-#ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
+#ingredienthdr { margin-top:200px; margin-bottom: 50px;}
 
 #ingredients { width: 750px; display:inline-block;}
 #ingredientone { width: 175px; float:left; margin-left: 10px;}
@@ -179,7 +179,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 #ingredientfour { width: 175px; float:left; margin-left: 10px;}
 .clear {clear:both;}
 
-#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
+#equipmenthdr { margin-top:200px; margin-bottom:50px;}
 
 #equipment { width: 750px; display:inline-block;}
 #equipmentone { width: 175px; float:left; margin-left: 10px;}
