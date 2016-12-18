@@ -22,13 +22,13 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 <div id= "serves"> Serves </div>
 </div>
 
-<div id= "recipenumbers">
+<div id= "recipedetails">
 <div id= "time"><h3> 45 Minutes</h3> </div>
 <div id= "spice"><h3> Mild</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
 
-<div id= "nutritiondetails">
+<div id= "nutrition">
 <div id="calories"> Calories </div>
 <div id="carbs"> Carbs </div>
 <div id="fiber"> Fiber </div>
@@ -36,7 +36,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 <div id="protein"> Protein </div>
 </div>
 
-<div id= "nutritionnumbers">
+<div id= "nutrition">
 <div id="calories"><h3> 710 </h3> </div>
 <div id="carbs"><h3> 41g</h3> </div>
 <div id="fiber"><h3> 16g</h3> </div>
@@ -151,21 +151,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 #serves { width: 200px; float: left; margin-left: 25px; margin-right:50px;}
 .clear {clear:both;}
 
-#recipenumbers {width: 750px; display:inline-block; float: left;}
-#time { width: 200px; float: left; margin-left: 50px;}
-#spice { width: 200px; float: left; margin-left: 25px;}
-#serves { width: 200px; float: left; margin-left: 25px; margin-right:50px;}
-.clear {clear:both;}
-
-#nutritiondetails { width: 750px; display:inline-block;}
-#calories {width: 120px; float:left; margin-left:45px;}
-#carbs {width: 120px; float:left; margin-left:15px;}
-#fiber {width: 120px; float:left; margin-left:15px;}
-#fat {width: 120px; float:left; margin-left:15px;}
-#protein {width: 120px; float:left; margin-left:15px; margin-right:45px;}
-.clear {clear:both;}
-
-#nutritionnumbers {width: 750px; display:inline-block;}
+#nutrition { width: 750px; display:inline-block;}
 #calories {width: 120px; float:left; margin-left:45px;}
 #carbs {width: 120px; float:left; margin-left:15px;}
 #fiber {width: 120px; float:left; margin-left:15px;}
