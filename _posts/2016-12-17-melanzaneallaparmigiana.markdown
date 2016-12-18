@@ -96,7 +96,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food.
 
 <div id="instruction">
 <div id="image"><img src="/images/melanzaneallaparmigiana3.jpeg"/> </div>
-<div id="step">Finely dice the garlic.Add a small amount of olive oil to the bottom of a stockpot or saucepan. Set the heat to medium high. Once the oil is hot, add the garlic and chili flakes. Sauté until the garlic is golden brown.</div>
+<div id="step">Finely dice the garlic. Add a small amount of olive oil to the bottom of a stockpot or saucepan. Set the heat to medium high. Once the oil is hot, add the garlic and chili flakes. Sauté until the garlic is golden brown.</div>
 </div>
 
 <div id="instruction">
