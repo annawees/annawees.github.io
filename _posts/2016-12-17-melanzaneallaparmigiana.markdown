@@ -12,7 +12,7 @@ tags: [italian, vegetarian, cheese]
   <div class="overlay"> <h1> MELANZANE alla PARMIGIANA </h1></div>
 </div>
 
-<div class="recipedescription">
+<div id="recipedescription">
 From Naples to Sicily, Melanzane alla Parmigiana, or Eggplant Parmigiana, is a staple of southern Italy. 
 Stacks of eggplant meld with hand pulled mozzarella, rich tomato sauce, fresh basil, and savory parmesan cheese. 
 Paired with a rocket salad, this is the perfect Italian comfort food. </div>
@@ -146,7 +146,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
    
 #recipedescription {width: 700px: display:inline-block; margin-left:25px;}
 
-#recipedetails { width: 750px; display:inline-block; float: left; margin-top: 50px;}
+#recipedetails { width: 750px; display:inline-block; float: left;}
 #time { width: 200px; float: left; margin-left: 50px;}
 #spice { width: 200px; float: left; margin-left: 25px;}
 #serves { width: 200px; float: left; margin-left: 25px; margin-right:50px;}
