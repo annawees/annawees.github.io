@@ -135,7 +135,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 </div>
 
 <style>
-#spacer {padding:50px;}
+#spacer {padding-top:50px;}
 
 #backgroundvideo {
   position: absolute;
