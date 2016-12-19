@@ -63,13 +63,12 @@ A flavorful pear chutney is paired with crisp haricot vert and an herb rubbed te
 <div id="ingredientone"><img src="/images/2garlic.jpeg"/>2 garlic cloves</div>
 <div id="ingredienttwo"><img src="/images/3shallots.jpeg"/>3 shallots</div>
 <div id="ingredientthree"><img src="/images/ginger.jpeg"/>1 in piece ginger</div>
-<div id="ingredientfour"><a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945347&sr=8-3&keywords=sesame+oil&th=1&linkCode=ll1&tag=cilalime09-20&linkId=311f3fba83d6c5821e3c957659a4df6b"><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Provence-Epice-Herbs-France-large/dp/B004B7C524/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1482167134&sr=8-3&keywords=herbes+de+provence&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=eb78627c361f4cf2b73481cbc083dbe0"><img src="/images/herbesdeprovence.jpeg"/>2 tbsp herbes de provence</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/KOKUHO-RICE-SUSHI-5-LB/dp/B000FJLXHU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482159216&sr=1-3&keywords=sushi+rice&linkCode=ll1&tag=cilalime09-20&linkId=40e89fdda071997a7a56215a24965ecd"><img src="/images/sushirice.jpeg"/>1/2 cup sushi rice</a></div>
-<div id="ingredienttwo"><a href="https://www.amazon.com/Nutria-Organic-Certified-Superfood-Magnesium/dp/B019KXQDVM/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514809&sr=1-1-spons&keywords=sesame+seeds&refinements=p_85:2470955011&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=467563eedd31251bd3842de986cdd859"><img src="/images/sesameseeds.jpeg"/>2 tbsp sesame seeds</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=3eacf8e946e0323de7e947533f61f45f"><img src="/images/chiliflakes.png"/>1/2 tsp chili flakes</a></div>
+<div id="ingredientone"><a href="https://www.amazon.com/Simply-Organic-Certified-2-45-Ounce-Container/dp/B000WS1KHM/ref=as_li_ss_tl?ie=UTF8&qid=1482167090&sr=8-3&keywords=organic+ground+cinnamon&th=1&linkCode=ll1&tag=cilalime09-20&linkId=864dbe30a705efcdc94702b11bade432"><img src="/images/groundcinnamon.jpeg"/>1 tsp ground cinnamon</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Jiva-Organic-Mustard-Seeds-Black/dp/B00J5SCO48/ref=as_li_ss_tl?ie=UTF8&qid=1482167028&sr=8-1&keywords=black+mustard+seeds&linkCode=ll1&tag=cilalime09-20&linkId=456a4f6ebfcc33d49a76926db817a575"><img src="/images/blackmustardseeds.jpeg"/>1 tsp black mustard seeds</a></div>
 </div>
 
 <div id= "equipmenthdr">
