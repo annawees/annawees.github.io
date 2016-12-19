@@ -8,8 +8,10 @@ tags: [italian, vegetarian, cheese]
 <div class="spacer"></div>
 
 <div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video"; poster="/images/melanzaneallaparmigianamain.jpg">
-    <source src="/images/melanzaneallaparmigiana.mp4" type="video/mp4"></video></div>
+  <video autoplay loop muted class="banner__video" poster="/images/melanzaneallaparmigianamain.jpeg">
+  <source src="/images/melanzaneallaparmigiana.mp4" type="video/mp4"></video>
+  <div class="overlay"></div>
+</div>
 
 <div id="recipedescription">
 From Naples to Sicily, Melanzane alla Parmigiana, or Eggplant Parmigiana, is a staple of southern Italy. 
