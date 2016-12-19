@@ -8,7 +8,7 @@ tags: [italian, vegetarian, cheese]
 <div class="spacer"></div>
 
 <div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video"; width: 750; poster="/images/melanzaneallaparmigianamain.jpg">
+  <video autoplay loop muted class="banner__video"; poster="/images/melanzaneallaparmigianamain.jpg">
     <source src="/images/melanzaneallaparmigiana.mp4" type="video/mp4"></video></div>
 
 <div id="recipedescription">
@@ -141,7 +141,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
   top: 80px;
   left: 0;
   right: 0;
-  width: 100%;
+  width: 750px;
 }
   
 #banner__video {
