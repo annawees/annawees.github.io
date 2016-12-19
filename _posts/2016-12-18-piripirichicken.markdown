@@ -86,45 +86,34 @@ Chicken thighs are coated in piri piri sauce and baked until crispy. These perfe
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl1.jpeg"/> </div>
-<div id="step">Set 2/3 cup of water in a saucepan with a lid and place on high heat. <p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. Once the water has come to a boil add the washed sushi rice, reduce the heat to low and cook for 15 minutes.</p></div>
+<div id="image"><img src="/images/piripirichicken1.jpeg"/> </div>
+<div id="step">Preheat the oven to 450˚. Move one rack to the upper portion of the oven, and another rack to bottom.
+<p>Place the thai chiles, oregano, half of the pimenton, paprika, garlic, 1/4 tsp of salt and 1/4 cup of water in a blender.</p>
+<p>Grate the rind of the lemon into the blender, and then squeeze the juice into the blender. Puree.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl2.jpeg"/> </div>
-<div id="step">After the rice has cooked for 15 minutes, move the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.</div>
+<div id="image"><img src="/images/piripirichicken2.jpeg"/> </div>
+<div id="step">Coat the chicken in the chili sauce and place on a roasting pan or baking sheet.
+<p>Place on the bottom rack of the oven and roast for 45 minutes.</p>
+<p>During the last 5 minutes of roasting, raise the heat to broil, and move the chicken to the top rack to give the chicken a crispy skin.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl3.jpeg"/> </div>
-<div id="step"><i>While the rice cooks, prep the vegetables.</i> Preheat the oven to 350˚. Toss the kale in half of the sesame oil and a pinch of salt. 
-Broil the kale until crispy and browned on the edges, approx. 10-15 minutes.
-<p><i>Note: Don't forget about the kale chips! They burn easily.</i></p></div>
+<div id="image"><img src="/images/piripirichicken3.jpeg"/> </div>
+<div id="step"><i>While the chicken roasts, cook the kale.</i>
+<p>Toss the kale in olive oil and place on a roasting pan or baking sheet.</p>
+<p>Place on the top rack of the oven, and roast for 10 minutes or until crispy.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl4.jpeg"/> </div>
-<div id="step">Slice the avocado. <p> Finely slice the scallions. </p></div>
+<div id="image"><img src="/images/piripirichicken4.jpeg"/> </div>
+<div id="step">Assemble the sauce by combining the crema, pimenton and 1/4 tsp of salt./div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl5.jpeg"/> </div>
-<div id="step">Lay the cucumber on a cutting board. Run the vegetable peeler along the cucumber and peel the cucumber into long strips.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl6.jpeg"/> </div>
-<div id="step">Cut the salmon into 1/3" cubes.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl7.jpeg"/> </div>
-<div id="step">In a bowl, mix the salmon, sliced scallions, 1 tbsp of the sesame seeds, tamari, and remaining sesame oil.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl8.jpeg"/> </div>
-<div id="step">Place the sushi rice on the bottom of each bowl. Place the poke, edamame, kale chips, and avocado slices on top. Top the bowl with the finely sliced cucumbers and sesame seeds.</div>
+<div id="image"><img src="/images/piripirichicken5.jpeg"/> </div>
+<div id="step">Sauce the plate, and lay the chicken leg on top. Accent with the roasted kale.</div>
 </div>
 
 <style>
