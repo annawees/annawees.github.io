@@ -55,7 +55,7 @@ This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/sashimisalmon.jpeg"/> 1/2 lb sashimi grade salmon </div>
 <div id="ingredienttwo"><img src="/images/edamame.jpeg"/>1/2 cup shelled edamame</div>
-<div id="ingredientthree"><img src="/images/kale.jpeg"/>2 cups kale</div>
+<div id="ingredientthree"><img src="/images/kale.jpeg"/>1/4 lb kale, deveined</div>
 <div id="ingredientfour"><img src="/images/cucumber.jpeg"/>1 cucumber</div>
 </div>
 
