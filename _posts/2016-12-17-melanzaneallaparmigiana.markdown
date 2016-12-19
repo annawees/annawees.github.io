@@ -155,12 +155,12 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 
 #spacer {padding-top:50px;}
 
-#nutrition { width: 90%; display:inline-block; float: left; margin-left: 5%;}
-#calories { width: 18%; float: left;}
+#nutrition { width: 100%; display:inline-block;}
+#calories { width: 18%; float: left; margin-left: 5%;}
 #carbs { width: 18%; float: left; margin-left: 0%;}
 #fiber { width: 18%; float: left; margin-left: 0%;}
 #fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-right:5%;}
 .clear {clear:both;}
 
 #ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
