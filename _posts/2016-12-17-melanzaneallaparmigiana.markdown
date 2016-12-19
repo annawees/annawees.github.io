@@ -16,7 +16,7 @@ From Naples to Sicily, Melanzane alla Parmigiana, or Eggplant Parmigiana, is a s
 Stacks of eggplant meld with hand pulled mozzarella, rich tomato sauce, fresh basil, and savory parmesan cheese. 
 Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 
-<div class="spacer"></div>
+<div id="spacer"></div>
 
 <div id= "recipedetails">
 <div id= "time"> Time </div>
@@ -30,7 +30,7 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
 
-<div class="spacer"></div>
+<div id="spacer"></div>
 
 <div id= "nutrition">
 <div id="calories"> Calories </div>
@@ -147,27 +147,15 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
    margin-top: 300px;
    z-index: 10; }
 
-#recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
+#recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%;}
 #time { width: 26%; float: left;}
 #spice { width: 16%; float: left; margin-left: 2%;}
 #serves { width 16%; float: left; margin-left: 2%;}
 .clear {clear:both;}
 
-#recipenumbers {width: 90%; display:inline-block; float: left; margin-left: 5%;}
-#time { width: 16%; float: left;}
-#spice { width: 21%; float: left; margin-left: 2%;}
-#serves { width 16%; float: left; margin-left: 2%;}
-.clear {clear:both;}
+#spacer {padding-top:50px;}
 
-#nutritiondetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
-#calories { width: 18%; float: left;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-left: 0%;}
-.clear {clear:both;}
-
-#nutritionnumbers { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-bottom: 100px;}
+#nutrition { width: 90%; display:inline-block; float: left; margin-left: 5%;}
 #calories { width: 18%; float: left;}
 #carbs { width: 18%; float: left; margin-left: 0%;}
 #fiber { width: 18%; float: left; margin-left: 0%;}
