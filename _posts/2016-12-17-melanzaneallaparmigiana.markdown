@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: MELANZANE alla PARMIGIANA
 category: recipe
 thumbnail: "/images/melanzaneallaparmigianamain.jpg"
