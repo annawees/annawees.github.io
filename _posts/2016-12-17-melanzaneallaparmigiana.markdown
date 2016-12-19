@@ -26,8 +26,6 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 <div id= "serves"> Serves </div>
 </div>
 
-<div id="spacer"></div>
-
 <div id= "recipedetails">
 <div id= "time"><h3> 45 Minutes</h3> </div>
 <div id= "spice"><h3> Mild</h3> </div>
@@ -138,6 +136,9 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 </div>
 
 <style>
+
+#spacer {padding-top: 25px;}
+
 #backgroundvideo {
   position: absolute;
   top: 80px;
