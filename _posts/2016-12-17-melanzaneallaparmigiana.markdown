@@ -193,5 +193,4 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 #image { width: 40%; float:left;}
 #step { width: 50%; float:right; margin-top: 30px; margin-bottom: 30px;}
 .clear {clear:both;}
-
 </style>
