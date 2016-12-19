@@ -22,8 +22,6 @@ Chicken thighs are coated in piri piri sauce and baked until crispy. These perfe
 <div id= "serves"> Serves </div>
 </div>
 
-<div id="spacer"></div>
-
 <div id= "recipedetails">
 <div id= "time"><h3> 50 Minutes</h3> </div>
 <div id= "spice"><h3> Medium</h3> </div>
