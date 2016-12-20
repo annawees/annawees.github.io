@@ -84,9 +84,7 @@ This addictive thai dish features spicy ground pork spiked with chiles, lime, fi
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/>baking sheet</a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B0000DE824/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481814330&sr=1-7&keywords=vegetable+peeler&th=1&linkCode=ll1&tag=cilalime09-20&linkId=2fc82cf8497ed0ceda3796ce68033b14"><img src="/images/vegetablepeeler.jpeg"/> vegetable peeler </a></div>
-
+<div id="equipmentone"><a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a></div>
 </div>
 
 <div id="preparation">
@@ -94,45 +92,50 @@ This addictive thai dish features spicy ground pork spiked with chiles, lime, fi
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl1.jpeg"/> </div>
-<div id="step">Set 2/3 cup of water in a saucepan with a lid and place on high heat. <p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. Once the water has come to a boil add the washed sushi rice, reduce the heat to low and cook for 15 minutes.</p></div>
+<div id="image"><img src="/images/laab1.jpeg"/> </div>
+<div id="step">Dice the garlic. 
+<p>Finely slice the thai chiles.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl2.jpeg"/> </div>
-<div id="step">After the rice has cooked for 15 minutes, move the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.</div>
+<div id="image"><img src="/images/laab2.jpeg"/> </div>
+<div id="step">Finely slice the onion.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl3.jpeg"/> </div>
-<div id="step"><i>While the rice cooks, prep the vegetables.</i> Preheat the oven to 350˚. Toss the kale in half of the sesame oil and a pinch of salt. 
-Broil the kale until crispy and browned on the edges, approx. 10-15 minutes.
-<p><i>Note: Don't forget about the kale chips! They burn easily.</i></p></div>
+<div id="image"><img src="/images/laab3.jpeg"/> </div>
+<div id="step">Remove the leaves from the stems of the cilantro, basil, and mint.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl4.jpeg"/> </div>
-<div id="step">Slice the avocado. <p> Finely slice the scallions. </p></div>
+<div id="image"><img src="/images/laab4.jpeg"/> </div>
+<div id="step">Remove the bottom stem from the lettuce, and separate the leaves.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl5.jpeg"/> </div>
-<div id="step">Lay the cucumber on a cutting board. Run the vegetable peeler along the cucumber and peel the cucumber into long strips.</div>
+<div id="image"><img src="/images/laab5.jpeg"/> </div>
+<div id="step">Squeeze the lime juice into a bowl. Combine with the fish sauce, rice wine vinegar, and honey.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl6.jpeg"/> </div>
-<div id="step">Cut the salmon into 1/3" cubes.</div>
+<div id="image"><img src="/images/laab6.jpeg"/> </div>
+<div id="step">Place a large skillet on medium heat. Add the sesame oil. Once the oil is hot, add the garlic and thai chiles. Sauté until the garlic starts to turn a golden color.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl7.jpeg"/> </div>
-<div id="step">In a bowl, mix the salmon, sliced scallions, 1 tbsp of the sesame seeds, tamari, and remaining sesame oil.</div>
+<div id="image"><img src="/images/laab7.jpeg"/> </div>
+<div id="step">Add the red onions to the pan and sauté until the onions are tender.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/pokebowl8.jpeg"/> </div>
-<div id="step">Place the sushi rice on the bottom of each bowl. Place the poke, edamame, kale chips, and avocado slices on top. Top the bowl with the finely sliced cucumbers and sesame seeds.</div>
+<div id="image"><img src="/images/laab8.jpeg"/> </div>
+<div id="step">Add the ground pork and brown in the pan. 
+<p> Once the pork has browned, add the lime juice mixture. Add the cilantro, basil, and mint. Sauté to mix the sauce and herbs.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/laab9.jpeg"/> </div>
+<div id="step">Serve the laab in the lettuce cups with the sriracha.</div>
 </div>
 
 <style>
