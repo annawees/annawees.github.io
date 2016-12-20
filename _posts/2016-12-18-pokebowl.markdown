@@ -111,7 +111,8 @@ Broil the kale until crispy and browned on the edges, approx. 10-15 minutes.
 
 <div id="instruction">
 <div id="image"><img src="/images/pokebowl5.jpeg"/> </div>
-<div id="step">Slice the avocado. <p> Finely slice the scallions. </p></div>
+<div id="step">Slice the avocado. 
+<p> Finely slice the scallions. </p></div>
 </div>
 
 <div id="instruction">
