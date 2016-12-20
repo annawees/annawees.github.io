@@ -127,12 +127,12 @@ Broil the kale until crispy and browned on the edges, approx. 10-15 minutes.
 
 <div id="instruction">
 <div id="image"><img src="/images/pokebowl8.jpeg"/> </div>
-<div id="step">In a bowl, mix the salmon, sliced scallions, 1 tbsp of the sesame seeds, tamari, and remaining sesame oil.</div>
+<div id="step">In a bowl, mix the salmon, 1 tbsp of the sesame seeds, tamari, and remaining sesame oil.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/pokebowl9.jpeg"/> </div>
-<div id="step">Place the sushi rice on the bottom of each bowl. Place the poke, edamame, kale chips, and avocado slices on top. Top the bowl with the finely sliced cucumbers and sesame seeds.</div>
+<div id="step">Place the sushi rice on the bottom of each bowl. Place the poke, edamame, kale chips, and avocado slices on top. Top the bowl with the finely sliced cucumbers, scallions and remaining sesame seeds.</div>
 </div>
 
 <style>
