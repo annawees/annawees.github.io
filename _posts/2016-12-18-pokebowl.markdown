@@ -89,7 +89,7 @@ This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal
 
 <div id="instruction">
 <div id="image"><img src="/images/pokebowl1.jpeg"/> </div>
-<div id="step">Set 2/3 cup of water in a saucepan with a lid and place on high heat. <p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. Once the water has come to a boil add the washed sushi rice, reduce the heat to low and cook for 15 minutes.</p></div>
+<div id="step"></div>
 </div>
 
 <div id="instruction">
