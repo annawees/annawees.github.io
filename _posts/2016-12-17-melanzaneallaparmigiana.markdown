@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: MELANZANE alla PARMIGIANA
 category: recipe
 thumbnail: "/images/melanzaneallaparmigianamain.jpg"
@@ -10,7 +10,6 @@ tags: [italian, vegetarian, cheese]
 <div class="backgroundvideo">
   <video autoplay loop muted class="banner__video" poster="/images/melanzaneallaparmigianamain.jpeg">
   <source src="/images/melanzaneallaparmigiana.mp4" type="video/mp4"></video>
-  <div class="overlay"></div>
 </div>
 
 <div id="recipedescription">
