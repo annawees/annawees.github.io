@@ -26,7 +26,7 @@ This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal
 <div id="spacer"></div>
 
 <div id= "recipedetails">
-<div id= "time"><h3> 40 Minutes</h3> </div>
+<div id= "time"><h3> 40 Min + Defrosting</h3> </div>
 <div id= "spice"><h3> Mild</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
@@ -89,7 +89,7 @@ This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal
 
 <div id="instruction">
 <div id="image"><img src="/images/pokebowl1.jpeg"/> </div>
-<div id="step"></div>
+<div id="step">Defrost the salmon. Fill a large bowl with cold water and a tsp of salt. Place the frozen sashimi salmon in the bowl for 30 minutes. After 30 minutes have passed remove the salmon from the water and wrap in a paper towel. Place the salmon in the fridge for later use.</div>
 </div>
 
 <div id="instruction">
