@@ -2,13 +2,13 @@
 layout: single
 title: Salmon Poke Bowl
 category: recipe
-thumbnail: ""
+thumbnail: "/images/salmonpokemain.jpg"
 tags: [american, hawaiian, fish, salmon]
 ---
 <div class="spacer"></div>
 
 <div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video" poster="">
+  <video autoplay loop muted class="banner__video" poster="/images/salmonpokemain.jpg">
   <source src="/images/pokebowl.mp4" type="video/mp4"></video>
 </div>
 
