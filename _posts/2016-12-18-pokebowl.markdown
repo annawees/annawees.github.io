@@ -1,6 +1,6 @@
 ---
 layout: single
-title: POKE BOWL
+title: Salmon Poke Bowl
 category: recipe
 thumbnail: ""
 tags: [american, hawaiian, fish, salmon]
