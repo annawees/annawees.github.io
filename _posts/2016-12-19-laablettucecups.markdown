@@ -1,19 +1,19 @@
 ---
 layout: single
-title: Salmon Poke Bowl
+title: Laab Lettuce Cups
 category: recipe
-thumbnail: ""
-tags: [american, hawaiian, fish, salmon]
+thumbnail: "/images/laabmain.jpg"
+tags: [thai, pork, ground pork]
 ---
 <div class="spacer"></div>
 
 <div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video" poster="">
-  <source src="/images/pokebowl.mp4" type="video/mp4"></video>
+  <video autoplay loop muted class="banner__video" poster="/images/laabmain.jpg">
+  <source src="/images/laab.mp4" type="video/mp4"></video>
 </div>
 
 <div id="recipedescription">
-This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal. Sashimi grade salmon, edamame, crispy kale chips, silky avocado and crisp cucumbers all sit on top of a bowl of the highest grade sushi rice. </div>
+This addictive thai dish features spicy ground pork spiked with chiles, lime, fish sauce, basil, mint and cilantro a contrast in texture to crisp lettuce. The perfect lunch or dinner, this dish is healthy and flavorful. </div>
 
 <div id="spacer"></div>
 
@@ -26,8 +26,8 @@ This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal
 <div id="spacer"></div>
 
 <div id= "recipedetails">
-<div id= "time"><h3> 40 Minutes</h3> </div>
-<div id= "spice"><h3> Mild</h3> </div>
+<div id= "time"><h3> 25 Minutes</h3> </div>
+<div id= "spice"><h3> Hot</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
 
@@ -42,11 +42,11 @@ This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal
 </div>
 
 <div id= "nutrition">
-<div id="calories"><h3> 640 </h3> </div>
-<div id="carbs"><h3> 56g</h3> </div>
+<div id="calories"><h3> 580 </h3> </div>
+<div id="carbs"><h3> 30g</h3> </div>
 <div id="fiber"><h3> 6g</h3> </div>
-<div id="fat"><h3> 30g</h3> </div>
-<div id="protein"><h3> 38g</h3> </div>
+<div id="fat"><h3> 22g</h3> </div>
+<div id="protein"><h3> 60g</h3> </div>
 </div>
 
 <div id= "ingredienthdr">
@@ -54,23 +54,29 @@ This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/sashimisalmon.jpeg"/> 1/2 lb sashimi grade salmon </div>
-<div id="ingredienttwo"><img src="/images/edamame.jpeg"/>1/2 cup shelled edamame</div>
-<div id="ingredientthree"><img src="/images/kale.jpeg"/>1/4 lb kale, deveined</div>
-<div id="ingredientfour"><img src="/images/cucumber.jpeg"/>1 cucumber</div>
+<div id="ingredientone"><img src="/images/groundpork.jpeg"/> 3/4 lb ground pork </div>
+<div id="ingredienttwo"><img src="/images/bostonlettuce.jpeg"/>1 head of boston or iceburg lettuce</div>
+<div id="ingredientthree"><img src="/images/basil.jpeg"/>3 sprigs basil</div>
+<div id="ingredientfour"><img src="/images/cilantro.jpeg"/>1/4 bunch cilantro</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/avocado.jpeg"/>1 avocado</div>
-<div id="ingredienttwo"><img src="/images/2scallions.jpeg"/>2 scallions</div>
-<div id="ingredientthree"><a href="https://www.amazon.com/San-J-Tamari-Gluten-Sauce-Black/dp/B00DTRJ2HS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482159293&sr=1-2&keywords=tamari&linkCode=ll1&tag=cilalime09-20&linkId=364dad8363d09bf34ece451d80925584"><img src="/images/tamari.jpeg"/>2 tbsp tamari</a></div>
-<div id="ingredientfour"><a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945347&sr=8-3&keywords=sesame+oil&th=1&linkCode=ll1&tag=cilalime09-20&linkId=311f3fba83d6c5821e3c957659a4df6b"><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</a></div>
+<div id="ingredientone"><img src="/images/avocado.jpeg"/>5 sprigs mint</div>
+<div id="ingredienttwo"><img src="/images/4garlic.jpeg"/>4 cloves garlic</div>
+<div id="ingredientthree"><img src="/images/5thaichile.jpeg"/>5 thai chili or serranos</div>
+<div id="ingredientfour"><img src="/images/redonion.jpeg"/>1 red onion</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/KOKUHO-RICE-SUSHI-5-LB/dp/B000FJLXHU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482159216&sr=1-3&keywords=sushi+rice&linkCode=ll1&tag=cilalime09-20&linkId=40e89fdda071997a7a56215a24965ecd"><img src="/images/sushirice.jpeg"/>1/2 cup sushi rice</a></div>
-<div id="ingredienttwo"><a href="https://www.amazon.com/Nutria-Organic-Certified-Superfood-Magnesium/dp/B019KXQDVM/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514809&sr=1-1-spons&keywords=sesame+seeds&refinements=p_85:2470955011&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=467563eedd31251bd3842de986cdd859"><img src="/images/sesameseeds.jpeg"/>2 tbsp sesame seeds</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=3eacf8e946e0323de7e947533f61f45f"><img src="/images/chiliflakes.png"/>1/2 tsp chili flakes</a></div>
+<div id="ingredientone"><img src="/images/lime.jpeg"/>1 lime</div>
+<div id="ingredienttwo"><a href=""><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
+<div id="ingredientthree"><a href=""><img src="/images/honey.png"/>2 tbsp honey</a></div>
+<div id="ingredientfour"><a href=""><img src="/images/honey.png"/>2 tbsp sesame oil</a></div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><a href=""><img src="/images/ricewinevin.png"/>1 tbsp rice wine vinegar</a></div>
+<div id="ingredienttwo"><a href=""><img src="/images/sriracha.png"/>sriracha for serving</a></div>
 </div>
 
 <div id= "equipmenthdr">
