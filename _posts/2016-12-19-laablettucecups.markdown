@@ -64,7 +64,7 @@ This addictive thai dish features spicy ground pork spiked with chiles, lime, fi
 <div id="ingredientone"><img src="/images/avocado.jpeg"/>5 sprigs mint</div>
 <div id="ingredienttwo"><img src="/images/4garlic.jpeg"/>4 cloves garlic</div>
 <div id="ingredientthree"><img src="/images/5thaichile.jpeg"/>5 thai chili or serranos</div>
-<div id="ingredientfour"><img src="/images/redonion.jpeg"/>1 red onion</a></div>
+<div id="ingredientfour"><img src="/images/redonion.jpeg"/>1 red onion</div>
 </div>
 
 <div id="ingredients">
