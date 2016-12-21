@@ -70,7 +70,7 @@ This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal
 <div id="ingredients">
 <div id="ingredientone"><a href="https://www.amazon.com/KOKUHO-RICE-SUSHI-5-LB/dp/B000FJLXHU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482159216&sr=1-3&keywords=sushi+rice&linkCode=ll1&tag=cilalime09-20&linkId=40e89fdda071997a7a56215a24965ecd"><img src="/images/sushirice.jpeg"/>1/2 cup sushi rice</a></div>
 <div id="ingredienttwo"><a href="https://www.amazon.com/Nutria-Organic-Certified-Superfood-Magnesium/dp/B019KXQDVM/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514809&sr=1-1-spons&keywords=sesame+seeds&refinements=p_85:2470955011&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=467563eedd31251bd3842de986cdd859"><img src="/images/sesameseed.jpeg"/>2 tbsp sesame seeds</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=3eacf8e946e0323de7e947533f61f45f"><img src="/images/chiliflakes.png"/>1/2 tsp chili flakes</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=3eacf8e946e0323de7e947533f61f45f"><img src="/images/chiliflakes.jpeg"/>1/2 tsp chili flakes</a></div>
 </div>
 
 <div id= "equipmenthdr">
