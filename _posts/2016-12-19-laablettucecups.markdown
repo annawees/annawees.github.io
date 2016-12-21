@@ -144,20 +144,14 @@ This addictive thai dish features spicy ground pork spiked with chiles, lime, fi
 <style>
 #backgroundvideo {
   position: absolute;
-  top: 80px;
-  left: 0;
-  right: 0;
   width: 500px;
 }
   
 #banner__video {
-    margin-left: -200px;
-    position: relative; }
+    }
 
 #overlay {
-   position: absolute; 
-   margin-top: 300px;
-   z-index: 10; }
+ }
 
 #recipedetails { width: 100%; display:inline-block; float: left;}
 #time { width: 30%; float: left; margin-left: 5%}
