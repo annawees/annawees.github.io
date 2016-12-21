@@ -128,13 +128,18 @@ This addictive thai dish features spicy ground pork spiked with chiles, lime, fi
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab8.jpeg"/> </div>
-<div id="step">Add the ground pork and brown in the pan. 
-<p> Once the pork has browned, add the lime juice mixture. Add the cilantro, basil, and mint. Sauté to mix the sauce and herbs.</p></div>
+<div id="image"><img src="/images/laab7.jpeg"/> </div>
+<div id="step">Add the ground pork and brown in the pan. </div>
 </div>
+
 
 <div id="instruction">
 <div id="image"><img src="/images/laab9.jpeg"/> </div>
+<div id="step"> Once the pork has browned, add the lime juice mixture, cilantro, basil, and mint. Sauté to mix the sauce and herbs. </div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/laab10.jpeg"/> </div>
 <div id="step">Serve the laab in the lettuce cups with the sriracha.</div>
 </div>
 
