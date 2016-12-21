@@ -89,6 +89,8 @@ With an origin in the Bangladeshi community in England, tikka masala has made it
 </div>
 
 <div id="equipment">
+<div id="equipmentone"><a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/blender.jpeg"/>blender </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/>baking sheet </a></div>
 <div id="equipmentone"><a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a></div>
 </div>
 
@@ -97,55 +99,57 @@ With an origin in the Bangladeshi community in England, tikka masala has made it
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab1.jpeg"/> </div>
-<div id="step">Dice the garlic. 
-<p>Finely slice the thai chiles.</p></div>
+<div id="image"><img src="/images/tikkamasala1.jpeg"/> </div>
+<div id="step">In a blender, combine the greek yogurt, garlic, turmeric, cayenne, garam masala, ginger, 1/4 tsp salt, and 1/4 c of water. Purée until smooth.
+<p>Toss the chicken thighs with the yogurt mixture to marinate. Transfer the chicken to the fridge. Let the chicken marinate for at least 15 minutes.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab2.jpeg"/> </div>
-<div id="step">Finely slice the onion.</div>
+<div id="image"><img src="/images/tikkamasala2.jpeg"/> </div>
+<div id="step"><i>While the chicken marinates, </i>set a saucepan with a lid on high heat with 2/3 c of water and a 1/2 teaspoon of salt. While waiting for the water to boil, place the basmati rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab3.jpeg"/> </div>
-<div id="step">Remove the leaves from the stems of the cilantro, basil, and mint.</div>
+<div id="image"><img src="/images/tikkamasala3.jpeg"/> </div>
+<div id="step">Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low and cover. Cook the rice for 16 minutes, then remove from heat. Keep the lid on the pot until ready to serve.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab4.jpeg"/> </div>
-<div id="step">Remove the bottom stem from the lettuce, and separate the leaves.</div>
+<div id="image"><img src="/images/tikkamasala4.jpeg"/> </div>
+<div id="step">Slice the onion.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab5.jpeg"/> </div>
-<div id="step">Squeeze the lime juice into a bowl. Combine with the fish sauce, rice wine vinegar, and honey.</div>
+<div id="image"><img src="/images/tikkamasala5.jpeg"/> </div>
+<div id="step">Set a large skillet or stock pot on medium heat. Add a small amount of olive oil to coat the bottom of the pan. Once the oil gets hot, add the onions and sauté until the onions become soft and tender.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab6.jpeg"/> </div>
-<div id="step">Place a large skillet on medium heat. Add the sesame oil. Once the oil is hot, add the garlic and thai chiles. Sauté until the garlic starts to turn a golden color.</div>
+<div id="image"><img src="/images/tikkamasala6.jpeg"/> </div>
+<div id="step"><i>While the onions cook, bake the chicken.</i> Move a rack to the upper portion of the oven, and set to broil. Place the chicken on the roasting pan or baking sheet. Broil the chicken for 6 minutes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab7.jpeg"/> </div>
-<div id="step">Add the red onions to the pan and sauté until the onions are tender.</div>
+<div id="image"><img src="/images/tikkamasala7.jpeg"/> </div>
+<div id="step">Once the onions have begun to brown, add the crushed tomatoes, coriander, cumin, paprika, and 1/2 c of water. Lower heat to medium. <p>After the chicken has finished broiling, add the charred chicken (along with any leftover yogurt marinade from the pan) and heavy cream to the pot. Let the sauce reduce until ready for plating. </p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab8.jpeg"/> </div>
-<div id="step">Add the ground pork and brown in the pan. </div>
+<div id="image"><img src="/images/tikkamasala8.jpeg"/> </div>
+<div id="step"><i>While the curry reduces, assemble the kachumber.</i> Cut the cucumber into bite size pieces.
+<p>Slice the cherry tomatoes in half.</p></div>
 </div>
 
 
 <div id="instruction">
-<div id="image"><img src="/images/laab9.jpeg"/> </div>
-<div id="step"> Once the pork has browned, add the lime juice mixture, cilantro, basil, and mint. Sauté to mix the sauce and herbs. </div>
+<div id="image"><img src="/images/tikkamasala9.jpeg"/> </div>
+<div id="step"> Place the cucumber and tomatoes in a bowl. Finely chop the mint and add it to the bowl along with the juice of the lime and a pinch of salt. Mix. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab10.jpeg"/> </div>
-<div id="step">Serve the laab in the lettuce cups with the sriracha.</div>
+<div id="image"><img src="/images/tikkamasala10.jpeg"/> </div>
+<div id="step">Remove the tikka masala from heat and serve with the rice and kachumber.
+<p>If desired, cut the chicken into smaller portions before serving.</p></div>
 </div>
 
 <style>
