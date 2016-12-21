@@ -23,8 +23,6 @@ This addictive thai dish features spicy ground pork spiked with chiles, lime, fi
 <div id= "serves"> Serves </div>
 </div>
 
-<div id="spacer"></div>
-
 <div id= "recipedetails">
 <div id= "time"><h3> 25 Minutes</h3> </div>
 <div id= "spice"><h3> Hot</h3> </div>
