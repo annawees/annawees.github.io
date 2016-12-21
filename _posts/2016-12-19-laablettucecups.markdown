@@ -70,13 +70,13 @@ This addictive thai dish features spicy ground pork spiked with chiles, lime, fi
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/lime.jpeg"/>1 lime</div>
 <div id="ingredienttwo"><a href=""><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
-<div id="ingredientthree"><a href=""><img src="/images/honey.png"/>2 tbsp honey</a></div>
-<div id="ingredientfour"><a href=""><img src="/images/honey.png"/>2 tbsp sesame oil</a></div>
+<div id="ingredientthree"><a href=""><img src="/images/honey.jpeg"/>2 tbsp honey</a></div>
+<div id="ingredientfour"><a href=""><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href=""><img src="/images/ricewinevin.png"/>1 tbsp rice wine vinegar</a></div>
-<div id="ingredienttwo"><a href=""><img src="/images/sriracha.png"/>sriracha for serving</a></div>
+<div id="ingredientone"><a href=""><img src="/images/ricewinevin.jpeg"/>1 tbsp rice wine vinegar</a></div>
+<div id="ingredienttwo"><a href=""><img src="/images/sriracha.jpeg"/>sriracha for serving</a></div>
 </div>
 
 <div id= "equipmenthdr">
