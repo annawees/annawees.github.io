@@ -107,6 +107,7 @@
 
 .grid__item {
   margin-bottom: 2em;
+  max-height: 500px;
 
   .page__meta {
     margin: 0 0 4px;
@@ -132,7 +133,6 @@
     margin-left: 0; /* reset before mixin does its thing*/
     margin-right: 0; /* reset before mixin does its thing*/
     @include gallery(100 of 3);
-     max-height: 500px;
 
     .archive__item-teaser {
       max-height: 120px;
