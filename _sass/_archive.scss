@@ -132,6 +132,7 @@
     margin-left: 0; /* reset before mixin does its thing*/
     margin-right: 0; /* reset before mixin does its thing*/
     @include gallery(100 of 3);
+     max-height: 500px;
 
     .archive__item-teaser {
       max-height: 120px;
