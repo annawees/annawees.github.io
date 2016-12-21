@@ -8,7 +8,7 @@ tags: [american, hawaiian, fish, salmon]
 <div class="spacer"></div>
 
 <div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video" poster="/images/salmonpokemain.jpg">
+  <video width="100%" autoplay loop muted class="banner__video" poster="/images/salmonpokemain.jpg">
   <source src="/images/pokebowl.mp4" type="video/mp4"></video>
 </div>
 
@@ -137,21 +137,14 @@ Broil the kale until crispy and browned on the edges, approx. 10-15 minutes.
 
 <style>
 #backgroundvideo {
-  position: absolute;
-  top: 80px;
-  left: 0;
-  right: 0;
-  width: 750px;
+  width: 100%;
 }
   
 #banner__video {
-    margin-left: -200px;
-    position: relative; }
+    }
 
 #overlay {
-   position: absolute; 
-   margin-top: 300px;
-   z-index: 10; }
+ }
 
 #recipedetails { width: 100%; display:inline-block; float: left;}
 #time { width: 30%; float: left; margin-left: 5%}
