@@ -1,0 +1,198 @@
+---
+layout: single
+title: Moussaka
+category: recipe
+thumbnail: "/images/moussakamain.jpg"
+tags: [balkans, greek, beef, ground beef, one pot]
+---
+<div id="spacer"></div>
+
+<div id="backgroundvideo">
+  <video width="100%" autoplay loop muted class="banner__video" poster="/images/moussakamain.jpg">
+  <source src="/images/moussaka.mp4" type="video/mp4"></video>
+</div>
+
+<div id="recipedescription">
+Moussaka is the ultimate comfort food of the Balkans. Beef is cooked with cinnamon, allspice, paprika, bay, and clove in perfect contrast with the eggplant, greek yogurt and parmesan crust.</div>
+
+<div id="spacer"></div>
+
+<div id= "recipedetails">
+<div id= "time"> Time </div>
+<div id= "spice"> Spice </div>
+<div id= "serves"> Serves </div>
+</div>
+
+<div id= "recipedetails">
+<div id= "time"><h3> 45 Min</h3> </div>
+<div id= "spice"><h3> Mild</h3> </div>
+<div id= "serves"><h3> Two </h3> </div>
+</div>
+
+<div id="spacer"></div>
+
+<div id= "nutrition">
+<div id="calories"> Calories </div>
+<div id="carbs"> Carbs </div>
+<div id="fiber"> Fiber </div>
+<div id="fat"> Fat </div>
+<div id="protein"> Protein </div>
+</div>
+
+<div id= "nutrition">
+<div id="calories"><h3> 470 </h3> </div>
+<div id="carbs"><h3> 35g</h3> </div>
+<div id="fiber"><h3> 12g</h3> </div>
+<div id="fat"><h3> 14g</h3> </div>
+<div id="protein"><h3> 50g</h3> </div>
+</div>
+
+<div id= "ingredienthdr">
+<h1>Ingredients</h1>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/groundbeef.jpeg"/> 1/2 lb ground beef chuck </div>
+<div id="ingredienttwo"><img src="/images/yogurt.jpeg"/>1/2 cup greek yogurt</div>
+<div id="ingredientthree"><img src="/images/egg.jpeg"/>1 egg</div>
+<div id="ingredientfour"><img src="/images/parmesan.jpeg"/>1 oz parmigiano reggiano</div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/eggplant.jpeg"/>1 eggplant</div>
+<div id="ingredienttwo"><img src="/images/4garlic.jpeg"/>4 garlic cloves</div>
+<div id="ingredientthree"><img src="/images/onion.jpeg"/>1 onion</div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Cento-Tomato-Puree-28-Ounce-Cans/dp/B001SAWI38/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482333195&sr=1-3&keywords=cento+tomato&linkCode=ll1&tag=cilalime09-20&linkId=ccb14c2a0715f68ddd77ec1f32cb0670"><img src="/images/tomatopuree.jpeg"/>1 cup tomato puree</a></div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><a href="https://www.amazon.com/Simply-Organic-Certified-0-14-Ounce-Container/dp/B0012BS9F4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335352&sr=1-1&keywords=simply+organic+bay&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c8a097e1230c862f6ce966bf3962812b"><img src="/images/bayleaf.jpeg"/>1 bay leaf</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Simply-Organic-Whole-Cloves-Ounce/dp/B00AJRKKI6/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335321&sr=1-2&keywords=simply+organic+clove&linkCode=ll1&tag=cilalime09-20&linkId=5eaa5767cf3f84fa5636e8d463216e55"><img src="/images/2cloves.jpeg"/>2 cloves</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Spicy-World-Spice-Whole-3-5oz/dp/B000JMFCKC/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1482335223&sr=1-4&keywords=allspice+berries&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=91524089cbac4e41762dad3240269fdb"><img src="/images/2allspice.jpeg"/>2 allspice berries</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Simply-Organic-Paprika-Certified-Container/dp/B00269YPB8/ref=as_li_ss_tl?ie=UTF8&qid=1482332836&sr=8-4&keywords=paprika&th=1&linkCode=ll1&tag=cilalime09-20&linkId=666143452f32389dcc75ba9ebcddd1b0"><img src="/images/paprika.jpeg"><img src="/images/paprika.jpeg"/>1 tsp paprika</a></div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><a href="https://www.amazon.com/Simply-Organic-Certified-2-45-Ounce-Container/dp/B000WS1KHM/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335146&sr=1-3&keywords=simply+organic+cinnamon&linkCode=ll1&tag=cilalime09-20&linkId=c53b25651c8d91b863cfc8aaa14105db"><img src="/images/groundcinnamon.jpeg"/>1/4 tsp cinnamon</a></div>
+</div>
+
+<div id= "equipmenthdr">
+<h1>Equipment</h1>
+</div>
+
+<div id="equipment">
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>oven safe stockpot </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Simply-Organic-Certified-0-14-Ounce-Container/dp/B0012BS9F4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335352&sr=1-1&keywords=simply+organic+bay&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c8a097e1230c862f6ce966bf3962812b"><img src="/images/whisk.jpeg"/>whisk </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Microplane-35009-Medium-Ribbon-Grater/dp/B00009WE3V/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482039177&sr=1-10&keywords=microplane&linkCode=ll1&tag=cilalime09-20&linkId=e0f7f0f676e7565f4b0f1ff0b4f8c1f6"><img src="/images/coarsegrater.jpeg"/>coarse grater </a></div>
+</div>
+
+<div id="preparation">
+<h1>Preparation</h1>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala1.jpeg"/> </div>
+<div id="step">In a blender, combine the greek yogurt, garlic, turmeric, cayenne, garam masala, ginger, 1/4 tsp salt, and 1/4 c of water. Purée until smooth.
+<p>Toss the chicken thighs with the yogurt mixture to marinate. Transfer the chicken to the fridge. Let the chicken marinate for at least 15 minutes.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala2.jpeg"/> </div>
+<div id="step"><i>While the chicken marinates, </i>set a saucepan with a lid on high heat with 2/3 c of water and a 1/2 teaspoon of salt. While waiting for the water to boil, place the basmati rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala3.jpeg"/> </div>
+<div id="step">Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low and cover. Cook the rice for 16 minutes, then remove from heat. Keep the lid on the pot until ready to serve.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala4.jpeg"/> </div>
+<div id="step">Slice the onion.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala5.jpeg"/> </div>
+<div id="step">Set a large skillet or stock pot on medium heat. Add a small amount of olive oil to coat the bottom of the pan. Once the oil gets hot, add the onions and sauté until the onions become soft and tender.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala6.jpeg"/> </div>
+<div id="step"><i>While the onions cook, bake the chicken.</i> Move a rack to the upper portion of the oven, and set to broil. Place the chicken on the roasting pan or baking sheet. Broil the chicken for 6 minutes.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala7.jpeg"/> </div>
+<div id="step">Once the onions have begun to brown, add the crushed tomatoes, coriander, cumin, paprika, and 1/2 c of water. Lower heat to medium. <p>After the chicken has finished broiling, add the charred chicken (along with any leftover yogurt marinade from the pan) and heavy cream to the pot. Let the sauce reduce until ready for plating. </p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala8.jpeg"/> </div>
+<div id="step"><i>While the curry reduces, assemble the kachumber.</i> Cut the cucumber into bite size pieces.
+<p>Slice the cherry tomatoes in half.</p></div>
+</div>
+
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala9.jpeg"/> </div>
+<div id="step"> Place the cucumber and tomatoes in a bowl. Finely chop the mint and add it to the bowl along with the juice of the lime and a pinch of salt. Mix. </div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/tikkamasala10.jpeg"/> </div>
+<div id="step">Remove the tikka masala from heat and serve with the rice and kachumber.
+<p>If desired, cut the chicken into smaller portions before serving.</p></div>
+</div>
+
+<style>
+#backgroundvideo {
+  width: 100%;
+}
+  
+#banner__video {
+    }
+
+#overlay {
+ }
+
+#recipedetails { width: 100%; display:inline-block; float: left;}
+#time { width: 30%; float: left; margin-left: 5%}
+#spice { width: 30%; float: left;}
+#serves { width 30%; float: left; margin-left: 5%;}
+.clear {clear:both;}
+
+#spacer {padding-top:50px;}
+
+#nutrition { width: 100%; display:inline-block;}
+#calories { width: 18%; float: left; margin-left: 5%;}
+#carbs { width: 18%; float: left; margin-left: 0%;}
+#fiber { width: 18%; float: left; margin-left: 0%;}
+#fat { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-right:5%;}
+.clear {clear:both;}
+
+#ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
+
+#ingredients { width: 95%; display:inline-block;}
+#ingredientone { width: 20%; float:left;}
+#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
+#ingredientthree { width:20%; float:left; margin-left: 5%;}
+#ingredientfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
+
+#equipment { width: 95%; display:inline-block;}
+#equipmentone { width: 20%; float:left;}
+#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
+#equipmentthree { width:20%; float:left; margin-left: 5%;}
+#equipmentfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#preparation { margin-top: 150px; margin-bottom: 50px; font-family: $serif;}
+
+#instruction { width:95%; display:inline-block;}
+#image { width: 40%; float:left;}
+#step { width: 50%; float:right; margin-top: 30px; margin-bottom: 30px;}
+.clear {clear:both;}
+</style>
