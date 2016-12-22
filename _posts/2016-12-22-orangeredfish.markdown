@@ -60,8 +60,8 @@ Nestled between a bed of snow peas and a salad of shaved radishes, dulce pepper 
 
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/2scallions.jpeg"/>2 scallions</div>
-<div id="ingredienttwo"><a href=""/><img src="/images/dulce.jpeg"/>1 dulce pepper</a></div>
-<div id="ingredientthree"><a href=""><img src="/images/orange.jpeg"/>2 oranges</a></div>
+<div id="ingredienttwo"><img src="/images/dulce.jpeg"/>1 dulce pepper</div>
+<div id="ingredientthree"><img src="/images/orange.jpeg"/>2 oranges</div>
 <div id="ingredientfour"><a href=""><img src="/images/tamari.jpeg"/>3 tbsp tamari</a></div>
 </div>
 
