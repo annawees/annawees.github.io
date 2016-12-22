@@ -1,0 +1,182 @@
+---
+layout: single
+title: Ssampop
+category: recipe
+thumbnail: "/images/ssampopmain.jpg"
+tags: [chicken, chicken wing, korean]
+---
+<div id="spacer"></div>
+
+<div id="backgroundvideo">
+  <video width="100%" autoplay loop muted class="banner__video" poster="/images/ssampopmain.jpg">
+  <source src="/images/ssampop.mp4" type="video/mp4"></video>
+</div>
+
+<div id="recipedescription">
+Chicken drumettes are baked until perfectly crunchy and crispy and then tossed in Korean ssamjang sauce
+<div id="spacer"></div>
+
+<div id= "recipedetails">
+<div id= "time"> Time </div>
+<div id= "spice"> Spice </div>
+<div id= "serves"> Serves </div>
+</div>
+
+<div id= "recipedetails">
+<div id= "time"><h3> 35 Min</h3> </div>
+<div id= "spice"><h3> Medium</h3> </div>
+<div id= "serves"><h3> 2 </h3> </div>
+</div>
+
+<div id="spacer"></div>
+
+<div id= "nutrition">
+<div id="calories"> Calories </div>
+<div id="carbs"> Carbs </div>
+<div id="fiber"> Fiber </div>
+<div id="fat"> Fat </div>
+<div id="protein"> Protein </div>
+</div>
+
+<div id= "nutrition">
+<div id="calories"><h3> 550 </h3> </div>
+<div id="carbs"><h3> 28g</h3> </div>
+<div id="fiber"><h3> 1g</h3> </div>
+<div id="fat"><h3> 18g</h3> </div>
+<div id="protein"><h3> 67g</h3> </div>
+</div>
+
+<div id= "ingredienthdr">
+<h1>Ingredients</h1>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/chickendrumettes.jpeg"/> 1 dozen chicken wings or drumettes </div>
+<div id="ingredienttwo"><img src="/images/4scallions.jpeg"/>4 scallions</div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Haechandle-Seasoned-Soybean-Paste-500g/dp/B00P9F56BY/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482418913&sr=1-1&keywords=ssamjang&linkCode=ll1&tag=cilalime09-20&linkId=241628f62d49f68c0b553a119f3a0426"><img src="/images/ssamjang.jpeg"/>1/4 cup ssamjang</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Kikkoman-Soy-Sauce-33-8-oz/dp/B003XDIU30/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514395&sr=1-2&keywords=soy+sauce&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=415765787bbc2dc8941eee7571122ef7"><img src="/images/tamari.jpeg"/>1/4 cup soy sauce</a></div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><a href="https://www.amazon.com/Nature-Nates-Unfiltered-Honey-Ounce/dp/B00CMQD3VS/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514747&sr=1-4&keywords=honey&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c74164ead4b1770a01e96a377874ba4a"><img src="/images/honey.jpeg"/>3 tbsp honey</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Nutria-Organic-Certified-Superfood-Magnesium/dp/B019KXQDVM/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514809&sr=1-1-spons&keywords=sesame+seeds&refinements=p_85:2470955011&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=467563eedd31251bd3842de986cdd859"><img src="/images/sesameseeds.jpeg"/>1 tbsp sesame seeds</a></div>
+</div>
+
+<div id= "equipmenthdr">
+<h1>Equipment</h1>
+</div>
+
+<div id="equipment">
+<div id="equipmentone"><a href=""><img src="/images/bakingsheet.jpeg"/> baking sheet </a></div>
+<div id="equipmentone"><a href=""><img src="/images/whisk.jpeg"/> whisk </a></div>
+</div>
+
+<div id="preparation">
+<h1>Preparation</h1>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/sanbeiji1.jpeg"/> </div>
+<div id="step">Set a saucepan with 2/3 cup of water and 1/4 tsp of salt on high heat.
+<p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/sanbeiji2.jpeg"/> </div>
+<div id="step">Once the water has come to a boil add the washed jasmine rice, cover, and cook for 15 minutes.
+<p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the rice.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/sanbeiji3.jpeg"/> </div>
+<div id="step">Finely slice the scallions. Remove the basil leaves from the stem.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/sanbeiji4.jpeg"/> </div>
+<div id="step">Cut the chicken into bite size pieces.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/sanbeiji5.jpeg"/> </div>
+<div id="step">Coat the bottom of a large skillet or sauté pan with half of the sesame oil and place on high heat. Once the oil is hot, add the whole garlic cloves, scallions, and whole dried chiles to the pan and cook until the garlic turns golden brown.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/sanbeiji6.jpeg"/> </div>
+<div id="step">Add the chicken to the pan and brown the exterior.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/sanbeiji7.jpeg"/> </div>
+<div id="step">Once the chicken has browned add the soy sauce and shaoxing wine to the pan. Reduce the heat to medium and cook until the shoaxing wine and soy has reduced into a thick sauce. Add the basil leaves into the pan and toss.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/sanbeiji8.jpeg"/> </div>
+<div id="step"><i>While the sauce is reducing, cook the bok choy.</i> Coat the bottom of a skillet with the remaining sesame oil, and place on medium high heat. Once the oil is hot, add the bok choy. Sauté until the bok choy begins to char. Add a 1/4 c water to the pan, and cover. Cook until all the water has evaporated, approximately 2 minutes.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/sanbeiji9.jpeg"/> </div>
+<div id="step">Plate the jasmine rice with the bok choy. Lay the San Bei Jei on the plate and top with the reduced sauce from the pan.</div>
+</div>
+
+
+<div id="instruction">
+<div id="image"><img src="/images/cottagepie9.jpeg"/> </div>
+<div id="step"> Serve warm. </div>
+</div>
+
+<style>
+#backgroundvideo {
+  width: 100%;
+}
+  
+#banner__video {
+    }
+
+#overlay {
+ }
+
+#recipedetails { width: 100%; display:inline-block; float: left;}
+#time { width: 30%; float: left; margin-left: 5%}
+#spice { width: 30%; float: left;}
+#serves { width 30%; float: left; margin-left: 5%;}
+.clear {clear:both;}
+
+#spacer {padding-top:50px;}
+
+#nutrition { width: 100%; display:inline-block;}
+#calories { width: 18%; float: left; margin-left: 5%;}
+#carbs { width: 18%; float: left; margin-left: 0%;}
+#fiber { width: 18%; float: left; margin-left: 0%;}
+#fat { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-right:5%;}
+.clear {clear:both;}
+
+#ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
+
+#ingredients { width: 95%; display:inline-block;}
+#ingredientone { width: 20%; float:left;}
+#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
+#ingredientthree { width:20%; float:left; margin-left: 5%;}
+#ingredientfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
+
+#equipment { width: 95%; display:inline-block;}
+#equipmentone { width: 20%; float:left;}
+#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
+#equipmentthree { width:20%; float:left; margin-left: 5%;}
+#equipmentfour { width:20%; float:left; margin-left: 5%;}
+.clear {clear:both;}
+
+#preparation { margin-top: 150px; margin-bottom: 50px; font-family: $serif;}
+
+#instruction { width:95%; display:inline-block;}
+#image { width: 40%; float:left;}
+#step { width: 50%; float:right; margin-top: 30px; margin-bottom: 30px;}
+.clear {clear:both;}
+</style>
