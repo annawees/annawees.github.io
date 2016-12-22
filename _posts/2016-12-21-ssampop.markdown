@@ -67,8 +67,8 @@ Chicken drumettes are baked until perfectly crunchy and crispy and then tossed i
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href=""><img src="/images/bakingsheet.jpeg"/> baking sheet </a></div>
-<div id="equipmentone"><a href=""><img src="/images/whisk.jpeg"/> whisk </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/> baking sheet </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Simply-Organic-Certified-0-14-Ounce-Container/dp/B0012BS9F4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335352&sr=1-1&keywords=simply+organic+bay&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c8a097e1230c862f6ce966bf3962812b"><img src="/images/whisk.jpeg"/> whisk </a></div>
 </div>
 
 <div id="preparation">
@@ -76,57 +76,38 @@ Chicken drumettes are baked until perfectly crunchy and crispy and then tossed i
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji1.jpeg"/> </div>
-<div id="step">Set a saucepan with 2/3 cup of water and 1/4 tsp of salt on high heat.
-<p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</p></div>
+<div id="image"><img src="/images/ssampop1.jpeg"/> </div>
+<div id="step">Preheat the oven to 425˚ and move one of the trays to the upper rack of the oven.
+<p>Evenly space the drummettes on a baking sheet. Place the drummettes  in the oven for 25 minutes.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji2.jpeg"/> </div>
-<div id="step">Once the water has come to a boil add the washed jasmine rice, cover, and cook for 15 minutes.
-<p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the rice.</p></div>
+<div id="image"><img src="/images/ssampop2.jpeg"/> </div>
+<div id="step">Finely slice the scallions. Set aside for plating.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji3.jpeg"/> </div>
-<div id="step">Finely slice the scallions. Remove the basil leaves from the stem.</div>
+<div id="image"><img src="/images/ssampop3.jpeg"/> </div>
+<div id="step">Place the ssamjang, remaining soy sauce, honey, and 1/2 a cup of water in a saucepan. Place on the lowest heat setting.
+<p>Whisk and keep on low until the chicken has finished cooking.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji4.jpeg"/> </div>
-<div id="step">Cut the chicken into bite size pieces.</div>
+<div id="image"><img src="/images/ssampop4.jpeg"/> </div>
+<div id="step">By now, the chicken will have cooked for 25 minutes and the exteriors will be brown.
+<p>Raise the heat to a broil and cook for 3 more minutes, flip over, and cook for 3 minutes to evenly crisp the skin.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji5.jpeg"/> </div>
-<div id="step">Coat the bottom of a large skillet or sauté pan with half of the sesame oil and place on high heat. Once the oil is hot, add the whole garlic cloves, scallions, and whole dried chiles to the pan and cook until the garlic turns golden brown.</div>
+<div id="image"><img src="/images/ssampop5.jpeg"/> </div>
+<div id="step">Once the chicken has finished cooking, transfer the chicken to a bowl and cover with the ssamjang sauce. Toss.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji6.jpeg"/> </div>
-<div id="step">Add the chicken to the pan and brown the exterior.</div>
+<div id="image"><img src="/images/ssampop6.jpeg"/> </div>
+<div id="step">Top the chicken with sesame seeds and scallions.</div>
 </div>
 
-<div id="instruction">
-<div id="image"><img src="/images/sanbeiji7.jpeg"/> </div>
-<div id="step">Once the chicken has browned add the soy sauce and shaoxing wine to the pan. Reduce the heat to medium and cook until the shoaxing wine and soy has reduced into a thick sauce. Add the basil leaves into the pan and toss.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/sanbeiji8.jpeg"/> </div>
-<div id="step"><i>While the sauce is reducing, cook the bok choy.</i> Coat the bottom of a skillet with the remaining sesame oil, and place on medium high heat. Once the oil is hot, add the bok choy. Sauté until the bok choy begins to char. Add a 1/4 c water to the pan, and cover. Cook until all the water has evaporated, approximately 2 minutes.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/sanbeiji9.jpeg"/> </div>
-<div id="step">Plate the jasmine rice with the bok choy. Lay the San Bei Jei on the plate and top with the reduced sauce from the pan.</div>
-</div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/cottagepie9.jpeg"/> </div>
-<div id="step"> Serve warm. </div>
-</div>
 
 <style>
 #backgroundvideo {
