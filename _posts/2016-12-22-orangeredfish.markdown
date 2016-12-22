@@ -3,7 +3,7 @@ layout: single
 title: Redfish with Orange & Tamari
 category: recipe
 thumbnail: "/images/orangeredfishmain.jpg"
-tags: [chicken, chicken thigh, chinese, taiwanese]
+tags: [american, fish, redfish]
 ---
 <div id="spacer"></div>
 
