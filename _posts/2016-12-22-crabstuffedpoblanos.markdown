@@ -50,8 +50,6 @@ Charred poblanos are stuffed with crab tossed in spices and served with a decade
 <h1>Ingredients</h1>
 </div>
 
-1 tsp ground cumin
-1 tsp New Mexico chili powder
 1/2 tsp chile de arbol powder
 1/2 tsp ancho powder
 
@@ -65,12 +63,14 @@ Charred poblanos are stuffed with crab tossed in spices and served with a decade
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/2shallots.jpeg"/>2 shallots</div>
 <div id="ingredienttwo"><img src="/images/lime.jpeg"/>1 lime</div>
-<div id="ingredientthree"><a href=""><img src="/images/orange.jpeg"/>2 oranges</a></div>
-<div id="ingredientfour"><a href=""><img src="/images/tamari.jpeg"/>3 tbsp tamari</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_ss_tl?ie=UTF8&th=1&linkCode=ll1&tag=cilalime09-20&linkId=8417836f12fe1f7cc76dab4399145eeb"><img src="/images/groundcumin.jpeg"/>1 tsp ground cumin</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Spicely-Organic-Chili-Powder-Seasoning/dp/B00A3811VG/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482449914&sr=1-2&keywords=simply+organic+new+mexico&th=1&linkCode=ll1&tag=cilalime09-20&linkId=fa28c0daa2ea6a72eccf9b47215ee38c"><img src="/images/nmchili.jpeg"/>1 tsp ground New Mexico chili</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ricewinevin.jpeg"/>1/4 cup rice wine vinegar</div>
+<div id="ingredientthree"><a href="https://www.amazon.com/gp/product/B0035O0ZRQ/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=cilalime09-20&linkId=aba449dab4c1baa873470332e8d6386d"><img src="/images/groundchilidearbol.jpeg"/>1/2 tsp ground chili de arbol</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Spicely-Organic-Chili-Ancho-Ground/dp/B00A3811QQ/ref=as_li_ss_tl?_encoding=UTF8&refRID=B1TJ51TTWTWZT8ZJK4FC&th=1&linkCode=ll1&tag=cilalime09-20&linkId=fc32e5417ac33628cb9ab228cc5fbb7d"><img src="/images/groundancho.jpeg"/>1/2 tsp ground ancho</a></div>
+</div>
 
 <div id= "equipmenthdr">
 <h1>Equipment</h1>
