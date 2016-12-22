@@ -123,7 +123,7 @@
   }
 
   @include breakpoint($small) {
-    @include gallery(100 of 2);
+    @include gallery(10 of 10);
     .archive__item-teaser {
       max-height: 200px;
     }
@@ -132,7 +132,7 @@
   @include breakpoint($medium) {
     margin-left: 0; /* reset before mixin does its thing*/
     margin-right: 0; /* reset before mixin does its thing*/
-    @include gallery(100 of 3);
+    @include gallery(5 of 10);
 
     .archive__item-teaser {
       max-height: 120px;
