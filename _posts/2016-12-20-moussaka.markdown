@@ -3,7 +3,7 @@ layout: single
 title: Moussaka
 category: recipe
 thumbnail: "/images/moussakamain.jpg"
-tags: [balkans, greek, beef, ground beef, one pot]
+tags: [balkans, greek, beef, ground beef]
 ---
 <div id="spacer"></div>
 
