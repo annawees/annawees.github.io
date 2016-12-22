@@ -131,7 +131,12 @@
   @include breakpoint($medium) {
     margin-left: 0; /* reset before mixin does its thing*/
     margin-right: 0; /* reset before mixin does its thing*/
-    @include gallery(5 of 10);
+    @include gallery(5 of 10 split);
+     
+  &:nth-child(4),
+  &:nth-child(7), {
+    width: (10 of 10 split);
+  }
 
     .archive__item-teaser {
       max-height: 120px;
