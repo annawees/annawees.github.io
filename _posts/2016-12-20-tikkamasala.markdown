@@ -81,7 +81,7 @@ With an origin in the Bangladeshi community in England, tikka masala has made it
 
 <div id="ingredients">
 <div id="ingredientone"><a href="https://www.amazon.com/Simply-Organic-Certified-2-31-Ounce-Container/dp/B000WS3AJS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482332996&sr=1-1&keywords=simply+organic+cumin&th=1&linkCode=ll1&tag=cilalime09-20&linkId=a50b240d3d07847a35bf6e7f32eef3c2"><img src="/images/groundcumin.jpeg"/>1 tsp ground cumin</a></div>
-<div id="ingredienttwo"><a href="https://www.amazon.com/Simply-Organic-Coriander-2-29-oz/dp/B000WS1KI6/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482333042&sr=1-1&keywords=simply+organic+coriander&th=1&linkCode=ll1&tag=cilalime09-20&linkId=2d3beba70ed3e0330cbf6ac55a4571ae"><img src="/images/groundcayenne.jpeg"/>1 tsp ground coriander</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Simply-Organic-Coriander-2-29-oz/dp/B000WS1KI6/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482333042&sr=1-1&keywords=simply+organic+coriander&th=1&linkCode=ll1&tag=cilalime09-20&linkId=2d3beba70ed3e0330cbf6ac55a4571ae"><img src="/images/groundcoriander.jpeg"/>1 tsp ground coriander</a></div>
 </div>
 
 <div id= "equipmenthdr">
