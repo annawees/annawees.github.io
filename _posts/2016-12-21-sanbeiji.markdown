@@ -59,9 +59,9 @@ This classic Taiwanese dish delivers on flavor. Tender chicken is cooked with sw
 
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/12garliccloves.jpeg"/>12 garlic cloves</div>
-<div id="ingredienttwo"><a href="https://www.amazon.com/Michiu-Rice-Cooking-Wine-750ml/dp/B0086XT6Z8/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1482382553&sr=1-1&keywords=rice+wine&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=04504e3c65f5f9d10f0595d9d835b71a"/><img src="/images/ricewine.jpeg"/>1/2 cup rice wine</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/Kikkoman-Soy-Sauce-33-8-oz/dp/B003XDIU30/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514395&sr=1-2&keywords=soy+sauce&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=415765787bbc2dc8941eee7571122ef7"/><img src="/images/tamari.jpeg"/>1/4 cup soy sauce</a></div>
-<div id="ingredientfour"><a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?ie=UTF8&qid=1481514125&sr=8-3&keywords=sesame+oil&th=1&linkCode=ll1&tag=cilalime09-20&linkId=e3b1a64ef44b71e6247134f6cf267b92"/><img src="/images/sesameoil.jpeg"/>3 tbsp sesame oil</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Michiu-Rice-Cooking-Wine-750ml/dp/B0086XT6Z8/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1482382553&sr=1-1&keywords=rice+wine&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=04504e3c65f5f9d10f0595d9d835b71a"><img src="/images/ricewine.jpeg"/>1/2 cup rice wine</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Kikkoman-Soy-Sauce-33-8-oz/dp/B003XDIU30/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514395&sr=1-2&keywords=soy+sauce&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=415765787bbc2dc8941eee7571122ef7"><img src="/images/tamari.jpeg"/>1/4 cup soy sauce</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?ie=UTF8&qid=1481514125&sr=8-3&keywords=sesame+oil&th=1&linkCode=ll1&tag=cilalime09-20&linkId=e3b1a64ef44b71e6247134f6cf267b92"><img src="/images/sesameoil.jpeg"/>3 tbsp sesame oil</a></div>
 </div>
 
 <div id="ingredients">
