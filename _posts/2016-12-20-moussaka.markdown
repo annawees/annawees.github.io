@@ -91,57 +91,56 @@ Moussaka is the ultimate comfort food of the Balkans. Beef is cooked with cinnam
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/tikkamasala1.jpeg"/> </div>
-<div id="step">In a blender, combine the greek yogurt, garlic, turmeric, cayenne, garam masala, ginger, 1/4 tsp salt, and 1/4 c of water. Purée until smooth.
-<p>Toss the chicken thighs with the yogurt mixture to marinate. Transfer the chicken to the fridge. Let the chicken marinate for at least 15 minutes.</p></div>
+<div id="image"><img src="/images/moussaka1.jpeg"/> </div>
+<div id="step">Move a rack to the upper 1/3 of the oven, and set the oven to broil.
+<p>Cut the eggplant into 1/3" slices.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/tikkamasala2.jpeg"/> </div>
-<div id="step"><i>While the chicken marinates, </i>set a saucepan with a lid on high heat with 2/3 c of water and a 1/2 teaspoon of salt. While waiting for the water to boil, place the basmati rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</div>
+<div id="image"><img src="/images/moussaka2.jpeg"/> </div>
+<div id="step">Lay the eggplant slices on a baking sheet or roasting pan. Lightly toss with a small amount of olive oil, and sprinkle with a pinch of salt.
+<p>Place the eggplant in the oven and broil for 5 minutes, flip, and then broil on the other side.</p>
+<p><i>Note: Every broiler is different, keep an eye on the eggplant and avoid burning the eggplant.</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/tikkamasala3.jpeg"/> </div>
-<div id="step">Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low and cover. Cook the rice for 16 minutes, then remove from heat. Keep the lid on the pot until ready to serve.</div>
+<div id="image"><img src="/images/moussaka3.jpeg"/> </div>
+<div id="step">Finely dice the garlic.
+<p>Finely chop the onion.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/tikkamasala4.jpeg"/> </div>
-<div id="step">Slice the onion.</div>
+<div id="image"><img src="/images/moussaka4.jpeg"/> </div>
+<div id="step">Add a small amount of olive oil to the bottom of a stockpot and set on medium high heat.
+<p>Once the oil is hot, add the garlic and onion. Sauté until the onion is golden brown.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/tikkamasala5.jpeg"/> </div>
-<div id="step">Set a large skillet or stock pot on medium heat. Add a small amount of olive oil to coat the bottom of the pan. Once the oil gets hot, add the onions and sauté until the onions become soft and tender.</div>
+<div id="image"><img src="/images/moussaka5.jpeg"/> </div>
+<div id="step">Add the ground beef and a 1/4 tsp of salt to the onions and garlic. Sauté until the beef has browned.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/tikkamasala6.jpeg"/> </div>
-<div id="step"><i>While the onions cook, bake the chicken.</i> Move a rack to the upper portion of the oven, and set to broil. Place the chicken on the roasting pan or baking sheet. Broil the chicken for 6 minutes.</div>
+<div id="image"><img src="/images/moussaka6.jpeg"/> </div>
+<div id="step">Add the tomato, cinnamon, allspice, half of the paprika, bay leaf, cloves and a 1/2 cup of water to the stockpot. Reduce the heat to medium an dcook for 10 minutes to reduce the sauce and allow the flavors to meld together.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/tikkamasala7.jpeg"/> </div>
-<div id="step">Once the onions have begun to brown, add the crushed tomatoes, coriander, cumin, paprika, and 1/2 c of water. Lower heat to medium. <p>After the chicken has finished broiling, add the charred chicken (along with any leftover yogurt marinade from the pan) and heavy cream to the pot. Let the sauce reduce until ready for plating. </p></div>
+<div id="image"><img src="/images/moussaka7.jpeg"/> </div>
+<div id="step">Turn the broiler on. 
+<p>Place the greek yogurt, egg, remaining paprika and a 1/4 tsp of salt in a bowl. Whisk until combined.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/tikkamasala8.jpeg"/> </div>
-<div id="step"><i>While the curry reduces, assemble the kachumber.</i> Cut the cucumber into bite size pieces.
-<p>Slice the cherry tomatoes in half.</p></div>
+<div id="image"><img src="/images/moussaka8.jpeg"/> </div>
+<div id="step">Cover the beef with the broiled eggplants. Pour the greek yogurt mixture over the eggplant. Grate the parmesan on top.
+<p>Move the stockpot into the oven and broil for 5 minutes, or until a bubbly golden crust forms on top.</p></div>
 </div>
 
 
 <div id="instruction">
-<div id="image"><img src="/images/tikkamasala9.jpeg"/> </div>
-<div id="step"> Place the cucumber and tomatoes in a bowl. Finely chop the mint and add it to the bowl along with the juice of the lime and a pinch of salt. Mix. </div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/tikkamasala10.jpeg"/> </div>
-<div id="step">Remove the tikka masala from heat and serve with the rice and kachumber.
-<p>If desired, cut the chicken into smaller portions before serving.</p></div>
+<div id="image"><img src="/images/moussaka9.jpeg"/> </div>
+<div id="step"> Serve the moussaka directly from the stockpot. </div>
 </div>
 
 <style>
