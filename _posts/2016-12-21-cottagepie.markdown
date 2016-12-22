@@ -23,7 +23,7 @@ This classic british dish is brought to new heights with Indian spices. Onions, 
 </div>
 
 <div id= "recipedetails">
-<div id= "time"><h3> 45 Min</h3> </div>
+<div id= "time"><h3> 1 Hr 15 Min</h3> </div>
 <div id= "spice"><h3> Mild</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
@@ -39,11 +39,11 @@ This classic british dish is brought to new heights with Indian spices. Onions, 
 </div>
 
 <div id= "nutrition">
-<div id="calories"><h3> 470 </h3> </div>
-<div id="carbs"><h3> 35g</h3> </div>
-<div id="fiber"><h3> 12g</h3> </div>
-<div id="fat"><h3> 14g</h3> </div>
-<div id="protein"><h3> 50g</h3> </div>
+<div id="calories"><h3> 580 </h3> </div>
+<div id="carbs"><h3> 47g</h3> </div>
+<div id="fiber"><h3> 8g</h3> </div>
+<div id="fat"><h3> 20g</h3> </div>
+<div id="protein"><h3> 47g</h3> </div>
 </div>
 
 <div id= "ingredienthdr">
@@ -52,27 +52,27 @@ This classic british dish is brought to new heights with Indian spices. Onions, 
 
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/groundbeef.jpeg"/> 1/2 lb ground beef chuck </div>
-<div id="ingredienttwo"><img src="/images/yogurt.jpeg"/>1/2 cup greek yogurt</div>
-<div id="ingredientthree"><img src="/images/egg.jpeg"/>1 egg</div>
-<div id="ingredientfour"><img src="/images/parmesan.jpeg"/>1 oz parmigiano reggiano</div>
+<div id="ingredienttwo"><img src="/images/peas.jpeg"/>1/4 cup milk</div>
+<div id="ingredientthree"><img src="/images/carrot.jpeg"/>1/4 cup cream</div>
+<div id="ingredientfour"><img src="/images/peas.jpeg"/>1/2 cup fresh or defrosted peas</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/eggplant.jpeg"/>1 eggplant</div>
-<div id="ingredienttwo"><img src="/images/4garlic.jpeg"/>4 garlic cloves</div>
+<div id="ingredientone"><img src="/images/carrot.jpeg"/>1 carrot</div>
+<div id="ingredienttwo"><img src="/images/goldpotatoes.jpeg"/>3/4 lb gold potatoes</div>
 <div id="ingredientthree"><img src="/images/onion.jpeg"/>1 onion</div>
 <div id="ingredientfour"><a href="https://www.amazon.com/Cento-Tomato-Puree-28-Ounce-Cans/dp/B001SAWI38/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482333195&sr=1-3&keywords=cento+tomato&linkCode=ll1&tag=cilalime09-20&linkId=ccb14c2a0715f68ddd77ec1f32cb0670"><img src="/images/tomatopuree.jpeg"/>1 cup tomato puree</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/Simply-Organic-Certified-0-14-Ounce-Container/dp/B0012BS9F4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335352&sr=1-1&keywords=simply+organic+bay&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c8a097e1230c862f6ce966bf3962812b"><img src="/images/bayleaf.jpeg"/>1 bay leaf</a></div>
-<div id="ingredienttwo"><a href="https://www.amazon.com/Simply-Organic-Whole-Cloves-Ounce/dp/B00AJRKKI6/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335321&sr=1-2&keywords=simply+organic+clove&linkCode=ll1&tag=cilalime09-20&linkId=5eaa5767cf3f84fa5636e8d463216e55"><img src="/images/2cloves.jpeg"/>2 cloves</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/Spicy-World-Spice-Whole-3-5oz/dp/B000JMFCKC/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1482335223&sr=1-4&keywords=allspice+berries&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=91524089cbac4e41762dad3240269fdb"><img src="/images/2allspice.jpeg"/>2 allspice berries</a></div>
-<div id="ingredientfour"><a href="https://www.amazon.com/Simply-Organic-Paprika-Certified-Container/dp/B00269YPB8/ref=as_li_ss_tl?ie=UTF8&qid=1482332836&sr=8-4&keywords=paprika&th=1&linkCode=ll1&tag=cilalime09-20&linkId=666143452f32389dcc75ba9ebcddd1b0"><img src="/images/paprika.jpeg"><img src="/images/paprika.jpeg"/>1 tsp paprika</a></div>
+<div id="ingredientone"><a href=""><img src="/images/garammasala.jpeg"/>2 tsp garam masala</a></div>
+<div id="ingredienttwo"><a href=""><img src="/images/fenugreek.jpeg"/>1 tsp fenugreek</a></div>
+<div id="ingredientthree"><a href=""><img src="/images/turmeric.jpeg"/>1 tsp turmeric</a></div>
+<div id="ingredientfour"><a href=""><img src="/images/groundcumin.jpeg"/>1/2 tsp cumin</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/Simply-Organic-Certified-2-45-Ounce-Container/dp/B000WS1KHM/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335146&sr=1-3&keywords=simply+organic+cinnamon&linkCode=ll1&tag=cilalime09-20&linkId=c53b25651c8d91b863cfc8aaa14105db"><img src="/images/groundcinnamon.jpeg"/>1/4 tsp cinnamon</a></div>
+<div id="ingredientone"><a href="b"><img src="/images/groundcoriander.jpeg"/>1/2 tsp coriander</a></div>
 </div>
 
 <div id= "equipmenthdr">
@@ -80,9 +80,8 @@ This classic british dish is brought to new heights with Indian spices. Onions, 
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>oven safe stockpot </a></div>
-<div id="equipmentone"><a href="https://www.amazon.com/Simply-Organic-Certified-0-14-Ounce-Container/dp/B0012BS9F4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335352&sr=1-1&keywords=simply+organic+bay&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c8a097e1230c862f6ce966bf3962812b"><img src="/images/whisk.jpeg"/>whisk </a></div>
-<div id="equipmentone"><a href="https://www.amazon.com/Microplane-35009-Medium-Ribbon-Grater/dp/B00009WE3V/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482039177&sr=1-10&keywords=microplane&linkCode=ll1&tag=cilalime09-20&linkId=e0f7f0f676e7565f4b0f1ff0b4f8c1f6"><img src="/images/coarsegrater.jpeg"/>coarse grater </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot </a></div>
+<div id="equipmenttwo"><a href="https://www.amazon.com/Emile-Henry-Ruffled-Pie-Dish/dp/B00T4ANGGM/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1482369145&sr=8-16&keywords=emile+henry+baking+dish&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c5ed42d9b8321456f660c50b43419fe4"><img src="/images/piedish.jpeg"/>baking dish </a></div>
 </div>
 
 <div id="preparation">
@@ -90,56 +89,54 @@ This classic british dish is brought to new heights with Indian spices. Onions, 
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/moussaka1.jpeg"/> </div>
-<div id="step">Move a rack to the upper 1/3 of the oven, and set the oven to broil.
-<p>Cut the eggplant into 1/3" slices.</p></div>
+<div id="image"><img src="/images/cottagepie1.jpeg"/> </div>
+<div id="step">Fill a stockpot with water and place on high heat to boil.
+<p>Dice the onion.</p>
+<p> Dice the carrot.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/moussaka2.jpeg"/> </div>
-<div id="step">Lay the eggplant slices on a baking sheet or roasting pan. Lightly toss with a small amount of olive oil, and sprinkle with a pinch of salt.
-<p>Place the eggplant in the oven and broil for 5 minutes, flip, and then broil on the other side.</p>
-<p><i>Note: Every broiler is different, keep an eye on the eggplant and avoid burning the eggplant.</i></p></div>
+<div id="image"><img src="/images/cottagepie2.jpeg"/> </div>
+<div id="step">Coat the bottom of a skillet with olive oil and place on medium heat. Once the oil is hot add the garam masala, fenugreek, turmeric, cumin, and coriander. Toast the spices for 2 minutes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/moussaka3.jpeg"/> </div>
-<div id="step">Finely dice the garlic.
-<p>Finely chop the onion.</p></div>
+<div id="image"><img src="/images/cottagepie3.jpeg"/> </div>
+<div id="step">Add the onions and carrots to the pan and cook until the onions have changed from opaque to translucent and have softened.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/moussaka4.jpeg"/> </div>
-<div id="step">Add a small amount of olive oil to the bottom of a stockpot and set on medium high heat.
-<p>Once the oil is hot, add the garlic and onion. Sauté until the onion is golden brown.</div>
+<div id="image"><img src="/images/cottagepie4.jpeg"/> </div>
+<div id="step">By now, the water should be boiling. Add the potatoes to the boiling water and cook for 20 minutes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/moussaka5.jpeg"/> </div>
-<div id="step">Add the ground beef and a 1/4 tsp of salt to the onions and garlic. Sauté until the beef has browned.</div>
+<div id="image"><img src="/images/cottagepie5.jpeg"/> </div>
+<div id="step">Add the ground beef to the carrots and onions and sauté until the beef has browned.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/moussaka6.jpeg"/> </div>
-<div id="step">Add the tomato, cinnamon, allspice, half of the paprika, bay leaf, cloves and a 1/2 cup of water to the stockpot. Reduce the heat to medium an dcook for 10 minutes to reduce the sauce and allow the flavors to meld together.</div>
+<div id="image"><img src="/images/cottagepie6.jpeg"/> </div>
+<div id="step">Add the pureed tomatoes, peas, 1/4 tsp of salt, 1 cup of water, and cook for 15 minutes.
+<p>Turn the broiler on.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/moussaka7.jpeg"/> </div>
-<div id="step">Turn the broiler on. 
-<p>Place the greek yogurt, egg, remaining paprika and a 1/4 tsp of salt in a bowl. Whisk until combined.</p></div>
+<div id="image"><img src="/images/cottagepie7.jpeg"/> </div>
+<div id="step">Transfer the curried beef to a baking pan.
+<p>Place the boiled potatoes in a bowl. Mash with a potato masher or the back of a fork. Add the milk, cream, and 1/4 tsp of salt to the potatoes and mix until creamy.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/moussaka8.jpeg"/> </div>
-<div id="step">Cover the beef with the broiled eggplants. Pour the greek yogurt mixture over the eggplant. Grate the parmesan on top.
-<p>Move the stockpot into the oven and broil for 5 minutes, or until a bubbly golden crust forms on top.</p></div>
+<div id="image"><img src="/images/cottagepie8.jpeg"/> </div>
+<div id="step">Cover the curried beef with the creamy potatoes.
+<p>Transfer the pan to the upper rack of the oven and broil until a golden crust forms, approx. 4 minutes.</p></div>
 </div>
 
 
 <div id="instruction">
-<div id="image"><img src="/images/moussaka9.jpeg"/> </div>
-<div id="step"> Serve the moussaka directly from the stockpot. </div>
+<div id="image"><img src="/images/cottagepie9.jpeg"/> </div>
+<div id="step"> Serve warm. </div>
 </div>
 
 <style>
