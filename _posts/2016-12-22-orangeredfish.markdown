@@ -83,59 +83,69 @@ colander
 <div id="equipmentfour"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander</a></div>
 </div>
 
-<div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B0000DE824/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481814330&sr=1-7&keywords=vegetable+peeler&th=1&linkCode=ll1&tag=cilalime09-20&linkId=2fc82cf8497ed0ceda3796ce68033b14"><img src="/images/vegetablepeeler.jpeg"/> vegetable peeler </a></div>
-</div>
-
 <div id="preparation">
 <h1>Preparation</h1>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji1.jpeg"/> </div>
-<div id="step">Set a saucepan with 2/3 cup of water and 1/4 tsp of salt on high heat.
-<p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</p></div>
+<div id="image"><img src="/images/orangeredfish1.jpeg"/> </div>
+<div id="step">Preheat the oven to 425˚
+
+<p>Fill a stockpot with water and set a high heat.Once the water boils add the snap peas and cook for 3 minutes. Drain in a colander and set aside for plating.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji2.jpeg"/> </div>
+<div id="image"><img src="/images/orangeredfish2.jpeg"/> </div>
 <div id="step">Once the water has come to a boil add the washed jasmine rice, cover, and cook for 15 minutes.
 <p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the rice.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji3.jpeg"/> </div>
-<div id="step">Finely slice the scallions. Remove the basil leaves from the stem.</div>
+<div id="image"><img src="/images/orangeredfish3.jpeg"/> </div>
+<div id="step"><i>While waiting for the water to boil, prep the vegetables.</i> 
+<p>Cut the radish, scallions.and dulce pepper as thin as possible.<p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji4.jpeg"/> </div>
-<div id="step">Cut the chicken into bite size pieces.</div>
+<div id="image"><img src="/images/orangeredfish4.jpeg"/> </div>
+<div id="step">Place the sliced vegetables in a bowl and add the rice wine vinegar to quickly pickle. Set aside for plating.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji5.jpeg"/> </div>
-<div id="step">Coat the bottom of a large skillet or sauté pan with half of the sesame oil and place on high heat. Once the oil is hot, add the whole garlic cloves, scallions, and whole dried chiles to the pan and cook until the garlic turns golden brown.</div>
+<div id="image"><img src="/images/orangeredfish5.jpeg"/> </div>
+<div id="step">Place a stockpot or saucepan on medium heat and squeeze the juice of both oranges into the pot.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji6.jpeg"/> </div>
-<div id="step">Add the chicken to the pan and brown the exterior.</div>
+<div id="image"><img src="/images/orangeredfish6.jpeg"/> </div>
+<div id="step">Once the juice has reduced in size by half, add the butter and the tamari and 1 cup of water. 
+<p>Let the sauce continue reducing, adding an additional 1 cup of water whenever the sauce reduces to a caramel. Keep the sauce on heat until ready for plating.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji7.jpeg"/> </div>
-<div id="step">Once the chicken has browned add the soy sauce and shaoxing wine to the pan. Reduce the heat to medium and cook until the shoaxing wine and soy has reduced into a thick sauce. Add the basil leaves into the pan and toss.</div>
+<div id="image"><img src="/images/orangeredfish7.jpeg"/> </div>
+<div id="step">Set an oven-safe skillet on medium high heat and add enough oil to coat the bottom of the pan. Once the oil is hot, and begins to smoke, add the fish skin side down. Let the fish cook for 3 minutes, allowing the skin to crisp.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji8.jpeg"/> </div>
-<div id="step"><i>While the sauce is reducing, cook the bok choy.</i> Coat the bottom of a skillet with the remaining sesame oil, and place on medium high heat. Once the oil is hot, add the bok choy. Sauté until the bok choy begins to char. Add a 1/4 c water to the pan, and cover. Cook until all the water has evaporated, approximately 2 minutes.</div>
+<div id="image"><img src="/images/orangeredfish8.jpeg"/> </div>
+<div id="step">Move the skillet into the top rack of the oven and let the fish cook for an additional 10 minutes, until cooked all the way through.
+<p><i>Note: Redfish fillets vary in thickness, make sure the fish is cooked completely through.</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/sanbeiji9.jpeg"/> </div>
-<div id="step">Plate the jasmine rice with the bok choy. Lay the San Bei Jei on the plate and top with the reduced sauce from the pan.</div>
+<div id="image"><img src="/images/orangeredfish9.jpeg"/> </div>
+<div id="step">After the redfish has cooked, transfer to a cutting board. Cut the redfish into two smaller portions.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/orangeredfish10.jpeg"/> </div>
+<div id="step">Plate the snow peas and lay the crispy redfish on top. Pour the orange and tamari sauce on to the plate.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/orangeredfish11.jpeg"/> </div>
+<div id="step">Plate the finely sliced vegetables on top.</div>
 </div>
 
 
