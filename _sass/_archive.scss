@@ -133,8 +133,8 @@
     margin-right: 0; /* reset before mixin does its thing*/
     @include gallery(5 of 10 split);
      
-  &:nth-child(4),
-  &:nth-child(7), {
+  &:nth-child(1),
+  &:nth-child(3), {
     width: (10 of 10 split);
   }
 
