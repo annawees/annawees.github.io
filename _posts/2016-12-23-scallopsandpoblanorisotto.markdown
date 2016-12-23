@@ -8,12 +8,12 @@ tags: [american, fish, redfish]
 <div id="spacer"></div>
 
 <div id="backgroundvideo">
-  <video width="100%" autoplay loop muted class="banner__video" poster="/images/orangeredfishmain.jpg">
-  <source src="/images/orangeredfish.mp4" type="video/mp4"></video>
+  <video width="100%" autoplay loop muted class="banner__video" poster="/images/scalloprisottohmain.jpg">
+  <source src="/images/scalloprisotto.mp4" type="video/mp4"></video>
 </div>
 
 <div id="recipedescription">
-Nestled between a bed of snow peas and a salad of shaved radishes, dulce pepper and scallions is perfectly seasoned Texas redfish. The sweet and salty broth of orange and soy delicately flavors the flaky redfish.
+A classic italian dish is reinvented with Mexican ingredients. Charred poblanos give a savory smoky flavor to the risotto that is sweetened by corn and brightened by cilantro and lime.
 <div id="spacer"></div>
 
 <div id= "recipedetails">
@@ -23,7 +23,7 @@ Nestled between a bed of snow peas and a salad of shaved radishes, dulce pepper 
 </div>
 
 <div id= "recipedetails">
-<div id= "time"><h3> 25 Min</h3> </div>
+<div id= "time"><h3> 35 Min</h3> </div>
 <div id= "spice"><h3> Mild</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
@@ -39,49 +39,44 @@ Nestled between a bed of snow peas and a salad of shaved radishes, dulce pepper 
 </div>
 
 <div id= "nutrition">
-<div id="calories"><h3> 380 </h3> </div>
-<div id="carbs"><h3> 30g</h3> </div>
-<div id="fiber"><h3> 8g</h3> </div>
-<div id="fat"><h3> 10g</h3> </div>
-<div id="protein"><h3> 38g</h3> </div>
+<div id="calories"><h3> 480 </h3> </div>
+<div id="carbs"><h3> 58g</h3> </div>
+<div id="fiber"><h3> 6g</h3> </div>
+<div id="fat"><h3> 7g</h3> </div>
+<div id="protein"><h3> 21g</h3> </div>
 </div>
 
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
 </div>
 
+3/4 c arborio rice
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/redfish.jpeg"/> 3/4 lb red fish </div>
-<div id="ingredienttwo"><img src="/images/butter.jpeg"/>2 tbsp butter</div>
-<div id="ingredientthree"><img src="/images/snowpeas.jpeg"/>6 oz snow peas</div>
-<div id="ingredientfour"><img src="/images/radish.jpeg"/>1 radish</div>
+<div id="ingredientone"><img src="/images/scallops.jpeg"/> 1/2 lb sea scallops </div>
+<div id="ingredienttwo"><img src="/images/butter.jpeg"/>1 tbsp butter</div>
+<div id="ingredientthree"><img src="/images/snowpeas.jpeg"/>1 ear of corn</div>
+<div id="ingredientfour"><img src="/images/radish.jpeg"/>4 poblanos</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/2scallions.jpeg"/>2 scallions</div>
-<div id="ingredienttwo"><img src="/images/dulce.jpeg"/>1 dulce pepper</div>
-<div id="ingredientthree"><img src="/images/orange.jpeg"/>2 oranges</div>
-<div id="ingredientfour"><a href=""><img src="/images/tamari.jpeg"/>3 tbsp tamari</a></div>
+<div id="ingredientone"><img src="/images/lime.jpeg"/>1 lime</div>
+<div id="ingredienttwo"><img src="/images/cilantro.jpeg"/>1/4 bunch cilantro</div>
+<div id="ingredientthree"><img src="/images/3shallots.jpeg"/>3 shallots</div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Savory-Choice-Chicken-Broth-Concentrate/dp/B002HQUZIM/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482454407&sr=1-1&keywords=chicken+stock+concentrate&linkCode=ll1&tag=cilalime09-20&linkId=bd0b06086a845ab2851f7a2c60477eb6"><img src="/images/chickenstock.jpeg"/>1 cup chicken stock</a></div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ricewinevin.jpeg"/>1/4 cup rice wine vinegar</div>
+<div id="ingredientone"><a href="https://www.amazon.com/Campanini-Vialone-Nano-Semifino-16/dp/B000XMQ9Z0/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1482454508&sr=1-4&keywords=arborio&refinements=p_85:2470955011,p_36:698503011&linkCode=ll1&tag=cilalime09-20&linkId=9db6a43b0d813b860954c8591f387e2b"/><img src="/images/arborio.jpeg"/>3/4 cup arborio rice</div>
 
 <div id= "equipmenthdr">
 <h1>Equipment</h1>
 </div>
-oven safe skillet
-vegetable peeler
-citrus juicer
-colander
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
-<div id="equipmentwo"><a href=""><img src="/images/skillet.jpeg"/> oven safe skillet</a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/blender.jpeg"/>blender</a></div>
+<div id="equipmentwo"><a href="https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B004T6MSIS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482454672&sr=8-1&keywords=all+clad+skillet&th=1&linkCode=ll1&tag=cilalime09-20&linkId=787618f0f49c025ff9cd0cc7d53b0bfa"><img src="/images/skillet.jpeg"/>Skillet that is not non-stick (for scallops)</a></div>
 <div id="equipmentthree"><a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a></div>
-<div id="equipmentfour"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander</a></div>
-</div>
 
 <div id="preparation">
 <h1>Preparation</h1>
