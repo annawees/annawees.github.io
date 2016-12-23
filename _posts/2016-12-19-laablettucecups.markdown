@@ -2,7 +2,7 @@
 layout: single
 title: Laab Lettuce Cups
 category: recipe
-thumbnail: "/images/laabmain.jpg"
+thumbnail: "/images/laablettucecups.jpg"
 tags: [thai, pork, ground pork]
 ---
 <div id="spacer"></div>
