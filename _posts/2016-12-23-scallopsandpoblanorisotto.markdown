@@ -63,7 +63,7 @@ A classic italian dish is reinvented with Mexican ingredients. Charred poblanos 
 <div id="ingredientone"><img src="/images/lime.jpeg"/>1 lime</div>
 <div id="ingredienttwo"><img src="/images/cilantro.jpeg"/>1/4 bunch cilantro</div>
 <div id="ingredientthree"><img src="/images/3shallots.jpeg"/>3 shallots</div>
-<div id="ingredientfour"><a href="https://www.amazon.com/Savory-Choice-Chicken-Broth-Concentrate/dp/B002HQUZIM/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482454407&sr=1-1&keywords=chicken+stock+concentrate&linkCode=ll1&tag=cilalime09-20&linkId=bd0b06086a845ab2851f7a2c60477eb6"><img src="/images/chickenstock.jpeg"/>1 cup chicken stock</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Savory-Choice-Chicken-Broth-Concentrate/dp/B002HQUZIM/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482454407&sr=1-1&keywords=chicken+stock+concentrate&linkCode=ll1&tag=cilalime09-20&linkId=bd0b06086a845ab2851f7a2c60477eb6"><img src="/images/chickenstock.jpeg"/>1/2 cup chicken stock</a></div>
 </div>
 
 <div id="ingredients">
@@ -83,70 +83,55 @@ A classic italian dish is reinvented with Mexican ingredients. Charred poblanos 
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish1.jpeg"/> </div>
-<div id="step">Preheat the oven to 425˚
-
-<p>Fill a stockpot with water and set a high heat.Once the water boils add the snap peas and cook for 3 minutes. Drain in a colander and set aside for plating.</p></div>
+<div id="image"><img src="/images/scalloprisotto1.jpeg"/> </div>
+<div id="step">Set the oven to broil and move a rack to the upper portion of the oven. Remove the seeds and core from the poblano peppers.
+<p>Place the poblanos on a baking sheet or roasting pan and broil them until they develop a char, approximately 5-7 minutes.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish2.jpeg"/> </div>
-<div id="step">Once the water has come to a boil add the washed jasmine rice, cover, and cook for 15 minutes.
-<p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the rice.</p></div>
+<div id="image"><img src="/images/scalloprisotto2.jpeg"/> </div>
+<div id="step">Hold the corn upright on a cutting board. Run a knife along the cob removing the kernels.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish3.jpeg"/> </div>
-<div id="step"><i>While waiting for the water to boil, prep the vegetables.</i> 
-<p>Cut the radish, scallions.and dulce pepper as thin as possible.<p></div>
+<div id="image"><img src="/images/scalloprisotto3.jpeg"/> </div>
+<div id="step">Finely slice the shallots.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish4.jpeg"/> </div>
-<div id="step">Place the sliced vegetables in a bowl and add the rice wine vinegar to quickly pickle. Set aside for plating.</div>
+<div id="image"><img src="/images/scalloprisotto4.jpeg"/> </div>
+<div id="step">Set a large skillet on medium high heat and add enough oil to coat the bottom of the pan. Add the shallots and sauté until they become soft.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish5.jpeg"/> </div>
-<div id="step">Place a stockpot or saucepan on medium heat and squeeze the juice of both oranges into the pot.</div>
+<div id="image"><img src="/images/scalloprisotto5.jpeg"/> </div>
+<div id="step">Add the stock to the skillet. Stir occasionally, until all the water has been absorbed.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish6.jpeg"/> </div>
-<div id="step">Once the juice has reduced in size by half, add the butter and the tamari and 1 cup of water. 
-<p>Let the sauce continue reducing, adding an additional 1 cup of water whenever the sauce reduces to a caramel. Keep the sauce on heat until ready for plating.</p></div>
+<div id="image"><img src="/images/scalloprisotto6.jpeg"/> </div>
+<div id="step"><i>While the arborio rice cooks, make the poblano puree.</i> Place the poblanos in a blender with 2 1/2 cups of water, cilantro, 1/4 tsp of salt, and the juice of 1 lime. Puree.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish7.jpeg"/> </div>
-<div id="step">Set an oven-safe skillet on medium high heat and add enough oil to coat the bottom of the pan. Once the oil is hot, and begins to smoke, add the fish skin side down. Let the fish cook for 3 minutes, allowing the skin to crisp.</div>
+<div id="image"><img src="/images/scalloprisotto7.jpeg"/> </div>
+<div id="step">Add the poblano puree to the arborio rice in 4 smaller portions, letting the puree absorb into the risotto before adding the next portion. Add the corn to the risotto. Set aside for plating.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish8.jpeg"/> </div>
-<div id="step">Move the skillet into the top rack of the oven and let the fish cook for an additional 10 minutes, until cooked all the way through.
-<p><i>Note: Redfish fillets vary in thickness, make sure the fish is cooked completely through.</i></p></div>
+<div id="image"><img src="/images/scalloprisotto8.jpeg"/> </div>
+<div id="step">While adding the second to last portion of poblano puree, start cooking the scallops. Place the butter on a large not non-stick skillet. Heat the butter on medium heat. Once the pan is hot, lie the scallops onto the rim of the pan where the butter has collected.
+<p><i>Note: The scallops should make a loud sizzle when they make contact with the pan</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish9.jpeg"/> </div>
-<div id="step">After the redfish has cooked, transfer to a cutting board. Cut the redfish into two smaller portions.</div>
+<div id="image"><img src="/images/scalloprisotto9.jpeg"/> </div>
+<div id="step">Cook the scallops for 4-5 minutes on each side, allowing for each side to develop a crispy caramelized bottom before flipping the scallop over.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish10.jpeg"/> </div>
-<div id="step">Plate the snow peas and lay the crispy redfish on top. Pour the orange and tamari sauce on to the plate.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish11.jpeg"/> </div>
-<div id="step">Plate the finely sliced vegetables on top.</div>
-</div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/cottagepie9.jpeg"/> </div>
-<div id="step"> Serve warm. </div>
+<div id="image"><img src="/images/scalloprisotto10.jpeg"/> </div>
+<div id="step">Plate the scallops over the risotto.</div>
 </div>
 
 <style>
