@@ -13,7 +13,7 @@ tags: [american, fish, redfish]
 </div>
 
 <div id="recipedescription">
-Nestled between a bed of snow peas and a salad of shaved radishes, dulce pepper and scallions is perfectly seasoned Texas redfish. The sweet and salty broth of orange and soy delicately flavors the flaky redfish.
+Nestled between a bed of snow peas and a salad of shaved radishes, dulce pepper and scallions is perfectly cooked Texas redfish. The sweet and salty broth of orange and soy delicately flavors the flaky redfish.
 <div id="spacer"></div>
 
 <div id= "recipedetails">
