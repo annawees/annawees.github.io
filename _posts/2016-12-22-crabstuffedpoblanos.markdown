@@ -50,9 +50,6 @@ Charred poblanos are stuffed with crab tossed in spices and served with a decade
 <h1>Ingredients</h1>
 </div>
 
-1/2 tsp chile de arbol powder
-1/2 tsp ancho powder
-
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/crabmeat.jpeg"/> 1 lb picked crab meat </div>
 <div id="ingredienttwo"><img src="/images/egg.jpeg"/>2 eggs</div>
@@ -75,16 +72,11 @@ Charred poblanos are stuffed with crab tossed in spices and served with a decade
 <div id= "equipmenthdr">
 <h1>Equipment</h1>
 </div>
-oven safe skillet
-vegetable peeler
-citrus juicer
-colander
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
-<div id="equipmentwo"><a href=""><img src="/images/skillet.jpeg"/> oven safe skillet</a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/blender.jpeg"/>blender</a></div>
+<div id="equipmentwo"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/> baking sheet</a></div>
 <div id="equipmentthree"><a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a></div>
-<div id="equipmentfour"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander</a></div>
 </div>
 
 <div id="preparation">
@@ -93,69 +85,45 @@ colander
 
 <div id="instruction">
 <div id="image"><img src="/images/orangeredfish1.jpeg"/> </div>
-<div id="step">Preheat the oven to 425˚
-
-<p>Fill a stockpot with water and set a high heat.Once the water boils add the snap peas and cook for 3 minutes. Drain in a colander and set aside for plating.</p></div>
+<div id="step">Move a rack to the upper portion of the oven, and set the oven to broil. Remove the seeds and core from the poblano peppers.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/orangeredfish2.jpeg"/> </div>
-<div id="step">Once the water has come to a boil add the washed jasmine rice, cover, and cook for 15 minutes.
-<p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the rice.</p></div>
+<div id="step">Slice the shallots.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/orangeredfish3.jpeg"/> </div>
-<div id="step"><i>While waiting for the water to boil, prep the vegetables.</i> 
-<p>Cut the radish, scallions.and dulce pepper as thin as possible.<p></div>
+<div id="step">Place the poblanos and shallots on a baking sheet or roasting pan. Broil until the poblanos develop a char, approximately 5-7 minutes. Turn them over halfway during cooking.
+<p>Remove the poblanos from the oven and reduce the heat to 350˚.</p>
+<p><i>Note: Keep an eye on the shallots! They can burn easily.</i></p></div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/orangeredfish4.jpeg"/> </div>
-<div id="step">Place the sliced vegetables in a bowl and add the rice wine vinegar to quickly pickle. Set aside for plating.</div>
+<div id="step">Transfer the poblanos into a bowl and submerge them in cold water to cool them.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/orangeredfish5.jpeg"/> </div>
-<div id="step">Place a stockpot or saucepan on medium heat and squeeze the juice of both oranges into the pot.</div>
+<div id="step">Place the crab in a bowl along with the roasted shallots, cumin, chile de arbol, New Mexico chili powder, ancho, 1/4 tsp of salt, and egg. Mix.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/orangeredfish6.jpeg"/> </div>
-<div id="step">Once the juice has reduced in size by half, add the butter and the tamari and 1 cup of water. 
-<p>Let the sauce continue reducing, adding an additional 1 cup of water whenever the sauce reduces to a caramel. Keep the sauce on heat until ready for plating.</p></div>
+<div id="step">Stuff the cooled peppers with the crab mixture. Return the peppers to the oven for an additional 15 minutes.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/orangeredfish7.jpeg"/> </div>
-<div id="step">Set an oven-safe skillet on medium high heat and add enough oil to coat the bottom of the pan. Once the oil is hot, and begins to smoke, add the fish skin side down. Let the fish cook for 3 minutes, allowing the skin to crisp.</div>
+<div id="step"><i>While the poblanos bake, assemble the hollandaise.</i> Melt the butter in a saucepan or in the microwave. Transfer to a measuring cup for easy pouring. 
+<p>Place the egg yolk, pinch of salt, and the juice of a lime in a blender. Liquefy. While the blender is running, open up the lid slightly, and slowly add the warm butter.</p></div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/orangeredfish8.jpeg"/> </div>
-<div id="step">Move the skillet into the top rack of the oven and let the fish cook for an additional 10 minutes, until cooked all the way through.
-<p><i>Note: Redfish fillets vary in thickness, make sure the fish is cooked completely through.</i></p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish9.jpeg"/> </div>
-<div id="step">After the redfish has cooked, transfer to a cutting board. Cut the redfish into two smaller portions.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish10.jpeg"/> </div>
-<div id="step">Plate the snow peas and lay the crispy redfish on top. Pour the orange and tamari sauce on to the plate.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish11.jpeg"/> </div>
-<div id="step">Plate the finely sliced vegetables on top.</div>
-</div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/cottagepie9.jpeg"/> </div>
-<div id="step"> Serve warm. </div>
+<div id="step">Sauce the plate with the hollandaise and top with the roasted poblanos.</div>
 </div>
 
 <style>
