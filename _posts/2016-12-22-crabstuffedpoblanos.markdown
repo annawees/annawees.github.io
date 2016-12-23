@@ -84,45 +84,45 @@ Charred poblanos are stuffed with crab tossed in spices and served with a decade
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish1.jpeg"/> </div>
+<div id="image"><img src="/images/crabstuffedpoblanos1.jpeg"/> </div>
 <div id="step">Move a rack to the upper portion of the oven, and set the oven to broil. Remove the seeds and core from the poblano peppers.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish2.jpeg"/> </div>
+<div id="image"><img src="/images/crabstuffedpoblanos2.jpeg"/> </div>
 <div id="step">Slice the shallots.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish3.jpeg"/> </div>
+<div id="image"><img src="/images/crabstuffedpoblanos3.jpeg"/> </div>
 <div id="step">Place the poblanos and shallots on a baking sheet or roasting pan. Broil until the poblanos develop a char, approximately 5-7 minutes. Turn them over halfway during cooking.
 <p>Remove the poblanos from the oven and reduce the heat to 350˚.</p>
 <p><i>Note: Keep an eye on the shallots! They can burn easily.</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish4.jpeg"/> </div>
+<div id="image"><img src="/images/crabstuffedpoblanos4.jpeg"/> </div>
 <div id="step">Transfer the poblanos into a bowl and submerge them in cold water to cool them.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish5.jpeg"/> </div>
+<div id="image"><img src="/images/crabstuffedpoblanos5.jpeg"/> </div>
 <div id="step">Place the crab in a bowl along with the roasted shallots, cumin, chile de arbol, New Mexico chili powder, ancho, 1/4 tsp of salt, and egg. Mix.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish6.jpeg"/> </div>
+<div id="image"><img src="/images/crabstuffedpoblanos6.jpeg"/> </div>
 <div id="step">Stuff the cooled peppers with the crab mixture. Return the peppers to the oven for an additional 15 minutes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish7.jpeg"/> </div>
+<div id="image"><img src="/images/crabstuffedpoblanos7.jpeg"/> </div>
 <div id="step"><i>While the poblanos bake, assemble the hollandaise.</i> Melt the butter in a saucepan or in the microwave. Transfer to a measuring cup for easy pouring. 
 <p>Place the egg yolk, pinch of salt, and the juice of a lime in a blender. Liquefy. While the blender is running, open up the lid slightly, and slowly add the warm butter.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish8.jpeg"/> </div>
+<div id="image"><img src="/images/crabstuffedpoblanos8.jpeg"/> </div>
 <div id="step">Sauce the plate with the hollandaise and top with the roasted poblanos.</div>
 </div>
 
