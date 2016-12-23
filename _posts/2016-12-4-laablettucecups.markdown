@@ -8,7 +8,7 @@ tags: [thai, pork, ground pork]
 <div id="spacer"></div>
 
 <div id="backgroundvideo">
-  <video width="100%" autoplay loop muted class="banner__video" poster="/images/laabmain.jpg">
+  <video width="100%" autoplay loop muted class="banner__video" poster="/images/laablettucecups.jpg">
   <source src="/images/laab.mp4" type="video/mp4"></video>
 </div>
 
