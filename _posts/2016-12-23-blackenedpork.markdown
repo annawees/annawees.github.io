@@ -49,51 +49,41 @@ Pork crusted with chili, pimenton and paprika sits on a bed of sweet Texas corn,
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
 </div>
-3/4 lb pork tenderloin
-1 tsp cayenne
-1 tsp chili powder
-1 tsp pimenton
+
 1 tsp paprika
-3 ears of corn
-1/2 cup small tomatoes
-2 serranos
-1 onion
-2 oz chorizo
 2 tbsp white wine vinegar
-1 avocado
-1/6 bunch cilantro  
-
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/redfish.jpeg"/> 3/4 lb red fish </div>
-<div id="ingredienttwo"><img src="/images/butter.jpeg"/>2 tbsp butter</div>
-<div id="ingredientthree"><img src="/images/snowpeas.jpeg"/>6 oz snow peas</div>
-<div id="ingredientfour"><img src="/images/radish.jpeg"/>1 radish</div>
+<div id="ingredientone"><img src="/images/porktenderloin.jpeg"/> 3/4 lb pork tenderloin </div>
+<div id="ingredienttwo"><img src="/images/chorizo.jpeg"/>2 oz spanish chorizo</div>
+<div id="ingredientthree"><img src="/images/corn.jpeg"/>3 ears of corn</div>
+<div id="ingredientfour"><img src="/images/cherrytomatoes.jpeg"/>1/2 cup small tomatoes</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/2scallions.jpeg"/>2 scallions</div>
-<div id="ingredienttwo"><img src="/images/dulce.jpeg"/>1 dulce pepper</div>
-<div id="ingredientthree"><img src="/images/orange.jpeg"/>2 oranges</div>
-<div id="ingredientfour"><a href=""><img src="/images/tamari.jpeg"/>3 tbsp tamari</a></div>
+<div id="ingredientone"><img src="/images/serranos.jpeg"/>2 serranos</div>
+<div id="ingredienttwo"><img src="/images/cilantro.jpeg"/>1/6 bunch cilantro</div>
+<div id="ingredientthree"><img src="/images/avocado.jpeg"/>1 avocado</div>
+<div id="ingredientfour"><img src="/images/onion.jpeg"/>1 onion</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ricewinevin.jpeg"/>1/4 cup rice wine vinegar</div>
+<div id="ingredientone"><img src="/images/whitewinevin.jpeg"/>2 tbsp white wine vinegar</div>
+<div id="ingredientone"><img src="/images/cayenne.jpeg"/>1 tsp cayenne</div>
+<div id="ingredientone"><img src="/images/nmchili.jpeg"/>1 tsp ground New Mexico chili</div>
+<div id="ingredientone"><img src="/images/pimenton.jpeg"/>1 tsp pimenton</div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/paprika.jpeg"/>1 tsp paprika</div>
+</div>
 
 <div id= "equipmenthdr">
 <h1>Equipment</h1>
 </div>
-oven safe skillet
-vegetable peeler
-citrus juicer
-colander
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
-<div id="equipmentwo"><a href=""><img src="/images/skillet.jpeg"/> oven safe skillet</a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a></div>
-<div id="equipmentfour"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander</a></div>
+<div id="equipmentone"><a href=""><img src="/images/bakingsheet.jpeg"/>baking sheet</a></div>
 </div>
 
 <div id="preparation">
