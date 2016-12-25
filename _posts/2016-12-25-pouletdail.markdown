@@ -23,7 +23,7 @@ Our take on the rich, bold Provençal tradition, chicken with forty cloves of ga
 </div>
 
 <div id= "recipedetails">
-<div id= "time"><h3> 25 Min</h3> </div>
+<div id= "time"><h3> 1 Hr</h3> </div>
 <div id= "spice"><h3> Mild</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
@@ -39,48 +39,39 @@ Our take on the rich, bold Provençal tradition, chicken with forty cloves of ga
 </div>
 
 <div id= "nutrition">
-<div id="calories"><h3> 380 </h3> </div>
-<div id="carbs"><h3> 30g</h3> </div>
-<div id="fiber"><h3> 8g</h3> </div>
-<div id="fat"><h3> 10g</h3> </div>
-<div id="protein"><h3> 38g</h3> </div>
+<div id="calories"><h3> 745 </h3> </div>
+<div id="carbs"><h3> 32g</h3> </div>
+<div id="fiber"><h3> 6g</h3> </div>
+<div id="fat"><h3> 49g</h3> </div>
+<div id="protein"><h3> 78g</h3> </div>
 </div>
 
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
 </div>
 
-
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/redfish.jpeg"/> 3/4 lb red fish </div>
-<div id="ingredienttwo"><img src="/images/butter.jpeg"/>2 tbsp butter</div>
-<div id="ingredientthree"><img src="/images/snowpeas.jpeg"/>6 oz snow peas</div>
-<div id="ingredientfour"><img src="/images/radish.jpeg"/>1 radish</div>
+<div id="ingredientone"><img src="/images/chickenthighwithskin.jpeg"/> 4 chicken thighs </div>
+<div id="ingredienttwo"><img src="/images/cream.jpeg"/>2 tbsp heavy cream</div>
+<div id="ingredientthree"><img src="/images/haricotvert.jpeg"/>10 oz haricot vert</div>
+<div id="ingredientfour"><img src="/images/40garlic.jpeg"/>40 garlic cloves</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/2scallions.jpeg"/>2 scallions</div>
-<div id="ingredienttwo"><img src="/images/dulce.jpeg"/>1 dulce pepper</div>
-<div id="ingredientthree"><img src="/images/orange.jpeg"/>2 oranges</div>
-<div id="ingredientfour"><a href=""><img src="/images/tamari.jpeg"/>3 tbsp tamari</a></div>
+<div id="ingredientone"><img src="/images/tarragon.jpeg"/>2 sprigs tarragon</div>
+<div id="ingredienttwo"><img src="/images/thyme.jpeg"/>2 sprigs thyme</div>
+<div id="ingredientthree"><img src="/images/4sprigsparsley.jpeg"/>4 sprigs parsley</div>
+<div id="ingredientfour"><a href=""><img src="/images/vermouth.jpeg"/>4 oz vermouth</a></div>
 </div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/ricewinevin.jpeg"/>1/4 cup rice wine vinegar</div>
 
 <div id= "equipmenthdr">
 <h1>Equipment</h1>
 </div>
-oven safe skillet
-vegetable peeler
-citrus juicer
-colander
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
-<div id="equipmentwo"><a href=""><img src="/images/skillet.jpeg"/> oven safe skillet</a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a></div>
-<div id="equipmentfour"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander</a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>2 oven safe stockpots</a></div>
+<div id="equipmentthree"><a href=""><img src="/images/colander.jpeg"/>colander </a></div>
+
 </div>
 
 <div id="preparation">
@@ -88,70 +79,35 @@ colander
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish1.jpeg"/> </div>
-<div id="step">Preheat the oven to 425˚
-
-<p>Fill a stockpot with water and set a high heat.Once the water boils add the snap peas and cook for 3 minutes. Drain in a colander and set aside for plating.</p></div>
+<div id="image"><img src="/images/pouletdail1.jpeg"/> </div>
+<div id="step">Move a rack to the upper portion of the oven, and preheat to 425˚.
+<p>Place the garlic, tarragon, thyme parsley, and vermouth in an oven safe stockpot.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish2.jpeg"/> </div>
-<div id="step">Once the water has come to a boil add the washed jasmine rice, cover, and cook for 15 minutes.
-<p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the rice.</p></div>
+<div id="image"><img src="/images/pouletdail2.jpeg"/> </div>
+<div id="step">Top with the chicken thighs. Sprinkle with salt.
+<p>Place the pot in the upper third of the oven and roast for 45 minutes.</p>
+<p>After the chicken has roasted for 45 minutes, raise the temperature to broil and cook for an additional 5 minutes to crisp the skin.</p>
+<p><i>Note: Oven temperatures vary. You may need to broil the chicken for longer to crisp the skin.</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish3.jpeg"/> </div>
-<div id="step"><i>While waiting for the water to boil, prep the vegetables.</i> 
-<p>Cut the radish, scallions.and dulce pepper as thin as possible.<p></div>
+<div id="image"><img src="/images/pouletdail3.jpeg"/> </div>
+<div id="step"><i>While the chicken roasts, cook the haricot vert.</i>
+<p>Set a second stockpot full of water on high heat to boil.</p>
+<p>Add the haricot vert to the boiling water and blanch for 4 minutes. Then transfer the contents of the pan to a colander and run cold water over the beans to stop the cooking process.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish4.jpeg"/> </div>
-<div id="step">Place the sliced vegetables in a bowl and add the rice wine vinegar to quickly pickle. Set aside for plating.</div>
+<div id="image"><img src="/images/pouletdail4.jpeg"/> </div>
+<div id="step">After the chicken has broiled, transfer the chicken to a plate. Put the stockpot back in the oven for an additional 3 minutes to further reduce the sauce.
+<p>After the sauce has reduced, remove the stockpot from the oven and add the heavy cream. Stir.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/orangeredfish5.jpeg"/> </div>
-<div id="step">Place a stockpot or saucepan on medium heat and squeeze the juice of both oranges into the pot.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish6.jpeg"/> </div>
-<div id="step">Once the juice has reduced in size by half, add the butter and the tamari and 1 cup of water. 
-<p>Let the sauce continue reducing, adding an additional 1 cup of water whenever the sauce reduces to a caramel. Keep the sauce on heat until ready for plating.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish7.jpeg"/> </div>
-<div id="step">Set an oven-safe skillet on medium high heat and add enough oil to coat the bottom of the pan. Once the oil is hot, and begins to smoke, add the fish skin side down. Let the fish cook for 3 minutes, allowing the skin to crisp.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish8.jpeg"/> </div>
-<div id="step">Move the skillet into the top rack of the oven and let the fish cook for an additional 10 minutes, until cooked all the way through.
-<p><i>Note: Redfish fillets vary in thickness, make sure the fish is cooked completely through.</i></p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish9.jpeg"/> </div>
-<div id="step">After the redfish has cooked, transfer to a cutting board. Cut the redfish into two smaller portions.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish10.jpeg"/> </div>
-<div id="step">Plate the snow peas and lay the crispy redfish on top. Pour the orange and tamari sauce on to the plate.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/orangeredfish11.jpeg"/> </div>
-<div id="step">Plate the finely sliced vegetables on top.</div>
-</div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/cottagepie9.jpeg"/> </div>
-<div id="step"> Serve warm. </div>
+<div id="image"><img src="/images/pouletdail5.jpeg"/> </div>
+<div id="step">Plate the chicken with the jus d'ail. Accent with the haricot vert. </div>
 </div>
 
 <style>
