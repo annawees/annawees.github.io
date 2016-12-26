@@ -1,19 +1,21 @@
  ---
-  layout: single
-  title: Laab Lettuce Cups
-  thumbnail: "/images/laablettucecups.jpg"
-  tags: [thai, pork, ground pork]
-  ---
-  <div id="spacer"></div>
+layout: single
+title: Laab Lettuce Cups
+category: recipe
+thumbnail: "/images/laablettucecups.jpg"
+tags: [thai, pork, ground pork]
+---
+
+<div id="spacer"></div>
   
-  <div id="backgroundvideo">
-    <video width="100%" autoplay loop muted class="banner__video" poster="/images/laablettucecups.jpg">
-    <source src="/images/laab.mp4" type="video/mp4"></video></div>
+<div id="backgroundvideo">
+ <video width="100%" autoplay loop muted class="banner__video" poster="/images/laablettucecups.jpg">
+ <source src="/images/laab.mp4" type="video/mp4"></video></div>
   
-  <div id="recipedescription">
-  This addictive thai dish features spicy ground pork spiked with chiles, lime, fish sauce, basil, mint and cilantro a contrast in texture to crisp lettuce. The perfect lunch or dinner, this dish is healthy and flavorful. </div>
+<div id="recipedescription">
+This addictive thai dish features spicy ground pork spiked with chiles, lime, fish sauce, basil, mint and cilantro a contrast in texture to crisp lettuce. The perfect lunch or dinner, this dish is healthy and flavorful. </div>
   
-  <div id="spacer"></div>
+<div id="spacer"></div>
   
 <div id= "recipedetails">
 <div id= "time"> Time </div>
@@ -29,13 +31,13 @@
 
  <div id="spacer"></div>
 
- <div id= "nutrition">
- <div id="calories"> Calories </div>
- <div id="carbs"> Carbs </div>
- <div id="fiber"> Fiber </div>
- <div id="fat"> Fat </div>
- <div id="protein"> Protein </div>
- </div>
+<div id= "nutrition">
+<div id="calories"> Calories </div>
+<div id="carbs"> Carbs </div>
+<div id="fiber"> Fiber </div>
+<div id="fat"> Fat </div>
+<div id="protein"> Protein </div>
+</div>
   
 <div id= "nutrition">
 <div id="calories"><h3> 580 </h3> </div>
@@ -53,14 +55,14 @@
 <div id="ingredientfour"><img src="/images/cilantro.jpeg"/>1/4 bunch cilantro</div>
 </div>
   
-  <div id="ingredients">
- <div id="ingredientone"><img src="/images/mint.jpeg"/>5 sprigs mint</div>
- <div id="ingredienttwo"><img src="/images/4garlic.jpeg"/>4 cloves garlic</div>
- <div id="ingredientthree"><img src="/images/5thaichilis.jpeg"/>5 thai chilis or serranos</div>
- <div id="ingredientfour"><img src="/images/redonion.jpeg"/>1 red onion</div>
-  </div>
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/mint.jpeg"/>5 sprigs mint</div>
+<div id="ingredienttwo"><img src="/images/4garlic.jpeg"/>4 cloves garlic</div>
+<div id="ingredientthree"><img src="/images/5thaichilis.jpeg"/>5 thai chilis or serranos</div>
+<div id="ingredientfour"><img src="/images/redonion.jpeg"/>1 red onion</div>
+</div>
   
-  <div id="ingredients">
+<div id="ingredients">
 <div id="ingredientone"><img src="/images/lime.jpeg"/>1 lime</div>
 <div id="ingredienttwo"><a href=""><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
 <div id="ingredientthree"><a href=""><img src="/images/honey.jpeg"/>2 tbsp honey</a></div>
