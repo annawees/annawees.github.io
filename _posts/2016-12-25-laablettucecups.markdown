@@ -1,4 +1,4 @@
- ---
+---
 layout: single
 title: Laab Lettuce Cups
 category: recipe
