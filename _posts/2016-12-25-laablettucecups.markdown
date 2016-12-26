@@ -5,7 +5,6 @@ category: recipe
 thumbnail: "/images/laablettucecups.jpg"
 tags: [thai, pork, ground pork]
 ---
-
 <div id="spacer"></div>
   
 <div id="backgroundvideo">
