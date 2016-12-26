@@ -3,7 +3,7 @@ layout: single
 title: Salade Nicoise
 category: recipe
 thumbnail: "/images/saladenicoise.jpg"
-tags: [salad, french, tuna]
+tags: [salad, french, tuna, fish]
 ---
 <div id="spacer"></div>
 
