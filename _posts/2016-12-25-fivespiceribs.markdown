@@ -24,7 +24,7 @@ Inspired by the bites we had in Shanghai, we've braised a short rib in five spic
 </div>
 
 <div id= "recipedetails">
-<div id= "time"><h3> 45 Minutes</h3> </div>
+<div id= "time"><h3> 1 Hr</h3> </div>
 <div id= "spice"><h3> Medium </h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
@@ -77,9 +77,7 @@ Inspired by the bites we had in Shanghai, we've braised a short rib in five spic
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href=""><img src="/images/blender.jpeg"/>blender </a></div>
-<div id="equipmentone"><a href=""><img src="/images/stockpot.jpeg"/>2 stockpots </a></div>
-<div id="equipmentone"><a href=""><img src="/images/colander.jpeg"/>colander </a></div>
+<div id="equipmentone"><a href=""><img src="/images/bakingsheet.jpeg"/>baking sheet </a></div>
 </div>
 
 <div id="preparation">
@@ -87,48 +85,53 @@ Inspired by the bites we had in Shanghai, we've braised a short rib in five spic
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise1.jpeg"/> </div>
-<div id="step">Fill a stockpot with water and place on high heat to boil. This will be used to blanch the haricot vert.
-<p>Set the second stockpot full of water on high heat to boil. Add the thyme and 1 tsp of salt. Once the water begins to boil add the potatoes, reduce the heat to medium high and cook for 20 minutes.</p></div>
+<div id="image"><img src="/images/fivespiceribs1.jpeg"/> </div>
+<div id="step">Preheat the oven to 450˚
+<p>Finely chop the garlic.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise2.jpeg"/> </div>
-<div id="step">Add the haricot to the first pot of boiling water and blanch for 4 minutes.
-<p>Scoop out the haricot vert, place in a colander and run cold water over to stop the cooking process. </p>
-<p><i>Note: Don't toss out the water! Leave the stockpot on heat to poach the eggs.</i></p></div>
+<div id="image"><img src="/images/fivespiceribs2.jpeg"/> </div>
+<div id="step">In a bowl combine the tamari, honey, cinnamon, peppercorns, anise, fennel, cloves, garlic and 1/2 cup of water.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise3.jpeg"/> </div>
-<div id="step">Cut the haricot vert into 3 smaller pieces. 
-<p>Cut the cherry tomatoes in half.</p></div>
+<div id="image"><img src="/images/fivespiceribs3.jpeg"/> </div>
+<div id="step">Place the beef ribs on a roasting pan or baking sheet. Coat the beef ribs in the five spice mixture.
+<p>Place the baking sheet on the middle rack of the oven. Bake for 50 minutes.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise4.jpeg"/> </div>
-<div id="step">Place the anchovies, dijon mustard, white wine vinegar, garlic and 3 tbsp of olive oil in a blender. Puree until uniform. </div>
+<div id="image"><img src="/images/fivespiceribs4.jpeg"/> </div>
+<div id="step">As the short ribs cook, add 1/2 cup more water to the pan and flip the ribs over, generously coating them in the sauce. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise5.jpeg"/> </div>
-<div id="step">When the potatoes have finished cooking, transfer them to a cutting board and cut them into quarters.</div>
+<div id="image"><img src="/images/fivespiceribs5.jpeg"/> </div>
+<div id="step">Set a saucepan with 2/3 cup of water and 1/4 tsp of salt on high heat.
+<p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain the rice. Add more water, swish again, and drain the rice. Repeat swishing and draining one more time.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise6.jpeg"/> </div>
-<div id="step">Place the butter lettuce in a large bowl. Tear the basil and add to the bowl. Top with the potatoes, tuna, haricot vert, and tomatoes. Drizzle the vinaigrette, and toss.</div>
+<div id="image"><img src="/images/fivespiceribs6.jpeg"/> </div>
+<div id="step">Once the water has come to a boil add the washed jasmine rice and cook for 15 minutes.
+<p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise7.jpeg"/> </div>
-<div id="step">Break each egg into their own small bowl or ramekin. Slowly & gently, tip each bowl into the hot water, and let the egg float. Turn the heat off, and cook for 4 minutes.
-<p>Use a spyder of slotted spatula to retrieve the poached eggs. Set them in a bowl or plate until ready for plating.</p></div>
+<div id="image"><img src="/images/fivespiceribs7.jpeg"/> </div>
+<div id="step"><i>After, the ribs have roasted for 30 minutes, cook the broccolini.</i>
+<p>Slice the broccolini in half lengthwise.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise8.jpeg"/> </div>
-<div id="step">Plate each salad. Delicately transfer a poached egg on top of each salad.</div>
+<div id="image"><img src="/images/fivespiceribs8.jpeg"/> </div>
+<div id="step">Coat the bottom of a skillet with the sesame oil, and place on medium high heat. Once the oil is hot add the broccolini and sauté until tender.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/fivespiceribs9.jpeg"/> </div>
+<div id="step">Plate the jasmine rice with the broccolini. Lay the roasted short rib on top and top with the reduced sauce from the roasting pan.</div>
 </div>
 
 <style>
