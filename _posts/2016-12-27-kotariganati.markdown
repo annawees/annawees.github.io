@@ -49,8 +49,6 @@ This traditionally Greek chicken is roasted in fragrant lemon, garlic, and orega
 <h1>Ingredients</h1>
 </div>
 
-1/2 tsp red pepper flakes
-
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/drumsticks.jpeg"/> 4 chicken drumsticks</div>
 <div id="ingredienttwo"><img src="/images/feta.jpeg"/>1/4 cup feta</div>
@@ -69,7 +67,7 @@ This traditionally Greek chicken is roasted in fragrant lemon, garlic, and orega
 <div id="ingredientone"><img src="/images/lemon.jpeg"/>1 lemon</div>
 <div id="ingredienttwo"><img src="/images/kalamata.jpeg"/>1/4 cup kalamata olives with brine</div>
 <div id="ingredientthree"><img src="/images/redwinevin.jpeg"/>3 tbsp red wine vinegar</div>
-<div id="ingredientfour"><img src="/images/redpepperflakes.jpeg"/>1/2 tsp red pepper flakes</div>
+<div id="ingredientfour"><img src="/images/chiliflakes.jpeg"/>1/2 tsp red pepper flakes</div>
 </div>
 
 <div id= "equipmenthdr">
