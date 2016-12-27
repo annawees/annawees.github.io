@@ -50,7 +50,7 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/butterlettuce.jpeg"/> 1 head of frisee lettuce </div>
+<div id="ingredientone"><img src="/images/frisee.jpeg"/> 1 head of frisee lettuce </div>
 <div id="ingredienttwo"><img src="/images/5bacon.jpeg"/>5 slices bacon</div>
 <div id="ingredienttwo"><img src="/images/egg.jpeg"/>2 eggs</div>
 <div id="ingredientfour"><img src="/images/asparagus.jpeg"/>1/2 lb asparagus</div>
