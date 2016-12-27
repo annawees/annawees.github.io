@@ -47,9 +47,6 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 <h1>Ingredients</h1>
 </div>
 
-2 tbsp dijon mustard
-2 oz vermouth
-
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/butterlettuce.jpeg"/> 1 head of frisee lettuce </div>
 <div id="ingredienttwo"><img src="/images/5bacon.jpeg"/>5 slices bacon</div>
@@ -69,9 +66,9 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href=""><img src="/images/stockpot.jpeg"/>1 stockpot </a></div>
-<div id="equipmentone"><a href=""><img src="/images/colander.jpeg"/>colander </a></div>
-<div id="equipmentone"><a href=""><img src="/images/spyder.jpeg"/>spyder or slotted spatula </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
+<div id="equipmenttwo"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander </a></div>
+<div id="equipmentthree"><a href="https://www.amazon.com/Kuhn-Rikon-Spider-Skimmer-Graphite/dp/B00CLKY4UY/ref=as_li_ss_tl?ie=UTF8&qid=1482801541&sr=8-1&keywords=kuhn+rikon+spider&linkCode=ll1&tag=cilalime09-20&linkId=5c4f3660dd0f6b5212c7b994352f2c55"><img src="/images/spyder.jpeg"/>spyder or slotted spatula </a></div>
 </div>
 
 <div id="preparation">
