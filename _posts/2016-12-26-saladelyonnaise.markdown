@@ -60,7 +60,7 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 <div id="ingredientone"><img src="/images/leek.jpeg"/>1 leek</div>
 <div id="ingredienttwo"><img src="/images/shallots.jpeg"/>2 shallots</div>
 <div id="ingredientthree"><img src="/images/vermouth.jpeg"/>1/4 cup white wine or white vermouth</div>
-<div id="ingredientfour"><a href=""><img src="/images/dijonmustard.jpeg"/>2 tbsp grainy dijon mustard</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Maille-Style-Whole-Grain-Mustard/dp/B000SR5VOU/ref=as_li_ss_tl?ie=UTF8&qid=1481914703&sr=8-6&keywords=dijon&linkCode=ll1&tag=cilalime09-20&linkId=6e0752d530b29c4c1499a974b45b73ca"><img src="/images/dijonmustard.jpeg"/>2 tbsp grainy dijon mustard</a></div>
 </div>
 
 <div id= "equipmenthdr">
