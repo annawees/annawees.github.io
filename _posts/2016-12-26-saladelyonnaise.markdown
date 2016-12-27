@@ -119,17 +119,20 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 
 <div id="instruction">
 <div id="image"><img src="/images/saladelyonnaise8.jpeg"/> </div>
-<div id="step"><i>While the egg poaches, cook the bacon.</i> Place a skillet on medium high heat. Once the skillet is hot add the bacon and sauté until the fat renders. Remove the bacon from the pan, but leave the fat behind. 
-<p>Add the sliced shallots to the pan and cook until they are tender.</p></div>
+<div id="step"><i>While the egg poaches, cook the bacon.</i> Place a skillet on medium high heat. Once the skillet is hot add the bacon and sauté until the fat renders. Remove the bacon from the pan, but leave the fat behind.</div>
 </div>
-
 <div id="instruction">
 <div id="image"><img src="/images/saladelyonnaise9.jpeg"/> </div>
-<div id="step">Add the mustard and vermouth to the pan and sauté until the sauce has reduced in half. Remove from heat.</div>
+<div id="step">Add the sliced shallots to the pan and cook until they are tender.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/saladelyonnaise10.jpeg"/> </div>
+<div id="step">Add the mustard and vermouth to the pan and sauté until the sauce has reduced in half. Remove from heat.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/saladelyonnaise11.jpeg"/> </div>
 <div id="step">Plate the leeks, frisee, and asparagus. Top with the bacon sauce and the crisped bacon. Delicately transfer one of the  poached eggs on top of each plate.</div>
 </div>
 
