@@ -6,8 +6,8 @@ thumbnail: "/images/kotariganati.jpg"
 tags: [chicken, drumstick, greek]
 ---
 <div id="backgroundvideo">
-  <video width="100%" autoplay loop muted class="banner__video" poster="/images/saladelyonnaise.jpg">
-  <source src="/images/saladelyonnaise.mp4" type="video/mp4"></video>
+  <video width="100%" autoplay loop muted class="banner__video" poster="/images/kotariganati.jpg">
+  <source src="/images/kotariganati.mp4" type="video/mp4"></video>
 </div>
 
 <div id="recipedescription">
@@ -77,9 +77,8 @@ This traditionally Greek chicken is roasted in fragrant lemon, garlic, and orega
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander </a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Kuhn-Rikon-Spider-Skimmer-Graphite/dp/B00CLKY4UY/ref=as_li_ss_tl?ie=UTF8&qid=1482801541&sr=8-1&keywords=kuhn+rikon+spider&linkCode=ll1&tag=cilalime09-20&linkId=5c4f3660dd0f6b5212c7b994352f2c55"><img src="/images/spyder.jpeg"/>spyder or slotted spatula </a></div>
+<div id="equipmentone"><a href=""><img src="/images/bakingsheet.jpeg"/>baking sheet</a></div>
+<div id="equipmenttwo"><a href=""><img src="/images/finegrater.jpeg"/>fine grater </a></div>
 </div>
 
 <div id="preparation">
@@ -87,64 +86,44 @@ This traditionally Greek chicken is roasted in fragrant lemon, garlic, and orega
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise1.jpeg"/> </div>
-<div id="step">Break the lettuce into individual leaves. </div>
+<div id="image"><img src="/images/kotariganati1.jpeg"/> </div>
+<div id="step">Pre-heat the oven to 425˚, and move a rack to the upper portion of the oven.
+<p>Dice the garlic. </p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise2.jpeg"/> </div>
-<div id="step">Fill a stockpot with water and place on high heat to boil.
-<p>Cut the leek into 1/2" slices. Discard the darkest green portion.</p></div>
+<div id="image"><img src="/images/kotariganati2.jpeg"/> </div>
+<div id="step">Place the chicken drumsticks in a pan. Juice the lemon into the pan. Grate the zest of the lemon into the pan. Remove the oregano from the stem and add to the pan along with the chopped garlic, red pepper flakes, and a 1/4 tsp of salt.
+<p>Roast the chicken for 25 minutes, occasionally adding a 1/2 c of water and flipping the chicken over to keep the chicken from burning.</p>
+<p>After the chicken has roasted for 25 minutes, raise the heat to broil for 7-10 minutes for an extra crispy skin.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise3.jpeg"/> </div>
-<div id="step">Cut the asparagus into bite size pieces.</div>
+<div id="image"><img src="/images/kotariganati3.jpeg"/> </div>
+<div id="step"><i>While the chicken cooks, assemble the salad.</i> Dice half of the red onion. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise4.jpeg"/> </div>
-<div id="step">Finely slice the shallots.</div>
+<div id="image"><img src="/images/kotariganati4.jpeg"/> </div>
+<div id="step">Chop the cucumber into 1/4-1/2" pieces.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise5.jpeg"/> </div>
-<div id="step">Dice the bacon.</div>
+<div id="image"><img src="/images/kotariganati5.jpeg"/> </div>
+<div id="step">Cut the tomato into 1/4 - 1/2" pieces.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise6.jpeg"/> </div>
-<div id="step">Add the leeks to the first pot of boiling water and blanch for 3 minutes. Add the asparagus and blanch for an additional 3 minutes. 
-<p>Then transfer the asparagus & leeks to a colander and run cold water over the vegetables to stop the cooking process.</p>
-<p><i>Note: Don't toss the water, you'll use it for the eggs!</i></p></div>
+<div id="image"><img src="/images/kotariganati6.jpeg"/> </div>
+<div id="step">Place the tomatoes, cucumbers, and red onion in a bowl. Add the red wine vinegar with the kalamata olives and brine. Mix.
+<p>Top with the crumbled feta cheese and place in the refrigerator until ready for serving.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise7.jpeg"/> </div>
-<div id="step">Break each egg into their own small bowl or ramekin. <i>Slowly & gently,</i> tip each bowl into the hot water, and let the egg float into the hot water. Turn the heat off, and cook for 4 minutes.
-<p>Use a spyder of slotted spatula to retrieve the poached eggs. Set them in a bowl or plate until ready for plating.</p></div>
+<div id="image"><img src="/images/kotariganati7.jpeg"/> </div>
+<div id="step">Plate the roasted chicken. Serve with the greek salad and tahini.</div>
 </div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise8.jpeg"/> </div>
-<div id="step"><i>While the egg poaches, cook the bacon.</i> Place a skillet on medium high heat. Once the skillet is hot add the bacon and sauté until the fat renders. Remove the bacon from the pan, but leave the fat behind.</div>
 </div>
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise9.jpeg"/> </div>
-<div id="step">Add the sliced shallots to the pan and cook until they are tender.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise10.jpeg"/> </div>
-<div id="step">Add the mustard and vermouth to the pan and sauté until the sauce has reduced in half. Remove from heat.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise11.jpeg"/> </div>
-<div id="step">Plate the leeks, frisee, and asparagus. Top with the bacon sauce and the crisped bacon. Delicately transfer one of the  poached eggs on top of each plate.</div>
-</div>
-
 
 <style>
 #backgroundvideo {
