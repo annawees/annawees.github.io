@@ -82,63 +82,63 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise1.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise1.jpeg"/> </div>
 <div id="step">Break the lettuce into individual leaves. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise1.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise2.jpeg"/> </div>
 <div id="step">Fill a stockpot with water and place on high heat to boil.
 <p>Cut the leek into 1/2" slices. Discard the darkest green portion.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise2.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise3.jpeg"/> </div>
 <div id="step">Cut the asparagus into bite size pieces.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise3.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise4.jpeg"/> </div>
 <div id="step">Finely slice the shallots.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise4.jpeg"/> </div>
+<div id="image"><img src="/images/ssaladelyonnaise5.jpeg"/> </div>
 <div id="step">Dice the bacon.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise5.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise6.jpeg"/> </div>
 <div id="step">Add the leeks to the first pot of boiling water and blanch for 3 minutes. Add the asparagus and blanch for an additional 3 minutes. 
 <p>Then transfer the asparagus & leeks to a colander and run cold water over the vegetables to stop the cooking process.</p>
 <p><i>Note: Don't toss the water, you'll use it for the eggs!</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise6.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise7.jpeg"/> </div>
 <div id="step">Break each egg into their own small bowl or ramekin. <i>Slowly & gently,</i> tip each bowl into the hot water, and let the egg float into the hot water. Turn the heat off, and cook for 4 minutes.
 <p>Use a spyder of slotted spatula to retrieve the poached eggs. Set them in a bowl or plate until ready for plating.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise7.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise8.jpeg"/> </div>
 <div id="step">Break each egg into their own small bowl or ramekin. Slowly & gently, tip each bowl into the hot water, and let the egg float. Turn the heat off, and cook for 4 minutes.
 <p>Use a spyder of slotted spatula to retrieve the poached eggs. Set them in a bowl or plate until ready for plating.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise8.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise9.jpeg"/> </div>
 <div id="step"><i>While the egg poaches, cook the bacon.</i> Place a skillet on medium high heat. Once the skillet is hot add the bacon and sauté until the fat renders. Remove the bacon from the pan, but leave the fat behind. 
 <p>Add the sliced shallots to the pan and cook until they are tender.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise8.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise10.jpeg"/> </div>
 <div id="step">Add the mustard and vermouth to the pan and sauté until the sauce has reduced in half. Remove from heat.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise8.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise11.jpeg"/> </div>
 <div id="step">Plate the leeks, frisee, and asparagus. Top with the bacon sauce and the crisped bacon. Delicately transfer one of the  poached eggs on top of each plate.</div>
 </div>
 
