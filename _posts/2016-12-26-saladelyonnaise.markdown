@@ -99,7 +99,7 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/ssaladelyonnaise5.jpeg"/> </div>
+<div id="image"><img src="/images/saladelyonnaise5.jpeg"/> </div>
 <div id="step">Dice the bacon.</div>
 </div>
 
