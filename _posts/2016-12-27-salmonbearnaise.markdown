@@ -11,7 +11,7 @@ tags: [samon, fish, low carb]
 </div>
 
 <div id="recipedescription">
-Béarnaise, the flavorful and rich child of Hollandaise, is paired with a perfectly cooked cooked fillet of salmon and crispy broccolini.
+Béarnaise, the flavorful and rich child of Hollandaise, is paired with a perfectly cooked fillet of salmon and crispy broccolini.
 
 <div id="spacer"></div>
 
@@ -39,7 +39,7 @@ Béarnaise, the flavorful and rich child of Hollandaise, is paired with a perfec
 
 <div id= "nutrition">
 <div id="calories"><h3> 560 </h3> </div>
-<div id="carbs"><h3> 9g</h3> </div2
+<div id="carbs"><h3> 9g</h3> </div>
 <div id="fiber"><h3> 2g</h3> </div>
 <div id="fat"><h3> 41g</h3> </div>
 <div id="protein"><h3> 40g</h3> </div>
