@@ -78,62 +78,48 @@ Béarnaise, the flavorful and rich child of Hollandaise, is paired with a perfec
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise1.jpeg"/> </div>
-<div id="step">Break the lettuce into individual leaves. </div>
+<div id="image"><img src="/images/salmonbearnaise1.jpeg"/> </div>
+<div id="step">Fill a stockpot with water and place on high heat.
+<p>Slice the shallots and tarragon finely.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise2.jpeg"/> </div>
-<div id="step">Fill a stockpot with water and place on high heat to boil.
-<p>Cut the leek into 1/2" slices. Discard the darkest green portion.</p></div>
+<div id="image"><img src="/images/salmonbearnaise2.jpeg"/> </div>
+<div id="step">Place the shallots and tarragon in a small saucepan with the peppercorns and 1/2 cup white wine. Place on medium heat and let the wine reduce until there are only 2 tbsp of liquid left.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise3.jpeg"/> </div>
-<div id="step">Cut the asparagus into bite size pieces.</div>
+<div id="image"><img src="/images/salmonbearnaise3.jpeg"/> </div>
+<div id="step">Once the wine has reduced, run the contents through a strainer. (Squeeze all the liquid from the vegetables by using a spoon or spatula to push them against the strainer). Reserve liquid.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise4.jpeg"/> </div>
-<div id="step">Finely slice the shallots.</div>
+<div id="image"><img src="/images/salmonbearnaise4.jpeg"/> </div>
+<div id="step">Melt the butter in a saucepan or in the microwave. Transfer to a measuring cup for easy poring. 
+<p>Place the strained white wine, egg yellow and a 1/4 tsp of salt in a blender. Liquefy. While the blender is running, open up the lid slightly, and slowly add the warm butter.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise5.jpeg"/> </div>
-<div id="step">Dice the bacon.</div>
+<div id="image"><img src="/images/salmonbearnaise5.jpeg"/> </div>
+<div id="step">In a large skillet or sauté pan add enough olive oil to coat the bottom of the pan, and place on high heat.
+<p>When the oil is smoking hot, place the salmon skin side down and cook for 4 minutes. Once the salmon has cooked on one side, flip it over, cook for an additional  minutes.</p>
+<p>Note: Every fish varies in thickness. Make sure the  fillet has turned from a bright pink to a soft pink and flakes when touched with a fork.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise6.jpeg"/> </div>
-<div id="step">Add the leeks to the first pot of boiling water and blanch for 3 minutes. Add the asparagus and blanch for an additional 3 minutes. 
-<p>Then transfer the asparagus & leeks to a colander and run cold water over the vegetables to stop the cooking process.</p>
-<p><i>Note: Don't toss the water, you'll use it for the eggs!</i></p></div>
+<div id="image"><img src="/images/salmonbearnaise6.jpeg"/> </div>
+<div id="step">Transfer the salmon to a cutting board. 
+<p>Portion the salmon into two servings.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise7.jpeg"/> </div>
-<div id="step">Break each egg into their own small bowl or ramekin. <i>Slowly & gently,</i> tip each bowl into the hot water, and let the egg float into the hot water. Turn the heat off, and cook for 4 minutes.
-<p>Use a spyder of slotted spatula to retrieve the poached eggs. Set them in a bowl or plate until ready for plating.</p></div>
-</div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise8.jpeg"/> </div>
-<div id="step"><i>While the egg poaches, cook the bacon.</i> Place a skillet on medium high heat. Once the skillet is hot add the bacon and sauté until the fat renders. Remove the bacon from the pan, but leave the fat behind.</div>
-</div>
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise9.jpeg"/> </div>
-<div id="step">Add the sliced shallots to the pan and cook until they are tender.</div>
+<div id="image"><img src="/images/salmonbearnaise7.jpeg"/> </div>
+<div id="step">When the water in the stockpot has reached a boil, add the broccolini and blanch for 3 minutes. Remove from the pan and set aside for plating.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise10.jpeg"/> </div>
-<div id="step">Add the mustard and vermouth to the pan and sauté until the sauce has reduced in half. Remove from heat.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise11.jpeg"/> </div>
-<div id="step">Plate the leeks, frisee, and asparagus. Top with the bacon sauce and the crisped bacon. Delicately transfer one of the  poached eggs on top of each plate.</div>
+<div id="image"><img src="/images/salmonbearnaise8.jpeg"/> </div>
+<div id="step">Sauce the plate with the béarnaise and top with the broccolini and salmon.</div>
 </div>
 
 
