@@ -2,11 +2,12 @@
 layout: single
 title: Bún bò Huê
 category: recipe
-thumbnail: ""
+thumbnail: "/images/bunbohue.jpg"
 tags: [vietnamese, beef, flank steak, soup]
 ---
-<div class="backgroundvideo">
-  <div class="overlay"> <h1> BÚN BÒ HUÊ </h1></div>
+<div id="backgroundvideo">
+  <video width="100%" autoplay loop muted class="banner__video" poster="/images/bunbohue.jpg">
+  <source src="/images/bunbohue.mp4" type="video/mp4"></video>
 </div>
 
 A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and thinly sliced beef. 
@@ -128,17 +129,15 @@ A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and 
 
 <style>
 #backgroundvideo {
-  position: absolute;
-  z-index:0; }
+  width: 100%;
+  max-height: 800px;
+}
   
 #banner__video {
-    margin-left: -200px;
-    position: relative; }
+    }
 
 #overlay {
-   position: absolute; 
-   margin-top: 300px;
-   z-index: 10; }
+ }
 
 #recipedetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
 #time { width: 26%; float: left;}
