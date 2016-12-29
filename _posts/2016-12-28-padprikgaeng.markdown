@@ -3,7 +3,7 @@ layout: single
 title: Pad Prik Gaeng
 category: recipe
 thumbnail: "/images/padprikgaeng.jpg"
-tags: [salad, french, bacon, pork, low carb]
+tags: [thai, chicken, chicken breast ]
 ---
 <div id="backgroundvideo">
   <video width="100%" autoplay loop muted class="banner__video" poster="/images/padprikgaeng.jpg">
