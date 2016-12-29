@@ -41,7 +41,7 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 <div id= "serves"><h3> Two </h3> </div>
 </div>
 
-<div id="spacer"> </div>
+<div id="space"> </div>
 
 <div id= "nutrition">
 <div id="calories"> Calories </div>
@@ -186,7 +186,8 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 #serves { width 30%; float: left; margin-left: 5%;}
 .clear {clear:both;}
 
-#spacer {padding-top:100px;}
+#spacer {padding-top:150px;}
+#space {padding-top:20px;}
 
 #nutrition { width: 100%; display:inline-block;}
 #calories { width: 18%; float: left; margin-left: 5%;}
