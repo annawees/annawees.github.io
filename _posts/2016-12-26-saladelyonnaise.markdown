@@ -25,6 +25,19 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- In recipe ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4265610880813101"
+     data-ad-slot="1566749873"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
 <div id="spacer"></div>
 
 <div id= "recipedetails">
