@@ -178,13 +178,14 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 #overlay {
  }
 
+
 #recipedetails { width: 100%; display:inline-block; float: left;}
 #time { width: 30%; float: left; margin-left: 5%}
 #spice { width: 30%; float: left;}
 #serves { width 30%; float: left; margin-left: 5%;}
 .clear {clear:both;}
 
-#spacer {padding-top:50px;}
+#spacer {padding-top:100px;}
 
 #nutrition { width: 100%; display:inline-block;}
 #calories { width: 18%; float: left; margin-left: 5%;}
