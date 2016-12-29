@@ -82,7 +82,7 @@ Straight from the streets of Thailand, these spicy noodles with Thai Basil are k
 <div id="equipment">
 <div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
 <div id="equipmenttwo"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander </a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Kuhn-Rikon-Spider-Skimmer-Graphite/dp/B00CLKY4UY/ref=as_li_ss_tl?ie=UTF8&qid=1482801541&sr=8-1&keywords=kuhn+rikon+spider&linkCode=ll1&tag=cilalime09-20&linkId=5c4f3660dd0f6b5212c7b994352f2c55"><img src="/images/spyder.jpeg"/>spyder or slotted spatula </a></div>
+<div id="equipmentthree"><a href=""><img src="/images/whisk.jpeg"/>whisk </a></div>
 </div>
 
 <div id="preparation">
@@ -90,62 +90,58 @@ Straight from the streets of Thailand, these spicy noodles with Thai Basil are k
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise1.jpeg"/> </div>
-<div id="step">Break the lettuce into individual leaves. </div>
+<div id="image"><img src="/images/padkeemao1.jpeg"/> </div>
+<div id="step">Set a large stockpot on high heat to boil the noodles.
+<p>Assemble the sauce by combining the tamari, honey, fish sauce, and rice wine vinegar. Whisk together.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise2.jpeg"/> </div>
-<div id="step">Fill a stockpot with water and place on high heat to boil.
-<p>Cut the leek into 1/2" slices. Discard the darkest green portion.</p></div>
+<div id="image"><img src="/images/padkeemao2.jpeg"/> </div>
+<div id="step">Cut the bell peppers into bite size pieces. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise3.jpeg"/> </div>
-<div id="step">Cut the asparagus into bite size pieces.</div>
+<div id="image"><img src="/images/padkeemao3.jpeg"/> </div>
+<div id="step">Finely slice the scallions and thai chiles. 
+<p>Remove the basil leaves from their stem.</p>
+<p><i>Note: Thai chiles are potent! Minimize your contact with the seeds as much as possible.</i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise4.jpeg"/> </div>
-<div id="step">Finely slice the shallots.</div>
+<div id="image"><img src="/images/padkeemao4.jpeg"/> </div>
+<div id="step">Finely slice the shallots and dice the garlic.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise5.jpeg"/> </div>
-<div id="step">Dice the bacon.</div>
+<div id="image"><img src="/images/padkeemao5.jpeg"/> </div>
+<div id="step">By now, the water should be boiling.
+<p>Add the noodles to the boiling water and cook until tender, approx 7 minutes, and then drain.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise6.jpeg"/> </div>
-<div id="step">Add the leeks to the first pot of boiling water and blanch for 3 minutes. Add the asparagus and blanch for an additional 3 minutes. 
-<p>Then transfer the asparagus & leeks to a colander and run cold water over the vegetables to stop the cooking process.</p>
-<p><i>Note: Don't toss the water, you'll use it for the eggs!</i></p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise7.jpeg"/> </div>
-<div id="step">Break each egg into their own small bowl or ramekin. <i>Slowly & gently,</i> tip each bowl into the hot water, and let the egg float into the hot water. Turn the heat off, and cook for 4 minutes.
-<p>Use a spyder of slotted spatula to retrieve the poached eggs. Set them in a bowl or plate until ready for plating.</p></div>
+<div id="image"><img src="/images/padkeemao6.jpeg"/> </div>
+<div id="step"><i>While the rice noodles are cooking,</i> heat a large skillet on medium heat. Add a small amount sesame oil to coat the pan. Once the pan is hot add the garlic, shallots, scallions and chiles and cook until the garlic and shallots begin to turn brown.</div>
 </div>
 
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise8.jpeg"/> </div>
-<div id="step"><i>While the egg poaches, cook the bacon.</i> Place a skillet on medium high heat. Once the skillet is hot add the bacon and sauté until the fat renders. Remove the bacon from the pan, but leave the fat behind.</div>
-</div>
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise9.jpeg"/> </div>
-<div id="step">Add the sliced shallots to the pan and cook until they are tender.</div>
+<div id="image"><img src="/images/padkeemao7.jpeg"/> </div>
+<div id="step">Add the ground pork to the pan, along with a 1/4 of the tamari sauce made earlier. Sauté the pork until browned.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise10.jpeg"/> </div>
-<div id="step">Add the mustard and vermouth to the pan and sauté until the sauce has reduced in half. Remove from heat.</div>
+<div id="image"><img src="/images/padkeemao8.jpeg"/> </div>
+<div id="step">Add the bell peppers and cook for an additional two minutes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise11.jpeg"/> </div>
-<div id="step">Plate the leeks, frisee, and asparagus. Top with the bacon sauce and the crisped bacon. Delicately transfer one of the  poached eggs on top of each plate.</div>
+<div id="image"><img src="/images/padkeemao9.jpeg"/> </div>
+<div id="step">Add the cooked rice noodles with the remaining sauce and the chopped basil. Toss to ensure that the noodles and vegetables are coated with the tamari sauce.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padkeemao10.jpeg"/> </div>
+<div id="step">Plate the pad kee mao.</div>
 </div>
 
 
