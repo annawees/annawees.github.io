@@ -49,14 +49,6 @@ Fragrant spices are combined to produce a spicy, complex curry paste. This thai 
 <h1>Ingredients</h1>
 </div>
 
-1/2 tsp peppercorns
-12 dried thai chiles
-1 tsp coriander seeds
-1 tsp cumin seeds
-2 tbsp coconut sugar
-2 tbsp sesame oil
-1/2 c jasmine rice
-
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/chickenbreasts.jpeg"/> 2 boneless skinless chicken breasts </div>
 <div id="ingredienttwo"><img src="/images/green beans.jpeg"/>1/2 lb green beans</div>
@@ -65,17 +57,24 @@ Fragrant spices are combined to produce a spicy, complex curry paste. This thai 
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/3thaichile.jpeg"/>3 fresh thai chiles</div>
+<div id="ingredientone"><img src="/images/3freshthaichili.jpeg"/>3 fresh thai chilis</div>
 <div id="ingredienttwo"><img src="/images/ginger.jpeg"/>2 inch ginger</div>
 <div id="ingredientthree"><img src="/images/kaffirlime.jpeg"/>2 kaffir lime leaves</div>
 <div id="ingredientfour"><img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/3thaichile.jpeg"/>3 fresh thai chiles</div>
-<div id="ingredienttwo"><img src="/images/ginger.jpeg"/>2 inch ginger</div>
-<div id="ingredientthree"><img src="/images/kaffirlime.jpeg"/>2 kaffir lime leaves</div>
-<div id="ingredientfour"><img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce</div>
+<div id="ingredientone"><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</div>
+<div id="ingredienttwo"><img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce</div>
+<div id="ingredientthree"><img src="/images/12driedthaichili.jpeg"/>12 dried thai chilis</div>
+<div id="ingredientfour"><img src="/images/jasminerice.jpeg"/>1/2 cup jasmine rice</div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/coconutsugar.jpeg"/>2 tbsp coconut sugar</div>
+<div id="ingredienttwo"><img src="/images/coriander.jpeg"/>1 tsp coriander seeds</div>
+<div id="ingredientthree"><img src="/images/cumin.jpeg"/>1 tsp cumin seeds</div>
+<div id="ingredientfour"><img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns</div>
 </div>
 
 <div id= "equipmenthdr">
