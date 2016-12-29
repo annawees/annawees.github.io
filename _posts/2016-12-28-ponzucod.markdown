@@ -93,49 +93,49 @@ Perfectly cooked cod lays on top of creamy avocado, blistered shishitos, and sca
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise1.jpeg"/> </div>
+<div id="image"><img src="/images/ponzucod1.jpeg"/> </div>
 <div id="step">Move a rack to the upper third of the oven, and set the oven to broil.
 <p>Place the shishito peppers on a baking sheet. Let them broil for 7 minutes, or until they begin to char.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise2.jpeg"/> </div>
+<div id="image"><img src="/images/ponzucod2.jpeg"/> </div>
 <div id="step">Finely slice the scallions.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise3.jpeg"/> </div>
+<div id="image"><img src="/images/ponzucod3.jpeg"/> </div>
 <div id="step">Cut the avocados in half, slicing around the seed. Separate the two halves from each other, discard the seed and peel. Thinly slice the avocado.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise4.jpeg"/> </div>
+<div id="image"><img src="/images/ponzucod4.jpeg"/> </div>
 <div id="step">Set a skillet on medium high heat and add the sesame oil. Once the oil is hot, lay the cod fillets in the pan (The fish should sizzle when it makes contact). Cook for 3 minutes on each side. 
 <p>Once the cod has finished cooking, transfer the cod to a plate.</p>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise5.jpeg"/> </div>
+<div id="image"><img src="/images/ponzucod5.jpeg"/> </div>
 <div id="step">Add the ponzu, rice wine vinegar, soy sauce, and 1/2 cup of water to the pan and reduce the heat to low.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise6.jpeg"/> </div>
+<div id="image"><img src="/images/ponzucod6.jpeg"/> </div>
 <div id="step">While, the sauce simmers, assemble the plate. By now, the shishito peppers should be broiled. Remove the stems from the shishito.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise7.jpeg"/> </div>
+<div id="image"><img src="/images/ponzucod7.jpeg"/> </div>
 <div id="step">Lay the bottom of the plate with the avocado and shishito peppers.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise8.jpeg"/> </div>
+<div id="image"><img src="/images/ponzucod8.jpeg"/> </div>
 <div id="step">Sprinkle the scallions around the avocados and shishitos. Lay the cooked cod on top.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise8.jpeg"/> </div>
+<div id="image"><img src="/images/ponzucod9.jpeg"/> </div>
 <div id="step">Pour the hot ponzu sauce on top of the fish, letting it drip on to the avocado and shishito peppers.
 <p><i>Having guests over? Serve the ponzu sauce table side.</i></p></div>
 </div>
