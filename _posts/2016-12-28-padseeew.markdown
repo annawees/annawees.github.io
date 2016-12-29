@@ -88,58 +88,64 @@ Rich, slightly sour, and charred, Pad See Ew is a stand out amongst Thai street 
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao1.jpeg"/> </div>
-<div id="step">Set a large stockpot on high heat to boil the noodles.
-<p>Assemble the sauce by combining the tamari, honey, fish sauce, and rice wine vinegar. Whisk together.</p></div>
+<div id="image"><img src="/images/padseeew1.jpeg"/> </div>
+<div id="step">Fill a stockpot with water and set on high heat to boil the noodles.
+<p>Assemble the sauce by combining the tamari, honey, oyster sauce, and rice wine vinegar. Whisk together.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao2.jpeg"/> </div>
-<div id="step">Cut the bell peppers into bite size pieces. </div>
+<div id="image"><img src="/images/padseeew2.jpeg"/> </div>
+<div id="step">Remove the leafy part of the gai lan from the stems.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao3.jpeg"/> </div>
-<div id="step">Finely slice the scallions and thai chiles. 
-<p>Remove the basil leaves from their stem.</p>
-<p><i>Note: Thai chiles are potent! Minimize your contact with the seeds as much as possible.</i></p></div>
+<div id="image"><img src="/images/padseeew3.jpeg"/> </div>
+<div id="step">Cut the stems in half lengthwise.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao4.jpeg"/> </div>
-<div id="step">Finely slice the shallots and dice the garlic.</div>
+<div id="image"><img src="/images/padseeew4.jpeg"/> </div>
+<div id="step">Finely dice the garlic.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao5.jpeg"/> </div>
+<div id="image"><img src="/images/padseeew5.jpeg"/> </div>
+<div id="step">Cut the chicken into bite-size pieces.</div>
+</div>
+
+
+<div id="instruction">
+<div id="image"><img src="/images/padseeew6.jpeg"/> </div>
 <div id="step">By now, the water should be boiling.
-<p>Add the noodles to the boiling water and cook until tender, approx 7 minutes, and then drain.</p></div>
+<p>Add the noodles to the boiling water and cook until tender, approx 9 minutes, and then drain.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao6.jpeg"/> </div>
-<div id="step"><i>While the rice noodles are cooking,</i> heat a large skillet on medium heat. Add a small amount sesame oil to coat the pan. Once the pan is hot add the garlic, shallots, scallions and chiles and cook until the garlic and shallots begin to turn brown.</div>
+<div id="image"><img src="/images/padseeew7.jpeg"/> </div>
+<div id="step">While the rice noodles are cooking, heat a large skillet on high heat. Add the sesame oil to coat the pan. Once the pan is hot add the garlic, and cook until golden brown.</div>
 </div>
 
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao7.jpeg"/> </div>
-<div id="step">Add the ground pork to the pan, along with a 1/4 of the tamari sauce made earlier. Sauté the pork until browned.</div>
+<div id="image"><img src="/images/padseeew8.jpeg"/> </div>
+<div id="step">Add the split stems of the gai lan. Sauté for approx. 3 minutes until they begin to soften.
+<p>Add the chopped chicken breast and sauté until the chicken has browned.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao8.jpeg"/> </div>
-<div id="step">Add the bell peppers and cook for an additional two minutes.</div>
+<div id="image"><img src="/images/padseeew9.jpeg"/> </div>
+<div id="step">Move the chicken and gai lan to one side of the pan. Crack the egg into the pan, and scramble it.
+<i>Don't worry if some of the egg sticks to the pan, it will release when the sauce is added.</i></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao9.jpeg"/> </div>
-<div id="step">Add the cooked rice noodles with the remaining sauce and the chopped basil. Toss to ensure that the noodles and vegetables are coated with the tamari sauce.</div>
+<div id="image"><img src="/images/padseeew10.jpeg"/> </div>
+<div id="step">Add the noodles, gai lan leaves, and sauce. Toss to coat the noodles in the sauce.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao10.jpeg"/> </div>
-<div id="step">Plate the pad kee mao.</div>
+<div id="image"><img src="/images/padseeew11.jpeg"/> </div>
+<div id="step">Plate the pad see ew..</div>
 </div>
 
 
