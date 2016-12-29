@@ -35,7 +35,7 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 <div id= "serves"> Serves </div>
 </div>
 
-<div id= "recipedetails">
+<div id= "recipenumbers">
 <div id= "time"><h3> 30 Minutes</h3> </div>
 <div id= "spice"><h3> Mild </h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
@@ -51,7 +51,7 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 <div id="protein"> Protein </div>
 </div>
 
-<div id= "nutrition">
+<div id= "nutritionnumbers">
 <div id="calories"><h3> 440 </h3> </div>
 <div id="carbs"><h3> 20g</h3> </div>
 <div id="fiber"><h3> 7g</h3> </div>
@@ -186,10 +186,21 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 #serves { width 30%; float: left; margin-left: 5%;}
 .clear {clear:both;}
 
-#spacer {padding-top:150px;}
-#space {padding-top:20px;}
+#recipenumbers { width: 100%; padding-bottom: 50px; display:inline-block; float: left;}
+#time { width: 30%; float: left; margin-left: 5%}
+#spice { width: 30%; float: left;}
+#serves { width 30%; float: left; margin-left: 5%;}
+.clear {clear:both;}
 
 #nutrition { width: 100%; display:inline-block;}
+#calories { width: 18%; float: left; margin-left: 5%;}
+#carbs { width: 18%; float: left; margin-left: 0%;}
+#fiber { width: 18%; float: left; margin-left: 0%;}
+#fat { width: 18%; float: left; margin-left: 0%;}
+#protein { width: 18%; float: left; margin-right:5%;}
+.clear {clear:both;}
+
+#nutritionnumbers { width: 100%; display:inline-block;}
 #calories { width: 18%; float: left; margin-left: 5%;}
 #carbs { width: 18%; float: left; margin-left: 0%;}
 #fiber { width: 18%; float: left; margin-left: 0%;}
@@ -206,7 +217,7 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 #ingredientfour { width:20%; float:left; margin-left: 5%;}
 .clear {clear:both;}
 
-#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
+#equipmenthdr { margin-top:150px; margin-bottom:50px; font-family: $serif;}
 
 #equipment { width: 95%; display:inline-block;}
 #equipmentone { width: 20%; float:left;}
