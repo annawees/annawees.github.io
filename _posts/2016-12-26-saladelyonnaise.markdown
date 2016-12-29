@@ -13,7 +13,7 @@ tags: [salad, french, bacon, pork, low carb]
 <div id="recipedescription">
 Lyon is arguably the best city in France when it comes to food, and it's no surprise that the Salade Lyonnaise is one of the most flavorful salads that France has to offer. A soft poached egg sits on a bed of frisee, asparagus, and leeks and is accented with a warm bacon vinagrette.
 
-<div id="spacer"></div>
+<div id="spacer"> </div>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- In recipe ads -->
@@ -27,7 +27,7 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 </script>
 
 
-<div id="spacer"></div>
+<div id="spacer"> </div>
 
 <div id= "recipedetails">
 <div id= "time"> Time </div>
@@ -41,7 +41,7 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 <div id= "serves"><h3> Two </h3> </div>
 </div>
 
-<div id="spacer"></div>
+<div id="spacer"> </div>
 
 <div id= "nutrition">
 <div id="calories"> Calories </div>
