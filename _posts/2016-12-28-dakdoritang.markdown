@@ -40,8 +40,8 @@ Chicken legs are browned and then braised in gochujang; a savory, spicy, and pun
 
 <div id= "nutrition">
 <div id="calories"><h3> 630 </h3> </div>
-<div id="carbs"><h3> 78g</h3> </div
-<div id="fiber"> 6g </div>
+<div id="carbs"><h3> 78g</h3> </div>
+<div id="fiber"> <h3>6g </h3></div>
 <div id="fat"><h3> 16g</h3> </div>
 <div id="protein"><h3> 34g</h3> </div>
 </div>
@@ -79,56 +79,53 @@ Chicken legs are browned and then braised in gochujang; a savory, spicy, and pun
 <div id="preparation"><h1>Preparation</h1></div>
   
 <div id="instruction">
-<div id="image"><img src="/images/laab1.jpeg"/> </div>
-<div id="step">Dice the garlic. 
-<p>Finely slice the thai chiles.</p></div>
+<div id="image"><img src="/images/dakdoritang1.jpeg"/> </div>
+<div id="step">Finely chop the garlic and slice the scallions.</div>
 </div>
  
 <div id="instruction">
-<div id="image"><img src="/images/laab2.jpeg"/> </div>
-<div id="step">Finely slice the onion.</div>
+<div id="image"><img src="/images/dakdoritang2.jpeg"/> </div>
+<div id="step">Peel the carrots and sweet potato. Slice the carrots into 1/2" pieces and cut the potato into 1/2" cubes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/laab3.jpeg"/> </div>
-<div id="step">Remove the leaves from the stems of the cilantro, basil, and mint.</div>
+<div id="image"><img src="/images/dakdoritang3.jpeg"/> </div>
+<div id="step">Coat the bottom of a large stockpot with sesame oil and place on medium high heat. Once the oil is hot, add the chicken drumsticks and brown on all sides.
+<p>Once browned, transfer the chicken to a plate for later use.</p></div>
  </div>
   
 <div id="instruction">
-<div id="image"><img src="/images/laab4.jpeg"/> </div>
-<div id="step">Remove the bottom stem from the lettuce, and separate the leaves.</div>
+<div id="image"><img src="/images/dakdoritang4.jpeg"/> </div>
+<div id="step">Add the chopped garlic to the pan and sauté until golden brown.</div>
 </div>
   
 <div id="instruction">
-<div id="image"><img src="/images/laab5.jpeg"/> </div>
-<div id="step">Squeeze the lime juice into a bowl. Combine with the fish sauce, rice wine vinegar, and honey.</div>
+<div id="image"><img src="/images/dakdoritang5.jpeg"/> </div>
+<div id="step">Add the gochujang, soy sauce and 4 cups of water to the pot. Grate the ginger into the pot.</div>
  </div>
   
 <div id="instruction">
-<div id="image"><img src="/images/laab6.jpeg"/> </div>
-<div id="step">Place a large skillet on medium heat. Add the sesame oil. Once the oil is hot, add the garlic and thai chiles. Sauté until the garlic starts to turn a golden color.</div>
+<div id="image"><img src="/images/dakdoritang6.jpeg"/> </div>
+<div id="step">Add the sweet potato, carrots, previously browned chicken, and mung bean sprouts. Reduce the heat to medium, and cook for another 20 minutes until reduced by 75%.</div>
 </div>
   
 <div id="instruction">
-<div id="image"><img src="/images/laab7.jpeg"/> </div>
-<div id="step">Add the red onions to the pan and sauté until the onions are tender.</div>
+<div id="image"><img src="/images/dakdoritang7.jpeg"/> </div>
+<div id="step">Set a saucepan with 2/3 cup of water with 1/4 tsp of salt on high heat.
+<p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain the rice. Add more water, swish again, and drain the rice. Repeat swishing and draining one more time.</p></div>
  </div>
   
 <div id="instruction">
-<div id="image"><img src="/images/laab8.jpeg"/> </div>
-<div id="step">Add the ground pork and brown in the pan. </div>
+<div id="image"><img src="/images/dakdoritang8.jpeg"/> </div>
+<div id="step">Once the water has come to a boil add the washed sushi rice, cover and cook for 15 minutes.
+<p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.</p></div>
  </div>
   
  
 <div id="instruction">
-<div id="image"><img src="/images/laab9.jpeg"/> </div>
-<div id="step"> Once the pork has browned, add the lime juice mixture, cilantro, basil, and mint. Sauté to mix the sauce and herbs. </div>
+<div id="image"><img src="/images/dakdoritang9.jpeg"/> </div>
+<div id="step"> Plate the sushi rice with the reduced dakdoritang. Top with the chopped scallions.</div>
  </div>
-  
-<div id="instruction">
-<div id="image"><img src="/images/laab10.jpeg"/> </div>
-<div id="step">Serve the laab in the lettuce cups with the sriracha.</div>
-</div>
 
 <style>
 #backgroundvideo {
