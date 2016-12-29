@@ -83,8 +83,8 @@ Fragrant spices are combined to produce a spicy, complex curry paste. This thai 
 
 <div id="equipment">
 <div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander </a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Kuhn-Rikon-Spider-Skimmer-Graphite/dp/B00CLKY4UY/ref=as_li_ss_tl?ie=UTF8&qid=1482801541&sr=8-1&keywords=kuhn+rikon+spider&linkCode=ll1&tag=cilalime09-20&linkId=5c4f3660dd0f6b5212c7b994352f2c55"><img src="/images/spyder.jpeg"/>spyder or slotted spatula </a></div>
+<div id="equipmenttwo"><a href=""><img src="/images/blender.jpeg"/>blender </a></div>
+<div id="equipmentthree"><a href=""><img src="/images/colander.jpeg"/>colander </a></div>
 </div>
 
 <div id="preparation">
@@ -92,64 +92,52 @@ Fragrant spices are combined to produce a spicy, complex curry paste. This thai 
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise1.jpeg"/> </div>
-<div id="step">Break the lettuce into individual leaves. </div>
+<div id="image"><img src="/images/padprikgaeng1.jpeg"/> </div>
+<div id="step">Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.
+<p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. </p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise2.jpeg"/> </div>
-<div id="step">Fill a stockpot with water and place on high heat to boil.
-<p>Cut the leek into 1/2" slices. Discard the darkest green portion.</p></div>
+<div id="image"><img src="/images/padprikgaeng2.jpeg"/> </div>
+<div id="step">Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low, and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise3.jpeg"/> </div>
-<div id="step">Cut the asparagus into bite size pieces.</div>
+<div id="image"><img src="/images/padprikgaeng3.jpeg"/> </div>
+<div id="step">Make the curry paste by combining the lemongrass, kaffir lime leaves, peppercorns, ginger, garlic, thai chiles, coriander, cumin, coconut sugar, fish sauce and 1/4 c of water in a blender. 
+<p>Puree until smooth.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise4.jpeg"/> </div>
-<div id="step">Finely slice the shallots.</div>
+<div id="image"><img src="/images/padprikgaeng4.jpeg"/> </div>
+<div id="step">Cut the chicken into bite size pieces.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise5.jpeg"/> </div>
-<div id="step">Dice the bacon.</div>
+<div id="image"><img src="/images/padprikgaeng5.jpeg"/> </div>
+<div id="step">Trim the stems off of the green beans.
+<p><i>Note: Use kitchen shears to make this task even easier! </i></p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise6.jpeg"/> </div>
-<div id="step">Add the leeks to the first pot of boiling water and blanch for 3 minutes. Add the asparagus and blanch for an additional 3 minutes. 
-<p>Then transfer the asparagus & leeks to a colander and run cold water over the vegetables to stop the cooking process.</p>
-<p><i>Note: Don't toss the water, you'll use it for the eggs!</i></p></div>
+<div id="image"><img src="/images/padprikgaeng6.jpeg"/> </div>
+<div id="step">Cut the green beans in bite size pieces.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise7.jpeg"/> </div>
-<div id="step">Break each egg into their own small bowl or ramekin. <i>Slowly & gently,</i> tip each bowl into the hot water, and let the egg float into the hot water. Turn the heat off, and cook for 4 minutes.
-<p>Use a spyder of slotted spatula to retrieve the poached eggs. Set them in a bowl or plate until ready for plating.</p></div>
-</div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise8.jpeg"/> </div>
-<div id="step"><i>While the egg poaches, cook the bacon.</i> Place a skillet on medium high heat. Once the skillet is hot add the bacon and sauté until the fat renders. Remove the bacon from the pan, but leave the fat behind.</div>
-</div>
-<div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise9.jpeg"/> </div>
-<div id="step">Add the sliced shallots to the pan and cook until they are tender.</div>
+<div id="image"><img src="/images/padprikgaeng7.jpeg"/> </div>
+<div id="step">Add the green beans to the boiling water and blanch for 4 minutes. Transfer to a colander and drain.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise10.jpeg"/> </div>
-<div id="step">Add the mustard and vermouth to the pan and sauté until the sauce has reduced in half. Remove from heat.</div>
-</div>
+<div id="image"><img src="/images/padprikgaeng8.jpeg"/> </div>
+<div id="step">Once the chicken has browned add the curry paste and green beans to the pan. Cook until the sauce reduces by half, approx. 3 minutes.</div>
 
+</div>
 <div id="instruction">
-<div id="image"><img src="/images/saladelyonnaise11.jpeg"/> </div>
-<div id="step">Plate the leeks, frisee, and asparagus. Top with the bacon sauce and the crisped bacon. Delicately transfer one of the  poached eggs on top of each plate.</div>
+<div id="image"><img src="/images/padprikgaeng9.jpeg"/> </div>
+<div id="step">Once the curry has reduced, plate it with the jasmine rice. Sauce the plate generously.</div>
 </div>
-
 
 <style>
 #backgroundvideo {
