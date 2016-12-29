@@ -62,41 +62,30 @@ Perfectly cooked cod lays on top of creamy avocado, blistered shishitos, and sca
 <h1>Ingredients</h1>
 </div>
 
-2 avocados
-4 scallions
-1 oz ponzu
 1 oz rice wine vinegar
 1 oz soy sauce
 2 tbsp of sesame oil
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/cod.jpeg"/> 3/4 lb cod </div>
 <div id="ingredienttwo"><img src="/images/shishito.jpeg"/>1/2 lb shishito pepper</div>
-<div id="ingredienttwo"><img src="/images/haricotvert.jpeg"/>4 oz haricot vert</div>
-<div id="ingredientfour"><img src="/images/basil.jpeg"/>2 sprigs basil</div>
+<div id="ingredienttwo"><img src="/images/avocado.jpeg"/>2 avocados</div>
+<div id="ingredientfour"><img src="/images/4scallion.jpeg"/>4 scallions</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/thyme.jpeg"/>2 sprigs thyme</div>
-<div id="ingredienttwo"><img src="/images/cherrytomatoes.jpeg"/>10 small tomatoes</div>
-<div id="ingredientthree"><img src="/images/1garlic.jpeg"/>1 garlic clove</div>
-<div id="ingredientfour"><img src="/images/smallpotatoes.jpeg"/>3/4 lb small yellow potatoes</div>
+<div id="ingredientone"><img src="/images/ponzu.jpeg"/>3 tbsp ponzu</div>
+<div id="ingredienttwo"><img src="/images/tamari.jpeg"/>3 tbsp soy sauce</div>
+<div id="ingredientthree"><img src="/images/ricewinevin.jpeg"/>3 tbsp rice vinegar</div>
+<div id="ingredientfour"><img src="/images/smallpotatoes.jpeg"/>2 tbsp sesame oil</div>
 </div>
 
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/bonitotuna.jpeg"/>4 oz olive oil packed tuna</div>
-<div id="ingredienttwo"><a href=""><img src="/images/3anchovies.jpeg"/>3 anchovies</a></div>
-<div id="ingredientthree"><a href=""><img src="/images/dijon.jpeg"/>2 tbsp dijon mustard</a></div>
-<div id="ingredientfour"><a href=""><img src="/images/sesameoil.jpeg"/> 3 tbsp white wine vinegar</a></div>
-</div>
 
 <div id= "equipmenthdr">
 <h1>Equipment</h1>
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href=""><img src="/images/blender.jpeg"/>blender </a></div>
-<div id="equipmentone"><a href=""><img src="/images/stockpot.jpeg"/>2 stockpots </a></div>
-<div id="equipmentone"><a href=""><img src="/images/colander.jpeg"/>colander </a></div>
+<div id="equipmentone"><a href=""><img src="/images/bakingsheet.jpeg"/>baking sheet </a></div>
 </div>
 
 <div id="preparation">
@@ -105,15 +94,13 @@ Perfectly cooked cod lays on top of creamy avocado, blistered shishitos, and sca
 
 <div id="instruction">
 <div id="image"><img src="/images/saladenicoise1.jpeg"/> </div>
-<div id="step">Fill a stockpot with water and place on high heat to boil. This will be used to blanch the haricot vert.
-<p>Set the second stockpot full of water on high heat to boil. Add the thyme and 1 tsp of salt. Once the water begins to boil add the potatoes, reduce the heat to medium high and cook for 20 minutes.</p></div>
+<div id="step">Move a rack to the upper third of the oven, and set the oven to broil.
+<p>Place the shishito peppers on a baking sheet. Let them broil for 7 minutes, or until they begin to char.</p></div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/saladenicoise2.jpeg"/> </div>
-<div id="step">Add the haricot to the first pot of boiling water and blanch for 4 minutes.
-<p>Scoop out the haricot vert, place in a colander and run cold water over to stop the cooking process. </p>
-<p><i>Note: Don't toss out the water! Leave the stockpot on heat to poach the eggs.</i></p></div>
+<div id="step">Finely slice the scallions.</div>
 </div>
 
 <div id="instruction">
