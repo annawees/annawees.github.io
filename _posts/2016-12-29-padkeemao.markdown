@@ -3,7 +3,7 @@ layout: single
 title: Pad Kee Mao
 category: recipe
 thumbnail: "/images/padkeemao.jpg"
-tags: [salad, french, bacon, pork, low carb]
+tags: [thai, pork, ground pork, noodles]
 ---
 <div id="backgroundvideo">
   <video width="100%" autoplay loop muted class="banner__video" poster="/images/padkeemao.jpg">
