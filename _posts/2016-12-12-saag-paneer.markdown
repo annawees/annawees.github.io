@@ -17,6 +17,7 @@ tags: [cheese, vegetarian, indian]
 
 
 A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
+
 <div id="recipedetails">
 <div id= "time"> Time </div>
 <div id= "spice"> Spice </div>
@@ -24,8 +25,8 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 </div>
 
 <div id= "recipedetails">
-<div id= "time"><h3> 45 Minutes</h3> </div>
-<div id= "spice"><h3> Hot</h3> </div>
+<div id= "time"><h3> 45 Min</h3> </div>
+<div id= "spice"><h3> Medium</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
 </div>
 
@@ -44,7 +45,6 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 <div id="fat"><h3> 28g</h3> </div>
 <div id="protein"><h3> 49g</h3> </div>
 </div>
-</ul>
 
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
@@ -149,6 +149,12 @@ main {
   margin: 20px auto;
 }
 
+#recipedetails { width: 100%; display:inline-block; float: left;}
+#time { width: 30%; float: left; margin-left: 5%}
+#spice { width: 30%; float: left;}
+#serves { width 30%; float: left; margin-left: 5%;}
+.clear {clear:both;}
+
 #nutritiondetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
 #calories { width: 18%; float: left;}
 #carbs { width: 18%; float: left; margin-left: 0%;}
@@ -164,6 +170,7 @@ main {
 #fat { width: 18%; float: left; margin-left: 0%;}
 #protein { width: 18%; float: left; margin-left: 0%;}
 .clear {clear:both;}
+
 
 #ingredienthdr { margin-top:200px; margin-bottom:50px;}
 
