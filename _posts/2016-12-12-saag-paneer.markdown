@@ -51,24 +51,24 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 
 <ul>
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ingredients/paneer.png"/>6 oz paneer </div>
-<div id="ingredienttwo"><img src="/images/ingredients/yogurt.png"/>4 oz greek yogurt</div>
-<div id="ingredientthree"><img src="/images/ingredients/onion.png"/>1 onion</div>
-<div id="ingredientfour"><img src="/images/ingredients/spinach.png"/>12 oz spinach</div>
+<div id="ingredientone"><img src="/images/ingredients/paneer.jpeg"/>6 oz paneer </div>
+<div id="ingredienttwo"><img src="/images/ingredients/yogurt.jpeg"/>4 oz greek yogurt</div>
+<div id="ingredientthree"><img src="/images/ingredients/onion.jpeg"/>1 onion</div>
+<div id="ingredientfour"><img src="/images/ingredients/spinach.jpeg"/>12 oz spinach</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/ingredients/butter.png"/>2 tbsp butter</div>
-<div id="ingredienttwo"><img src="/images/ingredients/3garlic.png"/>3 garlic cloves</div>
-<div id="ingredientthree"><img src="/images/ingredients/ginger.png"/>1 tbsp ginger</div>
-<div id="ingredientfour"><img src="/images/ingredients/thaichile.png"/>2 thai chiles*</div>
+<div id="ingredientone"><img src="/images/ingredients/butter.jpeg"/>2 tbsp butter</div>
+<div id="ingredienttwo"><img src="/images/ingredients/3garlic.jpeg"/>3 garlic cloves</div>
+<div id="ingredientthree"><img src="/images/ingredients/ginger.jpeg"/>1 tbsp ginger</div>
+<div id="ingredientfour"><img src="/images/ingredients/thaichile.jpeg"/>2 thai chiles*</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href=""><img src="/images/ingredients/basmati.png"/>1/2 cup basmati rice</a></div>
-<div id="ingredienttwo"><a href=""><img src="/images/ingredients/garammasala.png"/>1/2 tsp garam masala</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/ingredients/groundcumin.png"><img src="/images/ingredients/groundcumin.png"/>1/2 tsp ground cumin</a></div>
-<div id="ingredientfour"><a href="">1/2 tsp ground cumin</a></div>
+<div id="ingredientone"><a href=""><img src="/images/ingredients/basmati.jpeg"/>1/2 cup basmati rice</a></div>
+<div id="ingredienttwo"><a href=""><img src="/images/ingredients/garammasala.jpeg"/>1/2 tsp garam masala</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/ingredients/groundcumin.jpeg">1/2 tsp ground cumin</a></div>
+<div id="ingredientfour"><a href=""><img src="/images/ingredients/cayenne.jpeg">1/2 tsp ground cayenne</a></div>
 </div>
 </ul>
 
