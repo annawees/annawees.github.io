@@ -5,10 +5,12 @@ category: recipe
 thumbnail: "/images/saagpaneer.jpg"
 tags: [cheese, vegetarian, indian]
 ---
-<div id= "figure">
+<div id="figure">
   <img src="/images/saagpaneer.jpg" />
-  <div id ="figcaption">
-     Saag Paneer
+  <div id="figcaption">
+    <div id="span">
+      <h1> Saag Paneer </h1>
+    </div>
   </div>
 </div>
 
@@ -130,7 +132,7 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
   position: relative;
   
   img { 
-    display: block; /* removes trailing whitespace */
+    display: block; 
     outline: solid #000 1px;
   } 
 }
@@ -138,19 +140,18 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 #figcaption {
   position: absolute;
   bottom: 10%;
-  width: 501px; // constrain caption to img size
+  width: 100%; 
   margin: 0;
-
   font-size: 1.5rem;
-  font-weight: bold;
   line-height: 200%;
   text-transform: capitalize;
   
-
-    
+ #span {
+    color: white;
+    background: rgba(0, 0, 0, 0.7);
+    padding: .5em;
     }
   }
-}
 
 #recipedetails { width: 100%; display:inline-block; float: left;}
 #time { width: 30%; float: left; margin-left: 5%}
