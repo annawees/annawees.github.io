@@ -5,16 +5,22 @@ category: recipe
 thumbnail: "/images/saagpaneer.jpg"
 tags: [cheese, vegetarian, indian]
 ---
-<img src="/images/saagpaneer.jpg"/>
+<div id="background">
+  <img src="/images/saagpaneer.jpg"/>
+  </div>
+  
+  <header>
+  <div class="title">
+    <h1>Saag Paneer</h1>
+  </div>
+</header>
+
 
 A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
 
-<ul>
-<div id= "recipedetails">
 <div id= "time"> Time </div>
 <div id= "spice"> Spice </div>
 <div id= "serves"> Serves </div>
-</div>
 
 <div id= "recipenumbers">
 <div id= "time"><h3> 45 Minutes</h3> </div>
@@ -68,8 +74,8 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 </ul
 
 <div id="preparation">
-<h1>Preparation</h1>
-</div>
+  <h1>Preparation</h1>
+  </div>
 
 <ul>
 <div id="instruction">
@@ -123,6 +129,35 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 
 
 <style>
+body {
+  background: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/cheese-curds.jpg);
+  background-size: cover;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+header {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+}
+h1 {
+  text-transform: uppercase;
+  margin: 0;
+  font-size: 3rem;
+  white-space: nowrap;
+}
+p {
+  margin: 0;
+  font-size: 1.5rem;
+}
 
 #nutritiondetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
 #calories { width: 18%; float: left;}
