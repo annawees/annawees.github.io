@@ -17,12 +17,13 @@ tags: [cheese, vegetarian, indian]
 
 
 A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
-
+<div id="recipedetails">
 <div id= "time"> Time </div>
 <div id= "spice"> Spice </div>
 <div id= "serves"> Serves </div>
+</div>
 
-<div id= "recipenumbers">
+<div id= "recipedetails">
 <div id= "time"><h3> 45 Minutes</h3> </div>
 <div id= "spice"><h3> Hot</h3> </div>
 <div id= "serves"><h3> Two </h3> </div>
@@ -71,7 +72,7 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 <div id="ingredientthree"><a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/ingredients/groundcumin.png"><img src="/images/ingredients/groundcumin.png"/>1/2 tsp ground cumin</a></div>
 <div id="ingredientfour"><a href="">1/2 tsp ground cumin</a></div>
 </div>
-</ul
+</ul>
 
 <div id="preparation">
   <h1>Preparation</h1>
