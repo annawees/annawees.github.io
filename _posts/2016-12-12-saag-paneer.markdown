@@ -138,7 +138,8 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 
 #figcaption {
   position: absolute;
-  bottom: 10%;
+  left: 5%
+  bottom: 5%;
   width: 100%; 
   margin: 0;
   font-size: 4.5rem;
