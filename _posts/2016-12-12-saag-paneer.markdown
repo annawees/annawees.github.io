@@ -130,7 +130,7 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 
 
 <style>
-body {
+header {
   background: 
     linear-gradient(
       rgba(0, 0, 0, 0.5),
@@ -138,10 +138,10 @@ body {
     ),
     url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/cheese-curds.jpg);
   background-size: cover;
-  font-family: 'Source Sans Pro', sans-serif;
+  height: 100vh;
 }
 
-header {
+.title {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -155,9 +155,17 @@ h1 {
   font-size: 3rem;
   white-space: nowrap;
 }
+h2 {
+  font-size: 2rem;
+}
 p {
   margin: 0;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
+}
+
+main {
+  max-width: 500px;
+  margin: 20px auto;
 }
 
 #nutritiondetails { width: 90%; display:inline-block; float: left; margin-left: 5%; margin-top: 50px;}
