@@ -108,16 +108,6 @@
   }
 }
 
-.time {
-   @include (span 4 of 12);
-   }
-.spice {
-   @include (span 4 of 12);
-   }
-.serves {
-   @include (span 4 of 12);
-   }
-
 .page__hero {
   position: relative;
   margin-bottom: 2em;
