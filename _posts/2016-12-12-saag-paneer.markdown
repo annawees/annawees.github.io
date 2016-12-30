@@ -7,11 +7,9 @@ tags: [cheese, vegetarian, indian]
 ---
 <div id= "figure">
   <img src="/images/saagpaneer.jpg" />
-  <figcaption>
-    <span>
+  <div id ="figcaption">
      Saag Paneer
-    </span>
-  </figcaption>
+  </div>
 </div>
 
 A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
@@ -128,7 +126,7 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 
 
 <style>
-figure { 
+#figure { 
   position: relative;
   
   img { 
@@ -137,7 +135,7 @@ figure {
   } 
 }
 
-figcaption {
+#figcaption {
   position: absolute;
   bottom: 10%;
   width: 501px; // constrain caption to img size
@@ -148,11 +146,7 @@ figcaption {
   line-height: 200%;
   text-transform: capitalize;
   
-  span {
-    color: white;
-    background: black; /* fallback */
-    background: rgba(0, 0, 0, 0.7);
-    padding: .5em;
+
     
     }
   }
