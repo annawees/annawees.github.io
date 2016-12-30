@@ -1,6 +1,5 @@
 ---
 layout: single
-title: Saag Paneer
 category: recipe
 thumbnail: "/images/saagpaneer.jpg"
 tags: [cheese, vegetarian, indian]
