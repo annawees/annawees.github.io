@@ -5,9 +5,9 @@ category: recipe
 thumbnail: "/images/saagpaneer.jpg"
 tags: [cheese, vegetarian, indian]
 ---
-<div id="headerimage">
-  <img src="/images/saagpaneer.jpg"/>
-  <h1> Saag Paneer </h1>
+<div id="container">  
+  <div id="headerimage"><img src="/images/saagpaneer.jpg"/></div>
+  <div id="overlay"> <h1> Saag Paneer </h1></div>
   </div>
 
 A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
@@ -128,7 +128,7 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
   width: 100%;
   position: relative;}
 
-h1 { 
+#overlay { 
    position: absolute; 
    top: 200px; 
    left: 0; 
