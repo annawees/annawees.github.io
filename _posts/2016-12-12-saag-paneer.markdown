@@ -9,7 +9,7 @@ tags: [cheese, vegetarian, indian]
   <img src="/images/saagpaneer.jpg" />
   <div id="figcaption">
     <div id="span">
-      <h1> Saag <p>Paneer<p> </h1>
+      <h1> Saag Paneer </h1>
     </div>
   </div>
 </div>
