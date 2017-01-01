@@ -14,7 +14,20 @@ tags: [cheese, vegetarian, indian]
   </div>
 </div>
 
+<div id="spacer"> </div>
+
 A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- In recipe ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4265610880813101"
+     data-ad-slot="1566749873"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <div id="recipedetails">
 <div id= "time"> Time </div>
@@ -71,6 +84,21 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 <div id="ingredientfour"><a href=""><img src="/images/cayenne.jpeg">1/2 tsp ground cayenne</a></div>
 </div>
 </ul>
+
+<div id="spacer"> </div>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- In recipe ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4265610880813101"
+     data-ad-slot="1566749873"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<div id="spacer"> </div>
 
 <div id="preparation">
   <h1>Preparation</h1>
