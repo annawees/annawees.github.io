@@ -3,6 +3,7 @@ layout: single
 title: Bún bò Huê
 category: recipe
 thumbnail: "/images/bunbohue.jpg"
+video: "/images/bunbohue.mp4"
 tags: [vietnamese, beef, flank steak, soup]
 ---
 <div id="figure">
