@@ -74,7 +74,7 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 <div id="ingredientone"><img src="/images/butter.jpeg"/>2 tbsp butter</div>
 <div id="ingredienttwo"><img src="/images/3garlic.jpeg"/>3 garlic cloves</div>
 <div id="ingredientthree"><img src="/images/ginger.jpeg"/>1 tbsp ginger</div>
-<div id="ingredientfour"><img src="/images/2thaichili.jpeg"/>2 thai chiles*</div>
+<div id="ingredientfour"><img src="/images/2thaichili.jpeg"/>2 thai chiles</div>
 </div>
 
 <div id="ingredients">
