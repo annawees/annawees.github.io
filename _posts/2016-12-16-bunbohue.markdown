@@ -16,36 +16,6 @@ protein: 34g
 tags: [vietnamese, beef, flank steak, soup]
 ---
 
-A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and thinly sliced beef. 
-
-<div id= "recipedetails">
-<div id= "time"> Time </div>
-<div id= "spice"> Spice </div>
-<div id= "serves"> Serves </div>
-</div>
-
-<div id= "recipenumbers">
-<div id= "time"><h3> 35 Minutes</h3> </div>
-<div id= "spice"><h3> Medium</h3> </div>
-<div id= "serves"><h3> Two </h3> </div>
-</div>
-
-<div id= "nutritiondetails">
-<div id="calories"> Calories </div>
-<div id="carbs"> Carbs </div>
-<div id="fiber"> Fiber </div>
-<div id="fat"> Fat </div>
-<div id="protein"> Protein </div>
-</div>
-
-<div id= "nutritionnumbers">
-<div id="calories"><h3> 470 </h3> </div>
-<div id="carbs"><h3> 35g</h3> </div>
-<div id="fiber"><h3> 2g</h3> </div>
-<div id="fat"><h3> 10g</h3> </div>
-<div id="protein"><h3> 34g</h3> </div>
-</div>
-
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
 </div>
