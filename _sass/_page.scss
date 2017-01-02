@@ -34,6 +34,10 @@
   }
 }
 
+.page__title {
+38	  margin-top: 0;
+39	  line-height: 1;
+   
   & + .page__meta {
     margin-top: -0.5em;
   }
