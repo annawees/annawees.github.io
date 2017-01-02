@@ -5,14 +5,6 @@ title: Saag Paneer
 thumbnail: "/images/saagpaneer.jpg"
 tags: [cheese, vegetarian, indian]
 ---
-<div id="figure">
-  <img src="/images/saagpaneer.jpg" />
-  <div id="figcaption">
-    <div id="box">
-      <h1>     Saag Paneer </h1>
-    </div>
-  </div>
-</div>
 
 <div id="spacer"> </div>
 
