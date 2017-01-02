@@ -106,52 +106,57 @@ A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer chees
 
 <ul>
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer1.png"/> </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer1.jpeg"/> </div>
 <div id="step"> Slice the onion into 1" slices. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer2.png"/> </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer2.jpeg"/> </div>
 <div id="step">Peel the ginger. Finely dice the garlic and ginger. <p> Finely slice the thai chiles. </p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer3.png"/> </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer3.jpeg"/> </div>
 <div id="step">Cut the paneer into 1/2" cubes. Sprinkle the cubes of cheese with a pinch of salt.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer4.png"/> </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer4.jpeg"/> </div>
 <div id="step">	Place the butter in a large sauté pan or wide bottomed stockpot and place on medium high heat. Once the butter is hot, fry the paneer cheese on all sides until golden brown. Remove the paneer from the pan, and set aside for later use.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer5.png"/> </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer5.jpeg"/> </div>
 <div id="step">	Add the onions, garlic, thai chiles, ginger, garam masala, cumin and cayenne to the pan. Reduce the heat to medium. Sauté until the onion caramelizes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer6.png"/> </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer6.jpeg"/> </div>
 <div id="step"><p><i>While the onions caramelize, prepare the rice.</i></p>Set a saucepan with a lid on high heat with 2/3 cup of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the basmati rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer7.png"/> </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer7.jpeg"/> </div>
 <div id="step">Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer8.png"/> </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer8.jpeg"/> </div>
 <div id="step">Once the onions have caramelized and have turned from opaque white to translucent, add the spinach to the pot. Add 1/2 cup of water to the pan and sauté until the water evaporates from the pan. Repeat this step unti the spinach is tender and has wilted.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer9.png"/> </div>
-<div id="step">Add the greek yogurt to the pan and stir. Once the greek yogurt is incorporated, add the paneer cheese and stir to warm the cheese. Remove from heat. </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer9.jpeg"/> </div>
+<div id="step">Add the greek yogurt to the pan and stir. </div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saagpaneer/saagpaneer10.png"/> </div>
+<div id="image"><img src="/images/saagpaneer/saagpaneer10.jpeg"/> </div>
+<div id="step">Once the greek yogurt is incorporated, add the paneer cheese and stir to warm the cheese. Remove from heat. </div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/saagpaneer/saagpaneer11.jpeg"/> </div>
 <div id="step">Plate the saag paneer with the cooked basmati rice. </div>
 
 
