@@ -158,7 +158,7 @@ A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and 
      
     }
   }
-
+  
 #recipedetails { width: 100%; display:inline-block; float: left;}
 #time { width: 30%; float: left; margin-left: 5%}
 #spice { width: 30%; float: left;}
