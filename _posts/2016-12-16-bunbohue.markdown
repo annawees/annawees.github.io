@@ -4,6 +4,15 @@ title: Bún bò Huê
 category: recipe
 thumbnail: "/images/bunbohue.jpg"
 video: "/images/bunbohue.mp4"
+description: A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and thinly sliced beef. 
+time: 35 Min
+spice: Medium
+serves: 2
+calories: 470
+carbs: 35g
+fiber: 2g
+fat: 10g
+protein: 34g
 tags: [vietnamese, beef, flank steak, soup]
 ---
 
