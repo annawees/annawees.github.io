@@ -80,13 +80,13 @@ tags: [salad, french, tuna, fish]
 <div id="step">Place the anchovies, dijon mustard, white wine vinegar, garlic and 3 tbsp of olive oil in a blender. Puree until uniform. </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise3.jpeg"/> </div>
+<div id="image"><img src="/images/saladenicoise5.jpeg"/> </div>
 <div id="step">Cut the haricot vert into 3 smaller pieces. 
 <p>Cut the cherry tomatoes in half.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/saladenicoise5.jpeg"/> </div>
+<div id="image"><img src="/images/saladenicoise6.jpeg"/> </div>
 <div id="step">When the potatoes have finished cooking, transfer them to a cutting board and cut them into quarters.</div>
 </div>
 
