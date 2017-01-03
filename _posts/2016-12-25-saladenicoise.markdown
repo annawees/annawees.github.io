@@ -87,18 +87,18 @@ tags: [salad, french, tuna, fish]
 
 <div id="instruction">
 <div id="image"><img src="/images/saladenicoise6.jpeg"/> </div>
-<div id="step">Place the butter lettuce in a large bowl. Tear the basil and add to the bowl. Top with the potatoes, tuna, haricot vert, and tomatoes. Drizzle the vinaigrette, and toss.</div>
+<div id="step"> Tear the butter lettuce in a large bowl. Tear the basil and add to the bowl.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/saladenicoise7.jpeg"/> </div>
-<div id="step">Break each egg into their own small bowl or ramekin. Slowly & gently, tip each bowl into the hot water, and let the egg float. Turn the heat off, and cook for 4 minutes.
+<div id="step">Break each egg into their own small bowl or ramekin. Slowly and gently, tip each bowl into the hot water, and let the egg float. Turn the heat off, and cook for 4 minutes.
 <p>Use a spyder of slotted spatula to retrieve the poached eggs. Set them in a bowl or plate until ready for plating.</p></div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/saladenicoise8.jpeg"/> </div>
-<div id="step">Plate each salad. Delicately transfer a poached egg on top of each salad.</div>
+<div id="step">Toss the lettuce with the tomatoes, haricot vert, tuna potatoes, and vinagrette. Top with the poached egg.</div>
 </div>
 
 <style>
