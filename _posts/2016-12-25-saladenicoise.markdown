@@ -22,7 +22,7 @@ tags: [salad, french, tuna, fish]
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/butterlettuce.jpeg"/> 1 head of boston or butter lettuce </div>
+<div id="ingredientone"><img src="/images/bostonlettuce.jpeg"/> 1 head of boston or butter lettuce </div>
 <div id="ingredienttwo"><img src="/images/egg.jpeg"/>2 eggs</div>
 <div id="ingredienttwo"><img src="/images/haricotvert.jpeg"/>4 oz haricot vert</div>
 <div id="ingredientfour"><img src="/images/basil.jpeg"/>2 sprigs basil</div>
