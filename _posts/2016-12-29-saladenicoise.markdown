@@ -15,8 +15,6 @@ fat: 23g
 protein: 27g
 tags: [salad, french, tuna, fish]
 ---
-
-
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
 </div>
