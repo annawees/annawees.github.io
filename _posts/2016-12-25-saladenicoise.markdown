@@ -3,49 +3,19 @@ layout: single
 title: Salade Nicoise
 category: recipe
 thumbnail: "/images/saladenicoise.jpg"
+video: "/images/saladenicoise.mp4"
+description: This protein rich salad from Provence has become a staple of brasseries all over France. Made with Spanish oil cured tuna, French anchovies, a soft boiled egg and a tangy vinaigrette- we've pumped up the flavor in this classic French dish. 
+time: 40 Min
+spice: Mild
+serves: 2
+calories: 420
+carbs: 43g
+fiber: 7g
+fat: 23g
+protein: 27g
 tags: [salad, french, tuna, fish]
 ---
-<div id="spacer"></div>
 
-<div id="backgroundvideo">
-  <video width="100%" autoplay loop muted class="banner__video" poster="/images/saladenicoise.jpg">
-  <source src="/images/saladenicoise.mp4" type="video/mp4"></video>
-</div>
-
-<div id="recipedescription">
-This protein rich salad from Provence has become a staple of brasseries all over France. Made with Spanish oil cured tuna, French anchovies, a soft boiled egg and a tangy vinaigrette- we've pumped up the flavor in this classic French dish. </div>
-
-<div id="spacer"></div>
-
-<div id= "recipedetails">
-<div id= "time"> Time </div>
-<div id= "spice"> Spice </div>
-<div id= "serves"> Serves </div>
-</div>
-
-<div id= "recipedetails">
-<div id= "time"><h3> 40 Minutes</h3> </div>
-<div id= "spice"><h3> Mild </h3> </div>
-<div id= "serves"><h3> Two </h3> </div>
-</div>
-
-<div id="spacer"></div>
-
-<div id= "nutrition">
-<div id="calories"> Calories </div>
-<div id="carbs"> Carbs </div>
-<div id="fiber"> Fiber </div>
-<div id="fat"> Fat </div>
-<div id="protein"> Protein </div>
-</div>
-
-<div id= "nutrition">
-<div id="calories"><h3> 420 </h3> </div>
-<div id="carbs"><h3> 43g</h3> </div>
-<div id="fiber"><h3> 7g</h3> </div>
-<div id="fat"><h3> 23g</h3> </div>
-<div id="protein"><h3> 27g</h3> </div>
-</div>
 
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
