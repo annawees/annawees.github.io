@@ -39,7 +39,7 @@ tags: [salad, french, tuna, fish]
 <div id="ingredientone"><img src="/images/bonitotuna.jpeg"/>4 oz olive oil packed tuna</div>
 <div id="ingredienttwo"><a href=""><img src="/images/3anchovies.jpeg"/>3 anchovies</a></div>
 <div id="ingredientthree"><a href=""><img src="/images/dijon.jpeg"/>2 tbsp dijon mustard</a></div>
-<div id="ingredientfour"><a href=""><img src="/images/sesameoil.jpeg"/> 3 tbsp white wine vinegar</a></div>
+<div id="ingredientfour"><a href=""><img src="/images/whitewinevin.jpeg"/> 3 tbsp white wine vinegar</a></div>
 </div>
 
 <div id= "equipmenthdr">
