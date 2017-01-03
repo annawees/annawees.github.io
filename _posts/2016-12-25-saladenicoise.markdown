@@ -48,8 +48,8 @@ tags: [salad, french, tuna, fish]
 
 <div id="equipment">
 <div id="equipmentone"><a href=""><img src="/images/blender.jpeg"/>blender </a></div>
-<div id="equipmentone"><a href=""><img src="/images/stockpot.jpeg"/>2 stockpots </a></div>
-<div id="equipmentone"><a href=""><img src="/images/colander.jpeg"/>colander </a></div>
+<div id="equipmenttwo"><a href=""><img src="/images/stockpot.jpeg"/>2 stockpots </a></div>
+<div id="equipmentthree"><a href=""><img src="/images/colander.jpeg"/>colander </a></div>
 </div>
 
 <div id="preparation">
