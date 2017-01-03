@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Salade Nicoise
+title: Salade Niçoise
 category: recipe
 thumbnail: "/images/saladenicoise.jpg"
 video: "/images/saladenicoise.mp4"
