@@ -36,10 +36,10 @@ tags: [salad, french, tuna, fish]
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/bonitotuna.jpeg"/>4 oz olive oil packed tuna</div>
-<div id="ingredienttwo"><a href=""><img src="/images/3anchovies.jpeg"/>3 anchovies</a></div>
-<div id="ingredientthree"><a href=""><img src="/images/dijon.jpeg"/>2 tbsp dijon mustard</a></div>
-<div id="ingredientfour"><a href=""><img src="/images/whitewinevin.jpeg"/> 3 tbsp white wine vinegar</a></div>
+<div id="ingredientone"><a href="https://www.amazon.com/Ortiz-Bonito-Del-Norte-3-95-Ounce/dp/B0021491QM/ref=as_li_ss_tl?ie=UTF8&qid=1483415716&sr=8-2&keywords=bonito+tuna&linkCode=ll1&tag=cilalime09-20&linkId=29159d5e790b83f3f27f5a789c23d703"><img src="/images/bonitotuna.jpeg"/>4 oz olive oil packed tuna</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Agostino-Recca-Fillets-Anchovies-Ounce/dp/B00ETA7XFM/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1483415754&sr=8-3&keywords=anchovies&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=ce5628b3b5e6292a3eb2778daea4bb03"><img src="/images/3anchovies.jpeg"/>3 anchovies</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Maille-Style-Whole-Grain-Mustard/dp/B000SR5VOU/ref=as_li_ss_tl?ie=UTF8&qid=1483415679&sr=8-2&keywords=dijon+mustard+maille&linkCode=ll1&tag=cilalime09-20&linkId=2034955729a07b6dd0e0401bfe2622b9"><img src="/images/dijon.jpeg"/>2 tbsp dijon mustard</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/Pompeian-201526-White-Wine-Vinegar/dp/B00HVLCS6A/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1483415886&sr=8-3&keywords=white+wine+vinegar&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=1b2f0a0cb2dc6dc7cd8b96778fc1d427"><img src="/images/whitewinevin.jpeg"/> 3 tbsp white wine vinegar</a></div>
 </div>
 
 <div id= "equipmenthdr">
@@ -47,7 +47,7 @@ tags: [salad, french, tuna, fish]
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href=""><img src="/images/blender.jpeg"/>blender </a></div>
+<div id="equipmentone"><a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1483415974&sr=1-1&keywords=breville+blender&linkCode=ll1&tag=cilalime09-20&linkId=0ecdc779bc1082a79f1563a0d235b03b"><img src="/images/blender.jpeg"/>blender </a></div>
 <div id="equipmenttwo"><a href=""><img src="/images/stockpot.jpeg"/>2 stockpots </a></div>
 <div id="equipmentthree"><a href=""><img src="/images/colander.jpeg"/>colander </a></div>
 </div>
