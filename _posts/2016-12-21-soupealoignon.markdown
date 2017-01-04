@@ -5,44 +5,19 @@ category: recipe
 thumbnail: "/images/frenchonionsoup.jpg"
 video: "/images/frenchonionsoup.mp4"
 description: Onion soups have had popularity since ancient Rome. The modern version we eat today originates in France in the 18th century. Onions are cooked in butter until tenderly sweet and simmered with beef stock and herbs. Topped with baguette and bubbly comté, this dish is indulgent with flavor.
+time: 1 Hr 15 Min
+spice: Mild
+serves: 2 to 3
+calories: 600
+carbs: 43g
+fiber: 4g
+fat: 32g
+protein: 20g
 tags: [french, soup]
 ---
-
-
-<div id= "recipedetails">
-<div id= "time"> Time </div>
-<div id= "spice"> Spice </div>
-<div id= "serves"> Serves </div>
-</div>
-
-<div id= "recipedetails">
-<div id= "time"><h3> 1 Hr 15 Min</h3> </div>
-<div id= "spice"><h3> Mild</h3> </div>
-<div id= "serves"><h3> Two to Three </h3> </div>
-</div>
-
-<div id="spacer"></div>
-
-<div id= "nutrition">
-<div id="calories"> Calories </div>
-<div id="carbs"> Carbs </div>
-<div id="fiber"> Fiber </div>
-<div id="fat"> Fat </div>
-<div id="protein"> Protein </div>
-</div>
-
-<div id= "nutrition">
-<div id="calories"><h3> 600 </h3> </div>
-<div id="carbs"><h3> 43g</h3> </div>
-<div id="fiber"><h3> 4g</h3> </div>
-<div id="fat"><h3> 32g</h3> </div>
-<div id="protein"><h3> 20g</h3> </div>
-</div>
-
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
 </div>
-2 bay leaves
 
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/comte.jpeg"/> 3 oz comte </div>
@@ -54,8 +29,8 @@ tags: [french, soup]
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/onion.jpeg"/>2 lbs onions</div>
 <div id="ingredienttwo"><img src="/images/sherry.jpeg"/>1/2 cup sherry</div>
-<div id="ingredientthree"><a href="https://www.amazon.com/Savory-Choice-Liquid-Concentrate-5-1-Ounce/dp/B001E5E2AO/ref=as_li_ss_tl?_encoding=UTF8&refRID=QTSEFQATQ02TWP5SFRCX&th=1&linkCode=ll1&tag=cilalime09-20&linkId=88ebb56f1d43ae9b7cc9ca720f569f52'><img src="/images/beefstock.jpeg"/>2 cups beef stock</div>
-<div id="ingredientfour"><a href="https://www.amazon.com/gp/product/B0012BS9F4/ref=as_li_ss_tl?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=9Q6JR4SW7WJBXJX4X3E0&pf_rd_t=36701&pf_rd_p=a6aaf593-1ba4-4f4e-bdcc-0febe090b8ed&pf_rd_i=desktop&th=1&linkCode=ll1&tag=cilalime09-20&linkId=a1cd7a589a20afee62dac0276ee7ed22"><img src="/images/bay.jpeg"/>2 bay leaves</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Savory-Choice-Liquid-Concentrate-5-1-Ounce/dp/B001E5E2AO/ref=as_li_ss_tl?_encoding=UTF8&refRID=QTSEFQATQ02TWP5SFRCX&th=1&linkCode=ll1&tag=cilalime09-20&linkId=88ebb56f1d43ae9b7cc9ca720f569f52"/><img src="/images/beefstock.jpeg"/>2 cups beef stock</div>
+<div id="ingredientfour"><a href="https://www.amazon.com/gp/product/B0012BS9F4/ref=as_li_ss_tl?ie=UTF8&fpl=fresh&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=9Q6JR4SW7WJBXJX4X3E0&pf_rd_t=36701&pf_rd_p=a6aaf593-1ba4-4f4e-bdcc-0febe090b8ed&pf_rd_i=desktop&th=1&linkCode=ll1&tag=cilalime09-20&linkId=a1cd7a589a20afee62dac0276ee7ed22"/><img src="/images/bay.jpeg"/>2 bay leaves</div>
 </div>
 
 <div id= "equipmenthdr">
@@ -112,32 +87,6 @@ tags: [french, soup]
 </div>
 
 <style>
-#backgroundvideo {
-  width: 100%;
-}
-  
-#banner__video {
-    }
-
-#overlay {
- }
-
-#recipedetails { width: 100%; display:inline-block; float: left;}
-#time { width: 30%; float: left; margin-left: 5%}
-#spice { width: 30%; float: left;}
-#serves { width 30%; float: left; margin-left: 5%;}
-.clear {clear:both;}
-
-#spacer {padding-top:50px;}
-
-#nutrition { width: 100%; display:inline-block;}
-#calories { width: 18%; float: left; margin-left: 5%;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-right:5%;}
-.clear {clear:both;}
-
 #ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
 
 #ingredients { width: 95%; display:inline-block;}
