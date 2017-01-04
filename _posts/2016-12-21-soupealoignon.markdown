@@ -85,30 +85,3 @@ tags: [french, soup]
 <div id="image"><img src="/images/frenchonionsoup7.jpeg"/> </div>
 <div id="step">Serve the soup directly from the stockpot.</div>
 </div>
-
-<style>
-#ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
-
-#ingredients { width: 95%; display:inline-block;}
-#ingredientone { width: 20%; float:left;}
-#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
-#ingredientthree { width:20%; float:left; margin-left: 5%;}
-#ingredientfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
-
-#equipment { width: 95%; display:inline-block;}
-#equipmentone { width: 20%; float:left;}
-#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
-#equipmentthree { width:20%; float:left; margin-left: 5%;}
-#equipmentfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#preparation { margin-top: 150px; margin-bottom: 50px; font-family: $serif;}
-
-#instruction { width:95%; display:inline-block;}
-#image { width: 40%; float:left;}
-#step { width: 50%; float:right; margin-top: 30px; margin-bottom: 30px;}
-.clear {clear:both;}
-</style>
