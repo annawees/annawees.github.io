@@ -101,32 +101,6 @@ tags: [salad, french, tuna, fish]
 
 
 <style>
-#backgroundvideo {
-  width: 100%;
-}
-  
-#banner__video {
-    }
-
-#overlay {
- }
-
-#recipedetails { width: 100%; display:inline-block; float: left;}
-#time { width: 30%; float: left; margin-left: 5%}
-#spice { width: 30%; float: left;}
-#serves { width 30%; float: left; margin-left: 5%;}
-.clear {clear:both;}
-
-#spacer {padding-top:50px;}
-
-#nutrition { width: 100%; display:inline-block;}
-#calories { width: 18%; float: left; margin-left: 5%;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-right:5%;}
-.clear {clear:both;}
-
 #ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
 
 #ingredients { width: 95%; display:inline-block;}
