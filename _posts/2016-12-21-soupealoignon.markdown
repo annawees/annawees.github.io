@@ -23,7 +23,7 @@ tags: [french, soup]
 <div id="ingredientone"><img src="/images/comte.jpeg"/> 3 oz comte </div>
 <div id="ingredienttwo"><img src="/images/butter.jpeg"/>3 tbsp butter</div>
 <div id="ingredientthree"><img src="/images/thyme.jpeg"/>2 sprigs thyme</div>
-<div id="ingredientfour"><img src="/images/halfbaguette.jpeg"/>1/2 baguette</div>
+<div id="ingredientfour"><img src="/images/baguette.jpeg"/>1/2 baguette</div>
 </div>
 
 <div id="ingredients">
