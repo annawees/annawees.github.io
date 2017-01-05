@@ -2,7 +2,7 @@
 layout: single
 title: Curried Cottage Pie
 category: recipe
-thumbnail: "/images/cottagepiemain.jpg"
+thumbnail: "/images/cottagepie.jpg"
 tags: [british, english, beef, ground beef]
 ---
 <div id="spacer"></div>
