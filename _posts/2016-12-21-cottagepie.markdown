@@ -3,49 +3,18 @@ layout: single
 title: Curried Cottage Pie
 category: recipe
 thumbnail: "/images/cottagepie.jpg"
+video: "/images/cottagepie.mp4"
+description: This classic british dish is brought to new heights with Indian spices. Onions, carrots, peas, tomatoes and beef are coated in aromatic Indian spices and topped with a potato crust.
+time: 40 Min
+spice: Mild
+serves: 2
+calories: 580
+carbs: 47g
+fiber: 8g
+fat: 20g
+protein: 47g
 tags: [british, english, beef, ground beef]
 ---
-<div id="spacer"></div>
-
-<div id="backgroundvideo">
-  <video width="100%" autoplay loop muted class="banner__video" poster="/images/cottagepiemain.jpg">
-  <source src="/images/moussaka.mp4" type="video/mp4"></video>
-</div>
-
-<div id="recipedescription">
-This classic british dish is brought to new heights with Indian spices. Onions, carrots, peas, tomatoes and beef are coated in aromatic Indian spices and topped with a potato crust.
-<div id="spacer"></div>
-
-<div id= "recipedetails">
-<div id= "time"> Time </div>
-<div id= "spice"> Spice </div>
-<div id= "serves"> Serves </div>
-</div>
-
-<div id= "recipedetails">
-<div id= "time"><h3> 1 Hr 15 Min</h3> </div>
-<div id= "spice"><h3> Mild</h3> </div>
-<div id= "serves"><h3> Two </h3> </div>
-</div>
-
-<div id="spacer"></div>
-
-<div id= "nutrition">
-<div id="calories"> Calories </div>
-<div id="carbs"> Carbs </div>
-<div id="fiber"> Fiber </div>
-<div id="fat"> Fat </div>
-<div id="protein"> Protein </div>
-</div>
-
-<div id= "nutrition">
-<div id="calories"><h3> 580 </h3> </div>
-<div id="carbs"><h3> 47g</h3> </div>
-<div id="fiber"><h3> 8g</h3> </div>
-<div id="fat"><h3> 20g</h3> </div>
-<div id="protein"><h3> 47g</h3> </div>
-</div>
-
 <div id= "ingredienthdr">
 <h1>Ingredients</h1>
 </div>
@@ -138,56 +107,3 @@ This classic british dish is brought to new heights with Indian spices. Onions, 
 <div id="image"><img src="/images/cottagepie9.jpeg"/> </div>
 <div id="step"> Serve warm. </div>
 </div>
-
-<style>
-#backgroundvideo {
-  width: 100%;
-}
-  
-#banner__video {
-    }
-
-#overlay {
- }
-
-#recipedetails { width: 100%; display:inline-block; float: left;}
-#time { width: 30%; float: left; margin-left: 5%}
-#spice { width: 30%; float: left;}
-#serves { width 30%; float: left; margin-left: 5%;}
-.clear {clear:both;}
-
-#spacer {padding-top:50px;}
-
-#nutrition { width: 100%; display:inline-block;}
-#calories { width: 18%; float: left; margin-left: 5%;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-right:5%;}
-.clear {clear:both;}
-
-#ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
-
-#ingredients { width: 95%; display:inline-block;}
-#ingredientone { width: 20%; float:left;}
-#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
-#ingredientthree { width:20%; float:left; margin-left: 5%;}
-#ingredientfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
-
-#equipment { width: 95%; display:inline-block;}
-#equipmentone { width: 20%; float:left;}
-#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
-#equipmentthree { width:20%; float:left; margin-left: 5%;}
-#equipmentfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#preparation { margin-top: 150px; margin-bottom: 50px; font-family: $serif;}
-
-#instruction { width:95%; display:inline-block;}
-#image { width: 40%; float:left;}
-#step { width: 50%; float:right; margin-top: 30px; margin-bottom: 30px;}
-.clear {clear:both;}
-</style>
