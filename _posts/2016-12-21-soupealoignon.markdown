@@ -55,7 +55,7 @@ tags: [french, soup]
 <div id="image"><img src="/images/frenchonionsoup2.jpeg"/> </div>
 <div id="step">Place the oven safe stockpot on medium low heat, and add the butter.
 <p>Once the butter is melted, add the onions. Cook the onions for one hour, occasionally stirring, until the onions have browned and softened.</p>
-<p>Add the sherry to the onions to deglaze the pan.</p></div>
+<p>Add the sherry to the onions to deglaze the pan. Let the alcohol evaporate.</p></div>
 </div>
 
 <div id="instruction">
