@@ -21,8 +21,8 @@ tags: [british, english, beef, ground beef]
 
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/groundbeef.jpeg"/> 1/2 lb ground beef chuck </div>
-<div id="ingredienttwo"><img src="/images/peas.jpeg"/>1/4 cup milk</div>
-<div id="ingredientthree"><img src="/images/carrot.jpeg"/>1/4 cup cream</div>
+<div id="ingredienttwo"><img src="/images/milk.jpeg"/>1/4 cup milk</div>
+<div id="ingredientthree"><img src="/images/cream.jpeg"/>1/4 cup cream</div>
 <div id="ingredientfour"><img src="/images/peas.jpeg"/>1/2 cup fresh or defrosted peas</div>
 </div>
 
