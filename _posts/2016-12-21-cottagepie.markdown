@@ -60,7 +60,6 @@ tags: [british, english, beef, ground beef]
 <div id="image"><img src="/images/cottagepie1.jpeg"/> </div>
 <div id="step">Fill a stockpot with water and place on high heat to boil the potatoes.
 <p>Dice the onion.</p>
-<p> Dice the carrot.</p></div>
 </div>
 
 <div id="instruction">
