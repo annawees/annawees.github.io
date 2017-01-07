@@ -155,14 +155,10 @@
 
 /* overlaying text over images */
 
-#figure { 
+.grid__item { 
   position: relative;
   
   img { 
-    display: block; 
-  } 
-   
-    video { 
     display: block; 
   } 
 }
