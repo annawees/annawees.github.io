@@ -157,10 +157,15 @@
 .gridarchive { 
   position: absolute;
   width: 100%;
+   
+.archive__item { 
+  position: absolute;
+  width: 100%;
   
   img { 
     display: block; 
   } 
+}
 }
 
 .archive__item-title {
