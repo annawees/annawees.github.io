@@ -58,51 +58,57 @@ tags: [british, english, beef, ground beef]
 
 <div id="instruction">
 <div id="image"><img src="/images/cottagepie1.jpeg"/> </div>
-<div id="step">Fill a stockpot with water and place on high heat to boil.
+<div id="step">Fill a stockpot with water and place on high heat to boil the potatoes.
 <p>Dice the onion.</p>
 <p> Dice the carrot.</p></div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/cottagepie2.jpeg"/> </div>
-<div id="step">Coat the bottom of a skillet with olive oil and place on medium heat. Once the oil is hot add the garam masala, fenugreek, turmeric, cumin, and coriander. Toast the spices for 2 minutes.</div>
+<div id="step">Dice the carrot.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/cottagepie3.jpeg"/> </div>
-<div id="step">Add the onions and carrots to the pan and cook until the onions have changed from opaque to translucent and have softened.</div>
+<div id="step">Coat the bottom of a skillet with olive oil and place on medium heat. Once the oil is hot add the garam masala, fenugreek, turmeric, cumin, and coriander. Toast the spices for 2 minutes.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/cottagepie4.jpeg"/> </div>
-<div id="step">By now, the water should be boiling. Add the potatoes to the boiling water and cook for 20 minutes.</div>
+<div id="step">Add the onions and carrots to the pan and cook until the onions have changed from opaque to translucent and have softened.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/cottagepie5.jpeg"/> </div>
-<div id="step">Add the ground beef to the carrots and onions and sauté until the beef has browned.</div>
+<div id="step">By now, the water should be boiling. Add the potatoes to the boiling water and cook for 20 minutes.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/cottagepie6.jpeg"/> </div>
+<div id="step">Once the onions are soft, add the ground beef and sauté until the beef has browned.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/cottagepie7.jpeg"/> </div>
 <div id="step">Add the pureed tomatoes, peas, 1/4 tsp of salt, 1 cup of water, and cook for 15 minutes.
 <p>Turn the broiler on.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cottagepie7.jpeg"/> </div>
-<div id="step">Transfer the curried beef to a baking pan.
+<div id="image"><img src="/images/cottagepie8.jpeg"/> </div>
+<div id="step"><i>While the beef cooks, mash the potatoes.</i>
 <p>Place the boiled potatoes in a bowl. Mash with a potato masher or the back of a fork. Add the milk, cream, and 1/4 tsp of salt to the potatoes and mix until creamy.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/cottagepie8.jpeg"/> </div>
-<div id="step">Cover the curried beef with the creamy potatoes.
+<div id="image"><img src="/images/cottagepie9.jpeg"/> </div>
+<div id="step">Transfer the curried beef to a baking pan.
+<p>Cover the curried beef with the creamy potatoes. </p>
 <p>Transfer the pan to the upper rack of the oven and broil until a golden crust forms, approx. 4 minutes.</p></div>
 </div>
 
 
 <div id="instruction">
-<div id="image"><img src="/images/cottagepie9.jpeg"/> </div>
+<div id="image"><img src="/images/cottagepie10.jpeg"/> </div>
 <div id="step"> Serve warm. </div>
 </div>
