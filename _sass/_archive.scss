@@ -153,6 +153,24 @@
   }
 }
 
+/* overlaying text over images */
+
+#figure { 
+  position: relative;
+  
+  img { 
+    display: block; 
+  } 
+   
+    video { 
+    display: block; 
+  } 
+}
+
+.archive__item-title {
+  position: absolute;
+  }
+
 
 /*
    Features
