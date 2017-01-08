@@ -39,7 +39,7 @@ tags: [vietnamese, shrimp, seafood, soup]
 <div id="ingredientone"><img src="/images/onion.jpeg"/>1 onions</div>
 <div id="ingredienttwo"><a href=""><img src="/images/vegetablestock.jpeg"/>1 pint vegetable stock</a></div>
 <div id="ingredientthree"><a href=""><img src="/images/ricesticknoodles.jpeg"/>4 oz rice stick noodles</a></div>
-<div id="ingredientfour"><img src="/images/5 clove.jpeg"/>5 cloves</div>
+<div id="ingredientfour"><img src="/images/5clove.jpeg"/>5 cloves</div>
 </div>
 
 <div id="ingredientone"><img src="/images/fennelseed.jpeg"/>1 tsp fennel seeds</div>
