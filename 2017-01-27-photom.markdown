@@ -1,0 +1,102 @@
+---
+layout: single
+title: Phở Tôm
+category: recipe
+thumbnail: "/images/photom.jpg"
+video: "/images/photom.mp4"
+description: 
+time: 1 hr 15 min
+spice: Medium
+serves: 2
+calories: 470
+carbs: 35g
+fiber: 2g
+fat: 10g
+protein: 34g
+tags: [vietnamese, shrimp, seafood, soup]
+---
+
+
+<div id= "ingredienthdr">
+<h1>Ingredients</h1>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/shrimp.jpeg"/> 1/2 lb peeled, deveined shrimp </div>
+<div id="ingredienttwo"><img src="/images/beansprouts.jpeg"/>4 oz mung bean sprouts</div>
+<div id="ingredientthree"><img src="/images/basil.jpeg"/>2 sprigs basil</div>
+<div id="ingredientthree"><img src="/images/mint.jpeg"/>5 sprigs mint</div>
+<div id="ingredientthree"><img src="/images/mint.jpeg"/>1/4 bunch cilantro</div>
+<div id="ingredientfour"><img src="/images/lemongrass.jpeg"/>2 inch lemongrass</div>
+</div>
+<div id="ingredientthree"><img src="/images/ginger.jpeg"/>1 in piece of ginger</div>
+<div id="ingredientfour"><img src="/images/lime.jpeg"/>2 limes</div>
+<div id="ingredientfour"><img src="/images/onion.jpeg"/>1 onions</div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><a href="https://www.amazon.com/Savory-Choice-Liquid-Concentrate-5-1-Ounce/dp/B0082AWRRE/ref=as_li_ss_tl?_encoding=UTF8&refRID=82HSPJ272H2HHKY60DWF&th=1&linkCode=ll1&tag=cilalime09-20&linkId=f3264305a9bf33930dda8bba9ae18898"><img src="/images/beefstock.jpeg"/>1 pint beef stock</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Stick-Noodles-Royal-Elephant-brand/dp/B017H0LGIU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481942140&sr=1-3&keywords=flat+rice+noodles&linkCode=ll1&tag=cilalime09-20&linkId=c4827b143486f11fc2fd67c545a2ec7f"><img src="/images/flatricenoodles.jpeg"/>4 oz flat rice noodles</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=07b2b080e4ae5e86610f9c61ab4a05a0"><img src="/images/chiliflakes.jpeg"/>2 tsp red pepper flakes</a></div>
+<div id="ingredientfour"><a href="https://www.amazon.com/El-Guapo-Achiote-Molido-Annatto/dp/B00BV4AVF8/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481944965&sr=1-2&keywords=ground+annatto&linkCode=ll1&tag=cilalime09-20&linkId=253812ffbe60a9f98999c9a4e58b9f5e"><img src="/images/anatto.jpeg"/>2 tsp ground anatto</a></div>
+</div>
+
+<div id="ingredients">
+<div id="ingredientone"><a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945347&sr=8-3&keywords=sesame+oil&th=1&linkCode=ll1&tag=cilalime09-20&linkId=311f3fba83d6c5821e3c957659a4df6b"><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</a></div>
+<div id="ingredienttwo"><a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
+<div id="ingredientthree"><a href="https://www.amazon.com/Huy-Fong-Foods-Sambal-Ground/dp/B001MGEU0W/ref=as_li_ss_tl?ie=UTF8&qid=1481945217&sr=8-1&keywords=sambal+olek&linkCode=ll1&tag=cilalime09-20&linkId=c244e06aeb4e7cdb855a7b0f853592b9"><img src="/images/sambaloelek.jpeg"/>sambal oelek for serving</a></div>
+</div>
+
+<div id= "equipmenthdr">
+<h1>Equipment</h1>
+</div>
+
+<div id="equipment">
+<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
+<div id="equipmenttwo"><a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?ie=UTF8&qid=1481946192&sr=8-3&keywords=microplane+fine+grater&linkCode=ll1&tag=cilalime09-20&linkId=bb041caf65081d4a889796b169ef7407"><img src="/images/finegrater.jpeg"/>fine grater</a></div>
+<div id="equipmentthree"><a href="https://www.amazon.com/Shun-DM0705-Classic-9-Inch-Bread/dp/B0007D6GS0/ref=as_li_ss_tl?ie=UTF8&qid=1481946082&sr=8-2&keywords=shun+serrated+knife&linkCode=ll1&tag=cilalime09-20&linkId=26d95c69082300abf0fbd403f696b075"><img src="/images/serratedknife.jpeg"/>serrated knife</a></div>
+</div>
+
+<div id="preparation">
+<h1>Preparation</h1>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/bunbohue1.jpeg"/> </div>
+<div id="step">Finely slice the shallots.<p>Finely dice the garlic.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/bunbohue2.jpeg"/> </div>
+<div id="step">Coat the bottom of a stockpot with sesame oil and place on medium heat. Once the oil is hot add the anatto and red pepper flakes. Sauté until the spices have toasted, approx. 1 minute.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/bunbohue3.jpeg"/> </div>
+<div id="step">Add the garlic and shallots. Sauté until the shallots have softened. .</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/bunbohue4.jpeg"/> </div>
+<div id="step">Add 6 cups of water to the stockpot along with the beef stock concentrate, fish sauce, and lemongrass. Grate the ginger into the pot. Raise the heat to high.<p>Once the broth begins to boil add the noodles and reduce the heat to medium. Cook for 7 minutes. </p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/bunbohue5.jpeg"/> </div>
+<div id="step"><i>While the noodles cook, prepare the steak.</i><p>Use a serrated knife to slice the flank steak into wafer thin pieces.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/bunbohue6.jpeg"/> </div>
+<div id="step">Add the sliced flank to the broth. Once the meat has turned from bright red to brown, it's ready for plating.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/bunbohue7.jpeg"/> </div>
+<div id="step">Remove the basil leaves from the stems. Quarter the lime.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/bunbohue8.jpeg"/> </div>
+<div id="step">Place the bean sprouts at the bottom of the bowls. Ladle the broth, meat, and noodles into the bowl.Accent with the basil leaves. Serve with lime and sambal olek.</div>
+</div>
