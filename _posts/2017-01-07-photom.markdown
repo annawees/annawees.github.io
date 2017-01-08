@@ -30,26 +30,26 @@ tags: [vietnamese, shrimp, seafood, soup]
 
 <div id="ingredients">
 <div id="ingredientone"><img src="/images/cilantro.jpeg"/>1/4 bunch cilantro</div>
+<div id="ingredienttwo"><img src="/images/lemongrass.jpeg"/>4 scallions</div>
 <div id="ingredienttwo"><img src="/images/lemongrass.jpeg"/>2 inch lemongrass</div>
 <div id="ingredientthree"><img src="/images/ginger.jpeg"/>1 in piece of ginger</div>
-<div id="ingredientfour"><img src="/images/lime.jpeg"/>2 limes</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/onion.jpeg"/>1 onions</div>
-<div id="ingredienttwo"><a href=""><img src="/images/vegetablestock.jpeg"/>1 pint vegetable stock</a></div>
-<div id="ingredientthree"><a href=""><img src="/images/ricesticknoodles.jpeg"/>4 oz rice stick noodles</a></div>
+<div id="ingredientone"><img src="/images/lime.jpeg"/>2 limes</div>
+<div id="ingredienttwo"><img src="/images/onion.jpeg"/>1 onions</div>
+<div id="ingredientthree"><a href=""><img src="/images/vegetablestock.jpeg"/>1 pint vegetable stock</a></div>
+<div id="ingredientfour"><a href=""><img src="/images/ricesticknoodles.jpeg"/>4 oz rice stick noodles</a></div>
+
+<div id="ingredients">
 <div id="ingredientfour"><img src="/images/5clove.jpeg"/>5 cloves</div>
-</div>
-
-<div id="ingredients">
 <div id="ingredientone"><img src="/images/fennelseed.jpeg"/>1 tsp fennel seeds</div>
 <div id="ingredienttwo"><img src="/images/anise.jpeg"/>1 star anise</div>
 <div id="ingredientthree"><img src="/images/cinnamonstick.jpeg"/>1 cinnamon stick</div>
-<div id="ingredientone"><a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
 </div>
 
 <div id="ingredients">
+<div id="ingredientone"><a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
 <div id="ingredienttwo"><a href=""/><img src="/images/sriracha.jpeg"/>sriracha for serving
 </div>
 
@@ -59,8 +59,9 @@ tags: [vietnamese, shrimp, seafood, soup]
 
 <div id="equipment">
 <div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?ie=UTF8&qid=1481946192&sr=8-3&keywords=microplane+fine+grater&linkCode=ll1&tag=cilalime09-20&linkId=bb041caf65081d4a889796b169ef7407"><img src="/images/finegrater.jpeg"/>fine grater</a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Shun-DM0705-Classic-9-Inch-Bread/dp/B0007D6GS0/ref=as_li_ss_tl?ie=UTF8&qid=1481946082&sr=8-2&keywords=shun+serrated+knife&linkCode=ll1&tag=cilalime09-20&linkId=26d95c69082300abf0fbd403f696b075"><img src="/images/serratedknife.jpeg"/>serrated knife</a></div>
+<div id="equipmenttwo"><a href=""><img src="/images/bakingsheet.jpeg"/>baking sheet</a></div>
+<div id="equipmentthree"><a href=""><img src="/images/finemeshstrainer.jpeg"/>fine mesh strainer</a></div>
+
 </div>
 
 <div id="preparation">
@@ -69,27 +70,30 @@ tags: [vietnamese, shrimp, seafood, soup]
 
 <div id="instruction">
 <div id="image"><img src="/images/bunbohue1.jpeg"/> </div>
-<div id="step">Finely slice the shallots.<p>Finely dice the garlic.</p></div>
-</div>
+<div id="step">Set the oven to broil.
+<p>Quarter the onion.</p> </div>
+
 
 <div id="instruction">
 <div id="image"><img src="/images/bunbohue2.jpeg"/> </div>
-<div id="step">Coat the bottom of a stockpot with sesame oil and place on medium heat. Once the oil is hot add the anatto and red pepper flakes. Sauté until the spices have toasted, approx. 1 minute.</div>
+<div id="step">Place the quartered onion and ginger on a roasting pan. Place on the upper rack of the oven and broil until the onion has charred.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/bunbohue3.jpeg"/> </div>
-<div id="step">Add the garlic and shallots. Sauté until the shallots have softened. .</div>
+<div id="step"> While the onions are roasting, put together the broth base. Place the vegetable stock in a bowl with the fennel seeds, clove, anise, cinnamon, lemongrass, fish sauce, and 8 cups of water. Place on medium heat and let the broth simmer. 
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/bunbohue4.jpeg"/> </div>
-<div id="step">Add 6 cups of water to the stockpot along with the beef stock concentrate, fish sauce, and lemongrass. Grate the ginger into the pot. Raise the heat to high.<p>Once the broth begins to boil add the noodles and reduce the heat to medium. Cook for 7 minutes. </p></div>
+<div id="step">Once the onions and ginger have charred, add them to the pot and replace any water that has evaporated. Let the broth simmer for an additional 15 minutes</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/bunbohue5.jpeg"/> </div>
-<div id="step"><i>While the noodles cook, prepare the steak.</i><p>Use a serrated knife to slice the flank steak into wafer thin pieces.</p></div>
+<div id="step"><i>While the broth simmers, prepare the vegetables.</i>
+<p> Finely slice the scallions. </p>
+<p> Remove the leaves of mint, cilantro, and basil from their stems. </p>
 </div>
 
 <div id="instruction">
