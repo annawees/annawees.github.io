@@ -29,7 +29,7 @@ tags: [vietnamese, shrimp, seafood, soup]
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><img src="/images/mint.jpeg"/>1/4 bunch cilantro</div>
+<div id="ingredientone"><img src="/images/cilantro.jpeg"/>1/4 bunch cilantro</div>
 <div id="ingredienttwo"><img src="/images/lemongrass.jpeg"/>2 inch lemongrass</div>
 <div id="ingredientthree"><img src="/images/ginger.jpeg"/>1 in piece of ginger</div>
 <div id="ingredientfour"><img src="/images/lime.jpeg"/>2 limes</div>
