@@ -42,15 +42,12 @@ tags: [vietnamese, shrimp, seafood, soup]
 <div id="ingredientfour"><img src="/images/5 clove.jpeg"/>5 cloves</div>
 </div>
 
-<div id="ingredients">
 <div id="ingredientone"><img src="/images/fennelseed.jpeg"/>1 tsp fennel seeds</div>
 <div id="ingredienttwo"><img src="/images/anise.jpeg"/>1 star anise</div>
 <div id="ingredientthree"><img src="/images/cinnamonstick.jpeg"/>1 cinnamon stick</div>
-</div>
 
-
-<div id="ingredienttwo"><a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
-<div id="ingredientthree"><a href=""><img src="/images/sriracha.jpeg"/>sriracha for serving</a>
+<div id="ingredientone"><a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
+<div id="ingredienttwo"><a href=""><img src="/images/sriracha.jpeg"/>sriracha for serving</a>
 </div>
 
 <div id= "equipmenthdr">
