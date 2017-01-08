@@ -60,30 +60,30 @@ tags: [beef, ribs, short ribs, chinese]
 <p> As the short ribs cook, routinely flip the ribs over, generously coating them in the sauce.</p></div>
 
 <div id="instruction">
-<div id="image"><img src="/images/fivespiceribs1.jpeg"/> </div>
+<div id="image"><img src="/images/fivespiceribs2.jpeg"/> </div>
 <div id="step">After the ribs have cooked for 2 1/2 hours, raise the heat to 425˚ and move the roasting pan to the top rack of the oven for 15 minutes to crisp the exterior of the short ribs.</div>
 
 <div id="instruction">
-<div id="image"><img src="/images/fivespiceribs2.jpeg"/> </div>
+<div id="image"><img src="/images/fivespiceribs3.jpeg"/> </div>
 <div id="step">After the short ribs have cooked for 2 1/2 hrs, cook the rice and bok choy.
 <p>Set a saucepan with 2/3 cup of water and 1/4 tsp of salt on high heat.</p>
 <p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain the rice. Add more water, swish again, and drain the rice. Repeat swishing and draining one more time.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/fivespiceribs3.jpeg"/> </div>
+<div id="image"><img src="/images/fivespiceribs4.jpeg"/> </div>
 <div id="step">Once the water has come to a boil add the washed jasmine rice and cook for 15 minutes.
 <p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/fivespiceribs4.jpeg"/> </div>
+<div id="image"><img src="/images/fivespiceribs5.jpeg"/> </div>
 <div id="step"> Fill a large stockpot with water and place on high heat. Once the water begins to boil, add the baby bok choy and blanch for 3 minutes. Transfer the baby bok choy to a colander and rinse with cold water to stop the cooking process.
 </div>
 
 
 <div id="instruction">
-<div id="image"><img src="/images/fivespiceribs5.jpeg"/> </div>
+<div id="image"><img src="/images/fivespiceribs6.jpeg"/> </div>
 <div id="step">Plate the jasmine rice with the baby bok choy. Lay the roasted short rib on top and top with the reduced sauce from the roasting pan.</div>
 </div>
 
