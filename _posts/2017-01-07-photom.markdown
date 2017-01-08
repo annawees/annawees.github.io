@@ -25,26 +25,32 @@ tags: [vietnamese, shrimp, seafood, soup]
 <div id="ingredientone"><img src="/images/shrimp.jpeg"/> 1/2 lb peeled, deveined shrimp </div>
 <div id="ingredienttwo"><img src="/images/beansprouts.jpeg"/>4 oz mung bean sprouts</div>
 <div id="ingredientthree"><img src="/images/basil.jpeg"/>2 sprigs basil</div>
-<div id="ingredientthree"><img src="/images/mint.jpeg"/>5 sprigs mint</div>
-<div id="ingredientthree"><img src="/images/mint.jpeg"/>1/4 bunch cilantro</div>
-<div id="ingredientfour"><img src="/images/lemongrass.jpeg"/>2 inch lemongrass</div>
+<div id="ingredientfour"><img src="/images/mint.jpeg"/>5 sprigs mint</div>
 </div>
+
+<div id="ingredients">
+<div id="ingredientone"><img src="/images/mint.jpeg"/>1/4 bunch cilantro</div>
+<div id="ingredienttwo"><img src="/images/lemongrass.jpeg"/>2 inch lemongrass</div>
 <div id="ingredientthree"><img src="/images/ginger.jpeg"/>1 in piece of ginger</div>
 <div id="ingredientfour"><img src="/images/lime.jpeg"/>2 limes</div>
-<div id="ingredientfour"><img src="/images/onion.jpeg"/>1 onions</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/Savory-Choice-Liquid-Concentrate-5-1-Ounce/dp/B0082AWRRE/ref=as_li_ss_tl?_encoding=UTF8&refRID=82HSPJ272H2HHKY60DWF&th=1&linkCode=ll1&tag=cilalime09-20&linkId=f3264305a9bf33930dda8bba9ae18898"><img src="/images/beefstock.jpeg"/>1 pint beef stock</a></div>
-<div id="ingredienttwo"><a href="https://www.amazon.com/Stick-Noodles-Royal-Elephant-brand/dp/B017H0LGIU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481942140&sr=1-3&keywords=flat+rice+noodles&linkCode=ll1&tag=cilalime09-20&linkId=c4827b143486f11fc2fd67c545a2ec7f"><img src="/images/flatricenoodles.jpeg"/>4 oz flat rice noodles</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=07b2b080e4ae5e86610f9c61ab4a05a0"><img src="/images/chiliflakes.jpeg"/>2 tsp red pepper flakes</a></div>
-<div id="ingredientfour"><a href="https://www.amazon.com/El-Guapo-Achiote-Molido-Annatto/dp/B00BV4AVF8/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481944965&sr=1-2&keywords=ground+annatto&linkCode=ll1&tag=cilalime09-20&linkId=253812ffbe60a9f98999c9a4e58b9f5e"><img src="/images/anatto.jpeg"/>2 tsp ground anatto</a></div>
+<div id="ingredientone"><img src="/images/onion.jpeg"/>1 onions</div>
+<div id="ingredienttwo"><a href=""><img src="/images/vegetablestock.jpeg"/>1 pint vegetable stock</a></div>
+<div id="ingredientthree"><a href=""><img src="/images/ricesticknoodles.jpeg"/>4 oz rice stick nootles</a></div>
+<div id="ingredientfour"><img src="/images/5 clove.jpeg"/>5 cloves</div>
 </div>
 
 <div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945347&sr=8-3&keywords=sesame+oil&th=1&linkCode=ll1&tag=cilalime09-20&linkId=311f3fba83d6c5821e3c957659a4df6b"><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</a></div>
+<div id="ingredientone"><img src="/images/fennelseed.jpeg"/>1 tsp fennel seeds</div>
+<div id="ingredienttwo"><img src="/images/anise.jpeg"/>1 star anise</div>
+<div id="ingredientthree"><img src="/images/cinnamonstick.jpeg"/>1 cinnamon stick</div>
+</div>
+
+
 <div id="ingredienttwo"><a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/Huy-Fong-Foods-Sambal-Ground/dp/B001MGEU0W/ref=as_li_ss_tl?ie=UTF8&qid=1481945217&sr=8-1&keywords=sambal+olek&linkCode=ll1&tag=cilalime09-20&linkId=c244e06aeb4e7cdb855a7b0f853592b9"><img src="/images/sambaloelek.jpeg"/>sambal oelek for serving</a></div>
+<div id="ingredientthree"><a href=""><img src="/images/sriracha.jpeg"/>sriracha for serving</a></div>
 </div>
 
 <div id= "equipmenthdr">
