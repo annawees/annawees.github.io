@@ -43,7 +43,9 @@ tags: [beef, ribs, short ribs, chinese]
 </div>
 
 <div id="equipment">
-<div id="equipmentone"><a href=""><img src="/images/roastingpan.jpeg"/>roasting pan </a></div>
+<div id="equipmentone"><a href=""><img src="/images/stockpot.jpeg"/>stockpot </a></div>
+<div id="equipmenttwo"><a href=""><img src="/images/roastingpan.jpeg"/>roasting pan </a></div>
+<div id="equipmentthree"><a href=""><img src="/images/colander.jpeg"/>colander </a></div>
 </div>
 
 <div id="preparation">
@@ -54,51 +56,35 @@ tags: [beef, ribs, short ribs, chinese]
 <div id="image"><img src="/images/fivespiceribs1.jpeg"/> </div>
 <div id="step">Preheat the oven to 350˚
 <p>Place the short ribs on a roasting pan. Add the the tamari, honey, szechuan pepercorns, garlic, cloves, cinnamon, fennel, and anise.</p>
-<p> Add enough water to the pan to cover the ribs, and place on the bottom rack of the oven to roast for 2 1/2 hours. </p></div>
-</div>
+<p> Add enough water to the pan to cover the ribs, and place on the bottom rack of the oven to roast for 2 1/2 hours. </p>
+<p> As the short ribs cook, routinely flip the ribs over, generously coating them in the sauce.</p></div>
+
+<div id="instruction">
+<div id="image"><img src="/images/fivespiceribs1.jpeg"/> </div>
+<div id="step">After the ribs have cooked for 2 1/2 hours, raise the heat to 425˚ and move the roasting pan to the top rack of the oven for 15 minutes to crisp the exterior of the short ribs.</div>
 
 <div id="instruction">
 <div id="image"><img src="/images/fivespiceribs2.jpeg"/> </div>
-<div id="step">In a bowl combine the tamari, honey, cinnamon, peppercorns, anise, fennel, cloves, garlic and 1/2 cup of water.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/fivespiceribs3.jpeg"/> </div>
-<div id="step">Place the beef ribs on a roasting pan or baking sheet. Coat the beef ribs in the five spice mixture.
-<p>Place the baking sheet on the middle rack of the oven. Bake for 50 minutes.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/fivespiceribs4.jpeg"/> </div>
-<div id="step">As the short ribs cook, add 1/2 cup more water to the pan and flip the ribs over, generously coating them in the sauce. </div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/fivespiceribs5.jpeg"/> </div>
-<div id="step">Set a saucepan with 2/3 cup of water and 1/4 tsp of salt on high heat.
+<div id="step">After the short ribs have cooked for 2 1/2 hrs, cook the rice and bok choy.
+<p>Set a saucepan with 2/3 cup of water and 1/4 tsp of salt on high heat.</p>
 <p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain the rice. Add more water, swish again, and drain the rice. Repeat swishing and draining one more time.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/fivespiceribs6.jpeg"/> </div>
+<div id="image"><img src="/images/fivespiceribs3.jpeg"/> </div>
 <div id="step">Once the water has come to a boil add the washed jasmine rice and cook for 15 minutes.
 <p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.</p></div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/fivespiceribs7.jpeg"/> </div>
-<div id="step"><i>After, the ribs have roasted for 30 minutes, cook the broccolini.</i>
-<p>Slice the broccolini in half lengthwise.</p></div>
+<div id="image"><img src="/images/fivespiceribs4.jpeg"/> </div>
+<div id="step"> Fill a large stockpot with water and place on high heat. Once the water begins to boil, add the baby bok choy and blanch for 3 minutes. Transfer the baby bok choy to a colander and rinse with cold water to stop the cooking process.
 </div>
 
-<div id="instruction">
-<div id="image"><img src="/images/fivespiceribs8.jpeg"/> </div>
-<div id="step">Coat the bottom of a skillet with the sesame oil, and place on medium high heat. Once the oil is hot add the broccolini and sauté until tender.</div>
-</div>
 
 <div id="instruction">
-<div id="image"><img src="/images/fivespiceribs9.jpeg"/> </div>
-<div id="step">Plate the jasmine rice with the broccolini. Lay the roasted short rib on top and top with the reduced sauce from the roasting pan.</div>
+<div id="image"><img src="/images/fivespiceribs5.jpeg"/> </div>
+<div id="step">Plate the jasmine rice with the baby bok choy. Lay the roasted short rib on top and top with the reduced sauce from the roasting pan.</div>
 </div>
 
 <style>
