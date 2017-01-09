@@ -28,6 +28,8 @@ ingredient10: <a href=""><img src="/images/garammasala.jpeg"/>1/2 tsp garam masa
 ingredient11: <a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/groundcumin.jpeg">1/2 tsp ground cumin</a>
 ingredient12: <a href=""><img src="/images/cayenne.jpeg">1/2 tsp ground cayenne</a>
 
+equipment1: <img src="/images/peeler.jpeg"/> vegetable peeler
+
 ---
 
 <div id="preparation">
