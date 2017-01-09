@@ -22,16 +22,19 @@ ingredient7: <img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil
 ingredient8: <img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce
 ingredient9: <img src="/images/kaffirlime.jpeg"/>2 kaffir lime leaves
 ingredient10: <img src="/images/12driedthaichili.jpeg"/>12 dried thai chilis
-ingredient11: <img src="/images/jasminerice.jpeg"/>1/2 cup jasmine rice
+ingredient11: <img src="/images/jasmine.jpeg"/>1/2 cup jasmine rice
 ingredient12: <img src="/images/coconutsugar.jpeg"/>2 tbsp coconut sugar
 ingredient13: <img src="/images/coriander.jpeg"/>1 tsp coriander seeds
 ingredient14: <img src="/images/cumin.jpeg"/>1 tsp cumin seeds
 ingredient15: <img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns
----
+equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
+equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
+equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
 imagestep1:"/images/padprikgaeng1.jpg"
-instructionstep1:
+instructionstep1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.
+<p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</p>
 imagestep2:"/images/padprikgaeng2.jpg"
-instructionstep2:
+instructionstep2: Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low, and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.
 imagestep3: "/images/padprikgaeng3.jpg"
 instructionstep3:
 imagestep4:"/images/padprikgaeng4.jpg"
@@ -51,3 +54,4 @@ instructionstep10:
 imagestep11: "/images/padprikgaeng11.jpg"
 instructionstep11:
 tags: [thai, chicken, chicken breast]
+---
