@@ -32,9 +32,6 @@ ingredient15: <img src="/images/anise.jpeg"/>1 star anise
 ingredient16: <img src="/images/cinnamonstick.jpeg"/>1 cinnamon stick
 ingredient17: <a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
 ingredient18: <a href=""><img src="/images/sriracha.jpeg"/> sriracha for serving </a>
-equipment1:<a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
-equipment2:<a href=""><img src="/images/bakingsheet.jpeg"/>baking sheet</a>
-equipment3:<a href=""><img src="/images/finemeshstrainer.jpeg"/>fine mesh strainer</a>
 ---
 
 <div id= "equipmenthdr">
