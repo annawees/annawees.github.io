@@ -12,7 +12,6 @@ carbs: 62g
 fiber: 12g
 fat: 35g
 protein: 60g
-tags: [thai, chicken, chicken breast]
 ingredient1: <img src="/images/chickenbreasts.jpeg"/> 2 boneless skinless chicken breasts </div>
 ingredient2: <img src="/images/greenbeans.jpeg"/>1/2 lb green beans</div>
 ingredient3: <img src="/images/lemongrass.jpeg"/>1 inch lemongrass</div>
@@ -28,7 +27,7 @@ ingredient12: <img src="/images/coconutsugar.jpeg"/>2 tbsp coconut sugar</div>
 ingredient13: <img src="/images/coriander.jpeg"/>1 tsp coriander seeds</div>
 ingredient14: <img src="/images/cumin.jpeg"/>1 tsp cumin seeds</div>
 ingredient15: <img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns</div>
-
+tags: [thai, chicken, chicken breast]
 ---
 
 <div id= "equipmenthdr">
