@@ -58,18 +58,18 @@ tags: [thai, chicken, chicken breast]
 
 <div id="instruction">
 <div id="image"><img src="/images/padprikgaeng4.jpeg"/> </div>
-<div id="step">Cut the chicken into bite size pieces.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/padprikgaeng5.jpeg"/> </div>
-<div id="step">Trim the stems off of the green beans.
+<div id="step"> Trim the stems off of the green beans.
 <p><i>Note: Use kitchen shears to make this task even easier! </i></p></div>
 </div>
 
 <div id="instruction">
+<div id="image"><img src="/images/padprikgaeng5.jpeg"/> </div>
+<div id="step"> Cut the green beans in bite size pieces.</div>
+</div>
+
+<div id="instruction">
 <div id="image"><img src="/images/padprikgaeng6.jpeg"/> </div>
-<div id="step">Cut the green beans in bite size pieces.</div>
+<div id="step"> Cut the chicken into bite size pieces.</div>
 </div>
 
 <div id="instruction">
@@ -79,11 +79,19 @@ tags: [thai, chicken, chicken breast]
 
 <div id="instruction">
 <div id="image"><img src="/images/padprikgaeng8.jpeg"/> </div>
-<div id="step">Once the chicken has browned add the curry paste and green beans to the pan. Cook until the sauce reduces by half, approx. 3 minutes.</div>
+<div id="step">Coat the bottom of a skillet with a sesame oil, and place on high heat. Once the oil is hot, add the chicken to the pan and sauté to brown the exterior.</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng9.jpeg"/> </div>
+<div id="step">Once the chicken has browned add the curry paste. Cook until the sauce reduces by half, approx. 3 minutes.</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng10.jpeg"/> </div>
+<div id="step">Add the green beans to the pan and coat in the curry.</div>
 
 </div>
 <div id="instruction">
-<div id="image"><img src="/images/padprikgaeng9.jpeg"/> </div>
-<div id="step">Once the curry has reduced, plate it with the jasmine rice. Sauce the plate generously.</div>
+<div id="image"><img src="/images/padprikgaeng11.jpeg"/> </div>
+<div id="step">Plate the pad prik gaeng with the jasmine rice. Sauce the plate generously.</div>
 </div>
 
