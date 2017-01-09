@@ -3,94 +3,32 @@ layout: single
 category: recipe
 title: Saag Paneer
 thumbnail: "/images/saagpaneer.jpg"
+description: A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
 tags: [cheese, vegetarian, indian]
+
+time: 45 Minutes
+spice: Medium
+serves: Two
+calories: 590
+carbs: 61g
+fiber: 9g
+fat: 28g
+protein: 49g
+
+ingredient1: <img src="/images/paneer.jpeg"/>6 oz paneer
+ingredient2: <img src="/images/yogurt.jpeg"/>4 oz greek yogurt
+ingredient3: <img src="/images/onion.jpeg"/>1 onion
+ingredient4: <img src="/images/spinach.jpeg"/>12 oz spinach
+ingredient5: <img src="/images/butter.jpeg"/>2 tbsp butter
+ingredient6: <img src="/images/3garlic.jpeg"/>3 garlic cloves
+ingredient7: <img src="/images/ginger.jpeg"/>1 tbsp ginger
+ingredient8: <img src="/images/2thaichili.jpeg"/>2 thai chiles
+ingredient9: <a href=""><img src="/images/basmati.jpeg"/>1/2 cup basmati rice</a>
+ingredient10: <a href=""><img src="/images/garammasala.jpeg"/>1/2 tsp garam masala</a>
+ingredient11: <a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/groundcumin.jpeg">1/2 tsp ground cumin</a>
+ingredient12: <a href=""><img src="/images/cayenne.jpeg">1/2 tsp ground cayenne</a>
+
 ---
-
-<div id="spacer"> </div>
-
-A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- In recipe ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4265610880813101"
-     data-ad-slot="1566749873"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<div id="recipedetails">
-<div id= "time"> Time </div>
-<div id= "spice"> Spice </div>
-<div id= "serves"> Serves </div>
-</div>
-
-<div id= "recipedetails">
-<div id= "time"><h3> 45 Min</h3> </div>
-<div id= "spice"><h3> Medium</h3> </div>
-<div id= "serves"><h3> Two </h3> </div>
-</div>
-
-<div id= "nutritiondetails">
-<div id="calories"> Calories </div>
-<div id="carbs"> Carbs </div>
-<div id="fiber"> Fiber </div>
-<div id="fat"> Fat </div>
-<div id="protein"> Protein </div>
-</div>
-
-<div id= "nutritionnumbers">
-<div id="calories"><h3> 590</h3> </div>
-<div id="carbs"><h3> 11g</h3> </div>
-<div id="fiber"><h3> 9g</h3> </div>
-<div id="fat"><h3> 28g</h3> </div>
-<div id="protein"><h3> 49g</h3> </div>
-</div>
-
-<div id= "ingredienthdr">
-<h1>Ingredients</h1>
-</div>
-
-
-<ul>
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/paneer.jpeg"/>6 oz paneer </div>
-<div id="ingredienttwo"><img src="/images/yogurt.jpeg"/>4 oz greek yogurt</div>
-<div id="ingredientthree"><img src="/images/onion.jpeg"/>1 onion</div>
-<div id="ingredientfour"><img src="/images/spinach.jpeg"/>12 oz spinach</div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/butter.jpeg"/>2 tbsp butter</div>
-<div id="ingredienttwo"><img src="/images/3garlic.jpeg"/>3 garlic cloves</div>
-<div id="ingredientthree"><img src="/images/ginger.jpeg"/>1 tbsp ginger</div>
-<div id="ingredientfour"><img src="/images/2thaichili.jpeg"/>2 thai chiles</div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><a href=""><img src="/images/basmati.jpeg"/>1/2 cup basmati rice</a></div>
-<div id="ingredienttwo"><a href=""><img src="/images/garammasala.jpeg"/>1/2 tsp garam masala</a></div>
-<div id="ingredientthree"><a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/groundcumin.jpeg">1/2 tsp ground cumin</a></div>
-<div id="ingredientfour"><a href=""><img src="/images/cayenne.jpeg">1/2 tsp ground cayenne</a></div>
-</div>
-</ul>
-
-<div id="spacer"> </div>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- In recipe ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4265610880813101"
-     data-ad-slot="1566749873"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<div id="spacer"> </div>
 
 <div id="preparation">
   <h1>Preparation</h1>
