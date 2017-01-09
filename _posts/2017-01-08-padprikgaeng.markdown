@@ -19,14 +19,13 @@ ingredient4: <img src="/images/5garlic.jpeg"/>5 garlic cloves
 ingredient5: <img src="/images/ginger.jpeg"/>2 inch ginger
 ingredient6: <img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce
 ingredient7: <img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil
-ingredient8: <img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce
-ingredient9: <img src="/images/kaffirlime.jpeg"/>2 kaffir lime leaves
-ingredient10: <img src="/images/12driedthaichili.jpeg"/>12 dried thai chilis
-ingredient11: <img src="/images/jasmine.jpeg"/>1/2 cup jasmine rice
-ingredient12: <img src="/images/coconutsugar.jpeg"/>2 tbsp coconut sugar
-ingredient13: <img src="/images/coriander.jpeg"/>1 tsp coriander seeds
-ingredient14: <img src="/images/cumin.jpeg"/>1 tsp cumin seeds
-ingredient15: <img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns
+ingredient8: <img src="/images/kaffirlime.jpeg"/>2 kaffir lime leaves
+ingredient9: <img src="/images/12driedthaichili.jpeg"/>12 dried thai chilis
+ingredient10: <img src="/images/jasmine.jpeg"/>1/2 cup jasmine rice
+ingredient11: <img src="/images/coconutsugar.jpeg"/>2 tbsp coconut sugar
+ingredient12: <img src="/images/coriander.jpeg"/>1 tsp coriander seeds
+ingredient13: <img src="/images/cumin.jpeg"/>1 tsp cumin seeds
+ingredient14: <img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
 equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
 equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
