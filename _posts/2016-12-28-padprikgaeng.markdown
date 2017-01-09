@@ -3,79 +3,33 @@ layout: single
 title: Pad Prik Gaeng
 category: recipe
 thumbnail: "/images/padprikgaeng.jpg"
-tags: [thai, chicken, chicken breast ]
+description: Fragrant spices are combined to produce a spicy, complex curry paste. This thai red curry paste perfectly coats stir fried chicken and green beans for a dish that will excite your palate. 
+time: 35 Minutes
+spice: Hot
+serves: 2
+calories: 670
+carbs: 62g
+fiber: 12g
+fat: 35g
+protein: 60g
+tags: [thai, chicken, chicken breast]
+ingredient1: <img src="/images/chickenbreasts.jpeg"/> 2 boneless skinless chicken breasts </div>
+ingredient2: <img src="/images/greenbeans.jpeg"/>1/2 lb green beans</div>
+ingredient3: <img src="/images/lemongrass.jpeg"/>1 inch lemongrass</div>
+ingredient4: <img src="/images/5garlic.jpeg"/>5 garlic cloves</div>
+ingredient5: <img src="/images/ginger.jpeg"/>2 inch ginger</div>
+ingredient6: <img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce</div>
+ingredient7: <img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</div>
+ingredient8: <img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce</div>
+ingredient9: <img src="/images/kaffirlime.jpeg"/>2 kaffir lime leaves</div>
+ingredient10: <img src="/images/12driedthaichili.jpeg"/>12 dried thai chilis</div>
+ingredient11: <img src="/images/jasminerice.jpeg"/>1/2 cup jasmine rice</div>
+ingredient12: <img src="/images/coconutsugar.jpeg"/>2 tbsp coconut sugar</div>
+ingredient13: <img src="/images/coriander.jpeg"/>1 tsp coriander seeds</div>
+ingredient14: <img src="/images/cumin.jpeg"/>1 tsp cumin seeds</div>
+ingredient15: <img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns</div>
+
 ---
-<div id="backgroundvideo">
-  <video width="100%" autoplay loop muted class="banner__video" poster="/images/padprikgaeng.jpg">
-  <source src="/images/padprikgaeng.mp4" type="video/mp4"></video>
-</div>
-
-<div id="recipedescription">
-Fragrant spices are combined to produce a spicy, complex curry paste. This thai red curry paste perfectly coats stir fried chicken and green beans for a dish that will excite your palate. 
-
-<div id="spacer"></div>
-
-<div id= "recipedetails">
-<div id= "time"> Time </div>
-<div id= "spice"> Spice </div>
-<div id= "serves"> Serves </div>
-</div>
-
-<div id= "recipedetails">
-<div id= "time"><h3> 30 Minutes</h3> </div>
-<div id= "spice"><h3> Hot </h3> </div>
-<div id= "serves"><h3> Two </h3> </div>
-</div>
-
-<div id="spacer"></div>
-
-<div id= "nutrition">
-<div id="calories"> Calories </div>
-<div id="carbs"> Carbs </div>
-<div id="fiber"> Fiber </div>
-<div id="fat"> Fat </div>
-<div id="protein"> Protein </div>
-</div>
-
-<div id= "nutrition">
-<div id="calories"><h3> 670 </h3> </div>
-<div id="carbs"><h3> 62g</h3> </div>
-<div id="fiber"><h3> 12g</h3> </div>
-<div id="fat"><h3> 35g</h3> </div>
-<div id="protein"><h3> 60g</h3> </div>
-</div>
-
-<div id= "ingredienthdr">
-<h1>Ingredients</h1>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/chickenbreasts.jpeg"/> 2 boneless skinless chicken breasts </div>
-<div id="ingredienttwo"><img src="/images/green beans.jpeg"/>1/2 lb green beans</div>
-<div id="ingredienttwo"><img src="/images/lemongrass.jpeg"/>1 inch lemongrass</div>
-<div id="ingredientfour"><img src="/images/5garlic.jpeg"/>5 garlic clove</div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/3freshthaichili.jpeg"/>3 fresh thai chilis</div>
-<div id="ingredienttwo"><img src="/images/ginger.jpeg"/>2 inch ginger</div>
-<div id="ingredientthree"><img src="/images/kaffirlime.jpeg"/>2 kaffir lime leaves</div>
-<div id="ingredientfour"><img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce</div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</div>
-<div id="ingredienttwo"><img src="/images/fishsauce.jpeg"/>2 tbsp fish sauce</div>
-<div id="ingredientthree"><img src="/images/12driedthaichili.jpeg"/>12 dried thai chilis</div>
-<div id="ingredientfour"><img src="/images/jasminerice.jpeg"/>1/2 cup jasmine rice</div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/coconutsugar.jpeg"/>2 tbsp coconut sugar</div>
-<div id="ingredienttwo"><img src="/images/coriander.jpeg"/>1 tsp coriander seeds</div>
-<div id="ingredientthree"><img src="/images/cumin.jpeg"/>1 tsp cumin seeds</div>
-<div id="ingredientfour"><img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns</div>
-</div>
 
 <div id= "equipmenthdr">
 <h1>Equipment</h1>
