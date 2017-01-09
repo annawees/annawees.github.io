@@ -33,12 +33,11 @@ equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truff
 equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
 equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
 
+tags: [thai, chicken, chicken breast]
+---
 imagestep1:"/images/padprikgaeng1.jpg"
 instructionstep1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.
 <p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</p>
-
-tags: [thai, chicken, chicken breast]
----
 imagestep1:"/images/padprikgaeng1.jpg"
 instructionstep1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.
 <p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</p>
