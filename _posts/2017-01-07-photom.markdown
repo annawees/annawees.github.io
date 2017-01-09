@@ -33,12 +33,14 @@ ingredient16: <a href="https://www.amazon.com/Simply-Organic-Cinnamon-Sticks-Oun
 ingredient17: <a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a>
 ingredient18: <a href="https://www.amazon.com/Huy-Fong-Chili-Sauce-Sriracha/dp/B0014CSG5Y/ref=as_li_ss_tl?ie=UTF8&qid=1483981229&sr=1-2&keywords=sriracha&linkCode=ll1&tag=cilalime09-20&linkId=bfd082af0ead8c18a84164571be4a6e2"><img src="/images/sriracha.jpeg"/> sriracha for serving </a>
 
+tags: [vietnamese, shrimp, seafood, soup]
+---
+
+
 equipment1:<a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
 equipment2: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1483981260&sr=1-5&keywords=baking+sheet&linkCode=ll1&tag=cilalime09-20&linkId=ccf04db21a82bb55b1ca904458b9ca3a"><img src="/images/bakingsheet.jpeg"/>baking sheet</a>
 equipment3: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1483981260&sr=1-5&keywords=baking+sheet&linkCode=ll1&tag=cilalime09-20&linkId=ccf04db21a82bb55b1ca904458b9ca3a"><img src="/images/finemeshstrainer.jpeg"/>fine mesh strainer</a>
 
-tags: [vietnamese, shrimp, seafood, soup]
----
 
 <div id="preparation">
 <h1>Preparation</h1>
