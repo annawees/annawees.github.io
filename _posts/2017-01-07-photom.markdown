@@ -84,6 +84,6 @@ tags: [vietnamese, shrimp, seafood, soup]
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/bunbohue8.jpeg"/> </div>
+<div id="image"><img src="/images/photom8.jpeg"/> </div>
 <div id="step">Ladle the pho into bowls and serve with herbs, bean sprouts, lime, and sriracha.</div>
 </div>
