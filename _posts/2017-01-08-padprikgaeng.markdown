@@ -27,7 +27,7 @@ ingredient12: <img src="/images/coconutsugar.jpeg"/>2 tbsp coconut sugar
 ingredient13: <img src="/images/coriander.jpeg"/>1 tsp coriander seeds
 ingredient14: <img src="/images/cumin.jpeg"/>1 tsp cumin seeds
 ingredient15: <img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns
-
+---
 imagestep1:"/images/padprikgaeng1.jpg"
 instructionstep1:
 imagestep2:"/images/padprikgaeng2.jpg"
@@ -51,4 +51,3 @@ instructionstep10:
 imagestep11: "/images/padprikgaeng11.jpg"
 instructionstep11:
 tags: [thai, chicken, chicken breast]
----
