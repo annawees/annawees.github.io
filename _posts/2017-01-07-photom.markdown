@@ -14,10 +14,10 @@ fiber: 2g
 fat: 10g
 protein: 34g
 tags: [vietnamese, shrimp, seafood, soup]
-ingredientone: 1/2 lb peeled, deveined shrimp
-ingredienttwo: 1/4 lb mung bean sprouts
-ingredientthree: 2 sprigs basil
-ingredientfour: 5 sprigs mint
+ingredientone: <img src="/images/shrimp.jpeg"/> 1/2 lb peeled, deveined shrimp
+ingredienttwo: <img src="/images/beansprouts.jpeg"/> 1/4 lb mung bean sprouts
+ingredientthree: <img src="/images/basil.jpeg"/> 2 sprigs basil
+ingredientfour: <img src="/images/mint.jpeg"/> 5 sprigs mint
 ---
 
 
