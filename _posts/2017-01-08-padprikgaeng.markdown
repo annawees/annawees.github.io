@@ -27,5 +27,30 @@ ingredient12: <img src="/images/coconutsugar.jpeg"/>2 tbsp coconut sugar
 ingredient13: <img src="/images/coriander.jpeg"/>1 tsp coriander seeds
 ingredient14: <img src="/images/cumin.jpeg"/>1 tsp cumin seeds
 ingredient15: <img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns
+equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
+equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
+equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
+imagestep1:"/images/padprikgaeng1.jpg"
+instructionstep1:
+imagestep2:"/images/padprikgaeng2.jpg"
+instructionstep2:
+imagestep3: "/images/padprikgaeng3.jpg"
+instructionstep3:
+imagestep4:"/images/padprikgaeng4.jpg"
+instructionstep4:
+imagestep5:"/images/padprikgaeng5.jpg"
+instructionstep5:
+imagestep6:"/images/padprikgaeng6.jpg"
+instructionstep6:
+imagestep7:"/images/padprikgaeng7.jpg"
+instructionstep7:
+imagestep8:"/images/padprikgaeng8.jpg"
+instructionstep8:
+imagestep9:"/images/padprikgaeng9.jpg"
+instructionstep9:
+imagestep10:"/images/padprikgaeng10.jpg"
+instructionstep10:
+imagestep11: "/images/padprikgaeng11.jpg"
+instructionstep11:
 tags: [thai, chicken, chicken breast]
 ---
