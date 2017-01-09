@@ -33,6 +33,8 @@ ingredient16: <a href="https://www.amazon.com/Simply-Organic-Cinnamon-Sticks-Oun
 ingredient17: <a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a>
 ingredient18: <a href="https://www.amazon.com/Huy-Fong-Chili-Sauce-Sriracha/dp/B0014CSG5Y/ref=as_li_ss_tl?ie=UTF8&qid=1483981229&sr=1-2&keywords=sriracha&linkCode=ll1&tag=cilalime09-20&linkId=bfd082af0ead8c18a84164571be4a6e2"><img src="/images/sriracha.jpeg"/> sriracha for serving </a>
 
+equipment1: stockpot
+
 tags: [vietnamese, shrimp, seafood, soup]
 ---
 
