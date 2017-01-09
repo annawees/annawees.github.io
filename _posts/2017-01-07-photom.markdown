@@ -13,7 +13,7 @@ carbs: 35g
 fiber: 2g
 fat: 10g
 protein: 34g
-tags: [vietnamese, shrimp, seafood, soup]
+
 ingredient1: <img src="/images/shrimp.jpeg"/> 1/2 lb peeled, deveined shrimp
 ingredient2: <img src="/images/beansprouts.jpeg"/> 1/4 lb mung bean sprouts
 ingredient3: <img src="/images/basil.jpeg"/> 2 sprigs basil
@@ -32,6 +32,8 @@ ingredient15: <img src="/images/anise.jpeg"/>1 star anise
 ingredient16: <img src="/images/cinnamonstick.jpeg"/>1 cinnamon stick
 ingredient17: <a href="https://www.amazon.com/Table-Red-Boat-40-N-Sauce/dp/B00FQMW4PQ/ref=as_li_ss_tl?ie=UTF8&qid=1481945273&sr=8-1&keywords=red+boat+fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=57a3fd9ef2e80b76d147e4c0fe9e99cd"><img src="/images/fishsauce.jpeg"/>3 tbsp fish sauce</a></div>
 ingredient18: <a href=""><img src="/images/sriracha.jpeg"/> sriracha for serving </a>
+
+tags: [vietnamese, shrimp, seafood, soup]
 ---
 
 <div id= "equipmenthdr">
