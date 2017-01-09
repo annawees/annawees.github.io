@@ -32,31 +32,58 @@ ingredient14: <img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
 equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
 equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
-
-instructionstep1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans. Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.
-
 tags: [thai, chicken, chicken breast]
 ---
-imagestep1:<img src="/images/padprikgaeng1.jpg"/>
-instructionstep1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.
-<p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.</p>
-imagestep2:"/images/padprikgaeng2.jpg"
-instructionstep2: Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low, and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.
-imagestep3: "/images/padprikgaeng3.jpg"
-instructionstep3:
-imagestep4:"/images/padprikgaeng4.jpg"
-instructionstep4:
-imagestep5:"/images/padprikgaeng5.jpg"
-instructionstep5:
-imagestep6:"/images/padprikgaeng6.jpg"
-instructionstep6:
-imagestep7:"/images/padprikgaeng7.jpg"
-instructionstep7:
-imagestep8:"/images/padprikgaeng8.jpg"
-instructionstep8:
-imagestep9:"/images/padprikgaeng9.jpg"
-instructionstep9:
-imagestep10:"/images/padprikgaeng10.jpg"
-instructionstep10:
-imagestep11: "/images/padprikgaeng11.jpg"
-instructionstep11:
+
+<div id="preparation">
+<h1>Preparation</h1>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng1.jpeg"/> </div>
+<div id="step">Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.
+<p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. </p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng2.jpeg"/> </div>
+<div id="step">Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low, and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng3.jpeg"/> </div>
+<div id="step">Make the curry paste by combining the lemongrass, kaffir lime leaves, peppercorns, ginger, garlic, thai chiles, coriander, cumin, coconut sugar, fish sauce and 1/4 c of water in a blender. 
+<p>Puree until smooth.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng4.jpeg"/> </div>
+<div id="step">Cut the chicken into bite size pieces.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng5.jpeg"/> </div>
+<div id="step">Trim the stems off of the green beans.
+<p><i>Note: Use kitchen shears to make this task even easier! </i></p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng6.jpeg"/> </div>
+<div id="step">Cut the green beans in bite size pieces.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng7.jpeg"/> </div>
+<div id="step">Add the green beans to the boiling water and blanch for 4 minutes. Transfer to a colander and drain.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng8.jpeg"/> </div>
+<div id="step">Once the chicken has browned add the curry paste and green beans to the pan. Cook until the sauce reduces by half, approx. 3 minutes.</div>
+
+</div>
+<div id="instruction">
+<div id="image"><img src="/images/padprikgaeng9.jpeg"/> </div>
+<div id="step">Once the curry has reduced, plate it with the jasmine rice. Sauce the plate generously.</div>
+</div>
+
