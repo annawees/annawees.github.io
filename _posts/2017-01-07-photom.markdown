@@ -31,6 +31,9 @@ ingredient14: <a href="https://www.amazon.com/Simply-Organic-Fennel-Seed-Ounce/d
 ingredient15: <a href="https://www.amazon.com/Frontier-Natural-Products-Select-0-64-Ounce/dp/B000WR8LWA/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1483981195&sr=1-5&keywords=star+anise&th=1&linkCode=ll1&tag=cilalime09-20&linkId=6dcfb0ae5ba28dc1384b8fb6957a8012"><img src="/images/anise.jpeg"/>1 star anise</a>
 ingredient16: <a href="https://www.amazon.com/Simply-Organic-Cinnamon-Sticks-Ounce/dp/B0083CPKYI/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1483981124&sr=1-12&keywords=cinnamon+sticks&th=1&linkCode=ll1&tag=cilalime09-20&linkId=0facce2ef73a310afd950616abcde038"><img src="/images/cinnamonstick.jpeg"/>1 cinnamon stick</a>
 
+equipment1:<a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
+equipment2: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1483981260&sr=1-5&keywords=baking+sheet&linkCode=ll1&tag=cilalime09-20&linkId=ccf04db21a82bb55b1ca904458b9ca3a"><img src="/images/bakingsheet.jpeg"/>baking sheet</a>
+equipment3: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1483981260&sr=1-5&keywords=baking+sheet&linkCode=ll1&tag=cilalime09-20&linkId=ccf04db21a82bb55b1ca904458b9ca3a"><img src="/images/finemeshstrainer.jpeg"/>fine mesh strainer</a>
 
 tags: [vietnamese, shrimp, seafood, soup]
 ---
