@@ -32,6 +32,9 @@ ingredient14: <img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
 equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
 equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
+
+imagestep1:<img src="/images/padprikgaeng1.jpg"/>
+
 tags: [thai, chicken, chicken breast]
 ---
 imagestep1:<img src="/images/padprikgaeng1.jpg"/>
