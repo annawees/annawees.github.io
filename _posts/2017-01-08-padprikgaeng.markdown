@@ -33,7 +33,7 @@ equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truff
 equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
 equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
 
-imagestep1:<img src="/images/padprikgaeng1.jpg"/>
+imagestep1: <img src="/images/padprikgaeng1.jpg"/>
 
 tags: [thai, chicken, chicken breast]
 ---
