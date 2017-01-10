@@ -5,112 +5,31 @@ category: recipe
 thumbnail: "/images/saladelyonnaise.jpg"
 video: "/images/saladelyonnaise.mp4"
 description: Lyon is arguably the best city in France when it comes to food, and it's no surprise that the Salade Lyonnaise is one of the most flavorful salads that France has to offer. A soft poached egg sits on a bed of frisee, asparagus, and leeks and is accented with a warm bacon vinagrette. 
-time: 35 Min
-spice: Medium
-serves: 2
-calories: 470
-carbs: 35g
-fiber: 2g
-fat: 10g
-protein: 34g
+
+time: 30 Min
+spice: Mild
+serves: Two
+calories: 440
+carbs:20g
+fiber: 7g
+fat: 25g
+protein: 29g
+
+ingredient1: <img src="/images/frisee.jpeg"/> 1 head of frisee lettuce
+ingredient2: <img src="/images/5bacon.jpeg"/>5 slices bacon
+ingredient3: <img src="/images/egg.jpeg"/>2 eggs
+ingredient4: <img src="/images/asparagus.jpeg"/>1/2 lb asparagus
+ingredient5: <img src="/images/leek.jpeg"/>1 leek
+ingredient6: <img src="/images/shallots.jpeg"/>2 shallots
+ingredient7: <img src="/images/vermouth.jpeg"/>1/4 cup white wine or white vermouth
+ingredient8: <a href="https://www.amazon.com/Maille-Style-Whole-Grain-Mustard/dp/B000SR5VOU/ref=as_li_ss_tl?ie=UTF8&qid=1481914703&sr=8-6&keywords=dijon&linkCode=ll1&tag=cilalime09-20&linkId=6e0752d530b29c4c1499a974b45b73ca"><img src="/images/dijonmustard.jpeg"/>2 tbsp grainy dijon mustard</a>
+
+equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
+equipment2: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander </a>
+equipment3: <a href="https://www.amazon.com/Kuhn-Rikon-Spider-Skimmer-Graphite/dp/B00CLKY4UY/ref=as_li_ss_tl?ie=UTF8&qid=1482801541&sr=8-1&keywords=kuhn+rikon+spider&linkCode=ll1&tag=cilalime09-20&linkId=5c4f3660dd0f6b5212c7b994352f2c55"><img src="/images/spyder.jpeg"/>spyder or slotted spatula </a>
+
 tags: [salad, french, bacon, pork, low carb]
 ---
-<div id="backgroundvideo">
-  <video width="100%" autoplay loop muted class="banner__video" poster="/images/saladelyonnaise.jpg">
-  <source src="/images/saladelyonnaise.mp4" type="video/mp4"></video>
-</div>
-
-<div id="recipedescription">
-Lyon is arguably the best city in France when it comes to food, and it's no surprise that the Salade Lyonnaise is one of the most flavorful salads that France has to offer. A soft poached egg sits on a bed of frisee, asparagus, and leeks and is accented with a warm bacon vinagrette.
-
-<div id="spacer"> </div>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- In recipe ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4265610880813101"
-     data-ad-slot="1566749873"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-<div id="spacer"> </div>
-
-<div id= "recipedetails">
-<div id= "time"> Time </div>
-<div id= "spice"> Spice </div>
-<div id= "serves"> Serves </div>
-</div>
-
-<div id= "recipenumbers">
-<div id= "time"><h3> 30 Minutes</h3> </div>
-<div id= "spice"><h3> Mild </h3> </div>
-<div id= "serves"><h3> Two </h3> </div>
-</div>
-
-<div id="space"> </div>
-
-<div id= "nutrition">
-<div id="calories"> Calories </div>
-<div id="carbs"> Carbs </div>
-<div id="fiber"> Fiber </div>
-<div id="fat"> Fat </div>
-<div id="protein"> Protein </div>
-</div>
-
-<div id= "nutritionnumbers">
-<div id="calories"><h3> 440 </h3> </div>
-<div id="carbs"><h3> 20g</h3> </div>
-<div id="fiber"><h3> 7g</h3> </div>
-<div id="fat"><h3> 25g</h3> </div>
-<div id="protein"><h3> 29g</h3> </div>
-</div>
-
-<div id= "ingredienthdr">
-<h1>Ingredients</h1>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/frisee.jpeg"/> 1 head of frisee lettuce </div>
-<div id="ingredienttwo"><img src="/images/5bacon.jpeg"/>5 slices bacon</div>
-<div id="ingredienttwo"><img src="/images/egg.jpeg"/>2 eggs</div>
-<div id="ingredientfour"><img src="/images/asparagus.jpeg"/>1/2 lb asparagus</div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/leek.jpeg"/>1 leek</div>
-<div id="ingredienttwo"><img src="/images/shallots.jpeg"/>2 shallots</div>
-<div id="ingredientthree"><img src="/images/vermouth.jpeg"/>1/4 cup white wine or white vermouth</div>
-<div id="ingredientfour"><a href="https://www.amazon.com/Maille-Style-Whole-Grain-Mustard/dp/B000SR5VOU/ref=as_li_ss_tl?ie=UTF8&qid=1481914703&sr=8-6&keywords=dijon&linkCode=ll1&tag=cilalime09-20&linkId=6e0752d530b29c4c1499a974b45b73ca"><img src="/images/dijonmustard.jpeg"/>2 tbsp grainy dijon mustard</a></div>
-</div>
-
-<div id= "equipmenthdr">
-<h1>Equipment</h1>
-</div>
-
-<div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander </a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Kuhn-Rikon-Spider-Skimmer-Graphite/dp/B00CLKY4UY/ref=as_li_ss_tl?ie=UTF8&qid=1482801541&sr=8-1&keywords=kuhn+rikon+spider&linkCode=ll1&tag=cilalime09-20&linkId=5c4f3660dd0f6b5212c7b994352f2c55"><img src="/images/spyder.jpeg"/>spyder or slotted spatula </a></div>
-</div>
-
-<div id="spacer"> </div>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- In recipe ads -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4265610880813101"
-     data-ad-slot="1566749873"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<div id="spacer"> </div>
 
 <div id="preparation">
 <h1>Preparation</h1>
@@ -174,74 +93,3 @@ Lyon is arguably the best city in France when it comes to food, and it's no surp
 <div id="image"><img src="/images/saladelyonnaise11.jpeg"/> </div>
 <div id="step">Plate the leeks, frisee, and asparagus. Top with the bacon sauce and the crisped bacon. Delicately transfer one of the  poached eggs on top of each plate.</div>
 </div>
-
-
-<style>
-#backgroundvideo {
-  width: 100%;
-  max-height: 800px;
-}
-  
-#banner__video {
-    }
-
-#overlay {
- }
-
-#recipedescription {padding-bottom:50px;}
-
-#spacer {padding-bottom:150px;}
-
-#recipedetails { width: 100%; display:inline-block; float: left;}
-#time { width: 30%; float: left; margin-left: 5%}
-#spice { width: 30%; float: left;}
-#serves { width 30%; float: left; margin-left: 5%;}
-.clear {clear:both;}
-
-#recipenumbers { width: 100%; padding-bottom: 50px; display:inline-block; float: left;}
-#time { width: 30%; float: left; margin-left: 5%}
-#spice { width: 30%; float: left;}
-#serves { width 30%; float: left; margin-left: 5%;}
-.clear {clear:both;}
-
-#nutrition { width: 100%; display:inline-block;}
-#calories { width: 18%; float: left; margin-left: 5%;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-right:5%;}
-.clear {clear:both;}
-
-#nutritionnumbers { width: 100%; display:inline-block;}
-#calories { width: 18%; float: left; margin-left: 5%;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-right:5%;}
-.clear {clear:both;}
-
-#ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
-
-#ingredients { width: 95%; display:inline-block;}
-#ingredientone { width: 20%; float:left;}
-#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
-#ingredientthree { width:20%; float:left; margin-left: 5%;}
-#ingredientfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#equipmenthdr { margin-top:150px; margin-bottom:50px; font-family: $serif;}
-
-#equipment { width: 95%; display:inline-block;}
-#equipmentone { width: 20%; float:left;}
-#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
-#equipmentthree { width:20%; float:left; margin-left: 5%;}
-#equipmentfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#preparation { margin-top: 150px; margin-bottom: 50px; font-family: $serif;}
-
-#instruction { width:95%; display:inline-block;}
-#image { width: 40%; float:left;}
-#step { width: 50%; float:right; margin-top: 30px; margin-bottom: 30px;}
-.clear {clear:both;}
-</style>
