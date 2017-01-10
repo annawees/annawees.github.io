@@ -3,85 +3,36 @@ layout: single
 title: Kota Riganati
 category: recipe
 thumbnail: "/images/kotariganati.jpg"
+video: "/images/kotariganati.mp4"
+description: This traditionally Greek chicken is roasted in fragrant lemon, garlic, and oregano until crispy. This delicious roast chicken pairs perfectly with a refreshing greek salad and savory tahini.
+
+time: 45 Minutes
+spice: Mild
+serves: Two
+calories: 440
+carbs: 27g
+fiber: 7g
+fat: 23g
+protein: 36g
+
+ingredient1: <img src="/images/chickendrumsticks.jpeg"/> 4 chicken drumsticks
+ingredient2: <img src="/images/feta.jpeg"/>1/4 cup feta
+ingredient3: <img src="/images/tahini.jpeg"/>3 tbsp tahini
+ingredient4: <img src="/images/cucumber.jpeg"/>1 cucumber
+ingredient5: <img src="/images/5oregano.jpeg"/>5 sprigs oregano
+ingredient6: <img src="/images/campari.jpeg"/>1/2 lb campari tomatoes
+ingredient7: <img src="/images/redonion.jpeg"/>1 red onion
+ingredient8: <img src="/images/6garlic.jpeg"/>6 garlic cloves
+ingredient9: <img src="/images/lemon.jpeg"/>1 lemon
+ingredient10: <img src="/images/kalamata.jpeg"/>1/4 cup kalamata olives with brine
+ingredient11: <img src="/images/redwinevin.jpeg"/>3 tbsp red wine vinegar
+ingredient12: <img src="/images/chiliflakes.jpeg"/>1/2 tsp red pepper flakes
+
+equipment1: <a href=""><img src="/images/roastingpan.jpeg"/>roasting pan</a>
+equipment2: <a href=""><img src="/images/fine grater.jpeg"/>fine grater</a>
+
 tags: [chicken, drumstick, greek]
 ---
-<div id="backgroundvideo">
-  <video width="100%" autoplay loop muted class="banner__video" poster="/images/kotariganati.jpg">
-  <source src="/images/kotariganati.mp4" type="video/mp4"></video>
-</div>
-
-<div id="recipedescription">
-This traditionally Greek chicken is roasted in fragrant lemon, garlic, and oregano until crispy. This delicious roast chicken pairs perfectly with a refreshing greek salad and savory tahini.
-
-<div id="spacer"></div>
-
-<div id= "recipedetails">
-<div id= "time"> Time </div>
-<div id= "spice"> Spice </div>
-<div id= "serves"> Serves </div>
-</div>
-
-<div id= "recipedetails">
-<div id= "time"><h3> 45 Minutes</h3> </div>
-<div id= "spice"><h3> Mild </h3> </div>
-<div id= "serves"><h3> Two </h3> </div>
-</div>
-
-<div id="spacer"></div>
-
-<div id= "nutrition">
-<div id="calories"> Calories </div>
-<div id="carbs"> Carbs </div>
-<div id="fiber"> Fiber </div>
-<div id="fat"> Fat </div>
-<div id="protein"> Protein </div>
-</div>
-
-<div id= "nutrition">
-<div id="calories"><h3> 440 </h3> </div>
-<div id="carbs"><h3> 27g</h3> </div>
-<div id="fiber"><h3> 7g</h3> </div>
-<div id="fat"><h3> 23g</h3> </div>
-<div id="protein"><h3> 36g</h3> </div>
-</div>
-
-<div id= "ingredienthdr">
-<h1>Ingredients</h1>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/drumsticks.jpeg"/> 4 chicken drumsticks</div>
-<div id="ingredienttwo"><img src="/images/feta.jpeg"/>1/4 cup feta</div>
-<div id="ingredienttwo"><img src="/images/tahini.jpeg"/>3 tbsp tahini</div>
-<div id="ingredientfour"><img src="/images/cucumber.jpeg"/>1 cucumber</div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/5oregano.jpeg"/>5 sprigs oregano</div>
-<div id="ingredienttwo"><img src="/images/campari.jpeg"/>1/2 lb campari tomatoes</div>
-<div id="ingredientthree"><img src="/images/redonion.jpeg"/>1 red onion</div>
-<div id="ingredientfour"><img src="/images/6garlic.jpeg"/>6 garlic cloves</div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/lemon.jpeg"/>1 lemon</div>
-<div id="ingredienttwo"><img src="/images/kalamata.jpeg"/>1/4 cup kalamata olives with brine</div>
-<div id="ingredientthree"><img src="/images/redwinevin.jpeg"/>3 tbsp red wine vinegar</div>
-<div id="ingredientfour"><img src="/images/chiliflakes.jpeg"/>1/2 tsp red pepper flakes</div>
-</div>
-
-<div id= "equipmenthdr">
-<h1>Equipment</h1>
-</div>
-
-<div id="equipment">
-<div id="equipmentone"><a href=""><img src="/images/bakingsheet.jpeg"/>baking sheet</a></div>
-<div id="equipmenttwo"><a href=""><img src="/images/finegrater.jpeg"/>fine grater </a></div>
-</div>
-
-<div id="preparation">
-<h1>Preparation</h1>
-</div>
 
 <div id="instruction">
 <div id="image"><img src="/images/kotariganati1.jpeg"/> </div>
