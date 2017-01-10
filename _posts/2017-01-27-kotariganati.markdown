@@ -25,11 +25,11 @@ ingredient7: <img src="/images/redonion.jpeg"/>1 red onion
 ingredient8: <img src="/images/6garlic.jpeg"/>6 garlic cloves
 ingredient9: <img src="/images/lemon.jpeg"/>1 lemon
 ingredient10: <img src="/images/kalamata.jpeg"/>1/4 cup kalamata olives with brine
-ingredient11: <img src="/images/redwinevin.jpeg"/>3 tbsp red wine vinegar
-ingredient12: <img src="/images/chiliflakes.jpeg"/>1/2 tsp red pepper flakes
+ingredient11: <a href="https://www.amazon.com/Pompeian-Gormet-Red-Wine-Vinegar/dp/B0004MUGNU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1484021751&sr=1-2&keywords=red+wine+vinegar&linkCode=ll1&tag=cilalime09-20&linkId=d2f57ac353a002f82248c67e11d50f17"><img src="/images/redwinevin.jpeg"/>3 tbsp red wine vinegar </a>
+ingredient12: <a href="https://www.amazon.com/Simply-Organic-Certified-1-59-Ounce-Container/dp/B000WS3AJ8/ref=as_li_ss_tl?ie=UTF8&qid=1484021714&sr=8-2&keywords=chili+flakes&linkCode=ll1&tag=cilalime09-20&linkId=2f3e9260a38745332d4652c7db348c81"><img src="/images/chiliflakes.jpeg"/>1/2 tsp red pepper flakes </a>
 
-equipment1: <a href=""><img src="/images/roastingpan.jpeg"/>roasting pan</a>
-equipment2: <a href=""><img src="/images/fine grater.jpeg"/>fine grater</a>
+equipment1: <a href="https://www.amazon.com/All-Clad-E752C264-Stainless-Dishwasher-Nonstick/dp/B0000DI4P6/ref=as_li_ss_tl?ie=UTF8&qid=1484021993&sr=8-1&keywords=all+clad+roasting+pan&linkCode=ll1&tag=cilalime09-20&linkId=8561c9af4137df8b925ec1d338e0ec98"><img src="/images/roastingpan.jpeg"/>roasting pan</a>
+equipment2: <a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1484022017&sr=1-2&keywords=microplane+grater&linkCode=ll1&tag=cilalime09-20&linkId=4f076c64d55d82b8fcf948a08fc7bfba"><img src="/images/fine grater.jpeg"/>fine grater</a>
 
 tags: [chicken, drumstick, greek]
 ---
