@@ -81,7 +81,7 @@ tags: [vietnamese, shrimp, seafood, soup]
 <div id="instruction">
 <div id="image"><img src="/images/photom7.jpeg"/> </div>
 <div id="step">Add the noodles to the broth and cook for an additional 7 minutes until tender.
-<p> After the noodles have cooked, add the shrimp to the stockpot and remove from heat.</div>
+<p> After the noodles have cooked, add the shrimp to the stockpot and remove from heat.</p></div>
 </div>
 
 <div id="instruction">
