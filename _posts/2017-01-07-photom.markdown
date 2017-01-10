@@ -67,14 +67,14 @@ tags: [vietnamese, shrimp, seafood, soup]
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/photom5.jpeg"/> </div>
+<div id="image"><img src="/images/photom5.jpeg"/></div>
 <div id="step"><i>While the broth simmers, prepare the vegetables.</i>
 <p> Finely slice the scallions. </p>
 <p> Remove the leaves of mint, cilantro, and basil from their stems. </p>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/photom6.jpeg"/> </div>
+<div id="image"><img src="/images/photom6.jpeg"/></div>
 <div id="step">After the onions and ginger have infused in the broth, use the fine mesh strainer to remove the onions, ginger and spices from the pot. </div>
 </div>
 
