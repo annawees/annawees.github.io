@@ -8,6 +8,15 @@ description: From Naples to Sicily, Melanzane alla Parmigiana, or Eggplant Parmi
 Stacks of eggplant meld with hand pulled mozzarella, rich tomato sauce, fresh basil, and savory parmesan cheese. 
 Paired with a rocket salad, this is the perfect Italian comfort food.
 
+time: 45 Minutes
+spice: Mild
+serves: Two
+calories: 710
+carbs: 41g
+fiber: 16g
+fat: 28g
+protein: 38g
+
 
 ingredient1: <img src="/images/mozzarella.jpeg"/> 8 oz fresh mozzarella 
 ingredient2: <img src="/images/parmesan.jpeg"/>2 oz parmigiano reggiano
@@ -25,14 +34,6 @@ equipment3: <a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon
 equipment4: <a href="https://www.amazon.com/Microplane-35009-Medium-Ribbon-Grater/dp/B00009WE3V/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482039177&sr=1-10&keywords=microplane&linkCode=ll1&tag=cilalime09-20&linkId=e0f7f0f676e7565f4b0f1ff0b4f8c1f6"><img src="/images/coarsegrater.jpeg"/>coarse grater </a>
 tags: [italian, vegetarian, cheese]
 ---
-time: 45 Minutes
-spice: Mild
-serves: Two
-calories: 710
-carbs: 41g
-fiber: 16g
-fat: 28g
-protein: 38g
 
 <div id="preparation">
 <h1>Preparation</h1>
