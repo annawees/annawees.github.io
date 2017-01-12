@@ -6,6 +6,14 @@ thumbnail: "/images/laablettucecups.jpg"
 video: "/images/laablettucecups.mp4"
 description: This addictive thai dish features spicy ground pork spiked with chiles, lime, fish sauce, basil, mint and cilantro a contrast in texture to crisp lettuce. The perfect lunch or dinner, this dish is healthy and flavorful.
 
+time: 25 Min
+spice: Hot
+serves: Two
+calories: 580
+carbs: 30g
+fat: 22g
+protein: 60g
+
 ingredient1: <img src="/images/groundpork.jpeg"/> 3/4 lb ground pork
 ingredient2: <img src="/images/bostonlettuce.jpeg"/>1 head of boston or iceburg lettuce
 ingredient3: <img src="/images/basil.jpeg"/>3 sprigs basil
