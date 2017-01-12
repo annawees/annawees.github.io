@@ -1,5 +1,7 @@
 ---
 layout: single
+title: Melanzane alla Parmigiana
+category: recipe
 
 
 time: 45 Minutes
