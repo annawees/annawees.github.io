@@ -1,87 +1,38 @@
 ---
 layout: single
-title: MELANZANE alla PARMIGIANA
+title: Melanzane alla Parmigiana
 category: recipe
 thumbnail: "/images/melanzaneallaparmigianamain.jpg"
+video: "/images/melanzaneallaparmigiana.mp4"
+description: From Naples to Sicily, Melanzane alla Parmigiana, or Eggplant Parmigiana, is a staple of southern Italy. 
+Stacks of eggplant meld with hand pulled mozzarella, rich tomato sauce, fresh basil, and savory parmesan cheese. 
+Paired with a rocket salad, this is the perfect Italian comfort food.
+
+time: 45 Minutes
+spice: Mild
+serves: Two
+calories: 710
+carbs: 41g
+fiber: 16g
+fat: 28g
+protein: 38g
+
+ingredient1: <img src="/images/mozzarella.jpeg"/> 8 oz fresh mozzarella 
+ingredient2: <img src="/images/parmesan.jpeg"/>2 oz parmigiano reggiano
+ingredient3: <img src="/images/eggplant.jpeg"/>1 1/2 lb eggplant
+ingredient4: <img src="/images/arugula.jpeg"/>3 oz arugula
+ingredient5: <img src="/images/basil.jpeg"/>3 sprigs basil
+ingredient6: <img src="/images/4garlic.jpeg"/>4 cloves of garlic
+ingredient7: <img src="/images/lemon.jpeg"/>1 lemon
+ingredient8: <a href="https://www.amazon.com/gp/product/B001SAWI38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001SAWI38&linkId=f50a9f64e07d6fe1dfa9c524415c9b72"><img src="/images/tomatopuree.png"/>2 cup pureed tomatoes</a>
+ingredient9: <a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=3eacf8e946e0323de7e947533f61f45f"><img src="/images/chiliflakes.jpeg"/>1/2 tsp chili flakes</a>
+
+equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
+equipment2: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/>baking sheet</a>
+equipment3: <a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a>
+equipment4: <a href="https://www.amazon.com/Microplane-35009-Medium-Ribbon-Grater/dp/B00009WE3V/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482039177&sr=1-10&keywords=microplane&linkCode=ll1&tag=cilalime09-20&linkId=e0f7f0f676e7565f4b0f1ff0b4f8c1f6"><img src="/images/coarsegrater.jpeg"/>coarse grater </a>
 tags: [italian, vegetarian, cheese]
 ---
-<div class="spacer"></div>
-
-<div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video" poster="/images/melanzaneallaparmigianamain.jpeg">
-  <source src="/images/melanzaneallaparmigiana.mp4" type="video/mp4"></video>
-</div>
-
-<div id="recipedescription">
-From Naples to Sicily, Melanzane alla Parmigiana, or Eggplant Parmigiana, is a staple of southern Italy. 
-Stacks of eggplant meld with hand pulled mozzarella, rich tomato sauce, fresh basil, and savory parmesan cheese. 
-Paired with a rocket salad, this is the perfect Italian comfort food. </div>
-
-<div id="spacer"></div>
-
-<div id= "recipedetails">
-<div id= "time"> Time </div>
-<div id= "spice"> Spice </div>
-<div id= "serves"> Serves </div>
-</div>
-
-<div id= "recipedetails">
-<div id= "time"><h3> 45 Minutes</h3> </div>
-<div id= "spice"><h3> Mild</h3> </div>
-<div id= "serves"><h3> Two </h3> </div>
-</div>
-
-<div id="spacer"></div>
-
-<div id= "nutrition">
-<div id="calories"> Calories </div>
-<div id="carbs"> Carbs </div>
-<div id="fiber"> Fiber </div>
-<div id="fat"> Fat </div>
-<div id="protein"> Protein </div>
-</div>
-
-<div id= "nutrition">
-<div id="calories"><h3> 710 </h3> </div>
-<div id="carbs"><h3> 41g</h3> </div>
-<div id="fiber"><h3> 16g</h3> </div>
-<div id="fat"><h3> 28g</h3> </div>
-<div id="protein"><h3> 38g</h3> </div>
-</div>
-
-<div id= "ingredienthdr">
-<h1>Ingredients</h1>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/mozzarella.jpeg"/> 8 oz fresh mozzarella </div>
-<div id="ingredienttwo"><img src="/images/parmesan.jpeg"/>2 oz parmigiano reggiano</div>
-<div id="ingredientthree"><img src="/images/eggplant.jpeg"/>1 1/2 lb eggplant</div>
-<div id="ingredientfour"><img src="/images/arugula.jpeg"/>3 oz arugula</div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><img src="/images/basil.jpeg"/>3 sprigs basil</div>
-<div id="ingredienttwo"><img src="/images/4garlic.jpeg"/>4 cloves of garlic</div>
-<div id="ingredientthree"><img src="/images/lemon.jpeg"/>1 lemon</div>
-<div id="ingredientfour"><a href="https://www.amazon.com/gp/product/B001SAWI38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001SAWI38&linkId=f50a9f64e07d6fe1dfa9c524415c9b72"><img src="/images/ingredients/tomatopuree.png"/>2 cup pureed tomatoes</a></div>
-</div>
-
-<div id="ingredients">
-<div id="ingredientone"><a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=3eacf8e946e0323de7e947533f61f45f"><img src="/images/chiliflakes.jpeg"/>1/2 tsp chili flakes</a></div>
-</div>
-
-<div id= "equipmenthdr">
-<h1>Equipment</h1>
-</div>
-
-<div id="equipment">
-<div id="equipmentone"><a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a></div>
-<div id="equipmenttwo"><a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/>baking sheet</a></div>
-<div id="equipmentthree"><a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a></div>
-<div id="equipmentfour"><a href="https://www.amazon.com/Microplane-35009-Medium-Ribbon-Grater/dp/B00009WE3V/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482039177&sr=1-10&keywords=microplane&linkCode=ll1&tag=cilalime09-20&linkId=e0f7f0f676e7565f4b0f1ff0b4f8c1f6"><img src="/images/coarsegrater.jpeg"/>coarse grater </a></div>
-</div>
-
 <div id="preparation">
 <h1>Preparation</h1>
 </div>
@@ -133,66 +84,3 @@ Paired with a rocket salad, this is the perfect Italian comfort food. </div>
 <div id="image"><img src="/images/melanzaneallaparmigiana8.jpeg"/> </div>
 <div id="step">Sprinkle the reserved small basil leaves over the eggplant stacks. Serve with the salad.</div>
 </div>
-
-<style>
-
-#spacer {padding-top: 25px;}
-
-#backgroundvideo {
-  position: absolute;
-  top: 80px;
-  left: 0;
-  right: 0;
-  width: 750px;
-}
-  
-#banner__video {
-    margin-left: -200px;
-    position: relative; }
-
-#overlay {
-   position: absolute; 
-   margin-top: 300px;
-   z-index: 10; }
-
-#recipedetails { width: 100%; display:inline-block; float: left;}
-#time { width: 30%; float: left; margin-left: 5%}
-#spice { width: 30%; float: left;}
-#serves { width 30%; float: left; margin-left: 5%;}
-.clear {clear:both;}
-
-#spacer {padding-top:50px;}
-
-#nutrition { width: 100%; display:inline-block;}
-#calories { width: 18%; float: left; margin-left: 5%;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-right:5%;}
-.clear {clear:both;}
-
-#ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
-
-#ingredients { width: 95%; display:inline-block;}
-#ingredientone { width: 20%; float:left;}
-#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
-#ingredientthree { width:20%; float:left; margin-left: 5%;}
-#ingredientfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
-
-#equipment { width: 95%; display:inline-block;}
-#equipmentone { width: 20%; float:left;}
-#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
-#equipmentthree { width:20%; float:left; margin-left: 5%;}
-#equipmentfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#preparation { margin-top: 150px; margin-bottom: 50px; font-family: $serif;}
-
-#instruction { width:95%; display:inline-block;}
-#image { width: 40%; float:left;}
-#step { width: 50%; float:right; margin-top: 30px; margin-bottom: 30px;}
-.clear {clear:both;}
-</style>
