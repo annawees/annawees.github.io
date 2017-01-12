@@ -2,7 +2,7 @@
 layout: single
 title: Melanzane alla Parmigiana
 category: recipe
-
+description:  Stacks of eggplant meld with hand pulled mozzarella, rich tomato sauce, fresh basil, and savory parmesan cheese. Paired with a rocket salad, this is the perfect Italian comfort food.
 
 time: 45 Minutes
 spice: Mild
