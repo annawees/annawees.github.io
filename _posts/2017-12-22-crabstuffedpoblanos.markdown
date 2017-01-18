@@ -2,7 +2,7 @@
 layout: single
 title: Crab Stuffed Poblanos
 category: recipe
-thumbnail: "/images/crabstuffedpoblanoshmain.jpg"
+thumbnail: "/images/crabstuffedpoblanos.jpg"
 video: 
 description: Charred poblanos are stuffed with crab tossed in spices and served with a decadent lime hollandaise.
 
