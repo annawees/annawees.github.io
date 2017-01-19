@@ -27,8 +27,10 @@
     <h1 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}"><img src="{{post.thumbnail}}" />{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% include tag-list.html %}
       {% else %}
         <a href="{{ post.url | absolute_url }}" rel="permalink"><img src="{{post.thumbnail}}" />{{ title }}</a>
+        {% include tag-list.html %}
       {% endif %}
     </h1>
     {% if post.read_time %}
