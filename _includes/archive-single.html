@@ -25,13 +25,17 @@
       </div>
     {% endif %}
     <h1 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}"><img src="{{post.thumbnail}}" />{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      <div class="posttitlearchive">
+        <a href="{{ post.url | absolute_url }}" rel="permalink">
+          <img src="{{post.thumbnail}}" />
+        </a>
+      </div>
+      <div class="posttitle">
+        {{ title }}
+      </div>
+      <div class="posttaglist">   
         {% include tag-list-archive.html %}
-      {% else %}
-        <a href="{{ post.url | absolute_url }}" rel="permalink"><img src="{{post.thumbnail}}" />{{ title }}</a>
-        {% include tag-list-archive.html %}
-      {% endif %}
+      </div>
     </h1>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
