@@ -44,6 +44,26 @@
   }
 }
 
+.posttitle {
+  margin-bottom: 0.25em;
+  font-family: $sans-serif;
+  font-size: 2em;
+  margin-top: .5em;
+  a + a {
+    opacity: 0.5;
+  }
+}
+
+.posttitle {
+  margin-bottom: 0.25em;
+  font-family: $sans-serif;
+  font-size: 2em;
+  margin-top: .5em;
+  a + a {
+    opacity: 0.5;
+  }
+}
+
 /*
 
 .archive__item:hover {
