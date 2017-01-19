@@ -54,11 +54,12 @@
   }
 }
 
-.posttitle {
+.posttaglist {
   margin-bottom: 0.25em;
   font-family: $sans-serif;
-  font-size: 2em;
+  font-size: 1em;
   margin-top: .5em;
+  color: grey;
   a + a {
     opacity: 0.5;
   }
