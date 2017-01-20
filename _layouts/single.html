@@ -135,6 +135,13 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+    
+    <form method="POST" action="https://api.staticman.net/v2/entry/annawees/annawees.github.io/gh-pages/comments">
+  <input name="options[redirect]" type="hidden" value="https://my-site.com">
+  <!-- e.g. "2016-01-02-this-is-a-post" -->
+  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+  <label><input name="fields[name]" type="text">Name</label>
+  <label><textarea name="fields[message]"></textarea>Comment</label>
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
@@ -157,14 +164,6 @@ layout: default
       {% include comments.html %}
     {% endif %}
   </article>
-
-<form method="POST" action="https://api.staticman.net/v2/entry/annawees/annawees.github.io/gh-pages/comments">
-  <input name="options[redirect]" type="hidden" value="https://my-site.com">
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text">Name</label>
-  <label><input name="fields[email]" type="email">E-mail</label>
-  <label><textarea name="fields[message]"></textarea>Comment</label>
   
   <button type="submit">Go!</button>
 </form>
