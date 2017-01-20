@@ -45,6 +45,10 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+   
+ .searchbar
+   float: right;
+   
 
   &--lg {
     padding-right: 2em;
