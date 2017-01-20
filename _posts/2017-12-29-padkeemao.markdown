@@ -3,6 +3,7 @@ layout: single
 title: Pad Kee Mao
 category: recipe
 thumbnail: "/images/padkeemao.jpg"
+comments: true
 
 description: Straight from the streets of Thailand, these spicy noodles with Thai Basil are known as drunken noodles because of their ability to cure any hangover.
 
