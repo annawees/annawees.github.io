@@ -10,7 +10,11 @@ time: 1 hr
 spice: Medium
 serves: Two
 
-calories:
+calories: 800
+carbs: 137g
+fiber: 38g
+fat: 12g
+protein: 41g
 
 ingredient1: <img src="/images/onion.jpeg"/> 1 onion
 ingredient2: <img src="/images/2thaichili.jpeg"/> 2 thai chilis
