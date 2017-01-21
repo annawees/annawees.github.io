@@ -3,7 +3,7 @@ layout: single
 title: Suanla Chaoshou
 category: recipe
 thumbnail: "/images/wontons.jpg"
-movie: "/images/wontons3.mp4"
+video: "/images/wontons3.mp4"
 
 description: These wontons from the Sichuan provence of China are packed with flavor. Served in a hot, sweet, and sour chili oil.
 
