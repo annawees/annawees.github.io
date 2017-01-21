@@ -19,12 +19,12 @@ ingredient1: <img src="/images/groundpork.jpeg"/> 1/2 lb ground pork
 ingredient2: <img src="/images/wontonwrappers.jpeg"/> 20 wonton wrappers
 ingredient3: <img src="/images/4scallions.jpeg"/> 4 scallions
 ingredient4: <img src="/images/8garlic.jpeg"/> 8 garlic cloves
-ingredient5: <img src="/images/sesameoil.jpeg"/> 4 tbsp sesameoil
-ingredient6: <img src="/images/tamari.jpeg"/> 4 tbsp soy sauce
+ingredient5: <a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?ie=UTF8&qid=1484971638&sr=8-3&keywords=sesame+oil&th=1&linkCode=ll1&tag=cilalime09-20&linkId=0e083f3ce71485ef7882a4bf4581f8e8"><img src="/images/sesameoil.jpeg"/> 4 tbsp sesame oil </a>
+ingredient6: <a href="https://www.amazon.com/Kikkoman-Sauce-64-Ounce-Bottle-Pack/dp/B00060OHZS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1484971672&sr=1-1&keywords=soy+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=03a2a9a0455a56fce2afebd3d58bfd96"><img src="/images/tamari.jpeg"/> 4 tbsp soy sauce </a>
 ingredient7: <a href="https://www.amazon.com/Nature-Nates-Unfiltered-Honey-Ounce/dp/B00CMQD3VS/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514747&sr=1-4&keywords=honey&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=cbd4b57085e2bd2426d9f7a9597d3ca5"><img src="/images/honey.jpeg"/> 2 tbsp honey</a>
-ingredient8: <img src="/images/chinkiang.jpeg"/> 1 tbsp chinkiang vinegar
+ingredient8: <a href="https://www.amazon.com/Gold-Plum-Chinkiang-Vinegar-18-6/dp/B00BUIKGU0/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1484971724&sr=1-1&keywords=chinkiang+vinegar&linkCode=ll1&tag=cilalime09-20&linkId=63fdf29a21fc35514188352209a41fc0"><img src="/images/chinkiang.jpeg"/> 1 tbsp chinkiang vinegar</a>
 ingredient9: <a href="https://www.amazon.com/SpiceCubed-Szechuan-Pepper-Tin/dp/B003X402U8/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1483843697&sr=1-2&keywords=szechuan+peppercorn&linkCode=ll1&tag=cilalime09-20&linkId=f793153b63b9561ef01f1515d7182cac"><img src="/images/szechuanpeppercorn.jpeg"/> 2 tbsp sichuan peppercorns</a>
-ingredient10: <img src="images/chiliflakes.jpeg"/> 2 tbsp chili flakes
+ingredient10: <a href= "https://www.amazon.com/Frontier-Peppers-Crushed-1-2-Ounce-Bottle/dp/B0001M11BE/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1484971802&sr=1-6&keywords=crushed+chili+flakes&linkCode=ll1&tag=cilalime09-20&linkId=97b51d78040034f3c29cdfb255143914"> <img src="images/chiliflakes.jpeg"/> 2 tbsp chili flakes </a>
 
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="images/stockpot.jpeg"/> stockpot </a>
 equipment2: <img src="images/finemeshstrainer.jpeg"/> fine mesh strainer
@@ -32,7 +32,7 @@ equipment2: <img src="images/finemeshstrainer.jpeg"/> fine mesh strainer
 tags: [chinese, sichuanese, pork, appetizer]
 ---
 
-div id="preparation">
+<div id="preparation">
 <h1>Preparation</h1>
 </div>
 
