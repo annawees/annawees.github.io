@@ -79,3 +79,8 @@ div id="preparation">
 <div id="image"><img src="/images/wontons7.jpeg"/> </div>
 <div id="step">By now, the water should be boiling. Gently add the wontons to the second pot of boiling water. Cook until tender, approx. 4 minutes. Use a spoon or spyder to gently transfer the wontons into a bowl.</div>
 </div>
+
+<div id="instruction">
+<div id="image"><img src="/images/wontons8.jpeg"/> </div>
+<div id="step">Coat the wontons with the chili oil and scatter the remaining scallions on top. </div>
+</div>
