@@ -54,21 +54,21 @@ tags: [vegetarian, indian, gluten free]
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/crabstuffedpoblanos4.jpeg"/> </div>
+<div id="image"><img src="/images/channamasala4.jpeg"/> </div>
 <div id="step">Coat the bottom of the stockpot with oil or butter and return to medium heat. Once the oil is hot, add the onions and sauté until they are tender.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/crabstuffedpoblanos5.jpeg"/> </div>
+<div id="image"><img src="/images/channamasala5.jpeg"/> </div>
 <div id="step">Add the chickpeas to the pot along with the curry paste. Cover the pot and cook for 20 minutes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/crabstuffedpoblanos6.jpeg"/> </div>
+<div id="image"><img src="/images/channamasala6.jpeg"/> </div>
 <div id="step">Add the tomato puree and cook for an additional 10 minutes.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/crabstuffedpoblanos7.jpeg"/> </div>
+<div id="image"><img src="/images/channamasala7.jpeg"/> </div>
 <div id="step">Serve the channa masala with cream. Accent the plate with cilantro leaves.</div>
 </div>
