@@ -1,0 +1,31 @@
+---
+layout: single
+title: Suanla Chaoshou
+category: recipe
+thumbnail: "/images/wontons.jpg"
+
+description: These wontons from the Sichuan provence of China are packed with flavor. Served in a hot, sweet, and sour chili oil.
+
+time: 45 Min
+spice: Hot
+serves: Two
+calories: 660
+carbs:
+fiber:
+fat:
+protein:
+
+ingredient1: 1/2 lb ground pork
+ingredient2: 20 wonton wrappers
+ingredient3: 4 scallions
+ingredient4: 4 tbsp sesame oil
+ingredient5: garlic cloves
+ingredient6: 2 tbsp sichuan peppercorns
+ingredient7: 2 tbsp soy
+ingredient8: 2 tbsp honey
+ingredient9: 1 tbsp chinkiang vinegar
+ingredient10: 2 tbsp chili flakes
+
+equipment1: stockpot
+equipment2: fine mesh strainer
+---
