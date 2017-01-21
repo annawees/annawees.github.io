@@ -29,7 +29,7 @@ ingredient10: 2 tbsp chili flakes
 equipment1: stockpot
 equipment2: fine mesh strainer
 
-tags: [chinese, sichuanese, pork, appetizer]
+tags: [chinese, sichuanese, pork]
 ---
 
 div id="preparation">
