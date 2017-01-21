@@ -15,19 +15,19 @@ fiber: 1g
 fat: 40g
 protein: 32g
 
-ingredient1: 1/2 lb ground pork
-ingredient2: 20 wonton wrappers
-ingredient3: 4 scallions
-ingredient4: 4 tbsp sesame oil
-ingredient5: 8 garlic cloves
-ingredient6: 2 tbsp sichuan peppercorns
-ingredient7: 2 tbsp soy
-ingredient8: 2 tbsp honey
-ingredient9: 1 tbsp chinkiang vinegar
-ingredient10: 2 tbsp chili flakes
+ingredient1: <img src="/images/groundpork.jpeg"/> 1/2 lb ground pork
+ingredient2: <img src="/images/wontonwrappers.jpeg"/> 20 wonton wrappers
+ingredient3: <img src="/images/4scallions.jpeg"/> 4 scallions
+ingredient4: <img src="/images/8garlic.jpeg"/> 8 garlic cloves
+ingredient5: <img src="/images/sesameoil.jpeg"/> 4 tbsp sesameoil
+ingredient6: <img src="/images/tamari.jpeg"/> 4 tbsp soy sauce
+ingredient7: <img src="/images/honey.jpeg"/> 2 tbsp honey
+ingredient8: <img src="/images/chinkiang.jpeg"/> 1 tbsp chinkiang vinegar
+ingredient9: <img src="/images/szechuanpeppercorn.jpeg"/> 2 tbsp sichuan peppercorns
+ingredient10: <img src="images/chiliflake.jpeg"/>2 tbsp chili flakes
 
-equipment1: stockpot
-equipment2: fine mesh strainer
+equipment1: <img src="images/stockpot.jpeg"/> stockpot
+equipment2: <img src="images/finemeshstrainer.jpeg"/> fine mesh strainer
 
 tags: [chinese, sichuanese, pork, appetizer]
 ---
