@@ -15,13 +15,11 @@ fiber: 1g
 fat: 40g
 protein: 32g
 
- Carbs: 58g | Fiber: 2g | Fat: 40g | Protein: 32g
-
 ingredient1: 1/2 lb ground pork
 ingredient2: 20 wonton wrappers
 ingredient3: 4 scallions
 ingredient4: 4 tbsp sesame oil
-ingredient5: garlic cloves
+ingredient5: 8 garlic cloves
 ingredient6: 2 tbsp sichuan peppercorns
 ingredient7: 2 tbsp soy
 ingredient8: 2 tbsp honey
