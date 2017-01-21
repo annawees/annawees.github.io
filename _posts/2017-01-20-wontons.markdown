@@ -6,14 +6,16 @@ thumbnail: "/images/wontons.jpg"
 
 description: These wontons from the Sichuan provence of China are packed with flavor. Served in a hot, sweet, and sour chili oil.
 
-time: 45 Min
+time: 40 Min
 spice: Hot
 serves: Two
 calories: 660
-carbs:
-fiber:
-fat:
-protein:
+carbs: 56g
+fiber: 1g
+fat: 40g
+protein: 32g
+
+ Carbs: 58g | Fiber: 2g | Fat: 40g | Protein: 32g
 
 ingredient1: 1/2 lb ground pork
 ingredient2: 20 wonton wrappers
@@ -28,4 +30,64 @@ ingredient10: 2 tbsp chili flakes
 
 equipment1: stockpot
 equipment2: fine mesh strainer
+
+tags: [chinese, sichuanese, pork, appetizer]
 ---
+
+div id="preparation">
+<h1>Preparation</h1>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/wontons1.jpeg"/> </div>
+<div id="step">Fill a stockpot full of water and place on high heat to boil.
+<p>Finely slice the scallions.</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/wontons2.jpeg"/> </div>
+<div id="step">Combine the ground pork, a 1/4 of the soy sauce and 2/3 of the scallions in a bowl.
+<p><i>Note: set the rest of the scallions aside, you'll use them for plating.</i></p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><video width="100%" autoplay loop muted class="banner__video">
+<source src="/images/wontons3.mp4" type="video/mp4"/> </video> </div>
+<div id="step">Fill a small bowl with water.
+<p>Lay the wontons on a clean surface, like a cutting board. Fill them with a small spoonful of the pork mixture. Dip your finger in the water and run it along the edge of the wonton.</p>
+<p>Fold one tip of the wonton wrapper across to meet the opposite tip to form a triangle.</p>
+<p>Pull the two corners of the newly formed triangle to meet, and seal with a little bit of water and a pinch. Set the wontons aside to rest.</p></div>
+
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padkeemao4.jpeg"/> </div>
+<div id="step">Assemble the sauce by combining the fish sauce, tamari, honey, and rice wine vinegar.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padkeemao5.jpeg"/> </div>
+<div id="step">By now, the water should be boiling. Add the noodles to the boiling water and reduce the heat to medium. Cook the noodles until tender, and then drain</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padkeemao6.jpeg"/> </div>
+<div id="step"><i>While the rice noodles are cooking,</i> heat a large skillet on medium heat. Add a small amount sesame oil to coat the pan. Once the pan is hot add the garlic, shallots, scallions and chiles and cook until the garlic and shallots begin to turn brown.</div>
+</div>
+
+
+<div id="instruction">
+<div id="image"><img src="/images/padkeemao7.jpeg"/> </div>
+<div id="step">Add the ground pork to the pan, along with a 1/4 of the tamari sauce made earlier. Sauté the pork until browned.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padkeemao8.jpeg"/> </div>
+<div id="step">Add the bell peppers and cook for an additional two minutes.
+<p> Add the cooked rice noodles with the remaining sauce and the chopped basil and scallions. Toss to ensure that the noodles and vegetables are coated with the tamari sauce</p></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padkeemao9.jpeg"/> </div>
+<div id="step">Plate the pad kee mao.</div>
+</div>
