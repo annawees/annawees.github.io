@@ -27,7 +27,7 @@ ingredient12: <img src="/images/yellowmustardseed.jpeg"/> 1 tsp yellow mustard s
 ingredient13: <img src="/images/cardamom.jpeg"/> 1 cardamom pod
 ingredient14: <img src="/images/cayenne.jpeg"/> 1/4 tsp cayenne
 ingredient15: <img src="/images/amchoor.jpeg"/> 1/4 tsp amchoor, dried mango powder
-ingredient15: <img src="/images/cream.jpeg"/> cream for garnish
+ingredient15: <img src="/images/heavycream.jpeg"/> cream for garnish
 
 equipment1: <img src="/images/stockpot.jpeg"/> stockpot
 equipment2: <img src="/images/blender.jpeg"/> blender
