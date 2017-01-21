@@ -29,7 +29,7 @@ ingredient10: 2 tbsp chili flakes
 equipment1: stockpot
 equipment2: fine mesh strainer
 
-tags: [chinese, sichuanese, pork]
+tags: [chinese, sichuanese, pork, appetizer]
 ---
 
 div id="preparation">
@@ -59,33 +59,23 @@ div id="preparation">
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao4.jpeg"/> </div>
-<div id="step">Assemble the sauce by combining the fish sauce, tamari, honey, and rice wine vinegar.</div>
+<div id="image"><img src="/images/wontons4.jpeg"/> </div>
+<div id="step">Place a skillet or small saucepan on high heat. Once the pan is hot add the sichuan peppercorns and toast them for 30 seconds.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao5.jpeg"/> </div>
-<div id="step">By now, the water should be boiling. Add the noodles to the boiling water and reduce the heat to medium. Cook the noodles until tender, and then drain</div>
+<div id="image"><img src="/images/wontons5.jpeg"/> </div>
+<div id="step">Add the sesame oil and garlic cloves to the toasted peppercorns and reduce the heat to medium. Cook until the garlic cloves are golden brown.</div>
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao6.jpeg"/> </div>
-<div id="step"><i>While the rice noodles are cooking,</i> heat a large skillet on medium heat. Add a small amount sesame oil to coat the pan. Once the pan is hot add the garlic, shallots, scallions and chiles and cook until the garlic and shallots begin to turn brown.</div>
+<div id="image"><img src="/images/wontons6.jpeg"/> </div>
+<div id="step">Set the fine mesh strainer over a measuring cup or bowl. Run the hot chili oil through the mesh strainer and discard the sichuan peppercorns and garlic.
+<p>Add the chili flakes, honey, chinkiang vinegar, and soy to the hot chili oil. Mix.</p></div>
 </div>
 
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao7.jpeg"/> </div>
-<div id="step">Add the ground pork to the pan, along with a 1/4 of the tamari sauce made earlier. Sauté the pork until browned.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao8.jpeg"/> </div>
-<div id="step">Add the bell peppers and cook for an additional two minutes.
-<p> Add the cooked rice noodles with the remaining sauce and the chopped basil and scallions. Toss to ensure that the noodles and vegetables are coated with the tamari sauce</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao9.jpeg"/> </div>
-<div id="step">Plate the pad kee mao.</div>
+<div id="image"><img src="/images/wontons7.jpeg"/> </div>
+<div id="step">By now, the water should be boiling. Gently add the wontons to the second pot of boiling water. Cook until tender, approx. 4 minutes. Use a spoon or spyder to gently transfer the wontons into a bowl.</div>
 </div>
