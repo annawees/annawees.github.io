@@ -1,10 +1,10 @@
 ---
 layout: single
-title: Channa Masala
+title: Chole Masala
 category: recipe
-thumbnail: "/images/channamasala.jpg"
+thumbnail: "/images/cholemasala.jpg"
 
-description:
+description: Chole masala is dominant dish in India, Pakistan and take out menus; and every home varies in the adaptation of this popular vegetarian dish. The chickpea dish can be served dry, or in a curry sauce, served at any time of the day, and can include chicken or potatoes. With each rendition, the essentials of the dish stay the same, chickpeas or *chole* simmered with tomatoes, onions and spices that are crave-worthy. While this recipe may not be traditional, it is delicious.
 
 time: 1 hr
 spice: Medium
@@ -26,6 +26,7 @@ ingredient11: <img src="/images/turmeric.jpeg"/> 1 tsp turmeric
 ingredient12: <img src="/images/yellowmustardseed.jpeg"/> 1 tsp yellow mustard seed
 ingredient13: <img src="/images/cardamom.jpeg"/> 1 cardamom pod
 ingredient14: <img src="/images/cayenne.jpeg"/> 1/4 tsp cayenne
+ingredient15: <img src="/images/amchoor.jpeg"/> 1/4 tsp amchoor, dried mango powder
 ingredient15: <img src="/images/cream.jpeg"/> cream for garnish
 
 equipment1: <img src="/images/stockpot.jpeg"/> stockpot
@@ -65,7 +66,7 @@ tags: [vegetarian, indian, gluten free]
 
 <div id="instruction">
 <div id="image"><img src="/images/channamasala6.jpeg"/> </div>
-<div id="step">Add the tomato puree and cook for an additional 10 minutes.</div>
+<div id="step">Add the tomato puree and amchoor,  and cook for an additional 10 minutes.</div>
 </div>
 
 <div id="instruction">
