@@ -24,7 +24,7 @@ ingredient6: <img src="/images/tamari.jpeg"/> 4 tbsp soy sauce
 ingredient7: <a href="https://www.amazon.com/Nature-Nates-Unfiltered-Honey-Ounce/dp/B00CMQD3VS/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514747&sr=1-4&keywords=honey&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=cbd4b57085e2bd2426d9f7a9597d3ca5"><img src="/images/honey.jpeg"/> 2 tbsp honey</a>
 ingredient8: <img src="/images/chinkiang.jpeg"/> 1 tbsp chinkiang vinegar
 ingredient9: <a href="https://www.amazon.com/SpiceCubed-Szechuan-Pepper-Tin/dp/B003X402U8/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1483843697&sr=1-2&keywords=szechuan+peppercorn&linkCode=ll1&tag=cilalime09-20&linkId=f793153b63b9561ef01f1515d7182cac"><img src="/images/szechuanpeppercorn.jpeg"/> 2 tbsp sichuan peppercorns</a>
-ingredient10: <img src="images/chiliflake.jpeg"/> 2 tbsp chili flakes
+ingredient10: <img src="images/chiliflakes.jpeg"/> 2 tbsp chili flakes
 
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="images/stockpot.jpeg"/> stockpot </a>
 equipment2: <img src="images/finemeshstrainer.jpeg"/> fine mesh strainer
