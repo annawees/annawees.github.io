@@ -27,7 +27,7 @@ ingredient9: <a href="https://www.amazon.com/SpiceCubed-Szechuan-Pepper-Tin/dp/B
 ingredient10: <a href= "https://www.amazon.com/Frontier-Peppers-Crushed-1-2-Ounce-Bottle/dp/B0001M11BE/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1484971802&sr=1-6&keywords=crushed+chili+flakes&linkCode=ll1&tag=cilalime09-20&linkId=97b51d78040034f3c29cdfb255143914"> <img src="images/chiliflakes.jpeg"/> 2 tbsp chili flakes </a>
 
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="images/stockpot.jpeg"/> stockpot </a>
-equipment2: <img src="images/finemeshstrainer.jpeg"/> fine mesh strainer
+equipment2: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1483981260&sr=1-5&keywords=baking+sheet&linkCode=ll1&tag=cilalime09-20&linkId=ccf04db21a82bb55b1ca904458b9ca3a"><img src="images/finemeshstrainer.jpeg"/> fine mesh strainer </a>
 
 tags: [chinese, sichuanese, pork, appetizer]
 ---
