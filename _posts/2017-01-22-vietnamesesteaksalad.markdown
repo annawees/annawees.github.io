@@ -35,3 +35,53 @@ equipment2: <a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp
 
 tags:  [vietnamese, steak, salad, beef]
 ---
+
+<div id="preparation">
+<h1>Preparation</h1>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/vietsalad1.jpeg"/> </div>
+<div id="step"></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/padkeemao2.jpeg"/> </div>
+<div id="step"></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/vietsalad3.jpeg"/> </div>
+<div id="step"></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/vietsalad4.jpeg"/> </div>
+<div id="step"></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/vietsalad5.jpeg"/> </div>
+<div id="step"></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/vietsalad6.jpeg"/> </div>
+<div id="step"></div>
+</div>
+
+
+<div id="instruction">
+<div id="image"><img src="/images/vietsalad7.jpeg"/> </div>
+<div id="step"></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/vietsalad8.jpeg"/> </div>
+<div id="step"></div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/vietsalad9.jpeg"/> </div>
+<div id="step"></div>
+</div>
