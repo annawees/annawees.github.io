@@ -31,7 +31,7 @@ ingredient11: <a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Exp
 ingredient12: <a href="https://www.amazon.com/Huy-Fong-Chili-Sauce-Sriracha/dp/B0014CSG5Y/ref=as_li_ss_tl?ie=UTF8&qid=1485112531&sr=1-2&keywords=sriracha&linkCode=ll1&tag=cilalime09-20&linkId=853866a7ea7917dd976cf9c214313301"><img src="/images/sriracha.jpeg"/> sriracha for serving </a>
 
 equipment1: <a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?ie=UTF8&qid=1485112647&sr=8-16&keywords=yellow+citrus+juicer&linkCode=ll1&tag=cilalime09-20&linkId=021946d7242f0d3b21bd554c7a0f067d"><img src="/images/citrusjuicer.jpeg"/> citrus juicer </a>
-equipment2: <a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B001BCFTWU/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485112707&sr=1-1&keywords=kuhn+rikon+peeler&linkCode=ll1&tag=cilalime09-20&linkId=19d63dbc2c696a2de896b831996f4c22"><img src="/images/peeler.jpeg"/> vegetable peeler </a>
+equipment2: <a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B001BCFTWU/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485112707&sr=1-1&keywords=kuhn+rikon+peeler&linkCode=ll1&tag=cilalime09-20&linkId=19d63dbc2c696a2de896b831996f4c22"><img src="/images/vegetablepeeler.jpeg"/> vegetable peeler </a>
 
 tags:  [vietnamese, steak, salad, beef]
 ---
