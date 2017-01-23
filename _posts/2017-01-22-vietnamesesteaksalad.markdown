@@ -46,7 +46,7 @@ tags:  [vietnamese, steak, salad, beef]
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/padkeemao2.jpeg"/> </div>
+<div id="image"><img src="/images/vietsalad2.jpeg"/> </div>
 <div id="step"></div>
 </div>
 
