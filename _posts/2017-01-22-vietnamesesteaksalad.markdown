@@ -42,46 +42,52 @@ tags:  [vietnamese, steak, salad, beef]
 
 <div id="instruction">
 <div id="image"><img src="/images/vietsalad1.jpeg"/> </div>
-<div id="step"></div>
+<div id="step">In a bowl, combine the fish sauce, rice wine vinegar, and honey. Squeeze the juice of 2 limes into the bowl and stir.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/vietsalad2.jpeg"/> </div>
-<div id="step"></div>
+<div id="step">Use half of this mixture to marinate the steak, and the other half for the vinagerette. 
+<p><i>You will need to marinate the steak for at least 15 minutes.</i></p></div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/vietsalad3.jpeg"/> </div>
-<div id="step"></div>
+<div id="step"><i>? While the steak marinates, prepare the salad.</i> Lay the cucumber on the cutting board. Then run a vegetable peeler along the cucumber to create thin pasta like ribbons.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/vietsalad4.jpeg"/> </div>
-<div id="step"></div>
+<div id="step">Lay the carrot on the cutting board. Then run a vegetable peeler along the carrot to create thin pasta like ribbons.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/vietsalad5.jpeg"/> </div>
-<div id="step"></div>
+<div id="step">Finely slice the radishes.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/vietsalad6.jpeg"/> </div>
-<div id="step"></div>
+<div id="step">Finely slice the scallions. Remove the leaves of cilantro from their stems.</div>
 </div>
 
 
 <div id="instruction">
 <div id="image"><img src="/images/vietsalad7.jpeg"/> </div>
-<div id="step"></div>
+<div id="step">Heat a skillet on medium high heat and add the sesame oil. Once the oil is hot, remove the steak from the marinade and shake off any extra liquid. Cook the steak for 4-6 minutes on each side. Sear the narrow sides of the steak giving the exterior a nice char.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/vietsalad8.jpeg"/> </div>
-<div id="step"></div>
+<div id="step">Set the steak on a cutting board to rest for 5 minutes before slicing thinly.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/vietsalad9.jpeg"/> </div>
-<div id="step"></div>
+<div id="step">Toss the cucumber, carrots, scallions, radishes, and cilantro with the remaining vinagrette.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/vietsalad10.jpeg"/> </div>
+<div id="step">Lay the slices of beef on top of the salad. Serve with sriracha.</div>
 </div>
