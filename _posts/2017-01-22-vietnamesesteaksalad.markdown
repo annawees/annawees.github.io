@@ -2,7 +2,7 @@
 layout: single
 title: Vietnamese Steak Salad
 category: recipe
-thumbnail: "/images/vietsalad.jpg"
+thumbnail: "/images/vietsalad.JPG"
 video: "/images/vietsalad.mp4"
 comments: true
 
