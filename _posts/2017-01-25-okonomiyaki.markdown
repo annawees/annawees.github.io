@@ -20,9 +20,9 @@ ingredient2: <img src="/images/napacabbage.jpeg"/> 2 lbs napa cabbage
 ingredient3: <img src="/images/egg.jpeg"/> 2 eggs
 ingredient4: <img src="/images/2scallions.jpeg"/> 2 scallions
 ingredient5: <img src="/images/taro.jpeg"/> 2 inches namaimo or taro root
-ingredient6: <a href=""><img src="/images/flour.jpeg"/> 1/2 cup all purpose flour </a>
-ingredient7: <a href=""><img src="/images/bakingpowder.jpeg"/> 1/4 tsp baking powder</a>
-ingredient8: <a href=""><img src="/images/mayo.jpeg"/> mayo for serving</a>
+ingredient6: <img src="/images/flour.jpeg"/> 1/2 cup all purpose flour
+ingredient7: <a href="https://www.amazon.com/Argo-Baking-Powder-12-oz/dp/B00N9TX628/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485401087&sr=1-3&keywords=baking+powder&th=1&linkCode=ll1&tag=cilalime09-20&linkId=34bbfadefcdccd9e979fdca3eed86b0a"><img src="/images/bakingpowder.jpeg"/> 1/4 tsp baking powder</a>
+ingredient8: <a href="https://www.amazon.com/Dukes-Mayonnaise-32-ounce-Jar-Pack/dp/B009VMEP2M/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1485401034&sr=1-1&keywords=dukes+mayo&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=1bd18af435517469cf87936d7efcd42f"><img src="/images/mayo.jpeg"/> mayo for serving</a>
 ingredient9: <a href="https://www.amazon.com/Okonomi-Sauce-17-6oz-by-Otafuku/dp/B00886NJP6/ref=as_li_ss_tl?ie=UTF8&qid=1485398126&sr=8-1-spell&keywords=otinomiyaki+sauce&linkCode=ll1&tag=cilalime09-20&linkId=f92c2fc1624a8a9fe943b33c519d8eec"><img src="/images/okonomi.jpeg"/> okonomi sauce for serving</a>
 ingredient10: <a href="https://www.amazon.com/Kaneso-Tokuyou-Hanakatsuo-Bonito-Flakes/dp/B0052BGLMS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485400946&sr=1-1&keywords=bonito+flakes&linkCode=ll1&tag=cilalime09-20&linkId=741da6f8d114a08c425c75f0887e62aa"/> <img src="/images/bonito.jpeg"/> bonito flakes for serving
 
