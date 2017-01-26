@@ -28,6 +28,45 @@ ingredient10: <a href="https://www.amazon.com/Kaneso-Tokuyou-Hanakatsuo-Bonito-F
 
 equipment: <a href="https://www.amazon.com/Kuhn-Rikon-10-Inch-Balloon-Whisk/dp/B0000CFIS9/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485400868&sr=1-6&keywords=kuhn+rikon+whisk&linkCode=ll1&tag=cilalime09-20&linkId=30a4dbfaf58fd6a854c9b5cc6ab6fba6"><img src="/images/whisk.jpeg"/>whisk</a>
 equipment2: <a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485400844&sr=1-3&keywords=microplane+grater&linkCode=ll1&tag=cilalime09-20&linkId=1452bb3cea23c505bd2dc5f23e35d38f"><img src="/images/finegrater.jpeg"/>fine grater</a>
-
+equipment3: <a href=""><img src="/images/vegetablepeeler.jpeg"/> vegetable peeler </a>
 tags: [japanese, street food, pork, bacon]
 ---
+
+<div id="preparation">
+<h1>Preparation</h1>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/okonomiyaki1.jpeg"/> </div>
+<div id="step"> Place the flour, baking powder, and 1/4 tsp of salt in a large bowl and stir to combine.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/okonomiyaki2.jpeg"/> </div>
+<div id="step"> Peel the namaimo/taro root.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/okonomiyaki3.jpeg"/> </div>
+<div id="step"> Grate the namaimo/taro root into the bowl of flour. </div>
+</div>
+
+<div id="instruction">
+<div id="image"> <img src="/images/okonomiyaki4.jpeg"/></div>
+<div id="step"> Grate the namaimo/taro root into the bowl of flour. Mix, and place in the fridge for an hour to rest.</div>
+</div>
+
+<div id="instruction">
+<div id="image"> <img src="/images/okonomiyaki5.jpeg"/> </div>
+<div id="step"> Grate the namaimo/taro root into the bowl of flour. Mix, and place in the fridge for an hour to rest.</div>
+</div>
+
+<div id="instruction">
+<div id="image"> <img src="/images/okonomiyaki5.jpeg"/> </div>
+<div id="step"><i> During the dough rest, </i> finely slice the napa cabbage. </div>
+</div>
+
+<div id="instruction">
+<div id="image"> <img src="/images/okonomiyaki6.jpeg"/> </div>
+<div id="step"><i>After the dough has rested, </i> remove the dough from the fridge and whisk in the two eggs.</div>
+</div>
