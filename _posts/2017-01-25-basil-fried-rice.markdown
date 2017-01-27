@@ -59,23 +59,27 @@ tags: [crab, shrimp, thai, seafood, shellfish]
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice6.jpeg"/> </div>
-<div id="step">Coat the bottom of a sauté or skillet with sesame oil and place on medium high heat. <i>(don't use all of it, you'll need it for later steps!)</i> Once the oil is hot add the garlic and thai chiles. </div>
+<div id="step">Coat the bottom of a sauté or skillet with sesame oil and place on mhigh heat. <i>(don't use all of it, you'll need it for later steps!)</i> Once the oil is hot add the garlic and thai chiles. </div>
 </div>
 
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice7.jpeg"/> </div>
-<div id="step">Add the ground pork to the pan, along with a 1/4 of the tamari sauce made earlier. Sauté the pork until browned.</div>
+<div id="step">Once the garlic has browned, add the peas, shrimp, and crab and sauté for 2 minutes.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice8.jpeg"/> </div>
-<div id="step">Add the bell peppers and cook for an additional two minutes.
-<p> Add the cooked rice noodles with the remaining sauce and the chopped basil and scallions. Toss to ensure that the noodles and vegetables are coated with the tamari sauce</p></div>
+<div id="step">Add the rice, a little more oil, fish sauce, honey and large basil leaves to the pan. Sauté until the rice absorbs all of the sauce, and the rice starts to develop a crunchy texture on the bottom of the pan.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice9.jpeg"/> </div>
-<div id="step">Plate the pad kee mao.</div>
+<div id="step">While the rice cooks, cook the eggs. Add the remaining sesame oil to a skillet and place on high heat. Once the oil is hot, crack the eggs into the pan. Reduce the heat to medium and cook until the white is set, approx. 3 minutes.</div>
+</div>
+
+<div id="instruction">
+<div id="image"><img src="/images/basilfriedrice10.jpeg"/> </div>
+<div id="step">Plate the fried rice. Accent with the small basil leaves and lay the fried egg on top.</div>
 </div>
 
