@@ -13,17 +13,17 @@ calories:
 
 ingredient1: <img src="/images/crabmeat.jpeg"/> 1/2 lb picked crab meat
 ingredient2: <img src="/images/shrimp.jpeg"/> 1/4 lb shrimp
-ingredient: <img src="/images/egg.jpeg"/> 2 eggs
-ingredient: <img src="/images/peas.jpeg"/> 1/4 lb peas
-ingredient: <img src="/images/basil.jpeg"/> 5 sprigs basil
-ingredient: <img src="/images/3thaichili.jpeg"/> 3 thai chilis
-ingredient: <img src="/images/4garlic.jpeg"/> 4 garlic cloves
-ingredient: <img src="/images/jasminerice.jpeg"/> 1/2 c jasmine rice
-ingredient: <img src="/images/honey.jpeg"/> 2 tbsp honey
-ingredient: <img src="/images/sesameoil.jpeg"/> 3 tbsp sesame oil
-ingredient: <img src="/images/fishsauce.jpeg"/> 4 tbsp fish sauce
+ingredient3: <img src="/images/egg.jpeg"/> 2 eggs
+ingredient4: <img src="/images/peas.jpeg"/> 1/4 lb peas
+ingredient5: <img src="/images/basil.jpeg"/> 5 sprigs basil
+ingredient6: <img src="/images/3thaichili.jpeg"/> 3 thai chilis
+ingredient7: <img src="/images/4garlic.jpeg"/> 4 garlic cloves
+ingredient8: <a href="https://www.amazon.com/Lundberg-California-White-Jasmine-Ounce/dp/B000VHJG3E/ref=as_li_ss_tl?ie=UTF8&qid=1485543729&sr=1-1&keywords=jasmine+rice&linkCode=ll1&tag=cilalime09-20&linkId=32083d81d29611ec57c95bb2515d7fdd"> <img src="/images/jasminerice.jpeg"/> 1/2 c jasmine rice </a>
+ingredient9: <a href="https://www.amazon.com/Nature-Nates-Unfiltered-Honey-Ounce/dp/B00CMQD3VS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485543700&sr=1-4&keywords=honey&th=1&linkCode=ll1&tag=cilalime09-20&linkId=59f57d9a8b40cca5e07417cfc842e719"><img src="/images/honey.jpeg"/> 2 tbsp honey </a>
+ingredient10: <a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-16-9/dp/B00MHTF80O/ref=as_li_ss_tl?ie=UTF8&qid=1485543666&sr=1-7&keywords=sesame+oil&linkCode=ll1&tag=cilalime09-20&linkId=0a563ab46b5ee3ca5dbce8c82fce9f5f"><img src="/images/sesameoil.jpeg"/> 3 tbsp sesame oil </a>
+ingredient11: <a href="https://www.amazon.com/Red-Boat-Premium-Fish-Sauce/dp/B00B617XK2/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485543636&sr=1-1&keywords=fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=eb3af06923e71764245966b47447ca1b"><img src="/images/fishsauce.jpeg"/> 4 tbsp fish sauce </a>
 
-tags: [crab, shrimp, thai, seafood, shellfish]
+tags: [crab, shrimp, thai, seafood, shellfish, rice]
 ---
 
 <div id="preparation">
