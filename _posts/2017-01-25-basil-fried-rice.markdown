@@ -9,7 +9,11 @@ description: You'll find cfried rice served in the restaurants of Yaowarat, the 
 time: 45 Minutes
 spice: Medium
 serves: Two
-calories:
+calories: 590
+carbs: 45g
+fiber: 3g
+fat: 27g
+protein: 40g
 
 ingredient1: <img src="/images/crabmeat.jpeg"/> 1/2 lb picked crab meat
 ingredient2: <img src="/images/shrimp.jpeg"/> 1/4 lb shrimp
