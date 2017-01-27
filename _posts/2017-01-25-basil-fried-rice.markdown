@@ -49,17 +49,17 @@ tags: [crab, shrimp, thai, seafood, shellfish]
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice4.jpeg"/> </div>
-<div id="step">Assemble the sauce by combining the fish sauce, tamari, honey, and rice wine vinegar.</div>
+<div id="step">Dice the garlic. Finely slice the thai chiles.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice5.jpeg"/> </div>
-<div id="step">By now, the water should be boiling. Add the noodles to the boiling water and reduce the heat to medium. Cook the noodles until tender, and then drain</div>
+<div id="step">Remove the basil leaves from the stem. Seperate the leaves into two groups; large leaves to add to the fried rice, and small leaves to use for plating.</div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice6.jpeg"/> </div>
-<div id="step"><i>While the rice noodles are cooking,</i> heat a large skillet on medium heat. Add a small amount sesame oil to coat the pan. Once the pan is hot add the garlic, shallots, scallions and chiles and cook until the garlic and shallots begin to turn brown.</div>
+<div id="step">Coat the bottom of a sauté or skillet with sesame oil and place on medium high heat. <i>(don't use all of it, you'll need it for later steps!)</i> Once the oil is hot add the garlic and thai chiles. </div>
 </div>
 
 
