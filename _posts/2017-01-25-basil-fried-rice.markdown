@@ -6,6 +6,9 @@ thumbnail: "/images/basilfriedrice.jpg"
 
 description: You'll find cfried rice served in the restaurants of Yaowarat, the Chinese section of Bangkok. Freshly picked crab, shrimp and fragrant jasmine rice are fried with fresh peas, and basil and topped with a fried egg.
 
+time: 45 Minutes
+spice: Medium
+serves: Two
 calories:
 
 ingredient1: <img src="/images/crabmeat.jpeg"/> 1/2 lb picked crab meat
@@ -29,22 +32,19 @@ tags: [crab, shrimp, thai, seafood, shellfish]
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice1.jpeg"/> </div>
-<div id="step">Set a large stockpot on high heat to boil the noodles.
-<p> Cut the bell peppers into bite size pieces. </p></div>
+<div id="step">Set a saucepan on high heat. Add 2/3 cup of water with 1/4 tsp of salt.
+<p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain the rice. Add more water, swish again, and drain the rice. Repeat swishing and draining one more time.</p></div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice2.jpeg"/> </div>
-<div id="step">Remove the basil leaves from their stem
-<p> Finely slice the scallions and basil. </p></div>
+<div id="step">Once the water has come to a boil add the washed rice, cover, and cook for 15 minutes.
+<p>After the rice has cooked remove the rice from heat. Keep the rice covered for 5 minutes to allow all the water to fully absorb into the grains of rice.</p></div>
 </div>
 
 <div id="instruction">
 <div id="image"><img src="/images/basilfriedrice3.jpeg"/> </div>
-<div id="step">Finely slice the shallots.
-<p> Dice the garlic </p>
-<p> Finely slice the thai chilis.</p>
-<p><i>Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible.</i></p></div>
+<div id="step">Spread the rice out on a baking sheet or plate to let the rice dry before frying.</div>
 </div>
 
 <div id="instruction">
