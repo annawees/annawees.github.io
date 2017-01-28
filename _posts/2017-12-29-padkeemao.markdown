@@ -49,6 +49,10 @@ step4: Assemble the sauce by combining the fish sauce, tamari, honey, and rice w
 image5: <img src="/images/padkeemao5.jpeg"/>
 step5: By now, the water should be boiling. Add the noodles to the boiling water and reduce the heat to medium. Cook the noodles until tender, and then drain.
 
+
+tags: [thai, pork, ground pork, noodles]
+---
+
 image6: <img src="/images/padkeemao6.jpeg"/>
 step6: <i>While the rice noodles are cooking,</i> heat a large skillet on medium heat. Add a small amount sesame oil to coat the pan. Once the pan is hot add the garlic, shallots, scallions and chiles and cook until the garlic and shallots begin to turn brown.
 
@@ -60,6 +64,3 @@ step8: Add the bell peppers and cook for an additional two minutes.<p> Add the c
 
 image9: <img src="/images/padkeemao9.jpeg"/> 
 step9: Plate the pad kee mao.
-
-tags: [thai, pork, ground pork, noodles]
----
