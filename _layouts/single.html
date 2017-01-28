@@ -136,6 +136,11 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
     
+      <div id="instruction1">
+        <div id="image1">{{page.image1}} </div>
+        <div id="step1">{{page.step1}}</div>
+        </div>
+    
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
