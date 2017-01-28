@@ -41,7 +41,7 @@ image2: <img src="/images/padkeemao2.jpeg"/>
 step2: Remove the basil leaves from their stem. <p> Finely slice the scallions and basil. </p>
 
 image3: <img src="/images/padkeemao3.jpeg"/>
-step3: Finely slice the shallots. Dice the garlic. Finely slice the thai chilis. <p> <i> Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible. </i> </p>
+step3: Finely slice the shallots. Dice the garlic. Finely slice the thai chilis. <p> Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible. </p>
 
 image4: <img src="/images/padkeemao4.jpeg"/>
 step4: Assemble the sauce by combining the fish sauce, tamari, honey, and rice wine vinegar.
