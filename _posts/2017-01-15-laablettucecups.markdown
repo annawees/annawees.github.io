@@ -34,14 +34,6 @@ equipment1: <a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon
 tags: [thai, pork, ground pork]
 ---
 
-time: 45 Minutes
-spice: Mild
-serves: Two
-calories: 710
-carbs: 41g
-fiber: 16g
-fat: 28g
-protein: 38g
 <div id="preparation"><h1>Preparation</h1></div>
   
 <div id="instruction">
