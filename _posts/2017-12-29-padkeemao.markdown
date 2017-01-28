@@ -40,61 +40,30 @@ step1: Set a large stockpot on high heat to boil the noodles.<p> Cut the bell pe
 image2: <img src="/images/padkeemao2.jpeg"/>
 step2: Remove the basil leaves from their stem. <p> Finely slice the scallions and basil. </p>
 
-tags: [thai, pork, ground pork, noodles]
----
-
-<div id="preparation">
-<h1>Preparation</h1>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao1.jpeg"/> </div>
-<div id="step">Set a large stockpot on high heat to boil the noodles.
-<p> Cut the bell peppers into bite size pieces. </p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao2.jpeg"/> </div>
-<div id="step">Remove the basil leaves from their stem
-<p> Finely slice the scallions and basil. </p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao3.jpeg"/> </div>
-<div id="step">Finely slice the shallots.
+image3: <img src="/images/padkeemao3.jpeg"/>
+step3: Finely slice the shallots.
 <p> Dice the garlic </p>
 <p> Finely slice the thai chilis.</p>
-<p><i>Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible.</i></p></div>
-</div>
+<p><i>Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible.</i></p>
 
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao4.jpeg"/> </div>
-<div id="step">Assemble the sauce by combining the fish sauce, tamari, honey, and rice wine vinegar.</div>
-</div>
+image4: <img src="/images/padkeemao4.jpeg"/>
+step4: Assemble the sauce by combining the fish sauce, tamari, honey, and rice wine vinegar.
 
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao5.jpeg"/> </div>
-<div id="step">By now, the water should be boiling. Add the noodles to the boiling water and reduce the heat to medium. Cook the noodles until tender, and then drain</div>
-</div>
+image5: <img src="/images/padkeemao5.jpeg"/>
+step5: By now, the water should be boiling. Add the noodles to the boiling water and reduce the heat to medium. Cook the noodles until tender, and then drain.
 
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao6.jpeg"/> </div>
-<div id="step"><i>While the rice noodles are cooking,</i> heat a large skillet on medium heat. Add a small amount sesame oil to coat the pan. Once the pan is hot add the garlic, shallots, scallions and chiles and cook until the garlic and shallots begin to turn brown.</div>
-</div>
+image6: <img src="/images/padkeemao6.jpeg"/>
+step6: <i>While the rice noodles are cooking,</i> heat a large skillet on medium heat. Add a small amount sesame oil to coat the pan. Once the pan is hot add the garlic, shallots, scallions and chiles and cook until the garlic and shallots begin to turn brown.
 
+image7: <img src="/images/padkeemao7.jpeg"/>
+step7: Add the ground pork to the pan, along with a 1/4 of the tamari sauce made earlier. Sauté the pork until browned.
 
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao7.jpeg"/> </div>
-<div id="step">Add the ground pork to the pan, along with a 1/4 of the tamari sauce made earlier. Sauté the pork until browned.</div>
-</div>
+image8: <img src="/images/padkeemao8.jpeg"/>
+step8: Add the bell peppers and cook for an additional two minutes.
+<p> Add the cooked rice noodles with the remaining sauce and the chopped basil and scallions. Toss to ensure that the noodles and vegetables are coated with the tamari sauce</p>
 
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao8.jpeg"/> </div>
-<div id="step">Add the bell peppers and cook for an additional two minutes.
-<p> Add the cooked rice noodles with the remaining sauce and the chopped basil and scallions. Toss to ensure that the noodles and vegetables are coated with the tamari sauce</p></div>
-</div>
+image9: <img src="/images/padkeemao9.jpeg"/> 
+step9: Plate the pad kee mao.
 
-<div id="instruction">
-<div id="image"><img src="/images/padkeemao9.jpeg"/> </div>
-<div id="step">Plate the pad kee mao.</div>
-</div>
+tags: [thai, pork, ground pork, noodles]
+---
