@@ -40,6 +40,9 @@ step1: Set a large stockpot on high heat to boil the noodles.<p> Cut the bell pe
 image2: <img src="/images/padkeemao2.jpeg"/>
 step2: Remove the basil leaves from their stem. <p> Finely slice the scallions and basil. </p>
 
+image3: <img src="/images/padkeemao3.jpeg"/>
+step3: Finely slice the shallots. Dice the garlic.Finely slice the thai chilis. Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible.
+
 image4: <img src="/images/padkeemao4.jpeg"/>
 step4: Assemble the sauce by combining the fish sauce, tamari, honey, and rice wine vinegar.
 
@@ -60,6 +63,3 @@ step9: Plate the pad kee mao.
 
 tags: [thai, pork, ground pork, noodles]
 ---
-
-image3: <img src="/images/padkeemao3.jpeg"/>
-step3: Finely slice the shallots.<p> Dice the garlic </p> <p> Finely slice the thai chilis.</p> <p><i>Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible.</i></p>
