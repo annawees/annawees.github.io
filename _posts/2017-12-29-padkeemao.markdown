@@ -37,6 +37,9 @@ equipment2: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless
 image1: <img src="/images/padkeemao1.jpeg"/>
 step1: Set a large stockpot on high heat to boil the noodles.<p> Cut the bell peppers into bite size pieces. </p>
 
+image2: <img src="/images/padkeemao2.jpeg"/>
+step2: Remove the basil leaves from their stem. <p> Finely slice the scallions and basil. </p>
+
 tags: [thai, pork, ground pork, noodles]
 ---
 
