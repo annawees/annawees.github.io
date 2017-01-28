@@ -43,15 +43,13 @@ step2: Remove the basil leaves from their stem. <p> Finely slice the scallions a
 image3: <img src="/images/padkeemao3.jpeg"/>
 step3: Finely slice the shallots.<p> Dice the garlic </p> <p> Finely slice the thai chilis.</p> <p><i>Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible.</i></p>
 
+tags: [thai, pork, ground pork, noodles]
+---
 image4: <img src="/images/padkeemao4.jpeg"/>
 step4: Assemble the sauce by combining the fish sauce, tamari, honey, and rice wine vinegar.
 
 image5: <img src="/images/padkeemao5.jpeg"/>
 step5: By now, the water should be boiling. Add the noodles to the boiling water and reduce the heat to medium. Cook the noodles until tender, and then drain.
-
-
-tags: [thai, pork, ground pork, noodles]
----
 
 image6: <img src="/images/padkeemao6.jpeg"/>
 step6: <i>While the rice noodles are cooking,</i> heat a large skillet on medium heat. Add a small amount sesame oil to coat the pan. Once the pan is hot add the garlic, shallots, scallions and chiles and cook until the garlic and shallots begin to turn brown.
