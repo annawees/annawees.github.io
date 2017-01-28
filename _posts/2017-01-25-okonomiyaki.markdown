@@ -9,11 +9,11 @@ description: Okonomiyaki is the street food of Osaka. In this industrial city of
 time: 30 Min + 1 Hr Rest
 spice: Mild
 serves: Two
-calories:
-carbs:
-fiber:
-fat:
-protein:
+calories: 500
+carbs: 32g
+fiber: 2g
+fat: 26g
+protein: 20g
 
 ingredient1: <img src="/images/bacon.jpeg"/> 6 slices bacon
 ingredient2: <img src="/images/napacabbage.jpeg"/> 2 lbs napa cabbage
