@@ -73,12 +73,13 @@ tags: [japanese, street food, pork, bacon]
 
 <div id="instruction">
 <div id="image"> <img src="/images/okonomiyaki8.jpeg"/> </div>
-<div id="step">Coat the bottom of the skillet with the sesame oil and place on medium high heat. Once the oil is hot, add the batter </div>
+<div id="step">Coat the bottom of the skillet with the sesame oil and place on medium high heat. Once the oil is hot, add the batter <i> (you'll have enough batter to make 2-3 okonomiyakis) </i> and cook until the bottom is crispy and releases easily when touched by a spatula.  </div>
 </div>
 
 <div id="instruction">
 <div id="image"> <img src="/images/okonomiyaki9.jpeg"/> </div>
-<div id="step">Coat the bottom of the skillet with the sesame oil and place on medium high heat. Once the oil is hot, add the </div>
+<div id="step">Cut the bacon to fit the top of the okonomiyaki, and lay the bacon slices on top. Use s spatuala to flip the okonomiyaki over and reduce the heat to medium until the bacon is crispy and the pancake has cooked all the way through.
+<p>Continue making okonomiyakis with any remaining batter. </p></div>
 </div>
 
 <div id="instruction">
