@@ -41,10 +41,7 @@ image2: <img src="/images/padkeemao2.jpeg"/>
 step2: Remove the basil leaves from their stem. <p> Finely slice the scallions and basil. </p>
 
 image3: <img src="/images/padkeemao3.jpeg"/>
-step3: Finely slice the shallots.
-<p> Dice the garlic </p>
-<p> Finely slice the thai chilis.</p>
-<p><i>Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible.</i></p>
+step3: Finely slice the shallots.<p> Dice the garlic </p> <p> Finely slice the thai chilis.</p> <p><i>Note: Thai chilis are potent! Minimize your contact with the seeds as much as possible.</i></p>
 
 image4: <img src="/images/padkeemao4.jpeg"/>
 step4: Assemble the sauce by combining the fish sauce, tamari, honey, and rice wine vinegar.
@@ -59,8 +56,7 @@ image7: <img src="/images/padkeemao7.jpeg"/>
 step7: Add the ground pork to the pan, along with a 1/4 of the tamari sauce made earlier. Sauté the pork until browned.
 
 image8: <img src="/images/padkeemao8.jpeg"/>
-step8: Add the bell peppers and cook for an additional two minutes.
-<p> Add the cooked rice noodles with the remaining sauce and the chopped basil and scallions. Toss to ensure that the noodles and vegetables are coated with the tamari sauce</p>
+step8: Add the bell peppers and cook for an additional two minutes.<p> Add the cooked rice noodles with the remaining sauce and the chopped basil and scallions. Toss to ensure that the noodles and vegetables are coated with the tamari sauce</p>
 
 image9: <img src="/images/padkeemao9.jpeg"/> 
 step9: Plate the pad kee mao.
