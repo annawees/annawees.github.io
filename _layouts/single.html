@@ -131,15 +131,15 @@ layout: default
         <div id="equipment8">{{page.equipment8}}</div>
         </div>
     
+        <div id="instruction">
+        <div id="image1">{{page.image1}} </div>
+        <div id="step1">{{page.step1}}</div>
+        </div>
+    
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-    
-      <div id="instruction">
-        <div id="image1">{{page.image1}} </div>
-        <div id="step1">{{page.step1}}</div>
-        </div>
     
 
       <footer class="page__meta">
