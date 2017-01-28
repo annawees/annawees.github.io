@@ -4,7 +4,7 @@ title: Okonomiyaki
 category: recipe
 thumbnail: "/images/okonomiyaki.jpg"
 
-description:
+description: Okonomiyaki is the street food of Osaka. In this industrial city of Japan, you can see citizens and tourists devouring these "Japanese pancakes" filled with napa cabbage and topped with pork belly, squid, or octopus. While certainly a shock for most western palates, the combination of the savory batter with rich protein and sweet sauce satisfies the palate.
 
 time: 30 Min + 1 Hr Rest
 spice: Mild
@@ -47,26 +47,41 @@ tags: [japanese, street food, pork, bacon]
 </div>
 
 <div id="instruction">
-<div id="image"><img src="/images/okonomiyaki3.jpeg"/> </div>
-<div id="step"> Grate the namaimo/taro root into the bowl of flour. </div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki4.jpeg"/></div>
+<div id="image"> <img src="/images/okonomiyaki3.jpeg"/></div>
 <div id="step"> Grate the namaimo/taro root into the bowl of flour. Mix, and place in the fridge for an hour to rest.</div>
 </div>
 
 <div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki5.jpeg"/> </div>
-<div id="step"> Grate the namaimo/taro root into the bowl of flour. Mix, and place in the fridge for an hour to rest.</div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki5.jpeg"/> </div>
+<div id="image"> <img src="/images/okonomiyaki4.jpeg"/> </div>
 <div id="step"><i> During the dough rest, </i> finely slice the napa cabbage. </div>
+</div>
+
+<div id="instruction">
+<div id="image"> <img src="/images/okonomiyaki5.jpeg"/> </div>
+<div id="step">Finely slice the scallions, set aside for plating.</div>
 </div>
 
 <div id="instruction">
 <div id="image"> <img src="/images/okonomiyaki6.jpeg"/> </div>
 <div id="step"><i>After the dough has rested, </i> remove the dough from the fridge and whisk in the two eggs.</div>
+</div>
+
+<div id="instruction">
+<div id="image"> <img src="/images/okonomiyaki7.jpeg"/> </div>
+<div id="step">In four small poritions, add the napa cabbage. Make sure the entire portion is mixed in before adding the next.</div>
+</div>
+
+<div id="instruction">
+<div id="image"> <img src="/images/okonomiyaki8.jpeg"/> </div>
+<div id="step">Coat the bottom of the skillet with the sesame oil and place on medium high heat. Once the oil is hot, add the batter </div>
+</div>
+
+<div id="instruction">
+<div id="image"> <img src="/images/okonomiyaki9.jpeg"/> </div>
+<div id="step">Coat the bottom of the skillet with the sesame oil and place on medium high heat. Once the oil is hot, add the </div>
+</div>
+
+<div id="instruction">
+<div id="image"> <img src="/images/okonomiyaki10.jpeg"/> </div>
+<div id="step">Plate the okonomiyaki. Drizzle the mayo and okonomi sauce on top. Sprinkle the bonito flakes and sliced scallions on top.</div>
 </div>
