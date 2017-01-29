@@ -32,6 +32,29 @@ equipment1: <a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control
 equipment2: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/stockpot.jpeg"/>2 stockpots </a>
 equipment3: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/colander.jpeg"/>colander </a>
 
+image1: <img src="/images/saladenicoise1.jpeg"/>
+step1: Fill a stockpot with water and place on high heat to boil. This will be used to blanch the haricot vert.<p>Set the second stockpot full of water on high heat to boil. Add the thyme and 1 tsp of salt. Once the water begins to boil add the potatoes, reduce the heat to medium high and cook for 20 minutes.</p>
+
+image2: <img src="/images/saladenicoise2.jpeg"/>
+step2: Add the haricot to the first pot of boiling water and blanch for 4 minutes.<p>Scoop out the haricot vert, place in a colander and run cold water over to stop the cooking process. </p><p><i> Don't toss out the water! Leave the stockpot on heat to poach the eggs.</i></p>
+
+image3: <img src="/images/saladenicoise3.jpeg"/>
+step3: <i> While waiting for the water to come to a boil, prepare the vinagrette and lettuce. </i> <p>Tear the butter lettuce in a large bowl. Tear the basil and add to the bowl.</p>
+
+image4: <img src="/images/saladenicoise4.jpeg"/>
+step4: Place the anchovies, dijon mustard, white wine vinegar, garlic and 3 tbsp of olive oil in a blender. Puree until uniform.
+
+image5: <img src="/images/saladenicoise5.jpeg"/>
+step5: Cut the haricot vert into 3 smaller pieces. <p>Cut the cherry tomatoes in half.</p>
+
+image6: <img src="/images/saladenicoise6.jpeg"/>
+step6: When the potatoes have finished cooking, transfer them to a cutting board and cut them into quarters.
+
+image7: <img src="/images/saladenicoise7.jpeg"/>
+step7: Break each egg into their own small bowl or ramekin. Slowly and gently, tip each bowl into the hot water, and let the egg float. Turn the heat off, and cook for 4 minutes.<p>Use a spyder of slotted spatula to retrieve the poached eggs. Set them in a bowl or plate until ready for plating.</p>
+
+image8: <img src="/images/saladenicoise8.jpeg"/>
+step8: Toss the lettuce with the tomatoes, haricot vert, tuna potatoes, and vinagrette. Top with the poached egg.
 
 tags: [salad, french, tuna, fish]
 ---
