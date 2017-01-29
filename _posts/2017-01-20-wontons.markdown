@@ -38,7 +38,7 @@ image2: <img src="/images/wontons2.jpeg"/>
 step2: Combine the ground pork, a 1/4 of the soy sauce and 2/3 of the scallions in a bowl.<p><i>Set the rest of the scallions aside, you'll use them for plating.</i></p>
 
 image3: <video width="100%" autoplay loop muted class="banner__video"><source src="/images/wontons3.mp4" type="video/mp4"/> </video>
-step3:Fill a small bowl with water.<p>Lay the wontons on a clean surface, like a cutting board. Fill them with a small spoonful of the pork mixture. Dip your finger in the water and run it along the edge of the wonton.</p> <p>Fold one tip of the wonton wrapper across to meet the opposite tip to form a triangle.</p> <p>Pull the two corners of the newly formed triangle to meet, and seal with a little bit of water and a pinch. Set the wontons aside to rest.</p>
+step3: Fill a small bowl with water.<p>Lay the wontons on a clean surface, like a cutting board. Fill them with a small spoonful of the pork mixture. Dip your finger in the water and run it along the edge of the wonton.</p> <p>Fold one tip of the wonton wrapper across to meet the opposite tip to form a triangle.</p> <p>Pull the two corners of the newly formed triangle to meet, and seal with a little bit of water and a pinch. Set the wontons aside to rest.</p>
 
 image4: <img src="/images/wontons4.jpeg"/>
 step4: Place a skillet or small saucepan on high heat. Once the pan is hot add the sichuan peppercorns and toast them for 30 seconds.
