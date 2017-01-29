@@ -29,60 +29,37 @@ ingredient10: <a href="https://www.amazon.com/Kaneso-Tokuyou-Hanakatsuo-Bonito-F
 equipment: <a href="https://www.amazon.com/Kuhn-Rikon-10-Inch-Balloon-Whisk/dp/B0000CFIS9/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485400868&sr=1-6&keywords=kuhn+rikon+whisk&linkCode=ll1&tag=cilalime09-20&linkId=30a4dbfaf58fd6a854c9b5cc6ab6fba6"><img src="/images/whisk.jpeg"/>whisk</a>
 equipment2: <a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485400844&sr=1-3&keywords=microplane+grater&linkCode=ll1&tag=cilalime09-20&linkId=1452bb3cea23c505bd2dc5f23e35d38f"><img src="/images/finegrater.jpeg"/>fine grater</a>
 equipment3: <a href=""><img src="/images/vegetablepeeler.jpeg"/> vegetable peeler </a>
+
+image1:<img src="/images/okonomiyaki1.jpeg"/> </div>
+step1: Place the flour, baking powder, and 1/4 tsp of salt in a large bowl and stir to combine.
+
+image2:<img src="/images/okonomiyaki2.jpeg"/>
+step2: Peel the namaimo/taro root.
+
+image3: <img src="/images/okonomiyaki3.jpeg"/>
+step3: Grate the namaimo/taro root into the bowl of flour. Mix, and place in the fridge for an hour to rest.
+
+image4: <img src="/images/okonomiyaki4.jpeg"/>
+step4: <i> During the dough rest, </i> finely slice the napa cabbage.
+
+image5: <img src="/images/okonomiyaki5.jpeg"/>
+step5: Finely slice the scallions, set aside for plating.
+
+image6: <img src="/images/okonomiyaki6.jpeg"/>
+step6: <i>After the dough has rested, </i> remove the dough from the fridge and whisk in the two eggs.
+
+image7: <img src="/images/okonomiyaki7.jpeg"/>
+step7: In four small poritions, add the napa cabbage. Make sure the entire portion is mixed in before adding the next.
+
+image8: <img src="/images/okonomiyaki8.jpeg"/>
+step8: Coat the bottom of the skillet with the sesame oil and place on medium high heat. Once the oil is hot, add the batter <i> (you'll have enough batter to make 2-3 okonomiyakis) </i> and cook until the bottom is crispy and releases easily when touched by a spatula.
+
+image9: <img src="/images/okonomiyaki9.jpeg"/>
+step9: Cut the bacon to fit the top of the okonomiyaki, and lay the bacon slices on top. Use s spatuala to flip the okonomiyaki over and reduce the heat to medium until the bacon is crispy and the pancake has cooked all the way through.
+<p>Continue making okonomiyakis with any remaining batter. </p>
+
+image10: <img src="/images/okonomiyaki10.jpeg"/>
+step10: Plate the okonomiyaki. Drizzle the mayo and okonomi sauce on top. Sprinkle the bonito flakes and sliced scallions on top.
+
 tags: [japanese, street food, pork, bacon]
 ---
-
-<div id="preparation">
-<h1>Preparation</h1>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/okonomiyaki1.jpeg"/> </div>
-<div id="step"> Place the flour, baking powder, and 1/4 tsp of salt in a large bowl and stir to combine.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/okonomiyaki2.jpeg"/> </div>
-<div id="step"> Peel the namaimo/taro root.</div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki3.jpeg"/></div>
-<div id="step"> Grate the namaimo/taro root into the bowl of flour. Mix, and place in the fridge for an hour to rest.</div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki4.jpeg"/> </div>
-<div id="step"><i> During the dough rest, </i> finely slice the napa cabbage. </div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki5.jpeg"/> </div>
-<div id="step">Finely slice the scallions, set aside for plating.</div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki6.jpeg"/> </div>
-<div id="step"><i>After the dough has rested, </i> remove the dough from the fridge and whisk in the two eggs.</div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki7.jpeg"/> </div>
-<div id="step">In four small poritions, add the napa cabbage. Make sure the entire portion is mixed in before adding the next.</div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki8.jpeg"/> </div>
-<div id="step">Coat the bottom of the skillet with the sesame oil and place on medium high heat. Once the oil is hot, add the batter <i> (you'll have enough batter to make 2-3 okonomiyakis) </i> and cook until the bottom is crispy and releases easily when touched by a spatula.  </div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki9.jpeg"/> </div>
-<div id="step">Cut the bacon to fit the top of the okonomiyaki, and lay the bacon slices on top. Use s spatuala to flip the okonomiyaki over and reduce the heat to medium until the bacon is crispy and the pancake has cooked all the way through.
-<p>Continue making okonomiyakis with any remaining batter. </p></div>
-</div>
-
-<div id="instruction">
-<div id="image"> <img src="/images/okonomiyaki10.jpeg"/> </div>
-<div id="step">Plate the okonomiyaki. Drizzle the mayo and okonomi sauce on top. Sprinkle the bonito flakes and sliced scallions on top.</div>
-</div>
