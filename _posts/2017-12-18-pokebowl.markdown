@@ -30,56 +30,32 @@ ingredient11: <a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seaso
 equipment1: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/>baking sheet</a>
 equipment2: <a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B0000DE824/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481814330&sr=1-7&keywords=vegetable+peeler&th=1&linkCode=ll1&tag=cilalime09-20&linkId=2fc82cf8497ed0ceda3796ce68033b14"><img src="/images/vegetablepeeler.jpeg"/> vegetable peeler </a>
 
+image1: <img src="/images/pokebowl1.jpeg"/>
+step1: Defrost the salmon. Fill a large bowl with cold water and a tsp of salt. Place the frozen sashimi salmon in the bowl for 30 minutes. After 30 minutes have passed remove the salmon from the water and wrap in a paper towel. Place the salmon in the fridge for later use.
+
+image2: <img src="/images/pokebowl2.jpeg"/> 
+step2: Set 2/3 cup of water in a saucepan with a lid and place on high heat. <p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. Once the water has come to a boil add the washed sushi rice, reduce the heat to low and cook for 15 minutes.</p>
+
+image3: <img src="/images/pokebowl3.jpeg"/>
+step3: After the rice has cooked for 15 minutes, move the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.
+
+image4: <img src="/images/pokebowl4.jpeg"/>
+step4: <i>While the rice cooks, prep the vegetables.</i> Preheat the oven to 350˚. Toss the kale in half of the sesame oil and a pinch of salt. Broil the kale until crispy and browned on the edges, approx. 10-15 minutes.<p><i>Don't forget about the kale chips! They burn easily.</i></p>
+
+image5: <img src="/images/pokebowl5.jpeg"/>
+step5: Slice the avocado. <p> Finely slice the scallions. </p>
+
+image6: <img src="/images/pokebowl6.jpeg"/>
+step6: Lay the cucumber on a cutting board. Run the vegetable peeler along the cucumber and peel the cucumber into long strips.
+
+image7: <img src="/images/pokebowl7.jpeg"/>
+step7: Cut the salmon into 1/3" cubes.
+
+image8: <img src="/images/pokebowl8.jpeg"/>
+step8: In a bowl, mix the salmon, 1 tbsp of the sesame seeds, tamari, and remaining sesame oil.
+
+image9: <img src="/images/pokebowl9.jpeg"/>
+step9: Place the sushi rice on the bottom of each bowl. Place the poke, edamame, kale chips, and avocado slices on top. Top the bowl with the finely sliced cucumbers, scallions and remaining sesame seeds.
+
 tags: [american, hawaiian, fish, salmon]
 ---
-<div id="preparation">
-<h1>Preparation</h1>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl1.jpeg"/> </div>
-<div id="step">Defrost the salmon. Fill a large bowl with cold water and a tsp of salt. Place the frozen sashimi salmon in the bowl for 30 minutes. After 30 minutes have passed remove the salmon from the water and wrap in a paper towel. Place the salmon in the fridge for later use.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl2.jpeg"/> </div>
-<div id="step">Set 2/3 cup of water in a saucepan with a lid and place on high heat. <p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. Once the water has come to a boil add the washed sushi rice, reduce the heat to low and cook for 15 minutes.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl3.jpeg"/> </div>
-<div id="step">After the rice has cooked for 15 minutes, move the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl4.jpeg"/> </div>
-<div id="step"><i>While the rice cooks, prep the vegetables.</i> Preheat the oven to 350˚. Toss the kale in half of the sesame oil and a pinch of salt. 
-Broil the kale until crispy and browned on the edges, approx. 10-15 minutes.
-<p><i>Note: Don't forget about the kale chips! They burn easily.</i></p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl5.jpeg"/> </div>
-<div id="step">Slice the avocado. 
-<p> Finely slice the scallions. </p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl6.jpeg"/> </div>
-<div id="step">Lay the cucumber on a cutting board. Run the vegetable peeler along the cucumber and peel the cucumber into long strips.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl7.jpeg"/> </div>
-<div id="step">Cut the salmon into 1/3" cubes.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl8.jpeg"/> </div>
-<div id="step">In a bowl, mix the salmon, 1 tbsp of the sesame seeds, tamari, and remaining sesame oil.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/pokebowl9.jpeg"/> </div>
-<div id="step">Place the sushi rice on the bottom of each bowl. Place the poke, edamame, kale chips, and avocado slices on top. Top the bowl with the finely sliced cucumbers, scallions and remaining sesame seeds.</div>
-</div>
