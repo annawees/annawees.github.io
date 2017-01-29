@@ -30,6 +30,10 @@ equipment: <a href="https://www.amazon.com/Kuhn-Rikon-10-Inch-Balloon-Whisk/dp/B
 equipment2: <a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485400844&sr=1-3&keywords=microplane+grater&linkCode=ll1&tag=cilalime09-20&linkId=1452bb3cea23c505bd2dc5f23e35d38f"><img src="/images/finegrater.jpeg"/>fine grater</a>
 equipment3: <a href=""><img src="/images/vegetablepeeler.jpeg"/> vegetable peeler </a>
 
+
+
+tags: [japanese, street food, pork, bacon]
+---
 image1:<img src="/images/okonomiyaki1.jpeg"/>
 step1: Place the flour, baking powder, and 1/4 tsp of salt in a large bowl and stir to combine.
 
@@ -41,10 +45,6 @@ step3: Grate the namaimo/taro root into the bowl of flour. Mix, and place in the
 
 image4: <img src="/images/okonomiyaki4.jpeg"/>
 step4: During the dough rest, finely slice the napa cabbage.
-
-
-tags: [japanese, street food, pork, bacon]
----
 
 image5: <img src="/images/okonomiyaki5.jpeg"/>
 step5: Finely slice the scallions, set aside for plating.
