@@ -553,6 +553,8 @@
 #step17 {}
 
 @media only screen and (min-device-width: 800px) {
+   div.ingredientsdesktop {display:block}
+   div.ingredientsmobile {display:none}
 
    .ingredients { width: 95%; display:inline-block;}
       #ingredient1 { width: 20%; float:left; display:inline-block;}
