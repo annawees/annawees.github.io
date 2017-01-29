@@ -36,6 +36,9 @@ ingredient16: <img src="/images/cream.jpeg"/> cream for garnish
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/> stockpot </a>
 equipment2: <a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B00MX5CEU4/ref=as_li_ss_tl?ie=UTF8&qid=1485110773&sr=8-1&keywords=breville+blender&th=1&linkCode=ll1&tag=cilalime09-20&linkId=1642355ccfaceffc3a7e73cd0594db84"><img src="/images/blender.jpeg"/> blender </a>
 
+image1: <img src="/images/channamasala1.jpeg"/>
+step1: Finely slice the onions.
+
 
 
 image3: <img src="/images/channamasala3.jpeg"/>
