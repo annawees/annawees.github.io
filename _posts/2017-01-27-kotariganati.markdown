@@ -35,8 +35,7 @@ image1: <img src="/images/kotariganati1.jpeg"/>
 step1: Pre-heat the oven to 425˚, and move a rack to the upper portion of the oven.<p>Dice the garlic. </p>
 
 image2: <img src="/images/kotariganati2.jpeg"/>
-step2: Place the chicken drumsticks in a pan. Juice the lemon into the pan. Grate the zest of the lemon into the pan. Remove the oregano from the stem and add to the pan along with the chopped garlic, red pepper flakes, and a 1/4 tsp of salt.
-<p>Roast the chicken for 25 minutes, occasionally adding a 1/2 c of water and flipping the chicken over to keep the chicken from burning.</p><p>After the chicken has roasted for 25 minutes, raise the heat to broil for 7-10 minutes for an extra crispy skin.</p>
+step2: Place the chicken drumsticks in a pan. Juice the lemon into the pan. Grate the zest of the lemon into the pan. Remove the oregano from the stem and add to the pan along with the chopped garlic, red pepper flakes, and a 1/4 tsp of salt.<p>Roast the chicken for 25 minutes, occasionally adding a 1/2 c of water and flipping the chicken over to keep the chicken from burning.</p><p>After the chicken has roasted for 25 minutes, raise the heat to broil for 7-10 minutes for an extra crispy skin.</p>
 
 image3: <img src="/images/kotariganati3.jpeg"/>
 step3: <i> While the chicken cooks, assemble the salad.</i> Dice half of the red onion. 
