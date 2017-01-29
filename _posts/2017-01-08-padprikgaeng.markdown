@@ -35,6 +35,15 @@ equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
 
 
 
+image3: <img src="/images/padprikgaeng3.jpeg"/>
+step3: Make the curry paste by combining the lemongrass, kaffir lime leaves, peppercorns, ginger, garlic, thai chiles, coriander, cumin, coconut sugar, fish sauce and 1/4 c of water in a blender. <p>Puree until smooth.</p>
+
+image4: <img src="/images/padprikgaeng4.jpeg"/>
+step4: Trim the stems off of the green beans.<p><i>Note: Use kitchen shears to make this task even easier! </i></p>
+
+image5: <img src="/images/padprikgaeng5.jpeg"/>
+step5: Cut the green beans in bite size pieces.
+
 image6: <img src="/images/padprikgaeng6.jpeg"/>
 step6: Cut the chicken into bite size pieces.
 
