@@ -497,6 +497,7 @@
 
 #preparation { margin-top: 150px; margin-bottom: 50px;}
 
+@media only screen and (min-device-width: 800px) {
 #instruction { width:95%; display:inline-block;}
 #image1 { width: 40%; float:left;}
 #step1 { width: 40%; float:right; margin-top: 30px; margin-bottom: 30px;}
@@ -547,7 +548,7 @@
 #step16 { width: 40%; float:right; margin-top: 30px; margin-bottom: 30px;}
 
 #image17 { width: 40%; float:left;}
-#step17 { width: 40%; float:right; margin-top: 30px; margin-bottom: 30px;}
+   #step17 { width: 40%; float:right; margin-top: 30px; margin-bottom: 30px;}}
 
 @media only screen and (max-device-width: 700px) {
 #instruction { width:95%; display:inline-block;}
