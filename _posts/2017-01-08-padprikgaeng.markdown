@@ -33,7 +33,17 @@ equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truff
 equipment2: <a href="https://www.amazon.com/dp/B00MX5CEU4/ref=as_li_ss_tl?_encoding=UTF8&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=1c88c1d81daa010b6bcb776093d457bd"><img src="/images/blender.jpeg"/>blender </a>
 equipment3: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485671611&sr=1-5&keywords=colander&linkCode=ll1&tag=cilalime09-20&linkId=77f84b87981bd6e79490c41834568c26"><img src="/images/colander.jpeg"/>colander </a>
 
+image1: <img src="/images/padprikgaeng1.jpeg"/>
+step1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.<p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. </p>
+  
+image2: <img src="/images/padprikgaeng2.jpeg"/>
+step2: Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low, and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.
 
+image3: <img src="/images/padprikgaeng3.jpeg"/>
+step3: Make the curry paste by combining the lemongrass, kaffir lime leaves, peppercorns, ginger, garlic, thai chiles, coriander, cumin, coconut sugar, fish sauce and 1/4 c of water in a blender. <p>Puree until smooth.</p>
+
+image4: <img src="/images/padprikgaeng4.jpeg"/>
+step4: Trim the stems off of the green beans.<p><i> Use kitchen shears to make this task even easier! </i></p>
 
 image5: <img src="/images/padprikgaeng5.jpeg"/>
 step5: Cut the green beans in bite size pieces.
