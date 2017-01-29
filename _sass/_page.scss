@@ -484,16 +484,17 @@
 
 #equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
 
-.equipment { width: 95%; display:inline-block;}
-#equipment1 { width: 20%; float:left;}
-#equipment2 { width: 20%; float:left; margin-left: 5%;}
-#equipment3 { width:20%; float:left; margin-left: 5%;}
-#equipment4 { width:20%; float:left; margin-left: 5%;}
+.equipment { width: 100%; display:inline-block;}
+#equipment1 { width: 30%; float:left;}
+#equipment2 { width: 30%; float:left; margin-left: 5%;}
+#equipment3 { width: 30%; float:left; margin-left: 5%;}
 
-#equipment5 { width: 20%; float:left;}
-#equipment6 { width: 20%; float:left; margin-left: 5%;}
-#equipment7 { width:20%; float:left; margin-left: 5%;}
-#equipment8 { width:20%; float:left; margin-left: 5%;}
+#equipment4 { width: 30%; float:left; margin-left: 5%;}
+#equipment5 { width: 30%; float:left;}
+#equipment6 { width: 30%; float:left; margin-left: 5%;}
+
+#equipment7 { width: 30%; float:left; margin-left: 5%;}
+#equipment8 { width: 30%; float:left; margin-left: 5%;}
 
 #preparation { margin-top: 150px; margin-bottom: 50px;}
 
@@ -548,7 +549,18 @@
 #step16 { width: 40%; float:right; margin-top: 30px; margin-bottom: 30px;}
 
 #image17 { width: 40%; float:left;}
-   #step17 { width: 40%; float:right; margin-top: 30px; margin-bottom: 30px;}}
+   #step17 { width: 40%; float:right; margin-top: 30px; margin-bottom: 30px;}
+
+.equipment { width: 95%; display:inline-block;}
+#equipment1 { width: 20%; float:left;}
+#equipment2 { width: 20%; float:left; margin-left: 5%;}
+#equipment3 { width:20%; float:left; margin-left: 5%;}
+#equipment4 { width:20%; float:left; margin-left: 5%;}
+
+#equipment5 { width: 20%; float:left;}
+#equipment6 { width: 20%; float:left; margin-left: 5%;}
+#equipment7 { width:20%; float:left; margin-left: 5%;}
+#equipment8 { width:20%; float:left; margin-left: 5%;}}
 
 @media only screen and (max-device-width: 700px) {
 #instruction { width:95%; display:inline-block;}
