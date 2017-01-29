@@ -39,7 +39,8 @@ equipment2: <a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control
 image1: <img src="/images/channamasala1.jpeg"/>
 step1: Finely slice the onions.
 
-
+image2: <img src="/images/channamasala2.jpeg"/>
+step2: Place a stockpot on medium heat. Once the pot is hot, add the cumin, coriander, yellow mustard and cardamom pod. Toast the spices for two minutes.
 
 image3: <img src="/images/channamasala3.jpeg"/>
 step3: Assemble the curry paste by transfering the spices to a blender along with the ginger, garlic, turmeric, garam masala, cayenne, thai chili, and 1 c of water. Puree until smooth.
