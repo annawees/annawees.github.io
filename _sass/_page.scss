@@ -456,54 +456,45 @@
 
 #ingredienthdr { margin-top:200px; margin-bottom:50px;}
 
+ .ingredients { width: 95%; display:inline-block;}
+      #ingredient1 { width: 20%; float:left; display:inline-block;}
+      #ingredient2 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
+      #ingredient3 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
+      #ingredient4 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
+
+      #ingredient5 { width: 20%; float:left; display:inline-block;}
+      #ingredient6 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
+      #ingredient7 { width:20%; float:left; margin-left: 5%; display:inline-block;}
+      #ingredient8 { width:20%; float:left; margin-left: 5%; display:inline-block;}
+
+      #ingredient9 { width: 20%; float:left;}
+      #ingredient10 { width: 20%; float:left; margin-left: 5%;}
+      #ingredient11 { width: 20%; float:left; margin-left: 5%;}
+      #ingredient12 { width: 20%; float:left; margin-left: 5%;}
+
+      #ingredient13 { width: 20%; float:left;}
+      #ingredient14 { width: 20%; float:left; margin-left: 5%;}
+      #ingredient15 { width: 20%; float:left; margin-left: 5%;}
+      #ingredient16 { width: 20%; float:left; margin-left: 5%;}
+
+      #ingredient17 { width: 20%; float:left;}
+      #ingredient18 { width: 20%; float:left; margin-left: 5%;}
+      #ingredient19 { width: 20%; float:left; margin-left: 5%;}
+      #ingredient20 { width: 20%; float:left; margin-left: 5%;}
+   
+   .equipment { width: 95%; display:inline-block;}
+      #equipment1 { width: 20%; float:left;}
+      #equipment2 { width: 20%; float:left; margin-left: 5%;}
+      #equipment3 { width:20%; float:left; margin-left: 5%;}
+      #equipment4 { width:20%; float:left; margin-left: 5%;}
+
+      #equipment5 { width: 20%; float:left;}
+      #equipment6 { width: 20%; float:left; margin-left: 5%;}
+      #equipment7 { width:20%; float:left; margin-left: 5%;}
+      #equipment8 { width:20%; float:left; margin-left: 5%;}
+
 @media only screen and (max-device-width: 750px) {
-   div.ingredientsdesktop {display:none}
-   div.ingredientsmobile {display:block}
-
-.ingredientsmobile {width: 100%; display:inline-block; }
-#ingredient1 { width: 30%; float:left;}
-#ingredient2 { width: 30%; float:left; margin-left: 5%;}
-#ingredient3 { width: 30%; float:left; margin-left: 5%;}
-
-#ingredient4 { width: 30%; float:left;}
-#ingredient5 { width: 30%; float:left; margin-left: 5%;}
-#ingredient6 { width: 30%; float:left; margin-left: 5%;}
-
-#ingredient7 { width: 30%; float:left;}
-#ingredient8 { width: 30%; float:left; margin-left: 5%;}
-#ingredient9 { width: 30%; float:left; margin-left: 5%;}
-
-#ingredient10 { width: 30%; float:left;}
-#ingredient11 { width: 30%; float:left; margin-left: 5%;}
-#ingredient12 { width: 30%; float:left; margin-left: 5%;}
-
-#ingredient13 { width: 30%; float:left;}
-#ingredient14 { width: 30%; float:left; margin-left: 5%;}
-#ingredient15 { width: 30%; float:left; margin-left: 5%;}
-
-#ingredient16 { width: 30%; float:left;}
-#ingredient17 { width: 30%; float:left; margin-left: 5%;}
-#ingredient18 {width: 30%; float:left; margin-left: 5%;}
-
-#ingredient19 { width: 30%; float:left;}
-#ingredient20 { width: 30%; float:left; margin-left: 5%;;}
-
-#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
-
-.equipment { width: 100%; display:inline-block;}
-#equipment1 { width: 30%; float:left;}
-#equipment2 { width: 30%; float:left; margin-left: 5%;}
-#equipment3 { width: 30%; float:left; margin-left: 5%;}
-
-#equipment4 { width: 30%; float:left; margin-left: 5%;}
-#equipment5 { width: 30%; float:left;}
-#equipment6 { width: 30%; float:left; margin-left: 5%;}
-
-#equipment7 { width: 30%; float:left; margin-left: 5%;}
-#equipment8 { width: 30%; float:left; margin-left: 5%;}
-
-#preparation { margin-top: 150px; margin-bottom: 50px;}
-
+   
 #instruction { width:95%; display:inline-block;}
 #image1 {}
 #step1 {}
@@ -560,7 +551,7 @@
    div.ingredientsdesktop {display:block}
    div.ingredientsmobile {display:none}
 
-   .ingredientsdesktop { width: 95%; display:inline-block;}
+   .ingredients { width: 95%; display:inline-block;}
       #ingredient1 { width: 20%; float:left; display:inline-block;}
       #ingredient2 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
       #ingredient3 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
