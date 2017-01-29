@@ -31,45 +31,27 @@ ingredient12: <a href="https://www.amazon.com/Simply-Organic-Certified-1-59-Ounc
 equipment1: <a href="https://www.amazon.com/All-Clad-E752C264-Stainless-Dishwasher-Nonstick/dp/B0000DI4P6/ref=as_li_ss_tl?ie=UTF8&qid=1484021993&sr=8-1&keywords=all+clad+roasting+pan&linkCode=ll1&tag=cilalime09-20&linkId=8561c9af4137df8b925ec1d338e0ec98"><img src="/images/roastingpan.jpeg"/>roasting pan</a>
 equipment2: <a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1484022017&sr=1-2&keywords=microplane+grater&linkCode=ll1&tag=cilalime09-20&linkId=4f076c64d55d82b8fcf948a08fc7bfba"><img src="/images/finegrater.jpeg"/>fine grater</a>
 
+image1: <img src="/images/kotariganati1.jpeg"/>
+step1: Pre-heat the oven to 425˚, and move a rack to the upper portion of the oven.<p>Dice the garlic. </p>
+
+image2: <img src="/images/kotariganati2.jpeg"/>
+step2: Place the chicken drumsticks in a pan. Juice the lemon into the pan. Grate the zest of the lemon into the pan. Remove the oregano from the stem and add to the pan along with the chopped garlic, red pepper flakes, and a 1/4 tsp of salt.
+<p>Roast the chicken for 25 minutes, occasionally adding a 1/2 c of water and flipping the chicken over to keep the chicken from burning.</p><p>After the chicken has roasted for 25 minutes, raise the heat to broil for 7-10 minutes for an extra crispy skin.</p>
+
+image3: <img src="/images/kotariganati3.jpeg"/>
+step3: <i> While the chicken cooks, assemble the salad.</i> Dice half of the red onion. 
+
+image4: <img src="/images/kotariganati4.jpeg"/>
+step4: Chop the cucumber into 1/4-1/2" pieces.
+
+image5: <img src="/images/kotariganati5.jpeg"/>
+step5: Cut the tomato into 1/4 - 1/2" pieces.
+
+image6: <img src="/images/kotariganati6.jpeg"/>
+step6: Place the tomatoes, cucumbers, and red onion in a bowl. Add the red wine vinegar with the kalamata olives and brine. Mix. <p>Top with the crumbled feta cheese and place in the refrigerator until ready for serving.</p>
+
+image7: <img src="/images/kotariganati7.jpeg"/>
+step7: Plate the roasted chicken. Serve with the greek salad and tahini.
+
 tags: [chicken, drumstick, greek]
 ---
-
-<div id="instruction">
-<div id="image"><img src="/images/kotariganati1.jpeg"/> </div>
-<div id="step">Pre-heat the oven to 425˚, and move a rack to the upper portion of the oven.
-<p>Dice the garlic. </p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/kotariganati2.jpeg"/> </div>
-<div id="step">Place the chicken drumsticks in a pan. Juice the lemon into the pan. Grate the zest of the lemon into the pan. Remove the oregano from the stem and add to the pan along with the chopped garlic, red pepper flakes, and a 1/4 tsp of salt.
-<p>Roast the chicken for 25 minutes, occasionally adding a 1/2 c of water and flipping the chicken over to keep the chicken from burning.</p>
-<p>After the chicken has roasted for 25 minutes, raise the heat to broil for 7-10 minutes for an extra crispy skin.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/kotariganati3.jpeg"/> </div>
-<div id="step"><i>While the chicken cooks, assemble the salad.</i> Dice half of the red onion. </div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/kotariganati4.jpeg"/> </div>
-<div id="step">Chop the cucumber into 1/4-1/2" pieces.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/kotariganati5.jpeg"/> </div>
-<div id="step">Cut the tomato into 1/4 - 1/2" pieces.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/kotariganati6.jpeg"/> </div>
-<div id="step">Place the tomatoes, cucumbers, and red onion in a bowl. Add the red wine vinegar with the kalamata olives and brine. Mix.
-<p>Top with the crumbled feta cheese and place in the refrigerator until ready for serving.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/kotariganati7.jpeg"/> </div>
-<div id="step">Plate the roasted chicken. Serve with the greek salad and tahini.</div>
-</div>
-</div>
