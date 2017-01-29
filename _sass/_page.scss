@@ -495,6 +495,8 @@
       #equipment7 { width:20%; float:left; margin-left: 5%;}
       #equipment8 { width:20%; float:left; margin-left: 5%;}
 
+#preparationhdr {margin-top:200px; margin-bottom:50px;}
+
 @media only screen and (max-device-width: 750px) {
    
 #instruction { width:95%; display:inline-block;}
@@ -550,45 +552,6 @@
    #step17 {}}
 
 @media only screen and (min-device-width: 800px) {
-   div.ingredientsdesktop {display:block}
-   div.ingredientsmobile {display:none}
-
-   .ingredients { width: 95%; display:inline-block;}
-      #ingredient1 { width: 20%; float:left; display:inline-block;}
-      #ingredient2 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
-      #ingredient3 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
-      #ingredient4 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
-
-      #ingredient5 { width: 20%; float:left; display:inline-block;}
-      #ingredient6 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
-      #ingredient7 { width:20%; float:left; margin-left: 5%; display:inline-block;}
-      #ingredient8 { width:20%; float:left; margin-left: 5%; display:inline-block;}
-
-      #ingredient9 { width: 20%; float:left;}
-      #ingredient10 { width: 20%; float:left; margin-left: 5%;}
-      #ingredient11 { width: 20%; float:left; margin-left: 5%;}
-      #ingredient12 { width: 20%; float:left; margin-left: 5%;}
-
-      #ingredient13 { width: 20%; float:left;}
-      #ingredient14 { width: 20%; float:left; margin-left: 5%;}
-      #ingredient15 { width: 20%; float:left; margin-left: 5%;}
-      #ingredient16 { width: 20%; float:left; margin-left: 5%;}
-
-      #ingredient17 { width: 20%; float:left;}
-      #ingredient18 { width: 20%; float:left; margin-left: 5%;}
-      #ingredient19 { width: 20%; float:left; margin-left: 5%;}
-      #ingredient20 { width: 20%; float:left; margin-left: 5%;}
-   
-   .equipment { width: 95%; display:inline-block;}
-      #equipment1 { width: 20%; float:left;}
-      #equipment2 { width: 20%; float:left; margin-left: 5%;}
-      #equipment3 { width:20%; float:left; margin-left: 5%;}
-      #equipment4 { width:20%; float:left; margin-left: 5%;}
-
-      #equipment5 { width: 20%; float:left;}
-      #equipment6 { width: 20%; float:left; margin-left: 5%;}
-      #equipment7 { width:20%; float:left; margin-left: 5%;}
-      #equipment8 { width:20%; float:left; margin-left: 5%;}
    
    #instruction { width:95%; display:inline-block;}
       #image1 { width: 40%; float:left;}
