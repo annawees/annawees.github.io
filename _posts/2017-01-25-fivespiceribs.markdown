@@ -33,10 +33,10 @@ equipment3: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless
 image1: <img src="/images/fivespiceribs1.jpeg"/>
 step1: Preheat the oven to 350˚<p>Place the short ribs on a roasting pan. Add the the tamari, honey, szechuan pepercorns, garlic, cloves, cinnamon, fennel, and anise.</p> <p> Add enough water to the pan to cover the ribs, and place on the bottom rack of the oven to roast for 2 1/2 hours. </p> <p> As the short ribs cook, routinely flip the ribs over, generously coating them in the sauce.</p>
 
-image2: <img src="/images/fivespiceribs2.jpeg"/>
-step2: After the ribs have cooked for 2 1/2 hours, raise the heat to 425˚ and move the roasting pan to the top rack of the oven for 15 minutes to crisp the exterior of the short ribs.
 
 
+image3: <img src="/images/fivespiceribs3.jpeg"/>
+step3: After the short ribs have cooked for 2 1/2 hrs, cook the rice and bok choy.<p>Set a saucepan with 2/3 cup of water and 1/4 tsp of salt on high heat.</p> <p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain the rice. Add more water, swish again, and drain the rice. Repeat swishing and draining one more time.</p>
 
 image4: <img src="/images/fivespiceribs4.jpeg"/>
 step4: Once the water has come to a boil add the washed jasmine rice and cook for 15 minutes.
