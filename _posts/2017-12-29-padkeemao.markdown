@@ -24,12 +24,12 @@ ingredient5: <img src="/images/3scallions.jpeg"/>3 scallions
 ingredient6: <img src="/images/5freshthaichili.jpeg"/>5 thai chilis
 ingredient7: <img src="/images/2garlic.jpeg"/>2 garlic cloves
 ingredient8: <img src="/images/shallots.jpeg"/>2 shallots
-ingredient9: <img src="/images/flatricenoodle.jpeg"/>4 oz flat rice noodles
-ingredient10: <img src="/images/fishsauce.jpeg"/>4 tbsp fish sauce
-ingredient11: <img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil
-ingredient12: <img src="/images/tamari.jpeg"/>3 tbsp tamari
-ingredient13: <img src="/images/honey.jpeg"/>2 tbsp honey
-ingredient14: <img src="/images/ricewinevin.jpeg"/>1 tbsp rice vinegar
+ingredient9: <a href="https://www.amazon.com/Stick-Noodles-Royal-Elephant-brand/dp/B017H0LGIU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481942140&sr=1-3&keywords=flat+rice+noodles&linkCode=ll1&tag=cilalime09-20&linkId=183d9803a29808fdaa53f4e15eca3058"><img src="/images/flatricenoodle.jpeg"/>4 oz flat rice noodles </a>
+ingredient10: <a href="https://www.amazon.com/Red-Boat-Premium-Fish-Sauce/dp/B00B617XK2/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485543636&sr=1-1&keywords=fish+sauce&th=1&linkCode=ll1&tag=cilalime09-20&linkId=2f24a082615cc35a7de06c964a66d3eb"><img src="/images/fishsauce.jpeg"/>4 tbsp fish sauce </a>
+ingredient11: <a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485664567&sr=1-4&keywords=sesame+oil&th=1&linkCode=ll1&tag=cilalime09-20&linkId=a7f1be53b2200e72d3ee86cf52097f33"><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil </a>
+ingredient12: <a href="https://www.amazon.com/San-J-Tamari-Gluten-Sauce-Black/dp/B00DTRJ2HS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485664616&sr=1-2&keywords=tamari&linkCode=ll1&tag=cilalime09-20&linkId=15832544e4b8b249818dc146463ceae8"><img src="/images/tamari.jpeg"/>3 tbsp tamari </a>
+ingredient13: <a href="https://www.amazon.com/Nature-Nates-Unfiltered-Honey-Ounce/dp/B00CMQD3VS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485664654&sr=1-4&keywords=honey&linkCode=ll1&tag=cilalime09-20&linkId=576513302c254a6f479c8a7fc112ef1b"><img src="/images/honey.jpeg"/>2 tbsp honey </a>
+ingredient14: <a href="https://www.amazon.com/Marukan-Seasoned-Gourmet-Vinegar-Ounce/dp/B00UR6HALY/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485664683&sr=1-1&keywords=rice+vinegar&th=1&linkCode=ll1&tag=cilalime09-20&linkId=454e3a8894c1367294122a0bb2c1a25d"><img src="/images/ricewinevin.jpeg"/>1 tbsp rice vinegar</a>
 
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
 equipment2: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander </a>
