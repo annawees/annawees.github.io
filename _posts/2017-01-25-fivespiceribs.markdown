@@ -30,8 +30,7 @@ equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truff
 equipment2: <a href="https://www.amazon.com/All-Clad-E752C264-Stainless-Dishwasher-Nonstick/dp/B0000DI4P6/ref=as_li_ss_tl?ie=UTF8&qid=1483843328&sr=8-1&keywords=all+clad+roasting+pan&linkCode=ll1&tag=cilalime09-20&linkId=980b0e8c23639893d8344f886b7a6047"><img src="/images/roastingpan.jpeg"/>roasting pan </a>
 equipment3: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481916015&sr=1-4&keywords=colander&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=926d38b26a0d016b9b6c627a7b507715"><img src="/images/colander.jpeg"/>colander </a>
 
-image1: <img src="/images/fivespiceribs1.jpeg"/>
-step1: Preheat the oven to 350˚<p>Place the short ribs on a roasting pan. Add the the tamari, honey, szechuan pepercorns, garlic, cloves, cinnamon, fennel, and anise.</p> <p> Add enough water to the pan to cover the ribs, and place on the bottom rack of the oven to roast for 2 1/2 hours. </p> <p> As the short ribs cook, routinely flip the ribs over, generously coating them in the sauce.</p>
+
 
 image2: <img src="/images/fivespiceribs2.jpeg"/>
 step2: After the ribs have cooked for 2 1/2 hours, raise the heat to 425˚ and move the roasting pan to the top rack of the oven for 15 minutes to crisp the exterior of the short ribs.
