@@ -456,7 +456,7 @@
 
 #ingredienthdr { margin-top:200px; margin-bottom:50px;}
 
-.ingredients {width: 100%; display:inline-block; position: absolute;}
+.ingredients {width: 100%; display:inline-block; }
 #ingredient1 { width: 30%; float:left;}
 #ingredient2 { width: 30%; float:left; margin-left: 5%;}
 #ingredient3 { width: 30%; float:left; margin-left: 5%;}
@@ -555,10 +555,10 @@
 @media only screen and (min-device-width: 800px) {
 
    .ingredients { width: 95%; display:inline-block;}
-      #ingredient1 { width: 20%; float:left;}
-      #ingredient2 { width: 20%; float:left; margin-left: 5%;}
-      #ingredient3 { width: 20%; float:left; margin-left: 5%;}
-      #ingredient4 { width: 20%; float:left; margin-left: 5%;}
+      #ingredient1 { width: 20%; float:left; display:inline-block;}
+      #ingredient2 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
+      #ingredient3 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
+      #ingredient4 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
 
       #ingredient5 { width: 20%; float:left;}
       #ingredient6 { width: 20%; float:left; margin-left: 5%;}
