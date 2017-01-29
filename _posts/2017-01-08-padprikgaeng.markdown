@@ -33,20 +33,7 @@ equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truff
 equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
 equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
 
-image1: <img src="/images/padprikgaeng1.jpeg"/>
-step1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.<p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. </p>
 
-image2: <img src="/images/padprikgaeng2.jpeg"/>
-step2: Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low, and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.
-
-image3: <img src="/images/padprikgaeng3.jpeg"/>
-step3: Make the curry paste by combining the lemongrass, kaffir lime leaves, peppercorns, ginger, garlic, thai chiles, coriander, cumin, coconut sugar, fish sauce and 1/4 c of water in a blender. <p>Puree until smooth.</p>
-
-image4: <img src="/images/padprikgaeng4.jpeg"/>
-step4: Trim the stems off of the green beans.<p><i>Note: Use kitchen shears to make this task even easier! </i></p>
-
-image5: <img src="/images/padprikgaeng5.jpeg"/>
-step5: Cut the green beans in bite size pieces.
 
 image6: <img src="/images/padprikgaeng6.jpeg"/>
 step6: Cut the chicken into bite size pieces.
