@@ -456,7 +456,7 @@
 
 #ingredienthdr { margin-top:200px; margin-bottom:50px;}
 
-.ingredients {width: 100%; display:inline-block;}
+.ingredients {width: 100%; display:inline-block; position: absolute;}
 #ingredient1 { width: 30%; float:left;}
 #ingredient2 { width: 30%; float:left; margin-left: 5%;}
 #ingredient3 { width: 30%; float:left; margin-left: 5%;}
