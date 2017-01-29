@@ -36,44 +36,26 @@ ingredient15: <img src="/images/heavycream.jpeg"/> cream for garnish
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/> stockpot </a>
 equipment2: <a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B00MX5CEU4/ref=as_li_ss_tl?ie=UTF8&qid=1485110773&sr=8-1&keywords=breville+blender&th=1&linkCode=ll1&tag=cilalime09-20&linkId=1642355ccfaceffc3a7e73cd0594db84"><img src="/images/blender.jpeg"/> blender </a>
 
+image1: <img src="/images/channamasala1.jpeg"/>
+step1: Finely slice the onions.
+
+image2:<img src="/images/channamasala2.jpeg"/>
+step2: Place a stockpot on medium heat. Once the pot is hot, add the cumin, coriander, yellow mustard, and cardamom pod. Toast the spices for 2 minutes.
+
+image3: <img src="/images/channamasala3.jpeg"/>
+step3: Assemble the curry paste by transfering the spices to a blender along with the ginger, garlic, turmeric, garam masala, cayenne, thai chili, and 1 c of water. Puree until smooth.
+
+image4: <img src="/images/channamasala4.jpeg"/>
+step4: Coat the bottom of the stockpot with oil or butter and return to medium heat. Once the oil is hot, add the onions and sauté until they are tender.
+
+image5: <img src="/images/channamasala5.jpeg"/>
+step5: Add the chickpeas to the pot along with the curry paste. Cover the pot and cook for 20 minutes.
+
+image6: <img src="/images/channamasala6.jpeg"/>
+step6: Add the tomato puree and amchoor,  and cook for an additional 10 minutes.
+
+image7: <img src="/images/channamasala7.jpeg"/>
+step7: Serve the channa masala with cream. Accent the plate with cilantro leaves.
+
 tags: [vegetarian, indian, gluten free]
 ---
-
-<div id="preparation">
-<h1>Preparation</h1>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/channamasala1.jpeg"/> </div>
-<div id="step">Finely slice the onions.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/channamasala2.jpeg"/> </div>
-<div id="step">Place a stockpot on medium heat. Once the pot is hot, add the cumin, coriander, yellow mustard, and cardamom pod. Toast the spices for 2 minutes.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/channamasala3.jpeg"/> </div>
-<div id="step">Assemble the curry paste by transfering the spices to a blender along with the ginger, garlic, turmeric, garam masala, cayenne, thai chili, and 1 c of water. Puree until smooth.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/channamasala4.jpeg"/> </div>
-<div id="step">Coat the bottom of the stockpot with oil or butter and return to medium heat. Once the oil is hot, add the onions and sauté until they are tender.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/channamasala5.jpeg"/> </div>
-<div id="step">Add the chickpeas to the pot along with the curry paste. Cover the pot and cook for 20 minutes.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/channamasala6.jpeg"/> </div>
-<div id="step">Add the tomato puree and amchoor,  and cook for an additional 10 minutes.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/channamasala7.jpeg"/> </div>
-<div id="step">Serve the channa masala with cream. Accent the plate with cilantro leaves.</div>
-</div>
