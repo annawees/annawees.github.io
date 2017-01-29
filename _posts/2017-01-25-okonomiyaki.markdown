@@ -33,6 +33,9 @@ equipment3: <a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp
 image1: <img src="/images/okonomiyaki1.jpeg"/>
 step1: Place the flour, baking powder and 1/4 tsp of salt in a bowl and mix together.
 
+image2: <img src="/images/okonomiyaki2.jpeg"/>
+step2: Peel the nagaimo or taro root.
+
 image3: <img src="/images/okonomiyaki3.jpeg"/>
 step3: Grate the namaimo/taro root into the bowl of flour. Mix, and place in the fridge for an hour to rest.
 
