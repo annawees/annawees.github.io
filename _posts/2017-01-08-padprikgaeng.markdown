@@ -35,5 +35,26 @@ equipment3: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless
 
 
 
+image5: <img src="/images/padprikgaeng5.jpeg"/>
+step5: Cut the green beans in bite size pieces.
+
+image6: <img src="/images/padprikgaeng6.jpeg"/>
+step6: Cut the chicken into bite size pieces.
+
+image7: <img src="/images/padprikgaeng7.jpeg"/>
+step7: Add the green beans to the boiling water and blanch for 4 minutes. Transfer to a colander and drain.
+
+image8: <img src="/images/padprikgaeng8.jpeg"/>
+step8: Coat the bottom of a skillet with a sesame oil, and place on high heat. Once the oil is hot, add the chicken to the pan and sauté to brown the exterior.
+
+image9: <img src="/images/padprikgaeng9.jpeg"/>
+step9: Once the chicken has browned add the curry paste. Cook until the sauce reduces by half, approx. 3 minutes.
+
+image10: <img src="/images/padprikgaeng10.jpeg"/>
+step10: Add the green beans to the pan and coat in the curry.
+
+image11: <img src="/images/padprikgaeng11.jpeg"/>
+step11: Plate the pad prik gaeng with the jasmine rice. Sauce the plate generously.
+
 tags: [thai, chicken, chicken breast]
 ---
