@@ -44,10 +44,9 @@ step4: Once the water has come to a boil add the washed jasmine rice and cook fo
 <p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.</p>
 
 
+image5: <img src="/images/fivespiceribs5.jpeg"/>
+step5: Fill a large stockpot with water and place on high heat. Once the water begins to boil, add the baby bok choy and blanch for 3 minutes. Transfer the baby bok choy to a colander and rinse with cold water to stop the cooking process.
 
-
-image6: <img src="/images/fivespiceribs6.jpeg"/>
-step6: Plate the jasmine rice with the baby bok choy. Lay the roasted short rib on top and top with the reduced sauce from the roasting pan.
 
 tags: [beef, ribs, short ribs, chinese]
 ---
