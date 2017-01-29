@@ -456,7 +456,11 @@
 
 #ingredienthdr { margin-top:200px; margin-bottom:50px;}
 
-.ingredients {width: 100%; display:inline-block; }
+@media only screen and (max-device-width: 750px) {
+   div.ingredientsdesktop {display:none}
+   div.ingredientsmobile {display:block}
+
+.ingredientsmobile {width: 100%; display:inline-block; }
 #ingredient1 { width: 30%; float:left;}
 #ingredient2 { width: 30%; float:left; margin-left: 5%;}
 #ingredient3 { width: 30%; float:left; margin-left: 5%;}
@@ -556,7 +560,7 @@
    div.ingredientsdesktop {display:block}
    div.ingredientsmobile {display:none}
 
-   .ingredients { width: 95%; display:inline-block;}
+   .ingredientsdesktop { width: 95%; display:inline-block;}
       #ingredient1 { width: 20%; float:left; display:inline-block;}
       #ingredient2 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
       #ingredient3 { width: 20%; float:left; margin-left: 5%; display:inline-block;}
