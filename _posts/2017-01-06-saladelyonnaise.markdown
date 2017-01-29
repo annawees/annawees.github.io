@@ -55,7 +55,7 @@ step8: <i>While the egg poaches, cook the bacon.</i> Place a skillet on medium h
 image9: <img src="/images/saladelyonnaise9.jpeg"/>
 step9: Add the sliced shallots to the pan and cook until they are tender.
 
-image10:<img src="/images/saladelyonnaise10.jpeg"/>
+image10: <img src="/images/saladelyonnaise10.jpeg"/>
 step10: Add the mustard and vermouth to the pan and sauté until the sauce has reduced in half. Remove from heat.
 
 image11: <img src="/images/saladelyonnaise11.jpeg"/>
