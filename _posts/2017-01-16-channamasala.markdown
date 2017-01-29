@@ -31,7 +31,7 @@ ingredient12: <a href="https://www.amazon.com/Whole-Yellow-Mustard-Seed-Tin/dp/B
 ingredient13: <a href="https://www.amazon.com/Starwest-Botanicals-Cardamom-Whole-Organic/dp/B003UYEHS4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485030096&sr=1-6&keywords=cardamom+pod&linkCode=ll1&tag=cilalime09-20&linkId=d138c83c145a526ea75c289f0b490a40"><img src="/images/cardamom.jpeg"/> 1 cardamom pod </a>
 ingredient14: <a href="https://www.amazon.com/Simply-Organic-Cayenne-Certified-Containers/dp/B0019I2FP0/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485030130&sr=1-2&keywords=cayenne&th=1&linkCode=ll1&tag=cilalime09-20&linkId=ed4c58015de552add593c854319d73de"><img src="/images/cayenne.jpeg"/> 1/4 tsp cayenne</a>
 ingredient15: <a href="https://www.amazon.com/Spicely-Organic-Amchoor-Powder-Compact/dp/B004GFWRFG/ref=as_li_ss_tl?ie=UTF8&qid=1485030189&sr=8-1&keywords=amchoor+powder&th=1&linkCode=ll1&tag=cilalime09-20&linkId=392072a70f5eca90d8b829b806966ca8"><img src="/images/amchoor.jpeg"/> 1/4 tsp amchoor, dried mango powder </a>
-ingredient15: <img src="/images/heavycream.jpeg"/> cream for garnish
+ingredient16: <img src="/images/cream.jpeg"/> cream for garnish
 
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/> stockpot </a>
 equipment2: <a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B00MX5CEU4/ref=as_li_ss_tl?ie=UTF8&qid=1485110773&sr=8-1&keywords=breville+blender&th=1&linkCode=ll1&tag=cilalime09-20&linkId=1642355ccfaceffc3a7e73cd0594db84"><img src="/images/blender.jpeg"/> blender </a>
@@ -52,7 +52,7 @@ image5: <img src="/images/channamasala5.jpeg"/>
 step5: Add the chickpeas to the pot along with the curry paste. Cover the pot and cook for 20 minutes.
 
 image6: <img src="/images/channamasala6.jpeg"/>
-step6: Add the tomato puree and amchoor,  and cook for an additional 10 minutes.
+step6: Add the tomato puree and amchoor, and cook for an additional 10 minutes.
 
 image7: <img src="/images/channamasala7.jpeg"/>
 step7: Serve the channa masala with cream. Accent the plate with cilantro leaves.
