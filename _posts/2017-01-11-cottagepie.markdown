@@ -49,9 +49,14 @@ step5: By now, the water should be boiling. Add the potatoes to the boiling wate
 image6: <img src="/images/cottagepie6.jpeg"/>
 step6: Once the onions are soft, add the ground beef and sauté until the beef has browned.
 
+image7: <img src="/images/cottagepie7.jpeg"/>
+step7: Add the pureed tomatoes, peas, 1/4 tsp of salt, 1 cup of water, and cook for 15 minutes. <p> Turn the broiler on. </p>
+
+image8: <img src="/images/cottagepie8.jpeg"/>
+step8: <i> While the beef cooks, mash the potatoes. </i> <p> Place the boiled potatoes in a bowl. Mash with a potato masher or the back of a fork. Add the milk, cream, and 1/4 tsp of salt to the potatoes and mix until creamy. </p>
 
 image9:<img src="/images/cottagepie9.jpeg"/>
-step9: Transfer the curried beef to a baking pan.<p>Cover the curried beef with the creamy potatoes. </p><p>Transfer the pan to the upper rack of the oven and broil until a golden crust forms, approx. 4 minutes.</p>
+step9: Transfer the curried beef to a baking pan. <p> Cover the curried beef with the creamy potatoes. </p> <p> Transfer the pan to the upper rack of the oven and broil until a golden crust forms, approx. 4 minutes. </p>
 
 image10: <img src="/images/cottagepie10.jpeg"/>
 step10: Serve warm.
