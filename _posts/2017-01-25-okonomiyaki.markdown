@@ -40,13 +40,13 @@ image3: <img src="/images/okonomiyaki3.jpeg"/>
 step3: Grate the namaimo/taro root into the bowl of flour. Mix, and place in the fridge for an hour to rest.
 
 image4: <img src="/images/okonomiyaki4.jpeg"/>
-step4: <i> During the dough rest, </i> finely slice the napa cabbage.
+step4: During the dough rest, finely slice the napa cabbage.
 
 image5: <img src="/images/okonomiyaki5.jpeg"/>
 step5: Finely slice the scallions, set aside for plating.
 
 image6: <img src="/images/okonomiyaki6.jpeg"/>
-step6: <i>After the dough has rested, </i> remove the dough from the fridge and whisk in the two eggs.
+step6: After the dough has rested, remove the dough from the fridge and whisk in the two eggs.
 
 image7: <img src="/images/okonomiyaki7.jpeg"/>
 step7: In four small poritions, add the napa cabbage. Make sure the entire portion is mixed in before adding the next.
