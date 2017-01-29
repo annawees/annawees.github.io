@@ -37,54 +37,31 @@ equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truff
 equipment2: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1483981260&sr=1-5&keywords=baking+sheet&linkCode=ll1&tag=cilalime09-20&linkId=ccf04db21a82bb55b1ca904458b9ca3a"><img src="/images/bakingsheet.jpeg"/>baking sheet</a>
 equipment3: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1483981260&sr=1-5&keywords=baking+sheet&linkCode=ll1&tag=cilalime09-20&linkId=ccf04db21a82bb55b1ca904458b9ca3a"><img src="/images/finemeshstrainer.jpeg"/>fine mesh strainer</a>
 
+
+
+image1: <img src="/images/photom1.jpeg"/>
+step1: Set the oven to broil.<p>Quarter the onion.</p>
+
+image2: <img src="/images/photom2.jpeg"/>
+step2: Place the quartered onion and ginger on a roasting pan. Place on the upper rack of the oven and broil until the onion has charred.
+
+image3: <img src="/images/photom3.jpeg"/>
+step3: While the onions are roasting, put together the broth base. Place the vegetable stock in a bowl with the fennel seeds, clove, anise, cinnamon, lemongrass, fish sauce, and 8 cups of water. Place on medium heat and let the broth simmer. 
+
+image4: <img src="/images/photom4.jpeg"/>
+step4: Once the onions and ginger have charred, add them to the pot and replace any water that has evaporated. Let the broth simmer for an additional 15 minutes
+
+image5: <img src="/images/photom5.jpeg"/>
+step5: <i>While the broth simmers, prepare the vegetables.</i> <p> Finely slice the scallions. </p> <p> Remove the leaves of mint, cilantro, and basil from their stems. </p>
+
+image6: <img src="/images/photom6.jpeg"/>
+step6: After the onions and ginger have infused in the broth, use the fine mesh strainer to remove the onions, ginger and spices from the pot.
+
+image7: <img src="/images/photom7.jpeg"/>
+step7: Add the noodles to the broth and cook for an additional 7 minutes until tender. <p> After the noodles have cooked, add the shrimp to the stockpot and remove from heat.</p>
+
+image8: <img src="/images/photom8.jpeg"/>
+step8: Ladle the pho into bowls and serve with herbs, bean sprouts, lime, and sriracha.
+
 tags: [vietnamese, shrimp, seafood, soup]
 ---
-
-
-<div id="preparation">
-<h1>Preparation</h1>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/photom1.jpeg"/> </div>
-<div id="step">Set the oven to broil.
-<p>Quarter the onion.</p> </div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/photom2.jpeg"/> </div>
-<div id="step">Place the quartered onion and ginger on a roasting pan. Place on the upper rack of the oven and broil until the onion has charred.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/photom3.jpeg"/> </div>
-<div id="step"> While the onions are roasting, put together the broth base. Place the vegetable stock in a bowl with the fennel seeds, clove, anise, cinnamon, lemongrass, fish sauce, and 8 cups of water. Place on medium heat and let the broth simmer. 
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/photom4.jpeg"/> </div>
-<div id="step">Once the onions and ginger have charred, add them to the pot and replace any water that has evaporated. Let the broth simmer for an additional 15 minutes</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/photom5.jpeg"/></div>
-<div id="step"><i>While the broth simmers, prepare the vegetables.</i>
-<p> Finely slice the scallions. </p>
-<p> Remove the leaves of mint, cilantro, and basil from their stems. </p>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/photom6.jpeg"/></div>
-<div id="step">After the onions and ginger have infused in the broth, use the fine mesh strainer to remove the onions, ginger and spices from the pot. </div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/photom7.jpeg"/> </div>
-<div id="step">Add the noodles to the broth and cook for an additional 7 minutes until tender.
-<p> After the noodles have cooked, add the shrimp to the stockpot and remove from heat.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/photom8.jpeg"/> </div>
-<div id="step">Ladle the pho into bowls and serve with herbs, bean sprouts, lime, and sriracha.</div>
-</div>
