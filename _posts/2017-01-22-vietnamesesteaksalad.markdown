@@ -34,61 +34,35 @@ ingredient12: <a href="https://www.amazon.com/Huy-Fong-Chili-Sauce-Sriracha/dp/B
 equipment1: <a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?ie=UTF8&qid=1485112647&sr=8-16&keywords=yellow+citrus+juicer&linkCode=ll1&tag=cilalime09-20&linkId=021946d7242f0d3b21bd554c7a0f067d"><img src="/images/citrusjuicer.jpeg"/> citrus juicer </a>
 equipment2: <a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B001BCFTWU/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485112707&sr=1-1&keywords=kuhn+rikon+peeler&linkCode=ll1&tag=cilalime09-20&linkId=19d63dbc2c696a2de896b831996f4c22"><img src="/images/vegetablepeeler.jpeg"/> vegetable peeler </a>
 
+image1: <img src="/images/vietsalad1.jpeg"/>
+step1: In a bowl, combine the fish sauce, rice wine vinegar, and honey. Squeeze the juice of 2 limes into the bowl and stir.
+
+image2: <img src="/images/vietsalad2.jpeg"/>
+step2: Use half of this mixture to marinate the steak, and the other half for the vinagerette. <p><i>You will need to marinate the steak for at least 15 minutes.</i></p>
+
+image3: <img src="/images/vietsalad3.jpeg"/>
+step3: <i> While the steak marinates, prepare the salad.</i> Lay the cucumber on the cutting board. Then run a vegetable peeler along the cucumber to create thin pasta like ribbons.
+
+image4: <img src="/images/vietsalad4.jpeg"/>
+step4: Lay the carrot on the cutting board. Then run a vegetable peeler along the carrot to create thin pasta like ribbons.
+
+image5: <img src="/images/vietsalad5.jpeg"/>
+step5: Finely slice the radishes.
+
+image6: <img src="/images/vietsalad6.jpeg"/>
+step6: Finely slice the scallions. Remove the leaves of cilantro from their stems.
+
+image7: <img src="/images/vietsalad7.jpeg"/>
+step7: Heat a skillet on medium high heat and add the sesame oil. Once the oil is hot, remove the steak from the marinade and shake off any extra liquid. Cook the steak for 4-6 minutes on each side. Sear the narrow sides of the steak giving the exterior a nice char.
+
+image8: <img src="/images/vietsalad8.jpeg"/>
+step8: Set the steak on a cutting board to rest for 5 minutes before slicing thinly.
+
+image9: <img src="/images/vietsalad9.jpeg"/>
+step9: Toss the cucumber, carrots, scallions, radishes, and cilantro with the remaining vinagrette.
+
+image10: <img src="/images/vietsalad10.jpeg"/>
+step10: Lay the slices of beef on top of the salad. Serve with sriracha.
+
 tags:  [vietnamese, steak, salad, beef]
 ---
-
-<div id="preparation">
-<h1>Preparation</h1>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad1.jpeg"/> </div>
-<div id="step">In a bowl, combine the fish sauce, rice wine vinegar, and honey. Squeeze the juice of 2 limes into the bowl and stir.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad2.jpeg"/> </div>
-<div id="step">Use half of this mixture to marinate the steak, and the other half for the vinagerette. 
-<p><i>You will need to marinate the steak for at least 15 minutes.</i></p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad3.jpeg"/> </div>
-<div id="step"><i>? While the steak marinates, prepare the salad.</i> Lay the cucumber on the cutting board. Then run a vegetable peeler along the cucumber to create thin pasta like ribbons.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad4.jpeg"/> </div>
-<div id="step">Lay the carrot on the cutting board. Then run a vegetable peeler along the carrot to create thin pasta like ribbons.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad5.jpeg"/> </div>
-<div id="step">Finely slice the radishes.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad6.jpeg"/> </div>
-<div id="step">Finely slice the scallions. Remove the leaves of cilantro from their stems.</div>
-</div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad7.jpeg"/> </div>
-<div id="step">Heat a skillet on medium high heat and add the sesame oil. Once the oil is hot, remove the steak from the marinade and shake off any extra liquid. Cook the steak for 4-6 minutes on each side. Sear the narrow sides of the steak giving the exterior a nice char.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad8.jpeg"/> </div>
-<div id="step">Set the steak on a cutting board to rest for 5 minutes before slicing thinly.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad9.jpeg"/> </div>
-<div id="step">Toss the cucumber, carrots, scallions, radishes, and cilantro with the remaining vinagrette.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/vietsalad10.jpeg"/> </div>
-<div id="step">Lay the slices of beef on top of the salad. Serve with sriracha.</div>
-</div>
