@@ -40,7 +40,7 @@ step2: Slice the shallots.
 image3: <img src="/images/crabstuffedpoblanos3.jpeg"/>
 step3: Place the poblanos and shallots on a baking sheet or roasting pan. Broil until the poblanos develop a char, approximately 5-7 minutes. Turn them over halfway during cooking.
 <p>Remove the poblanos from the oven and reduce the heat to 350˚.</p>
-<p><i>Note: Keep an eye on the shallots! They can burn easily.</i></p>
+<p><i>Keep an eye on the shallots! They can burn easily.</i></p>
 
 image4: <img src="/images/crabstuffedpoblanos4.jpeg"/>
 step4: Transfer the poblanos into a bowl and submerge them in cold water to cool them.
