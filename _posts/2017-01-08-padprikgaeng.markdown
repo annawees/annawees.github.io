@@ -30,8 +30,8 @@ ingredient13: <a href="https://www.amazon.com/SpiceCubed-Whole-Cumin-Seed-Tin/dp
 ingredient14: <a href="https://www.amazon.com/Simply-Organic-Peppercorn-Medley-Ounce/dp/B00AJRKNCO/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485669515&sr=1-12&keywords=organic+peppercorns&th=1&linkCode=ll1&tag=cilalime09-20&linkId=b73eb9e4e26b9c2abfb2e94ed1be958b"><img src="/images/peppercorn.jpeg"/>1/2 tsp peppercorns </a>
 
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
-equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
-equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
+equipment2: <a href="https://www.amazon.com/dp/B00MX5CEU4/ref=as_li_ss_tl?_encoding=UTF8&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=1c88c1d81daa010b6bcb776093d457bd"><img src="/images/blender.jpeg"/>blender </a>
+equipment3: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485671611&sr=1-5&keywords=colander&linkCode=ll1&tag=cilalime09-20&linkId=77f84b87981bd6e79490c41834568c26"><img src="/images/colander.jpeg"/>colander </a>
 
 image1: <img src="/images/padprikgaeng1.jpeg"/>
 step1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.<p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. </p>
