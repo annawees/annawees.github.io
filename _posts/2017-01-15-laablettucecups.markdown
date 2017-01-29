@@ -31,59 +31,35 @@ ingredient14: <a href=""><img src="/images/sriracha.jpeg"/>sriracha for serving<
 
 equipment1: <a href="https://www.amazon.com/Chefn-FreshForce-Citrus-Juicer-Lemon/dp/B002XOB0P0/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482038971&sr=1-2-spons&keywords=citrus+juicer&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=fead6ab94c6288d353210420231dcb8a"><img src="/images/citrusjuicer.jpeg"/>citrus juicer </a>
 
+image1: <img src="/images/laab1.jpeg"/>
+step1: Dice the garlic. <p>Finely slice the thai chiles.</p>
+ 
+image2: <img src="/images/laab2.jpeg"/>
+step2: Finely slice the onion.
+
+image3: <img src="/images/laab3.jpeg"/>
+step3: Remove the leaves from the stems of the cilantro, basil, and mint.
+  
+image4: <img src="/images/laab4.jpeg"/>
+step4: Remove the bottom stem from the lettuce, and separate the leaves.
+  
+image5: <img src="/images/laab5.jpeg"/>
+step5: Squeeze the lime juice into a bowl. Combine with the fish sauce, rice wine vinegar, and honey.
+  
+image6: <img src="/images/laab6.jpeg"/>
+step6: Place a large skillet on medium heat. Add the sesame oil. Once the oil is hot, add the garlic and thai chiles. Sauté until the garlic starts to turn a golden color.
+  
+image7: <img src="/images/laab7.jpeg"/>
+step7: Add the red onions to the pan and sauté until the onions are tender.
+  
+image8: <img src="/images/laab8.jpeg"/>
+step8: Add the ground pork and brown in the pan.
+ 
+image9: <img src="/images/laab9.jpeg"/>
+step9: Once the pork has browned, add the lime juice mixture, cilantro, basil, and mint. Sauté to mix the sauce and herbs.
+  
+image10: <img src="/images/laab10.jpeg"/>
+step10: Serve the laab in the lettuce cups with the sriracha.
+
 tags: [thai, pork, ground pork]
 ---
-
-<div id="preparation"><h1>Preparation</h1></div>
-  
-<div id="instruction">
-<div id="image"><img src="/images/laab1.jpeg"/> </div>
-<div id="step">Dice the garlic. 
-<p>Finely slice the thai chiles.</p></div>
-</div>
- 
-<div id="instruction">
-<div id="image"><img src="/images/laab2.jpeg"/> </div>
-<div id="step">Finely slice the onion.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/laab3.jpeg"/> </div>
-<div id="step">Remove the leaves from the stems of the cilantro, basil, and mint.</div>
- </div>
-  
-<div id="instruction">
-<div id="image"><img src="/images/laab4.jpeg"/> </div>
-<div id="step">Remove the bottom stem from the lettuce, and separate the leaves.</div>
-</div>
-  
-<div id="instruction">
-<div id="image"><img src="/images/laab5.jpeg"/> </div>
-<div id="step">Squeeze the lime juice into a bowl. Combine with the fish sauce, rice wine vinegar, and honey.</div>
- </div>
-  
-<div id="instruction">
-<div id="image"><img src="/images/laab6.jpeg"/> </div>
-<div id="step">Place a large skillet on medium heat. Add the sesame oil. Once the oil is hot, add the garlic and thai chiles. Sauté until the garlic starts to turn a golden color.</div>
-</div>
-  
-<div id="instruction">
-<div id="image"><img src="/images/laab7.jpeg"/> </div>
-<div id="step">Add the red onions to the pan and sauté until the onions are tender.</div>
- </div>
-  
-<div id="instruction">
-<div id="image"><img src="/images/laab8.jpeg"/> </div>
-<div id="step">Add the ground pork and brown in the pan. </div>
- </div>
-  
- 
-<div id="instruction">
-<div id="image"><img src="/images/laab9.jpeg"/> </div>
-<div id="step"> Once the pork has browned, add the lime juice mixture, cilantro, basil, and mint. Sauté to mix the sauce and herbs. </div>
- </div>
-  
-<div id="instruction">
-<div id="image"><img src="/images/laab10.jpeg"/> </div>
-<div id="step">Serve the laab in the lettuce cups with the sriracha.</div>
-</div>
