@@ -55,8 +55,7 @@ image8: <img src="/images/okonomiyaki8.jpeg"/>
 step8: Coat the bottom of the skillet with the sesame oil and place on medium high heat. Once the oil is hot, add the batter <i> (you'll have enough batter to make 2-3 okonomiyakis) </i> and cook until the bottom is crispy and releases easily when touched by a spatula.
 
 image9: <img src="/images/okonomiyaki9.jpeg"/>
-step9: Cut the bacon to fit the top of the okonomiyaki, and lay the bacon slices on top. Use s spatuala to flip the okonomiyaki over and reduce the heat to medium until the bacon is crispy and the pancake has cooked all the way through.
-<p>Continue making okonomiyakis with any remaining batter. </p>
+step9: Cut the bacon to fit the top of the okonomiyaki, and lay the bacon slices on top. Use s spatuala to flip the okonomiyaki over and reduce the heat to medium until the bacon is crispy and the pancake has cooked all the way through.<p> Continue making okonomiyakis with any remaining batter. </p>
 
 image10: <img src="/images/okonomiyaki10.jpeg"/>
 step10: Plate the okonomiyaki. Drizzle the mayo and okonomi sauce on top. Sprinkle the bonito flakes and sliced scallions on top.
