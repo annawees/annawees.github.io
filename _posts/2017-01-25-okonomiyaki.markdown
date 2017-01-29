@@ -42,6 +42,10 @@ step3: Grate the namaimo/taro root into the bowl of flour. Mix, and place in the
 image4: <img src="/images/okonomiyaki4.jpeg"/>
 step4: During the dough rest, finely slice the napa cabbage.
 
+
+tags: [japanese, street food, pork, bacon]
+---
+
 image5: <img src="/images/okonomiyaki5.jpeg"/>
 step5: Finely slice the scallions, set aside for plating.
 
@@ -59,6 +63,3 @@ step9: Cut the bacon to fit the top of the okonomiyaki, and lay the bacon slices
 
 image10: <img src="/images/okonomiyaki10.jpeg"/>
 step10: Plate the okonomiyaki. Drizzle the mayo and okonomi sauce on top. Sprinkle the bonito flakes and sliced scallions on top.
-
-tags: [japanese, street food, pork, bacon]
----
