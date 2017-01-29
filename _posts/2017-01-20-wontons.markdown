@@ -30,58 +30,31 @@ ingredient10: <a href= "https://www.amazon.com/Frontier-Peppers-Crushed-1-2-Ounc
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
 equipment2: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1483981260&sr=1-5&keywords=baking+sheet&linkCode=ll1&tag=cilalime09-20&linkId=ccf04db21a82bb55b1ca904458b9ca3a"><img src="/images/finemeshstrainer.jpeg"/> fine mesh strainer </a>
 
+
+image1: <img src="/images/wontons1.jpeg"/>
+step1: Fill a stockpot full of water and place on high heat to boil.<p>Finely slice the scallions.</p>
+
+image2: <img src="/images/wontons2.jpeg"/>
+step2: Combine the ground pork, a 1/4 of the soy sauce and 2/3 of the scallions in a bowl.<p><i>Set the rest of the scallions aside, you'll use them for plating.</i></p>
+
+image3: <video width="100%" autoplay loop muted class="banner__video"><source src="/images/wontons3.mp4" type="video/mp4"/> </video>
+step3:Fill a small bowl with water.<p>Lay the wontons on a clean surface, like a cutting board. Fill them with a small spoonful of the pork mixture. Dip your finger in the water and run it along the edge of the wonton.</p> <p>Fold one tip of the wonton wrapper across to meet the opposite tip to form a triangle.</p> <p>Pull the two corners of the newly formed triangle to meet, and seal with a little bit of water and a pinch. Set the wontons aside to rest.</p>
+
+image4: <img src="/images/wontons4.jpeg"/>
+step4: Place a skillet or small saucepan on high heat. Once the pan is hot add the sichuan peppercorns and toast them for 30 seconds.
+
+image5: <img src="/images/wontons5.jpeg"/>
+step5: Add the sesame oil and garlic cloves to the toasted peppercorns and reduce the heat to medium. Cook until the garlic cloves are golden brown.
+
+image6: <img src="/images/wontons6.jpeg"/>
+step6: Set the fine mesh strainer over a measuring cup or bowl. Run the hot chili oil through the mesh strainer and discard the sichuan peppercorns and garlic.<p>Add the chili flakes, honey, chinkiang vinegar, and soy to the hot chili oil. Mix.</p>
+
+image7: <img src="/images/wontons7.jpeg"/>
+step7: By now, the water should be boiling. Gently add the wontons to the second pot of boiling water. Cook until tender, approx. 4 minutes. Use a spoon or spyder to gently transfer the wontons into a bowl.
+
+image8: <img src="/images/wontons8.jpeg"/> </div>
+step8: Coat the wontons with the chili oil and scatter the remaining scallions on top.
+
+
 tags: [chinese, sichuanese, pork, appetizer]
 ---
-
-<div id="preparation">
-<h1>Preparation</h1>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/wontons1.jpeg"/> </div>
-<div id="step">Fill a stockpot full of water and place on high heat to boil.
-<p>Finely slice the scallions.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/wontons2.jpeg"/> </div>
-<div id="step">Combine the ground pork, a 1/4 of the soy sauce and 2/3 of the scallions in a bowl.
-<p><i>Note: set the rest of the scallions aside, you'll use them for plating.</i></p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><video width="100%" autoplay loop muted class="banner__video">
-<source src="/images/wontons3.mp4" type="video/mp4"/> </video> </div>
-<div id="step">Fill a small bowl with water.
-<p>Lay the wontons on a clean surface, like a cutting board. Fill them with a small spoonful of the pork mixture. Dip your finger in the water and run it along the edge of the wonton.</p>
-<p>Fold one tip of the wonton wrapper across to meet the opposite tip to form a triangle.</p>
-<p>Pull the two corners of the newly formed triangle to meet, and seal with a little bit of water and a pinch. Set the wontons aside to rest.</p></div>
-
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/wontons4.jpeg"/> </div>
-<div id="step">Place a skillet or small saucepan on high heat. Once the pan is hot add the sichuan peppercorns and toast them for 30 seconds.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/wontons5.jpeg"/> </div>
-<div id="step">Add the sesame oil and garlic cloves to the toasted peppercorns and reduce the heat to medium. Cook until the garlic cloves are golden brown.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/wontons6.jpeg"/> </div>
-<div id="step">Set the fine mesh strainer over a measuring cup or bowl. Run the hot chili oil through the mesh strainer and discard the sichuan peppercorns and garlic.
-<p>Add the chili flakes, honey, chinkiang vinegar, and soy to the hot chili oil. Mix.</p></div>
-</div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/wontons7.jpeg"/> </div>
-<div id="step">By now, the water should be boiling. Gently add the wontons to the second pot of boiling water. Cook until tender, approx. 4 minutes. Use a spoon or spyder to gently transfer the wontons into a bowl.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/wontons8.jpeg"/> </div>
-<div id="step">Coat the wontons with the chili oil and scatter the remaining scallions on top. </div>
-</div>
