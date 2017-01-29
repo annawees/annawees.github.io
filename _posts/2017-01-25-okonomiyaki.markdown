@@ -34,7 +34,7 @@ image1:<img src="/images/okonomiyaki1.jpeg"/>
 step1: Place the flour, baking powder, and 1/4 tsp of salt in a large bowl and stir to combine.
 
 image2:<img src="/images/okonomiyaki2.jpeg"/>
-step2: Peel the namaimo/taro root.
+step2: Peel the namaimo or taro root.
 
 
 tags: [japanese, street food, pork, bacon]
