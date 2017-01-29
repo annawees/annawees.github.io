@@ -34,8 +34,7 @@ equipment2: <a href=""><img src="/images/blender.jpeg"/>blender </a>
 equipment3: <a href=""><img src="/images/colander.jpeg"/>colander </a>
 
 image1: <img src="/images/padprikgaeng1.jpeg"/>
-step1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.
-<p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. </p>
+step1: Fill a large stockpot with water and place on high heat. This will be used to blanch the green beans.<p>Set a saucepan with a lid on high heat with 3/4 c of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times. </p>
 
 image2: <img src="/images/padprikgaeng2.jpeg"/>
 step2: Once the water has reached a boil, add the rinsed rice. Stir the pot to ensure that the rice is submerged. Reduce the heat to low, and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.
