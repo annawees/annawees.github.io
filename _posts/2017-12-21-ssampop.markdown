@@ -8,7 +8,7 @@ description: Chicken drumettes are baked until perfectly crunchy and crispy and 
 
 time: 35 Min
 spice: Medium
-serves: 12 Dozen Wings
+serves: 1 Dozen Wings
 
 calories: 550
 carbs: 28g
