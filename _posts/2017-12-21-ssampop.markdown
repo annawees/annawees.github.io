@@ -1,0 +1,48 @@
+---
+layout: single
+title: Ssampop
+category: recipe
+thumbnail: "/images/ssampop.jpg"
+
+description: Chicken drumettes are baked until perfectly crunchy and crispy and then tossed in Korean ssamjang, honey, and soy sauce.
+
+time: 35 Min
+spice: Medium
+serves: Two
+
+calories: 550
+carbs: 28g
+fiber: 1g
+fat: 18g
+protein: 67g
+
+ingredient1: <img src="/images/chickendrumettes.jpeg"/> 1 dozen chicken wings or drumettes
+ingredient2: <img src="/images/4scallions.jpeg"/>4 scallions
+ingredient3: <a href="https://www.amazon.com/Haechandle-Seasoned-Soybean-Paste-500g/dp/B00P9F56BY/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482418913&sr=1-1&keywords=ssamjang&linkCode=ll1&tag=cilalime09-20&linkId=241628f62d49f68c0b553a119f3a0426"><img src="/images/ssamjang.jpeg"/>1/4 cup ssamjang</a>
+ingedient4: <a href="https://www.amazon.com/Kikkoman-Soy-Sauce-33-8-oz/dp/B003XDIU30/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514395&sr=1-2&keywords=soy+sauce&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=415765787bbc2dc8941eee7571122ef7"><img src="/images/tamari.jpeg"/>1/4 cup soy sauce</a>
+ingredient5: <a href="https://www.amazon.com/Nature-Nates-Unfiltered-Honey-Ounce/dp/B00CMQD3VS/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514747&sr=1-4&keywords=honey&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c74164ead4b1770a01e96a377874ba4a"><img src="/images/honey.jpeg"/>3 tbsp honey</a>
+ingredient6: <a href="https://www.amazon.com/Nutria-Organic-Certified-Superfood-Magnesium/dp/B019KXQDVM/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1481514809&sr=1-1-spons&keywords=sesame+seeds&refinements=p_85:2470955011&psc=1&linkCode=ll1&tag=cilalime09-20&linkId=467563eedd31251bd3842de986cdd859"><img src="/images/sesameseeds.jpeg"/>1 tbsp sesame seeds</a>
+
+equipment1: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/> baking sheet </a>
+equipment2: <a href="https://www.amazon.com/Simply-Organic-Certified-0-14-Ounce-Container/dp/B0012BS9F4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335352&sr=1-1&keywords=simply+organic+bay&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c8a097e1230c862f6ce966bf3962812b"><img src="/images/whisk.jpeg"/> whisk </a>
+
+image1: <img src="/images/ssampop1.jpeg"/>
+step1: Preheat the oven to 425˚ and move one of the trays to the upper rack of the oven.<p>Evenly space the drummettes on a baking sheet. Place the drummettes  in the oven for 25 minutes.</p>
+
+image2: <img src="/images/ssampop2.jpeg"/>
+step2: Finely slice the scallions. Set aside for plating.
+
+image3: <img src="/images/ssampop3.jpeg"/>
+step3: Place the ssamjang, remaining soy sauce, honey, and 1/2 a cup of water in a saucepan. Place on the lowest heat setting.<p>Whisk and keep on low until the chicken has finished cooking.</p>
+
+image4: <img src="/images/ssampop4.jpeg"/>
+step4: By now, the chicken will have cooked for 25 minutes and the exteriors will be brown.<p>Raise the heat to a broil and cook for 3 more minutes, flip over, and cook for 3 minutes to evenly crisp the skin.</p>
+
+image5: <img src="/images/ssampop5.jpeg"/>
+step5: Once the chicken has finished cooking, transfer the chicken to a bowl and cover with the ssamjang sauce. Toss.
+
+image6: <img src="/images/ssampop6.jpeg"/>
+step6: Top the chicken with sesame seeds and scallions.
+
+tags: [chicken, chicken wing, korean]
+---
