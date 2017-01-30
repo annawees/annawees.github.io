@@ -1,6 +1,7 @@
 ---
 layout: single
 category: recipe
+title: Poulet à la Moutarde
 thumbnail: "/images/pouletmoutarde.jpg"
 
 description: Poulet à la Moutarde has many re-inventions within France and throughout the world. This favorite from the Dijon region gains its rich flavor from the spicy dijon mustard, savory rosemary, and sweet butter.
