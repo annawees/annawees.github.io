@@ -27,3 +27,6 @@ step3: Push the shallots to the side and reduce the heat to medium. Place the ch
 
 image4: <img src="/images/pouletmoutarde4.jpeg">
 step4: Add 1 cup of water, honey, mustard, and rosemary. Transfer the pot to the oven and cook until the sauce has reduced, approx 30 minutes.
+
+tags: [french, chicken, chicken legs]
+---
