@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Ssampop
+title: Ssampops
 category: recipe
 thumbnail: "/images/ssampop.jpg"
 
@@ -8,7 +8,7 @@ description: Chicken drumettes are baked until perfectly crunchy and crispy and 
 
 time: 35 Min
 spice: Medium
-serves: Two
+serves: 12 Dozen Wings
 
 calories: 550
 carbs: 28g
