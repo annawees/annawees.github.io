@@ -10,8 +10,11 @@ time: 50 Min
 spice: Mild
 serves: Two
 
-calories
-
+calories: 440
+protein: 39g
+carb: 28g
+fiber: 6g
+fat: 20g
 
 ingredient1: <img src="/images/chickenleg.jpeg"> 2 chicken legs
 ingredient2: <img src="/images/butter.jpeg"> 1 tbsp butter
