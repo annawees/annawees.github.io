@@ -6,13 +6,20 @@ thumbnail: "/images/pouletmoutarde.jpg"
 
 description: Poulet à la Moutarde has many re-inventions within France and throughout the world. This favorite from the Dijon region gains its rich flavor from the spicy dijon mustard, savory rosemary, and sweet butter.
 
+time: 50 Min
+spice: Mild
+serves: Two
+
+calories
+
+
 ingredient1: <img src="/images/chickenleg.jpeg"> 2 chicken legs
-ingredient: <img src="/images/butter.jpeg"> 1 tbsp butter
-ingredient: <img src="/images/haricot.jpeg"> 1 lb trimmed haricot vert
-ingredient: <img src="/images/rosemary.jpeg"> 1 sprig rosemary
-ingredient: <img src="/images/shallot.jpeg"> 4 shallots
-ingredient: <a href="https://www.amazon.com/Maille-Style-Whole-Grain-Mustard/dp/B000SR5VOU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485749315&sr=1-1&keywords=dijon+mustard+old+style&linkCode=ll1&tag=cilalime09-20&linkId=bdc279b6e13c9121e10f4ab7d264de7a"> <img src="/images/dijon.jpeg"> 3 tbsp grainy dijon mustard </a>
-ingredient: <a href="https://www.amazon.com/Nature-Nates-Unfiltered-Honey-Ounce/dp/B00CMQD3VS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485749263&sr=1-4&keywords=honey&th=1&linkCode=ll1&tag=cilalime09-20&linkId=b65bea2f237a52e1e4305cc49e4b17d1"> <img src="/images/honey.jpeg"> 1 tbsp honey </a>
+ingredient2: <img src="/images/butter.jpeg"> 1 tbsp butter
+ingredient3: <img src="/images/haricot.jpeg"> 1 lb trimmed haricot vert
+ingredient4: <img src="/images/rosemary.jpeg"> 1 sprig rosemary
+ingredient5: <img src="/images/shallot.jpeg"> 4 shallots
+ingredient6: <a href="https://www.amazon.com/Maille-Style-Whole-Grain-Mustard/dp/B000SR5VOU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485749315&sr=1-1&keywords=dijon+mustard+old+style&linkCode=ll1&tag=cilalime09-20&linkId=bdc279b6e13c9121e10f4ab7d264de7a"> <img src="/images/dijon.jpeg"> 3 tbsp grainy dijon mustard </a>
+ingredient7: <a href="https://www.amazon.com/Nature-Nates-Unfiltered-Honey-Ounce/dp/B00CMQD3VS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485749263&sr=1-4&keywords=honey&th=1&linkCode=ll1&tag=cilalime09-20&linkId=b65bea2f237a52e1e4305cc49e4b17d1"> <img src="/images/honey.jpeg"> 1 tbsp honey </a>
 
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=763a3c440afa980c6a965ea3be2ea298"> <img src="/images/stockpot.jpeg"> 2 oven safe stockpots </a>
 equipment2: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485749351&sr=1-5&keywords=colander&linkCode=ll1&tag=cilalime09-20&linkId=da544aaf95938989e6fa14b8635690c1"> <img src="/images/colander.jpeg"> 1 colander </a>
