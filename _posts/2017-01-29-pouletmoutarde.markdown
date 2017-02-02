@@ -12,7 +12,7 @@ serves: Two
 
 calories: 440
 protein: 39g
-carb: 28g
+carbs: 28g
 fiber: 6g
 fat: 20g
 
