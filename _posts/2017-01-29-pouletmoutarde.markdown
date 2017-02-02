@@ -28,7 +28,7 @@ equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truff
 equipment2: <a href="https://www.amazon.com/Bellemain-Micro-perforated-Stainless-5-quart-Colander-Dishwasher/dp/B00O97D0DO/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485749351&sr=1-5&keywords=colander&linkCode=ll1&tag=cilalime09-20&linkId=da544aaf95938989e6fa14b8635690c1"> <img src="/images/colander.jpeg"> 1 colander </a>
 
 image1: <img src="/images/pouletmoutarde1.jpeg"/>
-step1: Fill a stockpot with water and place on high heat to boil. This will be used to blanch the haricot vert. <p> Slice the scallions finely. </p>
+step1: Fill a stockpot with water and place on high heat to boil. This will be used to blanch the haricot vert. <p> Slice the shallots finely. </p>
 
 image2: <img src="/images/pouletmoutarde2.jpeg"/>
 step2: Preheat the oven to 350˚. <p> Place the butter in a stockpot and set on medium high heat. Once the butter is hot, add the shallots. The shallots will cook quickly, and will start to burn on the sides. (This is the desired effect!) Keep sautéing the shallots until they are brown, translucent, and soft. </p>
