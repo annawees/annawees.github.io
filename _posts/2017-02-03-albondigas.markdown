@@ -17,8 +17,8 @@ fiber: 9g
 fat: 28g
 protein: 49g
 
-ingredient1: <img src="/images/groundchuck.jpeg"/>3/4 lb ground chuck
-ingredient2: <img src="/images/quesofresco.jpegg"/>1 oz queso fresco
+ingredient1: <img src="/images/groundbeef.jpeg"/>3/4 lb ground chuck
+ingredient2: <img src="/images/quesofresco.jpeg"/>1 oz queso fresco
 ingredient3: <img src="/images/egg.jpeg"/>1 egg
 ingredient4: <img src="/images/radishes.jpeg"/>3 radishes
 ingredient5: <img src="/images/avocado.jpeg"/>1 avocado
