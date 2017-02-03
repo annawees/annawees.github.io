@@ -42,6 +42,10 @@ step3: Finely dice the garlic. Add a small amount of olive oil to the bottom of 
 image4: <img src="/images/melanzaneallaparmigiana4.jpeg"/>
 step4: Add the tomato puree and 1/4 tsp of salt. Lower the heat to medium low and allow for the tomato sauce to simmer until reduced by 25%.
 
+image5: <img src="/images/melanzaneallaparmigiana5.jpeg"/> 
+step5: <i>While the tomato sauce reduces</i>, cut the mozzarella in wafer-thin slices. Remove the basil leaves from the stem.
+<p><i>Set aside any leaves smaller than 1/2 inch for plating</i></p>
+
 
 
 image7: <img src="/images/melanzaneallaparmigiana7.jpeg"/>
