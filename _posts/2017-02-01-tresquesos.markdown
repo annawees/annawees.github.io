@@ -6,7 +6,7 @@ thumbnail: "/images/tresquesos.jpg"
 
 time: 3 Hr 15 Min
 serves: Eight
-spice: mild
+spice: Mild
 
 ingredient1: <img src="/images/crema.jpeg"/> 1 1/2 c crema mexicana
 ingredient2: <img src="/images/chevre.jpeg"/> 1 c chèvre
