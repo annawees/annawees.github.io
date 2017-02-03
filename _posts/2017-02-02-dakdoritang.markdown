@@ -6,9 +6,9 @@ thumbnail: "/images/dakdoritang.jpg"
 
 description: Chicken legs are browned and then braised in gochujang; a savory, spicy, and pungent Korean sauce. 
 
-Time: 45 Min
-Spice: Medium
-Serves: Two
+time: 45 Min
+spice: Medium
+serves: Two
 
 calories: 630
 carbs: 78g
