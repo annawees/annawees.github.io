@@ -28,9 +28,9 @@ ingredient9: <a href="https://www.amazon.com/Kikkoman-Lite-Sauce-64-Ounce-Bottle
 ingredient10: <a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1486159408&sr=1-4&keywords=sesame+oil&linkCode=ll1&tag=cilalime09-20&linkId=ad91a2c68c2f65c97a446e5934e0712f"><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</a>
 ingredient11: <a href="https://www.amazon.com/KOKUHO-RICE-SUSHI-5-LB/dp/B000FJLXHU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1486159373&sr=1-3&keywords=sushi+rice&linkCode=ll1&tag=cilalime09-20&linkId=65ab8742ced525a5a7d35a733ad0e6e2"><img src="/images/sushirice.jpeg"/>1/2 cup sushi rice</a>
 
-equipment1: <a href=""><img src="/images/stockpot.jpeg"/>stockpot </a>
-equipment2: <a href=""><img src="/images/finegrater.jpeg"/>fine grater </a></div>
-equipment3: <a href=""><img src="/images/vegetablepeeler.jpeg"/>vegetable peeler</a>
+equipment1: <a href="https://www.amazon.com/Creuset-Shallow-Dutch-French-Cerise/dp/B01IWBZU58/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1486159730&sr=1-2&keywords=le+creuset&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=0223758ce585935b756c73bfb023ee46"><img src="/images/stockpot.jpeg"/>stockpot </a>
+equipment2: <a href="https://www.amazon.com/Microplane-40020-Classic-Zester-Grater/dp/B00004S7V8/ref=as_li_ss_tl?ie=UTF8&qid=1486159618&sr=8-6&keywords=microplane+fine+grater&linkCode=ll1&tag=cilalime09-20&linkId=2f4e20c0c23a87c254b5cd6eb6048999"><img src="/images/finegrater.jpeg"/>fine grater </a></div>
+equipment3: <a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B001BCFTWU/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1486159642&sr=1-7&keywords=vegetable+peeler&linkCode=ll1&tag=cilalime09-20&linkId=effed3dfd5843bf8b7770a49d27aaa09"><img src="/images/vegetablepeeler.jpeg"/>vegetable peeler</a>
   
 image1: <img src="/images/dakdoritang1.jpeg"/>
 step1: Finely chop the garlic and slice the scallions.
