@@ -40,7 +40,6 @@ $susy: (
   gutter-position: after,
   container: $large,
   global-box-sizing: border-box,
-  @include clearfix;
   // debug: (
   //   image: show,
   //   color: blue,
