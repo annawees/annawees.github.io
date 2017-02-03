@@ -2,16 +2,11 @@
 layout: single
 title: Cassoulet
 category: recipe
-thumbnail: ""
+
+description: Cozy up with this classic French dish. Tender bites of lamb, bacon, Westphalia sausage, and beans are braised in white wine, rosemary, and thyme.
+
 tags: [french, provence, lamb, sausage, bacon, one pot]
 ---
-<div class="backgroundvideo">
-  <video autoplay loop muted class="banner__video" poster="">
-    <source src="" type="video/mp4"></video>
-  <div class="overlay"> <h1> Cassoulet </h1></div>
-</div>
-
-Cozy up with this classic French dish. Tender bites of lamb, bacon, Westphalia sausage, and beans are braised in white wine, rosemary, and thyme.
 
 <div id= "recipedetails">
 <div id= "time"> Time </div>
