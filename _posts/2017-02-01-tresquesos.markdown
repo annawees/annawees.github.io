@@ -8,6 +8,12 @@ time: 3 Hr 15 Min
 serves: Eight
 spice: Mild
 
+calories: 365
+carbs: 15g
+fiber: 0g
+fat: 29g
+protein: 12g
+
 ingredient1: <img src="/images/crema.jpeg"/> 1 1/2 c crema mexicana
 ingredient2: <img src="/images/chevre.jpeg"/> 1 c chèvre
 ingredient3: <img src="/images/creamcheese.jpeg"/> 1 c cream cheese
