@@ -17,17 +17,16 @@ fat: 16g
 protein: 34g
 
 ingredient1: <img src="/images/drumstick.jpeg"/> 4 chicken drumsticks
-ingredient2: <img src="/images/beansprout.jpeg"/>1/4 lb mung bean sprouts
-ingredient3: <img src="/images/3carrot.jpeg"/>3 carrots
-ingredient4: <img src="/images/sweetpotato.jpeg"/>1 sweet potato
-ingredient5: <img src="/images/2scallion.jpeg"/>2 scallions
-ingredient6: <img src="/images/2garlic.jpeg"/>2 garlic cloves
-ingredient7: <img src="/images/thaichili.jpeg"/> 2 thai chilis
-ingredient8: <img src="/images/ginger.jpeg"/>1 inch ginger
-ingredient9: <img src="/images/gochujang.jpeg"/>3 tbsp gochujang
-ingredient10: <img src="/images/tamari.jpeg"/>3 tbsp soy sauce
-ingredient11: <a href=""><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</a>
-ingredient12: <a href=""><img src="/images/sushirice.jpeg"/>1/2 cup sushi rice</a>
+ingredient2: <img src="/images/3carrot.jpeg"/>3 carrots
+ingredient3: <img src="/images/sweetpotato.jpeg"/>1 sweet potato
+ingredient4: <img src="/images/2scallion.jpeg"/>2 scallions
+ingredient5: <img src="/images/2garlic.jpeg"/>2 garlic cloves
+ingredient6: <img src="/images/thaichili.jpeg"/> 2 thai chilis
+ingredient7: <img src="/images/ginger.jpeg"/>1 inch ginger
+ingredient8: <a href="https://www.amazon.com/Sunchang-Pepper-Paste-Gochujang-500g/dp/B013HB0CC4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1486159504&sr=1-4&keywords=gochujang&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c2cac602199dd4c4bec03c4a88e6141e"><img src="/images/gochujang.jpeg"/>1/4 c gochujang </a>
+ingredient9: <a href="https://www.amazon.com/Kikkoman-Lite-Sauce-64-Ounce-Bottle/dp/B000NYFBCA/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1486159464&sr=1-2&keywords=soy+sauce&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=dd15b27b65f13c6a6e1f93904d0364f0"><img src="/images/tamari.jpeg"/>1/4 c soy sauce</a>
+ingredient10: <a href="https://www.amazon.com/Tourangelle-Toasted-Sesame-Oil-Expeller-pressed/dp/B005WXMPMQ/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1486159408&sr=1-4&keywords=sesame+oil&linkCode=ll1&tag=cilalime09-20&linkId=ad91a2c68c2f65c97a446e5934e0712f"><img src="/images/sesameoil.jpeg"/>2 tbsp sesame oil</a>
+ingredient11: <a href="https://www.amazon.com/KOKUHO-RICE-SUSHI-5-LB/dp/B000FJLXHU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1486159373&sr=1-3&keywords=sushi+rice&linkCode=ll1&tag=cilalime09-20&linkId=65ab8742ced525a5a7d35a733ad0e6e2"><img src="/images/sushirice.jpeg"/>1/2 cup sushi rice</a>
 
 equipment1: <a href=""><img src="/images/stockpot.jpeg"/>stockpot </a>
 equipment2: <a href=""><img src="/images/finegrater.jpeg"/>fine grater </a></div>
