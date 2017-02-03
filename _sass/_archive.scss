@@ -175,10 +175,11 @@
     margin-right: 0; /* reset before mixin does its thing*/
     @include span(6 of 12 split);
      
+     /*
   &:nth-child(1),
   &:nth-child(3), {
     width: (12 of 12 split);
-  }
+  }*/
 
     .archive__item-teaser {
       max-height: 120px;
