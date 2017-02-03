@@ -17,9 +17,9 @@ fat: 16g
 protein: 34g
 
 ingredient1: <img src="/images/drumstick.jpeg"/> 4 chicken drumsticks
-ingredient2: <img src="/images/3carrot.jpeg"/>3 carrots
+ingredient2: <img src="/images/carrot.jpeg"/>3 carrots
 ingredient3: <img src="/images/sweetpotato.jpeg"/>1 sweet potato
-ingredient4: <img src="/images/2scallion.jpeg"/>2 scallions
+ingredient4: <img src="/images/2scallions.jpeg"/>2 scallions
 ingredient5: <img src="/images/2garlic.jpeg"/>2 garlic cloves
 ingredient6: <img src="/images/thaichili.jpeg"/> 2 thai chilis
 ingredient7: <img src="/images/ginger.jpeg"/>1 inch ginger
