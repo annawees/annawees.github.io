@@ -2,16 +2,15 @@
 layout: single
 title: Japchae
 category: recipe
-thumbnail:  
-tags: (vegetarian, korean)
----
-Like sushi and the sandwich, this dish was created for royalty. In the 17th century Yi Chung created this dish to please King Gwanghaefun's palate. 
+description:  Like sushi and the sandwich, this dish was created for royalty. In the 17th century Yi Chung created this dish to please King Gwanghaefun's palate. 
 Japchae translates to *jap 잡*  (stir fried) and *chae 채* vegetables, but the vegetables are not the star of the show.
 While the original inception consisted solely of vegetables, when the Chinese introduced the method of creating cellophane noodles the *dangmyeon 당면* quickly stole the show. 
 This sturdy, chewy noodle made of sweet potatoes nestles a variety of vegetables.
+
 Carrots, bell peppers and shiitake mushrooms are fried in sesame oil until tender and then tossed with cooked dangmyeon and fresh spinach.  
 The additon of soy sauce and honey adds the salty, sweet, umami flavor that our palates crave, and assists in wilting the spinach and keeping the noodles from sticking to the bottom ot the pan
-
+tags: (vegetarian, korean)
+---
 <ul>
 <div id= "recipedetails">
 <div id= "time"> Time </div>
