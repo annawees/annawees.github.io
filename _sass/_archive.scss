@@ -172,15 +172,15 @@
 }
 
 .item1of3 {
-  width: 28.57143%;
+  @include span(1 of 3);
 }
 
 .item2of3 {
-  width: 64.28571%;
+  @include span(2 of 3);
 }
 
 .item3of3 {
-  width: 100%;
+  @include span(3 of 3);
 }
    
   .page__meta {
