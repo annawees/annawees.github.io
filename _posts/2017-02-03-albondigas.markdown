@@ -16,20 +16,20 @@ fiber: 9g
 fat: 28g
 protein: 49g
 
-ingredient1: <img src="/images/ingredients/groundchuck.png"/>3/4 lb ground chuck
-ingredient2: <img src="/images/ingredients/quesofresco.png"/>1 oz queso fresco
-ingredient3: <img src="/images/ingredients/egg.png"/>1 egg
-ingredient4: <img src="/images/ingredients/radishes.png"/>3 radishes
-ingredient5: <img src="/images/ingredients/avocado.png"/>1 avocado
-ingredient6: <img src="/images/ingredients/cilantro.png"/>1/4 bunch cilantro
-ingredient7: <img src="/images/ingredients/shallots.png"/>2 shallots
-ingredient8: <a href="https://www.amazon.com/gp/product/B001SAWI38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001SAWI38&linkId=f50a9f64e07d6fe1dfa9c524415c9b72"><img src="/images/ingredients/tomatopuree.png"/>1 cup tomato puree</a>
-ingredient9: <a href="https://www.amazon.com/gp/product/B000LRKPAC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000LRKPAC&linkId=9f43b3d2ff96a2f6c8771dce441f2084"><img src="/images/ingredients/whitewinevinegar.png"/>1/4 cup white wine vinegar</a>
-ingredient10: <a href="https://www.amazon.com/gp/product/B0086PGTOC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0086PGTOC&linkId=865c1e77ae03f6c46059ff0763fc683d"><img src="/images/ingredients/panko.png"/>1/4 cup panko breadcrumbs</a>
-ingredient11: <a href="https://www.amazon.com/gp/product/B00DBETL5M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00DBETL5M&linkId=06994a432365b52df033e059887aa858"><img src="/images/ingredients/groundchipotle.png"/>1 1/2 tsp ground chipotle</a>
-ingredient12: <a href="https://www.amazon.com/gp/product/B00A3811VG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00A3811VG&linkId=f28f3c9922f716503875538a24d95a8d"><img src="/images/ingredients/groundnmchili.png"/>1 tsp ground New Mexico chili</a>
-ingredient13: <a href="https://www.amazon.com/gp/product/B0035O0ZRQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0035O0ZRQ&linkId=4961647e23e075d146cf7f43b0f39ddb"><img src="/images/ingredients/groundchilidearbol.png"/>1/2 tsp ground cili de arbol</a>
-ingredient14: <a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/ingredients/groundcumin.png"/>1/2 tsp ground cumin</a>
+ingredient1: <img src="/images/groundchuck.jpeg"/>3/4 lb ground chuck
+ingredient2: <img src="/images/quesofresco.jpegg"/>1 oz queso fresco
+ingredient3: <img src="/images/egg.jpeg"/>1 egg
+ingredient4: <img src="/images/radishes.jpeg"/>3 radishes
+ingredient5: <img src="/images/avocado.jpeg"/>1 avocado
+ingredient6: <img src="/images/cilantro.jpeg"/>1/4 bunch cilantro
+ingredient7: <img src="/images/shallot.jpeg"/>2 shallots
+ingredient8: <a href="https://www.amazon.com/gp/product/B001SAWI38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001SAWI38&linkId=f50a9f64e07d6fe1dfa9c524415c9b72"><img src="/images/tomatopuree.jpeg"/>1 cup tomato puree</a>
+ingredient9: <a href="https://www.amazon.com/gp/product/B000LRKPAC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000LRKPAC&linkId=9f43b3d2ff96a2f6c8771dce441f2084"><img src="/images/whitewinevinegar.jpeg"/>1/4 cup white wine vinegar</a>
+ingredient10: <a href="https://www.amazon.com/gp/product/B0086PGTOC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0086PGTOC&linkId=865c1e77ae03f6c46059ff0763fc683d"><img src="/images/panko.jpeg"/>1/4 cup panko breadcrumbs</a>
+ingredient11: <a href="https://www.amazon.com/gp/product/B00DBETL5M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00DBETL5M&linkId=06994a432365b52df033e059887aa858"><img src="/images/groundchipotle.jpeg"/>1 1/2 tsp ground chipotle</a>
+ingredient12: <a href="https://www.amazon.com/gp/product/B00A3811VG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00A3811VG&linkId=f28f3c9922f716503875538a24d95a8d"><img src="/images/groundnmchili.jpeg"/>1 tsp ground New Mexico chili</a>
+ingredient13: <a href="https://www.amazon.com/gp/product/B0035O0ZRQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0035O0ZRQ&linkId=4961647e23e075d146cf7f43b0f39ddb"><img src="/images/groundchilidearbol.jpeg"/>1/2 tsp ground cili de arbol</a>
+ingredient14: <a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/groundcumin.jpeg"/>1/2 tsp ground cumin</a>
 
 image1: <img src="/images/albondigas/albondigas1.png"/>
 step1: Place the ground beef in a bowl. Add the cumin, chile de arbol powder, 1/2 tsp chipotle powder, and 1/4 tsp of salt. Mix.
