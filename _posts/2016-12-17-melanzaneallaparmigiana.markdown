@@ -42,6 +42,18 @@ step3: Finely dice the garlic. Add a small amount of olive oil to the bottom of 
 image4: <img src="/images/melanzaneallaparmigiana4.jpeg"/>
 step4: Add the tomato puree and 1/4 tsp of salt. Lower the heat to medium low and allow for the tomato sauce to simmer until reduced by 25%.
 
+image5: <img src="/images/melanzaneallaparmigiana5.jpeg"/> 
+step5: <i>While the tomato sauce reduces</i>, cut the mozzarella in wafer-thin slices. Remove the basil leaves from the stem.
+<p><i>Set aside any leaves smaller than 1/2 inch for plating</i></p>
+
+image6: <img src="/images/melanzaneallaparmigiana6.jpeg"/>
+step6: Once the eggplant has finished broiling, and the tomato sauce has reduced, assemble the stacks on a roasting pan or baking sheet <p>Lay down the eggplant and top with the tomato sauce, a basil leaf, and mozzarella.</p> <p>Keep stacking. Alternate the eggplant, basil, tomato sauce, and mozzarella.</p> <p>Cover the eggplant with the parmesan (reserve a small amount of the parmesan for the rocket salad).</p><p>Reduce the oven temperature to 450˚. Bake for 7 minutes until the cheese melts and begins to brown.</p>
+
+image7: <img src="/images/melanzaneallaparmigiana7.jpeg"/>
+step7: While the eggplants bake, assemble the salad.<p>Place the arugula in a bowl. Add 1/2 tbsp of olive oil, and squeeze the juice of a lemon on to the salad. Mix. Grate the remaining parmesan on top of the salad.</p>
+
+image8: <img src="/images/melanzaneallaparmigiana8.jpeg"/> 
+step8: Sprinkle the reserved small basil leaves over the eggplant stacks. Serve with the salad.
 
 tags: [italian, vegetarian, cheese]
 ---
