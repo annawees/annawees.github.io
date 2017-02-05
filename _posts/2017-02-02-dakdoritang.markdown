@@ -59,7 +59,7 @@ step8: Add the sweet potato, carrots, previously browned chicken, and mung bean 
 image9: <img src="/images/dakdoritang9.jpeg"/>
 step9: Set a saucepan with 2/3 cup of water with 1/4 tsp of salt on high heat.<p>While waiting for the water to come to a boil, wash the rice. Place the rice in a large bowl and cover with water. Swish your hands in the rice until the water becomes cloudy, and then drain the rice. Add more water, swish again, and drain the rice. Repeat swishing and draining one more time.</p>
   
-image10: <img src="/images/dakdoritang10.jpeg"/> </div>
+image10: <img src="/images/dakdoritang10.jpeg"/>
 step10: Once the water has come to a boil add the washed sushi rice, cover and cook for 15 minutes.<p>After the rice has cooked for 15 minutes, remove the rice from heat. Keep the rice covered to allow for all the water to fully absorb into the grains of rice.</p>
   
  
