@@ -23,3 +23,9 @@ thumbnail: "/images/mexicocity.jpg"
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww&callback=initMap">
     </script>
   </body>
+   <style>
+      #map {
+        height: 400px;
+        width: 100%;
+       }
+    </style>
