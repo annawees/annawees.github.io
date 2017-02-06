@@ -31,7 +31,6 @@ thumbnail: "/images/mexicocity.jpg"
     </style>
     
     
-    <html>
   <head>
     <style>
       #map {
@@ -60,4 +59,3 @@ thumbnail: "/images/mexicocity.jpg"
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww&callback=initMap">
     </script>
   </body>
-</html>
