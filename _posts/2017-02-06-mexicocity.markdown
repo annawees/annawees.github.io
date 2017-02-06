@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: map
 title: Mexico City
 category: travel
 thumbnail: "/images/mexicocity.jpg"
