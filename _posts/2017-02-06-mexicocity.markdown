@@ -2,7 +2,7 @@
 layout: single
 title: Mexico City
 category: travel
-thumbnail: 
+thumbnail: "/images/mexicocity.jpg"
 --- 
 
 <html>
