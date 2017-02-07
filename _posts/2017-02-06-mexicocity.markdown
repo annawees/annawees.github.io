@@ -15,7 +15,8 @@ tags: [restaurants, mexico, north america]
          var romitacomedor = {lat: 19.4190907, lng: -99.1591261};
          var limosneros = {lat: 19.4360717, lng: -99.1399995};
          var elbajio = {lat: 19.4274398, lng: -99.2313077};
-         var tamalesemporio= {lat: 19.4413154, lng: -99.1662029};
+         var tamalesemporio = {lat: 19.4413154, lng: -99.1662029};
+         var laclandestina = {lat: 19.416185, lng: -99.1713497};
          
          var map = new google.maps.Map(document.getElementById('map'), {
            zoom: 13,
