@@ -37,6 +37,8 @@ tags: [restaurants, mexico, north america]
             '</div>'+
             '<h1 id="firstHeading" class="firstHeading">Pujol</h1>'+
             '<div id="bodyContent">'+
+            Calle Francisco Petrarca 254, Miguel Hidalgo, Polanco, 11570 Ciudad de México, CDMX, Mexico
+            '<a href="https://www.opentable.com.mx/restaurant/profile/3542?ref=16420">Reservations</a>'
             '</div>'+
             '</div>';
             
