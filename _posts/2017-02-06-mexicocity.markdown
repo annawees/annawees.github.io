@@ -46,7 +46,17 @@ tags: [restaurants, mexico, north america]
   });
           
         var marker = new google.maps.Marker({
-          position: pujol, elbajio, tamalesemporio,
+          position: pujol,
+          map: map
+        });
+        
+        var marker = new google.maps.Marker({
+          position: elbajio,
+          map: map
+        });
+        
+        var marker = new google.maps.Marker({
+          position: tamalesemporio,
           map: map
         });
         
