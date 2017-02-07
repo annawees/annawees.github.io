@@ -26,7 +26,7 @@ tags: [restaurants, mexico, north america]
           
         var mapElement = document.getElementById('map');
 
-        var map = new google.maps.Map(mapElement, mapOptions);
+        var map = google.maps.Map(mapElement, mapOptions);
           
         var marker = new google.maps.Marker({
           position: pujol, elbajio, tamalesemporio,
