@@ -13,6 +13,7 @@ thumbnail: "/images/mexicocity.jpg"
         var julesbasement = {lat: 19.4305983, lng: -99.1983094};
         var yuban = {lat: 19.4188352, lng: -99.1662856};
         var romitacomedor = {lat: 19.4190907, lng: -99.1591261};
+        var limosneros = {lat: 19.4360717, lng: -99.1399995};
         
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 13,
@@ -30,6 +31,10 @@ thumbnail: "/images/mexicocity.jpg"
         });
         var marker = new google.maps.Marker({
           position: yuban,
+          map: map
+        });
+        var marker = new google.maps.Marker({
+          position: limosneros,
           map: map
         });
          var marker = new google.maps.Marker({
