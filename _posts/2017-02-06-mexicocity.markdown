@@ -39,36 +39,31 @@ tags: [restaurants, mexico, north america]
             },
             {
                 "lightness": 17
-            }
-        ]
-    },
-    {
-        "featureType": "landscape",
-        "elementType": "geometry",
-        "stylers": [
+                  }]
+            },
+              {
+            "featureType": "landscape",
+            "elementType": "geometry",
+            "stylers": [
             {
                 "color": "#f5f5f5"
             },
             {
                 "lightness": 20
-            }
-        ]
-    },
-    {
-        "featureType": "road.highway",
-        "elementType": "geometry.fill",
-        "stylers": [
-            {
-                "color": "#ffffff"
-            },
-            {
-                "lightness": 17
-            }
-        ]
-    },
-    {
-        "featureType": "road.highway",
-        "elementType": "geometry.stroke",
+              }]
+             },
+             {
+            "featureType": "road.highway",
+            "elementType": "geometry.fill",
+            "stylers": [
+                {"color": "#ffffff"
+                },
+                {"lightness": 17
+                }]
+                  },
+                  {
+            "featureType": "road.highway",
+             "elementType": "geometry.stroke",
         "stylers": [
             {
                 "color": "#ffffff"
