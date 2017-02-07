@@ -1,6 +1,7 @@
 ---
 layout: map
 title: Vietnam
+thumbnail: "/images/vietnam.markdown"
 ---
 <html>
     <head>
