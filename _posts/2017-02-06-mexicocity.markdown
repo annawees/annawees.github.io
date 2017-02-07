@@ -32,7 +32,7 @@ tags: [restaurants, mexico, north america]
           center: pujol
         });
         
-        var contentString = '<div id="content">'+
+        var contentString = '<div id="contentclick">'+
       '<div id="siteNotice">'+
       '</div>'+
       '<h1 id="firstHeading" class="firstHeading">Uluru</h1>'+
