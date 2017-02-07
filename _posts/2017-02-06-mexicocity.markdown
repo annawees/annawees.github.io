@@ -55,7 +55,6 @@ tags: [restaurants, mexico, north america]
         var marker = new google.maps.Marker({
            position: pujol,
            map: map
-           title: Pujol
         });
         
          
