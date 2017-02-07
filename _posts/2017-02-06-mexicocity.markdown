@@ -58,9 +58,6 @@ tags: [restaurants, mexico, north america]
           position: elbajio,
           map: map
         });
-        marker.addListener('click', function() {
-            infowindow.open(map, marker);
-        });
         
         var marker = new google.maps.Marker({
           position: tamalesemporio,
