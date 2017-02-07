@@ -9,12 +9,17 @@ thumbnail: "/images/mexicocity.jpg"
     <script>
       function initMap() {
         var pujol = {lat: 19.4336213, lng: -99.1877135};
+        var julesbasement ={lat:19.4305983, lng: -99.1983094};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 8,
-          center: mexicocity
+          center: pujol
         });
         var marker = new google.maps.Marker({
           position: pujol,
+          map: map
+        });
+        var marker = new google.maps.Marker({
+          position: julesbasement,
           map: map
         });
       }
