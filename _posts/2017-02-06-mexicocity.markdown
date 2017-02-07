@@ -27,14 +27,10 @@ tags: [restaurants, mexico, north america]
                     title: 'Snazzy!'
                 });
             }
-        </script>
-        <div id="map"></div>
+</script>
 
 
-
-  <body>
-    <div id="map"></div>
-    <script>
+<script>
       function initMap() {
         var pujol = {lat: 19.434475, lng: -99.187655};
         var julesbasement = {lat: 19.4305983, lng: -99.1983094};
