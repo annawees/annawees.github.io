@@ -22,6 +22,10 @@ thumbnail: "/images/mexicocity.jpg"
           }
         });
         
+       map.mapTypes.set('styled_map', styledMapType);
+       map.setMapTypeId('styled_map');
+      }
+        
         var marker = new google.maps.Marker({
           position: pujol,
           map: map
