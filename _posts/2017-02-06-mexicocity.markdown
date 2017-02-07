@@ -32,6 +32,10 @@ tags: [restaurants, mexico, north america]
           center: new google.maps.LatLng(19.433636, -99.185466)
         });
         
+        var mapElement = document.getElementById('map');
+        
+        var map = new google.maps.Map(mapElement, mapOptions);
+        
          var contentString = '<div id="content">'+
             '<div id="siteNotice">'+
             '</div>'+
@@ -41,10 +45,12 @@ tags: [restaurants, mexico, north america]
             '<a href="https://www.opentable.com.mx/restaurant/profile/3542?ref=16420">Reservations</a>'+
             '</div>'+
             '</div>';
+       
             
         var infowindow = new google.maps.InfoWindow({
           content: contentString
           });
+        
         
         marker = new google.maps.Marker({
            position: pujol,
