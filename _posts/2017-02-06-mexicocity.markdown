@@ -9,7 +9,10 @@ thumbnail: "/images/mexicocity.jpg"
     <script>
       function initMap() {
         var pujol = {lat: 19.4336213, lng: -99.1877135};
-        var julesbasement = {lat:19.4305983, lng: -99.1983094};
+        var julesbasement = {lat: 19.4305983, lng: -99.1983094};
+        var yuban = {lat: 19.4188352, lng: -99.1662856};
+        var romitacomedor = {lat: 19.4190907, lng: -99.1591261};
+        
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 4,
           center: pujol
@@ -22,6 +25,14 @@ thumbnail: "/images/mexicocity.jpg"
           position: julesbasement,
           map: map
         });
+        var marker = new google.maps.Marker({
+          position: yuban,
+          map: map
+        });
+         var marker = new google.maps.Marker({
+          position: romitacomedor,
+          map: map
+        });
       }
     </script>
     <script async defer
@@ -30,7 +41,6 @@ thumbnail: "/images/mexicocity.jpg"
   </body>
    <style>
       #map {
-        height: 400px;
         width: 100%;
        }
     </style>
