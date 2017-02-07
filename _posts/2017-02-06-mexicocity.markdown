@@ -55,7 +55,11 @@ tags: [restaurants, mexico, north america]
         var marker = new google.maps.Marker({
            position: pujol,
            map: map
-         });
+           title: Pujol
+        });
+        marker.addListener('click', function() {
+            infowindow.open(map, marker);
+        });
          
         var marker = new google.maps.Marker({
           position: elbajio,
