@@ -28,8 +28,7 @@ tags: [restaurants, mexico, north america]
                 });
             }
 </script>
-
-
+<div id="map"></div>
 <script>
       function initMap() {
         var pujol = {lat: 19.434475, lng: -99.187655};
@@ -83,7 +82,6 @@ tags: [restaurants, mexico, north america]
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww&callback=initMap">
     </script>
-  </body>
    <style>
       #map {
         width: 100%;
