@@ -16,7 +16,12 @@ tags: [restaurants, mexico, north america]
   </head>
   <body>
     <div id="map"></div>
-    <script>
+    
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+        
+    <script type="text/javascript">
+          google.maps.event.addDomListener(window, 'load', init);
+            
       function initMap() {
          var pujol = {lat: 19.433636, lng: -99.185466};
          var julesbasement = {lat: 19.4305983, lng: -99.1983094};
