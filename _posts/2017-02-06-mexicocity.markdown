@@ -63,7 +63,7 @@ tags: [restaurants, mexico, north america]
      </script>
    </body>
     <style>
-       #map {
+      #map {
          width: 100%;
          height: 400px;
         }
