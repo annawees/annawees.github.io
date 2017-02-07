@@ -3,6 +3,7 @@ layout: map
 title: Mexico City
 category: travel
 thumbnail: "/images/mexicocity.jpg"
+tags: [restaurants, mexico, north america]
 --- 
 
   <body>
