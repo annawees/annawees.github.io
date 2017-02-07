@@ -18,7 +18,7 @@ tags: [restaurants, mexico, north america]
     <div id="map"></div>
     <script>
       function initMap() {
-         var pujol = {lat: 19.4336415, lng: -99.1876545};
+         var pujol = {lat: 19.433636, lng: -99.185466};
          var julesbasement = {lat: 19.4305983, lng: -99.1983094};
          var yuban = {lat: 19.4188352, lng: -99.1662856};
          var romitacomedor = {lat: 19.4190907, lng: -99.1591261};
