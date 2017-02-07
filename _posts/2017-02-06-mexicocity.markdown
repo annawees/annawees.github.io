@@ -17,7 +17,7 @@ thumbnail: "/images/mexicocity.jpg"
           zoom: 13,
           center: pujol
           styles: [
-            {elementType: 'geometry', stylers: [{color: '#242f3e'}]},
+            {elementType: 'geometry', stylers: [{color: '#d3d3d3'}]},
             {elementType: 'labels.text.stroke', stylers: [{color: '#242f3e'}]},
             {elementType: 'labels.text.fill', stylers: [{color: '#746855'}]},
             {
