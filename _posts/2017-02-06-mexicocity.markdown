@@ -8,7 +8,7 @@ thumbnail: "/images/mexicocity.jpg"
     <div id="map"></div>
     <script>
       function initMap() {
-        var mexicocity = {lat: 19.4326, lng: -99.132};
+        var pujol = {lat: 19.4336213, lng: -99.1877135};
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 8,
           center: mexicocity
