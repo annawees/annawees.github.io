@@ -33,7 +33,20 @@ thumbnail: "/images/vietnam.markdown"
                     position: new google.maps.LatLng(15.881473, 108.344981),
                     map: map,
 		    title: 'Orivy'
-                });
+		    contentString = '<div id="content">'+
+            		'<div id="siteNotice">'+
+            		'</div>'+
+            		'<h1 id="firstHeading" class="firstHeading">Pujol</h1>'+
+            		'<div id="bodyContent">'+
+            		'Calle Francisco Petrarca 254, Miguel Hidalgo, Polanco, 11570 Ciudad de México, CDMX, Mexico'+
+            		'<a href="https://www.opentable.com.mx/restaurant/profile/3542?ref=16420">Reservations</a>'+
+            		'</div>'+
+            		'</div>';
+              	  });
+		
+		var infowindow = new google.maps.InfoWindow({
+         	content: contentString
+          });
             }
         </script>
     </head>
