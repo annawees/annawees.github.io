@@ -14,7 +14,7 @@ thumbnail: "/images/mexicocity.jpg"
         var romitacomedor = {lat: 19.4190907, lng: -99.1591261};
         
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 14,
+          zoom: 9,
           center: pujol
         });
         var marker = new google.maps.Marker({
