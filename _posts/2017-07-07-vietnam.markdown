@@ -5,7 +5,6 @@ thumbnail: "/images/vietnam.markdown"
 ---
 <html>
     <head>
-        <title>Snazzy Maps Super Simple Example</title>
         
         <style type="text/css">
             /* Set a size for our map container, the Google Map will take up 100% of this container */
@@ -15,7 +14,7 @@ thumbnail: "/images/vietnam.markdown"
             }
         </style>
 	
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww"></script>
         
         <script type="text/javascript">
             google.maps.event.addDomListener(window, 'load', init);
@@ -42,9 +41,6 @@ thumbnail: "/images/vietnam.markdown"
         </script>
     </head>
     <body>
-        <h1>Snazzy Maps Super Simple Example</h1>
-        <h2><a href="https://snazzymaps.com/style/1/pale-dawn" target="_blank">Pale Dawn</a></h2>
-
         <div id="map"></div>
     </body>
 </html>
