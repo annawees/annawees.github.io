@@ -47,7 +47,10 @@ tags: [restaurants, mexico, north america]
             '(last visited June 22, 2009).</p>'+
             '</div>'+
             '</div>';
-
+            
+        var infowindow = new google.maps.InfoWindow({
+          content: contentString
+          });
         
         var marker = new google.maps.Marker({
            position: pujol,
