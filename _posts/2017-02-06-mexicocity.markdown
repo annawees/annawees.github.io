@@ -29,7 +29,7 @@ tags: [restaurants, mexico, north america]
          
          var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 13,
-          center: pujol
+          center: new google.maps.LatLng(19.433636, -99.185466)
         });
         
          var contentString = '<div id="content">'+
