@@ -15,7 +15,6 @@ thumbnail: "/images/mexicocity.jpg"
         
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 16,
-          [
     {
         "featureType": "water",
         "elementType": "geometry.fill",
@@ -199,7 +198,6 @@ thumbnail: "/images/mexicocity.jpg"
             }
         ]
     }
-]
           center: pujol
         });
         var marker = new google.maps.Marker({
