@@ -5,8 +5,8 @@ category: travel
 thumbnail: "/images/mexicocity.jpg"
 tags: [restaurants, mexico, north america]
 ---
-<body>
-     <div id="map"></div>
+
+<div id="map"></div>
      <script>
        function initMap() {
          var pujol = {lat: 19.434475, lng: -99.187655};
@@ -36,8 +36,7 @@ tags: [restaurants, mexico, north america]
         var marker = new google.maps.Marker({
           position: tamalesemporio,
           map: map
-        });
-         
+        }); 
          var marker = new google.maps.Marker({
            position: julesbasement,
            map: map
@@ -55,9 +54,7 @@ tags: [restaurants, mexico, north america]
            map: map
          });
        }
-             
-             
-     </script>
+       </script>
      <script async defer
      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww&callback=initMap">
      </script>
