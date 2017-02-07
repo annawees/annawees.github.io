@@ -5,15 +5,7 @@ category: travel
 thumbnail: "/images/mexicocity.jpg"
 tags: [restaurants, mexico, north america]
 ---
-<style type="text/css">
-            #map {
-                width: 750px;
-                height: 500px;
-            }
-        </style>
-        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
-        
-        <script type="text/javascript">
+<script>
             google.maps.event.addDomListener(window, 'load', init);
         
             function init() {
