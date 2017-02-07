@@ -53,18 +53,6 @@ tags: [restaurants, mexico, north america]
         marker.addListener('click', function() {
             infowindow.open(map, marker);
         });
-        
-        var contentString = '<div id="content">'+
-            '<div id="siteNotice">'+
-            '</div>'+
-            '<h1 id="firstHeading" class="firstHeading">El Bajio</h1>'+
-            '<div id="bodyContent">'+
-            '</div>'+
-            '</div>';
-            
-        var infowindow = new google.maps.InfoWindow({
-          content: contentString
-          });
          
         var marker = new google.maps.Marker({
           position: elbajio,
