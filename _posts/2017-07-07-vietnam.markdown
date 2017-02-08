@@ -33,7 +33,9 @@ thumbnail: "/images/vietnam.markdown"
  
                  var marker = new google.maps.Marker({
                       position: new google.maps.LatLng(15.881473, 108.344981),
-                      map: map,});
+                      map: map,
+		      title: 'Orivy',
+		      infowindow: myinfowindow});
 		 
 		 var marker = new google.maps.Marker({
                       position: new google.maps.LatLng(15.891473, 108.344981),
