@@ -35,12 +35,10 @@ thumbnail: "/images/vietnam.markdown"
                  var marker = new google.maps.Marker({
                       position: new google.maps.LatLng(15.881473, 108.344981),
                       map: map,
-  		    title: 'Orivy'
 		    
 		    var marker = new google.maps.Marker({
                       position: new google.maps.LatLng(15.878434, 108.330771),
                       map: map,
-  		    title: 'Bánh mì Phượng'
 		    
 		   });
               }
