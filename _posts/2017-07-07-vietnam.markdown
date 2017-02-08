@@ -17,7 +17,6 @@ thumbnail: "/images/vietnam.markdown"
         <script type="text/javascript">
             google.maps.event.addDomListener(window, 'load', init);
 
-        
             function init() {
                 var mapOptions = {
                     zoom: 12,
@@ -34,13 +33,6 @@ thumbnail: "/images/vietnam.markdown"
                     map: map,
 		    title: 'Orivy'});
 		 
-		var infowindow = new google.maps.InfoWindow({ //add relevant data here });
-		
-		marker.infowindow = infowindow;
-
-		marker.addListener('click', function() {return this.infowindow.open(map, this);})
-
-		google.maps.event.addListener(marker, 'click', function() {this.infowindow.open(map, this);
 		
             }
         </script>
