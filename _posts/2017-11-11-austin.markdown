@@ -3,14 +3,6 @@ layout: map
 title: Vietnam
 thumbnail: "/images/vietnam.markdown"
 ---
-<html>
-    <head>
-        
-        <style type="text/css">
-            #map {
-                width: 750px;
-                height: 500px;}
-        </style>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww"></script>
 <script type="text/javascript">
     var markers = [
