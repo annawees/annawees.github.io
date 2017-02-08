@@ -32,10 +32,16 @@ thumbnail: "/images/vietnam.markdown"
                 var marker = new google.maps.Marker({
                     position: new google.maps.LatLng(15.881473, 108.344981),
                     map: map,
-		    title: 'Orivy'
+		    title: 'Orivy'});
+		 
+		var infowindow = new google.maps.InfoWindow({ //add relevant data here });
+		
+		marker.infowindow = infowindow;
 
-         
-          });
+		marker.addListener('click', function() {return this.infowindow.open(map, this);})
+
+		google.maps.event.addListener(marker, 'click', function() {this.infowindow.open(map, this);
+		
             }
         </script>
     </head>
