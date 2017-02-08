@@ -19,7 +19,6 @@ thumbnail: "/images/vietnam.markdown"
          
          <script type="text/javascript">
              google.maps.event.addDomListener(window, 'load', init);
- 
          
              function init() {
                  var mapOptions = {
@@ -34,6 +33,10 @@ thumbnail: "/images/vietnam.markdown"
  
                  var marker = new google.maps.Marker({
                       position: new google.maps.LatLng(15.881473, 108.344981),
+                      map: map,});
+		 
+		 var marker = new google.maps.Marker({
+                      position: new google.maps.LatLng(15.891473, 108.344981),
                       map: map,});
 		    
               }
