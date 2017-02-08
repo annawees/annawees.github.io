@@ -11,13 +11,7 @@ thumbnail: "/images/vietnam.markdown"
                 width: 750px;
                 height: 500px;}
         </style>
-	
-	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww"></script>
-        
-        <script type="text/javascript">
-            <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww"></script>
-         
-         <script type="text/javascript">
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww"></script>
              google.maps.event.addDomListener(window, 'load', init);
          
              function init() {
