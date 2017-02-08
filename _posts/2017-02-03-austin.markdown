@@ -1,3 +1,9 @@
+---
+layout: map
+title: Austin
+category: travel
+travel: [United States, Texas]
+---
 function initMap() {
     var map;
     var bounds = new google.maps.LatLngBounds();
