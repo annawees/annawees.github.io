@@ -1,6 +1,6 @@
 ---
 layout: map
-title: Vietnam
+title: Austin
 category: travel
 thumbnail: "/images/vietnam.markdown"
 ---
