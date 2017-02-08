@@ -16,12 +16,12 @@ thumbnail: "/images/austin.jpg"
   </body>
 </html>
 <style>
-html {
-height: 100%;}
-body {height: 100%;margin: 0;padding: 0;}
-#map-canvas {height: 100%;}
-#iw_container .iw_title {font-size: 16px;font-weight: bold;}
-.iw_content {padding: 15px 15px 15px 0;}
+  html {
+  height: 100%;}
+  body {height: 100%;margin: 0;padding: 0;}
+  #map-canvas {height: 100%;}
+  #iw_container .iw_title {font-size: 16px;font-weight: bold;}
+  .iw_content {padding: 15px 15px 15px 0;}
 <style>
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww">
 
