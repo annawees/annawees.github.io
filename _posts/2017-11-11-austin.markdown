@@ -4,115 +4,85 @@ title: Austin
 category: travel
 thumbnail: "/images/austin.jpg"
 ---
-<html>
-  <head>
-  	<meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww"></script>
-    <script type="text/javascript" src="js/map.js"></script>
-  </head>
-  <body>
-    <div id="map-canvas"/>
-  </body>
-</html>
+<div id="map_wrapper">
+    <div id="map_canvas" class="mapping"></div>
+</div>
 <style>
-  html {
-  height: 100%;}
-  body {height: 100%;margin: 0;padding: 0;}
-  #map-canvas {height: 100%;}
-  #iw_container .iw_title {font-size: 16px;font-weight: bold;}
-  .iw_content {padding: 15px 15px 15px 0;}
-<style>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww">
+#map_wrapper {
+    height: 400px;
+}
 
-var map;
-var infoWindow;
-
-var markersData = [
-   {
-      lat: 40.6386333,
-      lng: -8.745,
-      name: "Camping Praia da Barra",
-      address1:"Rua Diogo CÃ£o, 125",
-      address2: "Praia da Barra",
-      postalCode: "3830-772 Gafanha da NazarÃ©"},
-   {
-      lat: 40.59955,
-      lng: -8.7498167,
-      name: "Camping Costa Nova",
-      address1:"Quinta dos Patos, n.Âº 2",
-      address2: "Praia da Costa Nova",
-      postalCode: "3830-453 Gafanha da EncarnaÃ§Ã£o"
-   },
-   {
-      lat: 40.6247167,
-      lng: -8.7129167,
-      name: "Camping Gafanha da NazarÃ©",
-      address1:"Rua dos BalneÃ¡rios do Complexo Desportivo",
-      address2: "Gafanha da NazarÃ©",
-      postalCode: "3830-225 Gafanha da NazarÃ©"
-   } // don't insert comma in the last item
-];
-
+#map_canvas {
+    width: 100%;
+    height: 100%;
+}
+</style>
+<script>
+jQuery(function($) {
+    // Asynchronously Load the map API 
+    var script = document.createElement('script');
+    script.src = "//maps.googleapis.com/maps/api/js?sensor=false&callback=initialize";
+    document.body.appendChild(script);
+});
 
 function initialize() {
-   var mapOptions = {
-      center: new google.maps.LatLng(40.601203,-8.668173),
-      zoom: 9,
-      mapTypeId: 'roadmap',
-   };
+    var map;
+    var bounds = new google.maps.LatLngBounds();
+    var mapOptions = {
+        mapTypeId: 'roadmap'
+    };
+                    
+    // Display a map on the page
+    map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+    map.setTilt(45);
+        
+    // Multiple Markers
+    var markers = [
+        ['London Eye, London', 51.503454,-0.119562],
+        ['Palace of Westminster, London', 51.499633,-0.124755]
+    ];
+                        
+    // Info Window Content
+    var infoWindowContent = [
+        ['<div class="info_content">' +
+        '<h3>London Eye</h3>' +
+        '<p>The London Eye is a giant Ferris wheel situated on the banks of the River Thames. The entire structure is 135 metres (443 ft) tall and the wheel has a diameter of 120 metres (394 ft).</p>' +        '</div>'],
+        ['<div class="info_content">' +
+        '<h3>Palace of Westminster</h3>' +
+        '<p>The Palace of Westminster is the meeting place of the House of Commons and the House of Lords, the two houses of the Parliament of the United Kingdom. Commonly known as the Houses of Parliament after its tenants.</p>' +
+        '</div>']
+    ];
+        
+    // Display multiple markers on a map
+    var infoWindow = new google.maps.InfoWindow(), marker, i;
+    
+    // Loop through our array of markers & place each one on the map  
+    for( i = 0; i < markers.length; i++ ) {
+        var position = new google.maps.LatLng(markers[i][1], markers[i][2]);
+        bounds.extend(position);
+        marker = new google.maps.Marker({
+            position: position,
+            map: map,
+            title: markers[i][0]
+        });
+        
+        // Allow each marker to have an info window    
+        google.maps.event.addListener(marker, 'click', (function(marker, i) {
+            return function() {
+                infoWindow.setContent(infoWindowContent[i][0]);
+                infoWindow.open(map, marker);
+            }
+        })(marker, i));
 
-   map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+        // Automatically center the map fitting all markers on the screen
+        map.fitBounds(bounds);
+    }
 
-   infoWindow = new google.maps.InfoWindow();
-
-   google.maps.event.addListener(map, 'click', function() {
-      infoWindow.close();
-   });
-
-   displayMarkers();
-}
-google.maps.event.addDomListener(window, 'load', initialize);
-
-function displayMarkers(){
-
-   var bounds = new google.maps.LatLngBounds();
-   
-   for (var i = 0; i < markersData.length; i++){
-
-      var latlng = new google.maps.LatLng(markersData[i].lat, markersData[i].lng);
-      var name = markersData[i].name;
-      var address1 = markersData[i].address1;
-      var address2 = markersData[i].address2;
-      var postalCode = markersData[i].postalCode;
-
-      createMarker(latlng, name, address1, address2, postalCode);
-
-      bounds.extend(latlng);  
-   }
-
-   map.fitBounds(bounds);
-}
-
-function createMarker(latlng, name, address1, address2, postalCode){
-   var marker = new google.maps.Marker({
-      map: map,
-      position: latlng,
-      title: name
-   });
-
-   
-   google.maps.event.addListener(marker, 'click', function() {
-      
-      var iwContent = '<div id="iw_container">' +
-            '<div class="iw_title">' + name + '</div>' +
-         '<div class="iw_content">' + address1 + '<br />' +
-         address2 + '<br />' +
-         postalCode + '</div></div>';
-      
-      infoWindow.setContent(iwContent);
-
-      infoWindow.open(map, marker);
-   });
+    // Override our map zoom level once our fitBounds function runs (Make sure it only runs once)
+    var boundsListener = google.maps.event.addListener((map), 'bounds_changed', function(event) {
+        this.setZoom(14);
+        google.maps.event.removeListener(boundsListener);
+    });
+    
 }
 </script>
