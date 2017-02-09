@@ -39,6 +39,6 @@ thumbnail: "/images/austin.jpg"
         }
       })(marker, i));
     }
-    </script>
+      </script>
 </body>
 </html>
