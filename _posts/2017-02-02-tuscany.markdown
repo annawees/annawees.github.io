@@ -4,10 +4,7 @@ thumbnail: "/images/tuscany.jpg"
 category: travel
 layout: map
 ---
-  <head>
-  	<meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="sass/style.css">
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww"></script>
-    <script type="text/javascript" src="assets/js/map.js"></script>
-  </head>
-    <div id="map-canvas"/>
+<link rel="stylesheet" type="text/css" href="sass/style.css">
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww"></script>
+<script type="text/javascript" src="assets/js/map.js"></script>
+<div id="map-canvas"/>
