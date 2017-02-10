@@ -2,7 +2,7 @@
 title: Tuscany
 thumbnail: "/images/tuscany.jpg"
 category: travel
-layout: map
+layout: single
 ---
   <head>
   	<meta charset="utf-8">
