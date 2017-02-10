@@ -1,4 +1,3 @@
-<script>
 function initMap() {
     var map;
     var bounds = new google.maps.LatLngBounds();
@@ -57,4 +56,3 @@ function initMap() {
     
 }
 google.maps.event.addDomListener(window, 'load', initMap);
-</script>
