@@ -6,7 +6,7 @@ layout: single
 ---
   <head>
   	<meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="sass/style.css">
     <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBjiDtJdMbIB54fTQAPJV7bljadWrv0Jww"></script>
     <script type="text/javascript" src="assets/js/map.js"></script>
   </head>
