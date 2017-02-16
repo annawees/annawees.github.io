@@ -22,6 +22,8 @@
   }
 
   .page__inner-wrap {
+    padding-left: 1 em;
+    padding-right: 1 em;
     @include full();
 
     .page__content,
@@ -419,7 +421,11 @@
 
 #figcaption {
   color: white;
-  background: rgba(0, 0, 0, 0.1);
+  background: black;
+  background: -webkit-linear-gradient(grey, black);
+  background: -o-linear-gradient(grey, black);
+  background: -moz-linear-gradient(grey, black);
+  background: linear-gradient(grey, black);
   position: absolute;
   bottom: 0%;
   margin: 0;
