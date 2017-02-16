@@ -16,7 +16,6 @@ layout: default
 
   <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
-        <header>
           <div id="figure">
             {% if page.video %}
             <video width="100%" autoplay loop muted class="banner__video" poster="{{page.thumbnail}}">
@@ -33,6 +32,7 @@ layout: default
             </div>
             {% endif %}
           </div>
+  </div>
           
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once | margin-top: 200px }}">{% endif %}
