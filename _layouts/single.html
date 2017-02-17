@@ -241,9 +241,13 @@ layout: default
       {% if page.share %}{% include social-share.html %}{% endif %}
       {% include post_pagination.html %}
 
+    <div id="comments">
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
+    </div>
+    
+    <div id="spacer"></div>
 
   {% if page.related %}
     {% assign n_posts = 0 %}
