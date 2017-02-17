@@ -256,9 +256,9 @@ layout: default
       {% for this_tag in page.tags %}
           {% if post.tags contains this_tag %}
             {% if n_posts == 0 %}
-              <div class="related">
+              <div class="page__related">
                 {% if site.data.ui-text[site.locale].related_label %}
-                  <h2 class="related-title"> {{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+                  <h2 class="page__related-title"> {{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
                 {% endif %}
                 <div class="grid__wrapper">
             {% endif %}
