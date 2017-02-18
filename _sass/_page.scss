@@ -430,9 +430,12 @@
   position: absolute;
   bottom: 0%;
   margin: 0;
-  font-size: 3.5em;
   line-height: 100%;
   width: 100%;
+   @media only screen and (max-device-width: 750px) {
+      font-size: 1 em;}
+   @media only screen and (min-device-width: 760px) {
+      font-size: 3.5 em;}
   }
   
 #spacer { padding-top:100px;}
