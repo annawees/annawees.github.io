@@ -3,6 +3,7 @@ layout: single
 title: Ssampops
 category: recipe
 thumbnail: "/images/ssampop.jpg"
+main:
 
 description: Chicken drumettes are baked until perfectly crunchy and crispy and then tossed in Korean ssamjang, honey, and soy sauce.
 
