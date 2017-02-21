@@ -2,7 +2,8 @@
 layout: single
 title: Albondigas in Chipotle
 category: recipe
-thumbnail: "/images/albondigas.jpg"
+thumbnail: "/images/albondigasthumb.jpg"
+image: "/images/albondigas.jpg"
 video: "/images/albondigas.mp4"
 
 description: The history of the meatball follows the history of colonization and migration. The earliest meatball recipes can be traced to Imperial Rome. Beef, chicken, peacock, rabbit or pork were finely chopped and combined with moist bread and spices and rolled into balls. These tender balls of meat were cooked in boiling salt water, which is the same method used in Germany & Poland today.<p> Although the origin of the meatball may come from Imperial Rome, the Arabs are responsible for the name. Since the 8th century, Arabic countries (specifically Morocco, Lebanon, Syria, and Palestine) have conquered, ruled, and left their mark upon Spanish culture. The Arabs brought their <i>al-bunduqa</i>, a spiced meatball bound with eggs and pan fried in oil. By the 12th century, the <i>al-bunduqa</i> is adopted as the <i>albondiga</i> and consumed by Spaniards of all social classes. </p> <p> As the albondiga is incorporated into Spanish culture, the recipes become more complex with the addition of fresh herbs, dried chiles, and thick sauces. As the Spaniards conquered new countries, the albondiga became part of their respective cuisines. </p> <p> Our Albondiga recipe comes from Mexico. These spice-kissed beef meatballs are browned until crisp and then cooked in a chipotle tomato sauce. The smoky, spicy sauce is then topped with creamy avocados, pickled radishes, queso fresco and cilantro. </p>
