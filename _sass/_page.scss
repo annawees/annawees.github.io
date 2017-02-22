@@ -11,8 +11,8 @@
   padding-left: 5%;
   padding-right: 5%;
 
- @include breakpoint($x-large) {
-    max-width: $x-large;
+ @include breakpoint($large) {
+    max-width: $large;
   }
 }
 
