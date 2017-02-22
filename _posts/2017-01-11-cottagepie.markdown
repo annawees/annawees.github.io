@@ -2,7 +2,8 @@
 layout: single
 title: Curried Cottage Pie
 category: recipe
-thumbnail: "/images/cottagepie.jpg"
+thumbnail: "/images/cottagepiethumb.jpg"
+image: "/images/cottagepie.jpg"
 description: This classic british dish is brought to new heights with Indian spices. Onions, carrots, peas, tomatoes and beef are coated in aromatic Indian spices and topped with a potato crust.
 
 time: 40 Min
