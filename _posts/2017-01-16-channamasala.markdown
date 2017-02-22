@@ -2,7 +2,8 @@
 layout: single
 title: Chole Masala
 category: recipe
-thumbnail: "/images/channamasala.jpg"
+thumbnail: "/images/cholemasala.jpg"
+image: "/images/cholemasala.jpg"
 
 description: Chole masala is dominant dish in India, Pakistan and take out menus; and every home varies in the adaptation of this popular vegetarian dish. The chickpea dish can be served dry, or in a curry sauce, served at any time of the day, and can include chicken or potatoes. With each rendition, the essentials of the dish stay the same, chickpeas or *chole* simmered with tomatoes, onions and spices that are crave-worthy. While this recipe may not be traditional, it is delicious.
 
