@@ -2,7 +2,8 @@
 layout: single
 title: Bún bò Huê
 category: recipe
-thumbnail: "/images/bunbohue.jpg"
+thumbnail: "/images/bunbohuethumb.jpg"
+image: "/images/bunbohue.jpg"
 video: "/images/bunbohue.mp4"
 
 description: A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and thinly sliced beef. 
