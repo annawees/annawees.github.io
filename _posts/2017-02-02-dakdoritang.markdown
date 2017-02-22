@@ -2,7 +2,8 @@
 layout: single
 title: Dakdoritang
 category: recipe
-thumbnail: "/images/dakdoritang.jpg"
+thumbnail: "/images/dakdoritangthumb.jpg"
+image: "/images/dakdoritang.jpg"
 
 description: Chicken legs are browned and then braised in gochujang; a savory, spicy, and pungent Korean sauce. 
 
