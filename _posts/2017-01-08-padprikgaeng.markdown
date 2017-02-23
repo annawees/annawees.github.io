@@ -2,7 +2,8 @@
 layout: single
 title: Pad Prik Gaeng
 category: recipe
-thumbnail: "/images/padprikgaeng.jpg"
+thumbnail: "/images/padprikgaengthumb.jpg"
+images: "/images/padprikgaeng.jpg"
 description: Fragrant spices are combined to produce a spicy, complex curry paste. This thai red curry paste perfectly coats stir fried chicken and green beans for a dish that will excite your palate. 
 
 time: 35 Minutes
