@@ -38,7 +38,7 @@ image2: <img src="/images/crabstuffedpoblanos2.jpeg"/>
 step2: Slice the shallots.
 
 image3: <img src="/images/crabstuffedpoblanos3.jpeg"/>
-step3: Place the poblanos and shallots on a baking sheet or roasting pan. Broil until the poblanos develop a char, approximately 5-7 minutes. Turn them over halfway during cooking. <p>Remove the poblanos from the oven and reduce the heat to 350˚.</p> <p>v<i>Keep an eye on the shallots! They can burn easily.</i> </p>
+step3: Place the poblanos and shallots on a baking sheet or roasting pan. Broil until the poblanos develop a char, approximately 5-7 minutes. Turn them over halfway during cooking. <p>Remove the poblanos from the oven and reduce the heat to 350˚.</p> <p><i>Keep an eye on the shallots! They can burn easily.</i> </p>
 
 image4: <img src="/images/crabstuffedpoblanos4.jpeg"/>
 step4: Transfer the poblanos into a bowl and submerge them in cold water to cool them.
@@ -46,13 +46,13 @@ step4: Transfer the poblanos into a bowl and submerge them in cold water to cool
 image5: <img src="/images/crabstuffedpoblanos5.jpeg"/>
 step5: Place the crab in a bowl along with the roasted shallots, cumin, chile de arbol, New Mexico chili powder, ancho, 1/4 tsp of salt, and egg. Mix.
 
-image6: <img src="/images/crabstuffedpoblanos6.jpeg"/> </div>
+image6: <img src="/images/crabstuffedpoblanos6.jpeg"/>
 step6: Stuff the cooled peppers with the crab mixture. Return the peppers to the oven for an additional 15 minutes.
 
-image7: <img src="/images/crabstuffedpoblanos7.jpeg"/> </div>
+image7: <img src="/images/crabstuffedpoblanos7.jpeg"/>
 step7: <i>While the poblanos bake, assemble the hollandaise.</i> Melt the butter in a saucepan or in the microwave. Transfer to a measuring cup for easy pouring. <p>Place the egg yolk, pinch of salt, and the juice of a lime in a blender. Liquefy. While the blender is running, open up the lid slightly, and slowly add the warm butter.</p>
 
-image8: <img src="/images/crabstuffedpoblanos8.jpeg"/> </div>
+image8: <img src="/images/crabstuffedpoblanos8.jpeg"/>
 step8: Sauce the plate with the hollandaise and top with the roasted poblanos.
 
 tags: [crab, shellfish, mexican, low carb]
