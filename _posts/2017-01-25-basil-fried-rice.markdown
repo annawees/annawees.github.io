@@ -2,7 +2,8 @@
 layout: single
 title: Basil Fried Rice
 category: recipe
-thumbnail: "/images/basilfriedrice.jpg"
+thumbnail: "/images/basilfriedricethumb.jpg"
+image: "/images/basilfriedrice.jpg"
 
 description: You'll find cfried rice served in the restaurants of Yaowarat, the Chinese section of Bangkok. Freshly picked crab, shrimp and fragrant jasmine rice are fried with fresh peas, and basil and topped with a fried egg.
 
