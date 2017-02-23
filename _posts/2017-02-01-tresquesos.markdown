@@ -2,7 +2,8 @@
 layout: single
 type: recipe
 title: Pastel de Tres Quesos
-thumbnail: "/images/tresquesos.jpg"
+thumbnail: "/images/tresquesosthumb.jpg"
+image: "/images/tresquesos.jpg"
 
 time: 3 Hr 15 Min
 serves: Eight
