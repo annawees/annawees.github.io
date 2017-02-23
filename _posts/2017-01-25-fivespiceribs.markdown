@@ -2,7 +2,8 @@
 layout: single
 title: Five Spice Ribs
 category: recipe
-thumbnail: "/images/fivespiceribs.jpg"
+thumbnail: "/images/fivespiceribsthumb.jpg"
+image: "/images/fivespiceribs.jpg"
 description: Inspired by the bites we had in Shanghai, we've braised a short rib in five spice, a traditional Chinese spice blend. Paired with stir fried broccolini and jasmine rice, this dish will excite your palate.
 
 time: 3 Hr
