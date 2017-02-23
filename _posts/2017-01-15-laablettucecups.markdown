@@ -2,7 +2,8 @@
 layout: single
 title: Laab Lettuce Cups
 category: recipe
-thumbnail: "/images/laablettucecups.jpg"
+thumbnail: "/images/laablettucecupsthumb.jpg"
+image: "/images/laablettucecups.jpg"
 video: "/images/laab.mp4"
 description: This addictive thai dish features spicy ground pork spiked with chiles, lime, fish sauce, basil, mint and cilantro a contrast in texture to crisp lettuce. The perfect lunch or dinner, this dish is healthy and flavorful.
 
