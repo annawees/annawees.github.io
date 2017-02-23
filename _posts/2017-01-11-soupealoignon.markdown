@@ -2,7 +2,8 @@
 layout: single
 title: Soupe á L'Oignon
 category: recipe
-thumbnail: "/images/frenchonionsoup.jpg"
+thumbnail: "/images/frenchonionsoupthumb.jpg"
+image: "/images/frenchonionsoup.jpg"
 video: "/images/frenchonionsoup.mp4"
 description: Onion soups have had popularity since ancient Rome. The modern version we eat today originates in France in the 18th century. Onions are cooked in butter until tenderly sweet and simmered with beef stock and herbs. Topped with baguette and bubbly comté, this dish is indulgent with flavor.
 
