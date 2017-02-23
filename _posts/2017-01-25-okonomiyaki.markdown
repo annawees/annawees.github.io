@@ -2,7 +2,8 @@
 layout: single
 title: Okonomiyaki
 category: recipe
-thumbnail: "/images/okonomiyaki.jpg"
+thumbnail: "/images/okonomiyakithumb.jpg"
+image: "/images/okonomiyaki.jpg"
 
 description: Okonomiyaki is the street food of Osaka. In this industrial city of Japan, you can see citizens and tourists devouring these "Japanese pancakes" filled with napa cabbage and topped with pork belly, squid, or octopus. While certainly a shock for most western palates, the combination of the savory batter with rich protein and sweet sauce satisfies the palate.
 
