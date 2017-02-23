@@ -27,7 +27,7 @@ ingredient10: <a href="https://www.amazon.com/Simply-Organic-Garam-Masala-Ounce/
 ingredient11: <a href="https://www.amazon.com/gp/product/B000WS3AJS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WS3AJS&linkId=aa8d30379d619c30d128866d707db320"><img src="/images/groundcumin.jpeg">1/2 tsp ground cumin</a>
 ingredient12: <a href="https://www.amazon.com/Simply-Organic-Cayenne-Certified-Containers/dp/B0019I2FP0/ref=as_li_ss_tl?ie=UTF8&qid=1485667616&sr=8-3&keywords=cayenne&th=1&linkCode=ll1&tag=cilalime09-20&linkId=4c157e9b5fcc695ef7371de498e33a02"><img src="/images/cayenne.jpeg">1/2 tsp ground cayenne</a>
 
-equipment1: <a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B001BCFTWU/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485667646&sr=1-1&keywords=kuhn+rikon+peeler&linkCode=ll1&tag=cilalime09-20&linkId=f97a8efd798e25a2d32458ea411d8a7c"><img src="/images/peeler.jpeg"/> vegetable peeler</a>
+equipment1: <a href="https://www.amazon.com/Kuhn-Rikon-Original-Peeler-Yellow/dp/B001BCFTWU/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1485667646&sr=1-1&keywords=kuhn+rikon+peeler&linkCode=ll1&tag=cilalime09-20&linkId=f97a8efd798e25a2d32458ea411d8a7c"><img src="/images/vegetablepeeler.jpeg"/> vegetable peeler</a>
 
 image1: <img src="/images/saagpaneer1.jpeg"/>
 step1: Slice the onion into 1" slices.
@@ -38,8 +38,8 @@ step2: Peel the ginger. Finely dice the garlic and ginger. <p> Finely slice the 
 image3: <img src="/images/saagpaneer3.jpeg"/>
 step3: Cut the paneer into 1/2" cubes. Sprinkle the cubes of cheese with a pinch of salt.
 
-step4: <img src="/images/saagpaneer4.jpeg"/>
-image4:	Place the butter in a large sauté pan or wide bottomed stockpot and place on medium high heat. Once the butter is hot, fry the paneer cheese on all sides until golden brown. Remove the paneer from the pan, and set aside for later use.
+image4: <img src="/images/saagpaneer4.jpeg"/>
+step4:	Place the butter in a large sauté pan or wide bottomed stockpot and place on medium high heat. Once the butter is hot, fry the paneer cheese on all sides until golden brown. Remove the paneer from the pan, and set aside for later use.
 
 image5: <img src="/images/saagpaneer5.jpeg"/>
 step5:	Add the onions, garlic, thai chiles, ginger, garam masala, cumin and cayenne to the pan. Reduce the heat to medium. Sauté until the onion caramelizes.
