@@ -211,7 +211,7 @@
    @include breakpoint($medium) {
       @include span(6 of 12 split);
        
-    .gallery__item {
+    .grid__item {
         @include span(4 of 12 split);
 
          &:nth-child(4),
