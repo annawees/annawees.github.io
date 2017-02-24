@@ -267,7 +267,7 @@
 }
 
 
-  &--right {
+/*  &--right {
   @include full;
 
   font-size: 1.25rem;
@@ -275,7 +275,7 @@
   .archive__item-teaser {
     margin-bottom: 2em;
   }
-}
+}*/
 
 @include breakpoint($small) {
   text-align: right;
