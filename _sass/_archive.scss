@@ -202,7 +202,7 @@
   }
 
   @include breakpoint($small) {
-    @include span(10 of 10);
+     @include span(10 of 10);
     .archive__item-teaser {
       max-height: 200px;
     }
@@ -218,22 +218,14 @@
     margin-right: 0; /* reset before mixin does its thing*/
      @include span(4 of 12 split);}
      
-     
-  &:nth-child(2n+2),
-  &:nth-child(2n+6), {
-    width: (12 of 12 split);
-  }
+    
 
     .archive__item-teaser {
-      max-height: 120px;
-    }
+      max-height: 120px;}
 
     .archive__item-excerpt {
       display: block;
-      font-size: $type-size-6;
-     }
-        }
-}}
+      font-size: $type-size-6;}
 
 /*
 .gridarchive { 
