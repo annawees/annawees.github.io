@@ -2,7 +2,8 @@
 layout: single
 title: Salade Lyonnaise
 category: recipe
-thumbnail: "/images/saladelyonnaise.jpg"
+thumbnail: "/images/saladelyonnaisethumb.jpg"
+image: "/images/saladelyonnaise.jpg"
 video: "/images/saladelyonnaise.mp4"
 description: Lyon is arguably the best city in France when it comes to food, and it's no surprise that the Salade Lyonnaise is one of the most flavorful salads that France has to offer. A soft poached egg sits on a bed of frisee, asparagus, and leeks and is accented with a warm bacon vinagrette. 
 
