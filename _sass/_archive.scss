@@ -209,14 +209,16 @@
    }
  
    @include breakpoint($medium) {
-     margin-left: 0; /* reset before mixin does its thing*/
-      margin-right: 0; /* reset before mixin does its thing*/
       @include span(6 of 12 split);
          
   
       .archive__item-teaser {
         max-height: 120px;
      }
+       
+     @include breakpoint($large) {
+         @include span(4 of 12 split);}
+       
 .archive__item-excerpt {
        display: block;
        font-size: $type-size-6;
