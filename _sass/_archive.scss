@@ -202,16 +202,16 @@
    }
  
    @include breakpoint($small) {
-     @include span(12 of 12);
+     @include span(12 of 12 split);
      .archive__item-teaser {
        max-height: 200px;
      }
    }
  
    @include breakpoint($medium) {
-       @include span(6 of 12);
+       @include span(6 of 12 split);
          &:nth-child(3n), {
-            width: span(12 of 12);
+            width: span(12 of 12 split);
             }
         }
   
