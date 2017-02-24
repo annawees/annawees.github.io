@@ -294,14 +294,14 @@
 }
 
 
-&--center {
+/*&--center {
   @include full;
 
   font-size: 1.25rem;
 
   .archive__item-teaser {
     margin-bottom: 2em;
-  }
+}}*/
 
   @include breakpoint($small) {
     text-align: center;
@@ -316,4 +316,4 @@
       width: span(7 of 12);
     }
   }
-}
+
