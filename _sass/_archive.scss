@@ -216,7 +216,7 @@
         max-height: 120px;
      }
        
-     @include breakpoint($xlarge) {
+     @include breakpoint($x-large) {
          @include span(4 of 12 split);}
        
 .archive__item-excerpt {
