@@ -2,7 +2,8 @@
 layout: single
 title: Phở Tôm
 category: recipe
-thumbnail: "/images/photom.jpg"
+thumbnail: "/images/photomthumb.jpg"
+image: "/images/photom.jpg"
 video: "/images/photom.mp4"
 description: 
 time: 1 hr 15 min
