@@ -212,8 +212,6 @@
     }
 
     @include breakpoint($small) {
-      @include span(12 of 12);
-      text-align: center;
 
       .archive__item-teaser {
         margin: 0 auto;
@@ -226,8 +224,7 @@
       }
     }
      
-  @include breakpoint($medium){
-     @include span(6 of 12);}
+
    
    }
 }
