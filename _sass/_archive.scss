@@ -209,11 +209,10 @@
    }
  
    @include breakpoint($medium) {
-      @include span(6 of 12 split);
+       @include span(6 of 12 split);}
        
     .grid__item {
         @include span(4 of 12 split);
-
          &:nth-child(4),
          &:nth-child(7), {
             width: span(12 of 12 split);
