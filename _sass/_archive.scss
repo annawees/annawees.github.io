@@ -210,7 +210,15 @@
  
    @include breakpoint($medium) {
       @include span(6 of 12 split);
-         
+       
+    .gallery__item {
+        @include span(4 of 12 split);
+
+         &:nth-child(4),
+         &:nth-child(7), {
+            width: span(12 of 12 split);
+            }
+        }
   
       .archive__item-teaser {
         max-height: 120px;
