@@ -242,7 +242,7 @@
   }
 }
 
-  &--left {
+/*&--left {
   @include full;
 
   font-size: 1.25rem;
@@ -250,7 +250,7 @@
   .archive__item-teaser {
     margin-bottom: 2em;
   }
-}
+}*/
 
 @include breakpoint($small) {
   .archive__item-teaser {
