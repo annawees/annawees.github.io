@@ -225,5 +225,9 @@
         width: span(7 of 12);
       }
     }
-  }
+     
+  @include breakpoint($medium){
+     @include span(6 of 12);}
+   
+   }
 }
