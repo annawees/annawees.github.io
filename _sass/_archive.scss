@@ -159,32 +159,16 @@
 }
 
 @include breakpoint($small) {
-  @include span(10 of 10);
-
-  .archive__item-teaser {
-    max-height: 200px;
-  }
+  @include span(12 of 12);
 }
 
 
 @include breakpoint($medium) {
-  margin-left: 0;
-
-  /* reset before mixin does its thing */
-  margin-right: 0;
-
-  /* reset before mixin does its thing */
   @include span(6 of 12 split);
 }
 
 
 @include breakpoint($large) {
-  margin-left: 0;
-
-  /* reset before mixin does its thing */
-  margin-right: 0;
-
-  /* reset before mixin does its thing */
   @include span(4 of 12 split);
 }
 
