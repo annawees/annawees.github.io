@@ -242,7 +242,7 @@
   }
 }
 
-&--left {
+  &--left {
   @include full;
 
   font-size: 1.25rem;
@@ -267,7 +267,7 @@
 }
 
 
-&--right {
+  &--right {
   @include full;
 
   font-size: 1.25rem;
