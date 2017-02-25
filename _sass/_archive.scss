@@ -208,15 +208,13 @@
      }
    }
  
-@include breakpoint {$medium){
+@include breakpoint ($medium){
        @include span(6 of 12 split);
          &:nth-child(3n), {
-            width: span(12 of 12 split);
-            }
-        }
-  
-      .archive__item-teaser {
+            width: span(12 of 12 split);}
+        .archive__item-teaser {
         max-height: 120px;
+     }
      }
        
 .archive__item-excerpt {
