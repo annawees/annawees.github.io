@@ -154,44 +154,6 @@
  
  .grid__item {
    margin-bottom: 2em;
- 
- .gallery {
-   max-width: 60rem;
-   margin-left: auto;
-   margin-right: auto;
-   background-color: #dcdcdc;
-   display: flex;
-   flex-wrap: wrap;
-   justify-content: space-between;
- }
- /*.gallery:after {
-   content: " ";
-   display: block;
-   clear: both;
- }
- 
- .item {
-   flex: 0 0 auto;
-   height: 3rem;
-   margin: .25rem 0;
- }
- 
- /*.item1of3 {
-   @include span(1 of 3);
- }
- 
- .item2of3 {
-   @include span(2 of 3);
- }
- 
- .item3of3 {
-   @include span(3 of 3);
- }*/
-    
-   .page__meta {
-     margin: 0 0 4px;
-   }
- 
    .archive__item-title {
      margin-top: 0.5em;
      font-size: $type-size-5; letter-spacing: 2 px;
@@ -201,47 +163,24 @@
      display: none;
    }
  
-@include breakpoint ($small) {
-     @include span(12 of 12 split);
-     .archive__item-teaser {
-       max-height: 200px;
-     }
+   @include breakpoint ($small) {
+        @include span(12 of 12 split);
+        .archive__item-teaser {
+            max-height: 200px;
+       }
    }
  
-@include breakpoint ($medium) {
-    @include span(6 of 12 split);
-    &:nth-child(3), {width: span(12 of 12);}
-    /*.archive__item-teaser {
-        max-height: 120px;
-    }*/
-}
-       
-/*.archive__item-excerpt {
-       display: block;
-       font-size: $type-size-6;
-      }
- 
-
- .gridarchive { 
-   position: relative;
-   width: 100%;
-    
- .archive__item { 
-   position: relative;
-   width: 100%;
-   
-   img { 
-     display: block; 
-   } 
- }
- }
- 
- .archive__item-title {
-   position: absolute;
-   width: 100%;
+   @include breakpoint ($medium) {
+        @include span(6 of 12 split);
+        &:nth-child(3), {width: span(12 of 12);}
    }
- */
- /*
+     
+ }   
+   .page__meta {
+     margin: 0 0 4px;
+   }
+ 
+   /*
     Features
     ========================================================================== */
  
