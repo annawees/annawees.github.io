@@ -201,14 +201,14 @@
      display: none;
    }
  
-@media only screen and (max-screen-width: 750px) {
+@include breakpoint ($small) {
      @include span(12 of 12 split);
      .archive__item-teaser {
        max-height: 200px;
      }
    }
  
-@media only screen and (min-screen-width: 751px) {
+@include breakpoint {$medium){
        @include span(6 of 12 split);
          &:nth-child(3n), {
             width: span(12 of 12 split);
