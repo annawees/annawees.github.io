@@ -119,7 +119,7 @@
  
    @include breakpoint ($medium) {
         @include span(6 of 12 split);
-        &:nth-child(3), {width: span(12 of 12);}
+        &:nth-child(3), {@include span(12 of 12 split);}    
    }
      
    .page__meta {
