@@ -209,13 +209,12 @@
    }
  
 @include breakpoint ($medium){
-       @include span(6 of 12 split);
-         &:nth-child(3n), {
-            width: span(12 of 12);}
-        .archive__item-teaser {
+    @include span(6 of 12 split);
+    &:nth-child(3n), {width: span(12 of 12);}
+    /*.archive__item-teaser {
         max-height: 120px;
-     }
-     }
+    }*/
+}
        
 .archive__item-excerpt {
        display: block;
