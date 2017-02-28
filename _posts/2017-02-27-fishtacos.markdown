@@ -2,8 +2,8 @@
 layout: single
 title: Tacos de Pescado
 category: recipe
-thumbnail: "/images/fishtacosthumb.jpg"
-image: "/images/fishtacos.jpg"
+thumbnail: "/images/fishtacothumb.jpg"
+image: "/images/fishtaco.jpg"
 
 description:
 
