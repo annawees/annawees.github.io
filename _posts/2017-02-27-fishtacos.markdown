@@ -29,4 +29,6 @@ ingredient9: <img src="/images/anchopowder.jpeg"/> 1 tsp ground ancho
 ingredient10: <img src="/images/nmchilipowder.jpeg"/> 1 tsp NM chili powder
 ingredient11: <img src="/images/chilidearbol.jpeg"/> 1/2 tsp ground chili de arbol
 
+tags: [fish, tacos, mexican, cod]
+
 ---
