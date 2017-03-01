@@ -11,11 +11,11 @@ time: 45 Min
 spice: Medium
 serves: Two
 
-calories:
-carbs:
-fiber:
-fat:
-protein:
+calories: 410
+carbs: 32g
+fiber: 6g
+fat: 15g
+protein: 36g
 
 ingredient1: <img src="/images/cod.jpeg"/> 3/4 lb cod
 ingredient2: <img src="/images/cremamexicana.jpeg"/> 1/4 c crema Mexicana
