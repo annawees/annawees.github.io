@@ -2,9 +2,6 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
-@import url("/stylesheets/reset.css?{{site.time | date: '%Y%m%d%H%M%S'}}");
-@import url("/stylesheets/config.css?{{site.time | date: '%Y%m%d%H%M%S'}}");
-
 #main {
   /*@include container;*/
   @include clearfix;
