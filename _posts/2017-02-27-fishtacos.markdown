@@ -4,6 +4,7 @@ title: Tacos de Pescado
 category: recipe
 thumbnail: "/images/fishtacothumb.jpg"
 image: "/images/fishtaco.jpg"
+accent: C26C89
 
 description:
 
