@@ -1,6 +1,9 @@
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
+body {
+background: url(../images/{% if page.bgimage %}{{ page.bgimage }}{% else %}{{ site.bgimage }}{% endif %}) no-repeat bottom center;
+}
 
 #main {
   /*@include container;*/
@@ -412,6 +415,9 @@
 
 #figure { 
    position: relative;
+
+   #splash { width: 100%; height: 10%; background-color: ({{page.accent}});
+      }
   
   img { 
     display: block; 
