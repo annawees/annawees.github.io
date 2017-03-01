@@ -34,26 +34,7 @@ equipment1: <a href="https://www.amazon.com/Cuisinart-FP-8SV-Elemental-Processor
 image1: <img src="/images/fishtacos1.jpeg"/>
 step1: Place the red wine vinegar and a 1/4 cup of water in a saucepan. Set on high heat to boil
 
-image2:<img src="/images/fishtacos2.jpeg"/>
-step2: Finely slice the onions.
 
-image3:<img src="/images/fishtacos3.jpeg"/>
-step3: Finely slice the red cabbage.
-
-image4:<img src="/images/fishtacos4.jpeg"/>
-step4: Place the finely sliced red onions in a bowl. Once the red wine vinegar begins to boil, pour it over the red onions. Set them aside and let the onions pickle for at least 15 minutes.
-
-image5: <img src="/images/fishtacos5.jpeg"/>
-step5: Place the sunflower seeds, ground ancho, ground chili de arbol, NM chili powder, and 1/2 a tsp of salt in a food processor. Pulse until the sunflower seeds are finely ground.
-
-image6: <img src="/images/fishtacos6.jpeg"/>
-step6: Cut the cod into bite size pieces. <p>Place the ground sunflower seeds in a bowl and toss the cod in the seeds to coat.</p>
-
-image7: <img src="/images/fishtacos7.jpeg"/>
-step7: Generously coat the bottom of a skillet with olive oil and place on medium high heat. Once the oil is hot place the cod in the pan. Cook for three minutes on each side giving the exterior a bit of color. Reduce the heat to low and cook for an additional minute on each side. <p>While the fish cooks, warm the tortillas, you can do this by quickly microwaving them or sticking them in the oven for a few minutes at 350.</p>
-
-image8: <img src="/images/fishtacos8.jpeg"/>
-step8: Place the cabbage and pickled onions on top of the tortilla and accent with the crema mexicana. Lay the cod on top. Sprinkle the cilantro leaves on top.
 
 tags: [fish, tacos, mexican, cod]
 
