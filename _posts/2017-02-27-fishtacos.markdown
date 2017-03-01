@@ -29,7 +29,7 @@ ingredient9: <a href="ahttps://www.amazon.com/McCormick-Gourmet-Collection-1-62-
 ingredient10: <a href="https://www.amazon.com/Los-Chileros-Organic-Mexico-Powder/dp/B00F9WYIC0/ref=as_li_ss_tl?rps=1&ie=UTF8&qid=1488259909&sr=8-1&keywords=new+mexico+chili+powder&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=860e500325c7ae79e82f3f9fa23463cf"><img src="/images/nmchilipowder.jpeg"/> 1 tsp NM chili powder</a>
 ingredient11: <a href="https://www.amazon.com/Chile-Arbol-Molido-Ground-Chili/dp/B00BV4AVPI/ref=as_li_ss_tl?ie=UTF8&qid=1488260015&sr=8-1&keywords=ground+chili+de+arbol&linkCode=ll1&tag=cilalime09-20&linkId=6d4411b235b37531a311ca63ef3363d9"><img src="/images/chilidearbol.jpeg"/> 1/2 tsp ground chili de arbol</a>
 
-
+equipment1: <a href="https://www.amazon.com/Cuisinart-FP-8SV-Elemental-Processor-Silver/dp/B00LBZOYAK/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1488333884&sr=1-2&keywords=food+processor&refinements=p_72:1248915011,p_85:2470955011,p_89:Cuisinart&linkCode=ll1&tag=cilalime09-20&linkId=98d0ad7d0cfad4e6f6c32daff565e567"><img src="/images/foodprocessor.jpg"/> food processor </a>
 
 image1: <img src="/images/fishtacos1.jpeg"/>
 step1: Place the red wine vinegar and a 1/4 cup of water in a saucepan and set on high heat to boil
