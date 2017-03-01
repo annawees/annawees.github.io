@@ -421,8 +421,14 @@
   } 
 }
 
-   #splash {width: 100%; height: 10%;}
-   #splash background-color: {% if page.accent %}{{ page.accent }}{% else %}{{ black }}{% endif %}
+---
+---
+
+#splash {
+    background-color: {% if page.accent %}{{ page.accent }}{% else %}{{ black }}{% endif %};
+    height: 10%;
+    width: 100%;
+}
 
 @media only screen and (max-device-width: 751px) {
   #figcaption {
