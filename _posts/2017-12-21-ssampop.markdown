@@ -27,23 +27,23 @@ ingredient6: <a href="https://www.amazon.com/Nutria-Organic-Certified-Superfood-
 equipment1: <a href="https://www.amazon.com/Nordic-Ware-Natural-Aluminum-Commercial/dp/B000G0KJG4/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481599505&sr=1-5&keywords=baking+sheet&refinements=p_85:2470955011&linkCode=ll1&tag=cilalime09-20&linkId=678ae86e82d77d1a2615466229b01cfd"><img src="/images/bakingsheet.jpeg"/> baking sheet </a>
 equipment2: <a href="https://www.amazon.com/Simply-Organic-Certified-0-14-Ounce-Container/dp/B0012BS9F4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335352&sr=1-1&keywords=simply+organic+bay&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c8a097e1230c862f6ce966bf3962812b"><img src="/images/whisk.jpeg"/> whisk </a>
 
-image: <img src="/images/ssampop1.jpeg"/>
-step: Preheat the oven to 425˚ and move one of the trays to the upper rack of the oven.<p>Evenly space the drummettes on a baking sheet. Place the drummettes  in the oven for 25 minutes.</p>
+image1: <img src="/images/ssampop1.jpeg"/>
+step1: Preheat the oven to 425˚ and move one of the trays to the upper rack of the oven.<p>Evenly space the drummettes on a baking sheet. Place the drummettes  in the oven for 25 minutes.</p>
 
-image: <img src="/images/ssampop2.jpeg"/>
-step: Finely slice the scallions. Set aside for plating.
+image2: <img src="/images/ssampop2.jpeg"/>
+step2: Finely slice the scallions. Set aside for plating.
 
-image: <img src="/images/ssampop3.jpeg"/>
-step: Place the ssamjang, remaining soy sauce, honey, and 1/2 a cup of water in a saucepan. Place on the lowest heat setting.<p>Whisk and keep on low until the chicken has finished cooking.</p>
+image3: <img src="/images/ssampop3.jpeg"/>
+step3: Place the ssamjang, remaining soy sauce, honey, and 1/2 a cup of water in a saucepan. Place on the lowest heat setting.<p>Whisk and keep on low until the chicken has finished cooking.</p>
 
-image: <img src="/images/ssampop4.jpeg"/>
-step: By now, the chicken will have cooked for 25 minutes and the exteriors will be brown.<p>Raise the heat to a broil and cook for 3 more minutes, flip over, and cook for 3 minutes to evenly crisp the skin.</p>
+image4: <img src="/images/ssampop4.jpeg"/>
+step4: By now, the chicken will have cooked for 25 minutes and the exteriors will be brown.<p>Raise the heat to a broil and cook for 3 more minutes, flip over, and cook for 3 minutes to evenly crisp the skin.</p>
 
-image: <img src="/images/ssampop5.jpeg"/>
-step: Once the chicken has finished cooking, transfer the chicken to a bowl and cover with the ssamjang sauce. Toss.
+image5: <img src="/images/ssampop5.jpeg"/>
+step5: Once the chicken has finished cooking, transfer the chicken to a bowl and cover with the ssamjang sauce. Toss.
 
-image: <img src="/images/ssampop6.jpeg"/>
-step: Top the chicken with sesame seeds and scallions.
+image6: <img src="/images/ssampop6.jpeg"/>
+step6: Top the chicken with sesame seeds and scallions.
 
 tags: [chicken, chicken wing, korean]
 ---
