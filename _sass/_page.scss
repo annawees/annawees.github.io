@@ -411,7 +411,7 @@
    ========================================================================== */
 
 #figure { 
-   position: relative;}
+   position: relative;
   
   img { 
     display: block; 
@@ -421,6 +421,7 @@
     display: block; 
   } 
 }
+
 @media only screen and (max-device-width: 751px) {
   #figcaption {
    color: white;
