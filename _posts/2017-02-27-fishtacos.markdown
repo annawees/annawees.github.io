@@ -31,9 +31,6 @@ ingredient11: <a href="https://www.amazon.com/Chile-Arbol-Molido-Ground-Chili/dp
 
 equipment1: <a href="https://www.amazon.com/Cuisinart-FP-8SV-Elemental-Processor-Silver/dp/B00LBZOYAK/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1488333884&sr=1-2&keywords=food+processor&refinements=p_72:1248915011,p_85:2470955011,p_89:Cuisinart&linkCode=ll1&tag=cilalime09-20&linkId=98d0ad7d0cfad4e6f6c32daff565e567"><img src="/images/foodprocessor.jpg"/> food processor </a>
 
-image1: <img src="/images/fishtacos1.jpeg"/>
-step1: Place the red wine vinegar and a 1/4 cup of water in a saucepan. Set on high heat to boil
-
 
 
 tags: [fish, tacos, mexican, cod]
