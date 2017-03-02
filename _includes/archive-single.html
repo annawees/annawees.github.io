@@ -28,7 +28,7 @@
     <h1 class="archive__item-title" itemprop="headline">
       <div class="posttitlearchive">
         <a href="{{ post.url | absolute_url }}" rel="permalink">
-          {% if posy.video %}
+          {% if post.video %}
             <video width="100%" autoplay loop muted class="banner__video" poster="{{post.thumbnail}}">
               <source src="{{post.video}}" type="video/mp4">
             </video>
