@@ -4,7 +4,7 @@ title: Tacos de Pescado
 category: recipe
 thumbnail: "/images/fishtacothumb.jpg"
 image: "/images/fishtaco.jpg"
-accent: rgb(213,140,17)
+accent: rgb(203,99,137)
 
 description:
 
