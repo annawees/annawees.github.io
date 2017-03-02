@@ -449,7 +449,14 @@
    width: 100%;
    font-size: 4em;}}
 
-#spacer { padding-top:100px;}
+@media only screen and (max-device-width: 751px) {
+  #spacer { padding-top:50px;}
+  }
+
+
+@media only screen and (min-device-width: 750px) {
+  #spacer { padding-top:100px;}
+  }
 
 #recipedetails { width: 100%; display:inline-block; float: left;}
 #time { width: 30%; float: left; margin-left: 5%;}
