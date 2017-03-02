@@ -51,6 +51,8 @@ layout: default
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
+    
+    <div id="margincontainer">
   
       {% endunless %}
       <div id= "spacer"> </div>
@@ -286,6 +288,7 @@ layout: default
   {% endif %}
 
 </article>
+    </div>
 
 <!-- 
   {% comment %}{% endcomment %}
