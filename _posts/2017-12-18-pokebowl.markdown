@@ -5,6 +5,7 @@ category: recipe
 thumbnail: "/images/pokebowlthumb.jpg"
 image: "/images/pokebowl.jpg"
 video: "/images/pokepowl.mp4"
+accent: rgb(230,59,26)
 description: This Hawaiian staple of cubed raw fish is both a comfort food and a healthy meal. Sashimi grade salmon, edamame, crispy kale chips, silky avocado and crisp cucumbers all sit on top of a bowl of the highest grade sushi rice. 
 
 time: 40 Min + Defrosting
