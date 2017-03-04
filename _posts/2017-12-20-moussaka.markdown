@@ -53,16 +53,5 @@ step4: Add a small amount of olive oil to the bottom of a stockpot and set on me
 image5: <img src="/images/moussaka5.jpeg"/>
 step5: Add the ground beef and a 1/4 tsp of salt to the onions and garlic. Sauté until the beef has browned.
 
-image6: <img src="/images/moussaka6.jpeg"/>
-step6: Add the tomato, cinnamon, allspice, half of the paprika, bay leaf, cloves and a 1/2 cup of water to the stockpot. Reduce the heat to medium an dcook for 10 minutes to reduce the sauce and allow the flavors to meld together.
-
-image7: <img src="/images/moussaka7.jpeg"/>
-step7: Turn the broiler on. <p>Place the greek yogurt, egg, remaining paprika and a 1/4 tsp of salt in a bowl. Whisk until combined.</p>
-
-image8: <img src="/images/moussaka8.jpeg"/>
-step8: Cover the beef with the broiled eggplants. Pour the greek yogurt mixture over the eggplant. Grate the parmesan on top. <p>Move the stockpot into the oven and broil for 5 minutes, or until a bubbly golden crust forms on top.</p>
-
-image9:<img src="/images/moussaka9.jpeg"/>
-step9: Serve the moussaka directly from the stockpot.
 
 ---
