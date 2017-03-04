@@ -2,7 +2,9 @@
 layout: single
 title: Moussaka
 category: recipe
-thumbnail: "/images/moussakamain.jpg"
+thumbnail: "/images/moussakathumb.jpg"
+image: "/images/moussaka.jpg"
+accent: rgb(220,80,0)
 
 time: 45 Min
 spice: Mild
@@ -34,116 +36,33 @@ equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truff
 equipment2: <a href="https://www.amazon.com/Simply-Organic-Certified-0-14-Ounce-Container/dp/B0012BS9F4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335352&sr=1-1&keywords=simply+organic+bay&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c8a097e1230c862f6ce966bf3962812b"><img src="/images/whisk.jpeg"/>whisk </a>
 equipment3: <a href="https://www.amazon.com/Microplane-35009-Medium-Ribbon-Grater/dp/B00009WE3V/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482039177&sr=1-10&keywords=microplane&linkCode=ll1&tag=cilalime09-20&linkId=e0f7f0f676e7565f4b0f1ff0b4f8c1f6"><img src="/images/coarsegrater.jpeg"/>coarse grater </a>
 
-
 tags: [balkans, greek, beef, ground beef]
+
+image1: <img src="/images/moussaka1.jpeg"/>
+step1: Move a rack to the upper 1/3 of the oven, and set the oven to broil.<p>Cut the eggplant into 1/3" slices.</p>
+
+image2: <img src="/images/moussaka2.jpeg"/>
+step2: Lay the eggplant slices on a baking sheet or roasting pan. Lightly toss with a small amount of olive oil, and sprinkle with a pinch of salt.<p>Place the eggplant in the oven and broil for 5 minutes, flip, and then broil on the other side.</p><p><i>Note, every broiler is different, keep an eye on the eggplant and avoid burning the eggplant.</i></p>
+
+image3: <img src="/images/moussaka3.jpeg"/>
+step3: Finely dice the garlic.<p>Finely chop the onion.</p>
+
+image4: <img src="/images/moussaka4.jpeg"/>
+step4: Add a small amount of olive oil to the bottom of a stockpot and set on medium high heat.<p> Once the oil is hot, add the garlic and onion. Sauté until the onion is golden brown.
+
+image5: <img src="/images/moussaka5.jpeg"/>
+step5: Add the ground beef and a 1/4 tsp of salt to the onions and garlic. Sauté until the beef has browned.
+
+image6: <img src="/images/moussaka6.jpeg"/>
+step6: Add the tomato, cinnamon, allspice, half of the paprika, bay leaf, cloves and a 1/2 cup of water to the stockpot. Reduce the heat to medium an dcook for 10 minutes to reduce the sauce and allow the flavors to meld together.
+
+image7: <img src="/images/moussaka7.jpeg"/>
+step7: Turn the broiler on. <p>Place the greek yogurt, egg, remaining paprika and a 1/4 tsp of salt in a bowl. Whisk until combined.</p>
+
+image8: <img src="/images/moussaka8.jpeg"/>
+step8: Cover the beef with the broiled eggplants. Pour the greek yogurt mixture over the eggplant. Grate the parmesan on top. <p>Move the stockpot into the oven and broil for 5 minutes, or until a bubbly golden crust forms on top.</p>
+
+image9:<img src="/images/moussaka9.jpeg"/>
+step9: Serve the moussaka directly from the stockpot.
+
 ---
-
-<div id="preparation">
-<h1>Preparation</h1>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/moussaka1.jpeg"/> </div>
-<div id="step">Move a rack to the upper 1/3 of the oven, and set the oven to broil.
-<p>Cut the eggplant into 1/3" slices.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/moussaka2.jpeg"/> </div>
-<div id="step">Lay the eggplant slices on a baking sheet or roasting pan. Lightly toss with a small amount of olive oil, and sprinkle with a pinch of salt.
-<p>Place the eggplant in the oven and broil for 5 minutes, flip, and then broil on the other side.</p>
-<p><i>Note: Every broiler is different, keep an eye on the eggplant and avoid burning the eggplant.</i></p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/moussaka3.jpeg"/> </div>
-<div id="step">Finely dice the garlic.
-<p>Finely chop the onion.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/moussaka4.jpeg"/> </div>
-<div id="step">Add a small amount of olive oil to the bottom of a stockpot and set on medium high heat.
-<p>Once the oil is hot, add the garlic and onion. Sauté until the onion is golden brown.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/moussaka5.jpeg"/> </div>
-<div id="step">Add the ground beef and a 1/4 tsp of salt to the onions and garlic. Sauté until the beef has browned.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/moussaka6.jpeg"/> </div>
-<div id="step">Add the tomato, cinnamon, allspice, half of the paprika, bay leaf, cloves and a 1/2 cup of water to the stockpot. Reduce the heat to medium an dcook for 10 minutes to reduce the sauce and allow the flavors to meld together.</div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/moussaka7.jpeg"/> </div>
-<div id="step">Turn the broiler on. 
-<p>Place the greek yogurt, egg, remaining paprika and a 1/4 tsp of salt in a bowl. Whisk until combined.</p></div>
-</div>
-
-<div id="instruction">
-<div id="image"><img src="/images/moussaka8.jpeg"/> </div>
-<div id="step">Cover the beef with the broiled eggplants. Pour the greek yogurt mixture over the eggplant. Grate the parmesan on top.
-<p>Move the stockpot into the oven and broil for 5 minutes, or until a bubbly golden crust forms on top.</p></div>
-</div>
-
-
-<div id="instruction">
-<div id="image"><img src="/images/moussaka9.jpeg"/> </div>
-<div id="step"> Serve the moussaka directly from the stockpot. </div>
-</div>
-
-<style>
-#backgroundvideo {
-  width: 100%;
-}
-  
-#banner__video {
-    }
-
-#overlay {
- }
-
-#recipedetails { width: 100%; display:inline-block; float: left;}
-#time { width: 30%; float: left; margin-left: 5%}
-#spice { width: 30%; float: left;}
-#serves { width 30%; float: left; margin-left: 5%;}
-.clear {clear:both;}
-
-#spacer {padding-top:50px;}
-
-#nutrition { width: 100%; display:inline-block;}
-#calories { width: 18%; float: left; margin-left: 5%;}
-#carbs { width: 18%; float: left; margin-left: 0%;}
-#fiber { width: 18%; float: left; margin-left: 0%;}
-#fat { width: 18%; float: left; margin-left: 0%;}
-#protein { width: 18%; float: left; margin-right:5%;}
-.clear {clear:both;}
-
-#ingredienthdr { margin-top:200px; margin-bottom: 50px; font-family: $serif;}
-
-#ingredients { width: 95%; display:inline-block;}
-#ingredientone { width: 20%; float:left;}
-#ingredienttwo { width: 20%; float:left; margin-left: 5%;}
-#ingredientthree { width:20%; float:left; margin-left: 5%;}
-#ingredientfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#equipmenthdr { margin-top:200px; margin-bottom:50px; font-family: $serif;}
-
-#equipment { width: 95%; display:inline-block;}
-#equipmentone { width: 20%; float:left;}
-#equipmenttwo { width: 20%; float:left; margin-left: 5%;}
-#equipmentthree { width:20%; float:left; margin-left: 5%;}
-#equipmentfour { width:20%; float:left; margin-left: 5%;}
-.clear {clear:both;}
-
-#preparation { margin-top: 150px; margin-bottom: 50px; font-family: $serif;}
-
-#instruction { width:95%; display:inline-block;}
-#image { width: 40%; float:left;}
-#step { width: 50%; float:right; margin-top: 30px; margin-bottom: 30px;}
-.clear {clear:both;}
-</style>
