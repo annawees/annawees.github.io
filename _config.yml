@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : <img src="/images/cilantrolime-logo_v4.png"/>
+title                    : "cilantrolime"
 title_separator          : "-"
 name                     : "Cilantro Lime"
 description              : "Inspiring culinary adventures."
