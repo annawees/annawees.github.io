@@ -2,8 +2,6 @@
 main:
   - title: "Cook"
     url : /
-  - title: "Travel"
-    url : /
   - title: "Shop"
     url: http://cilantrolime.com/all/?cat=30
   # - title: "About"
