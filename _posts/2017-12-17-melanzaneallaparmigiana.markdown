@@ -23,7 +23,7 @@ ingredient4: <img src="/images/arugula.jpeg"/>3 oz arugula
 ingredient5: <img src="/images/basil.jpeg"/>3 sprigs basil
 ingredient6: <img src="/images/4garlic.jpeg"/>4 cloves of garlic
 ingredient7: <img src="/images/lemon.jpeg"/>1 lemon
-ingredient8: <a href="https://www.amazon.com/gp/product/B001SAWI38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001SAWI38&linkId=f50a9f64e07d6fe1dfa9c524415c9b72"><img src="/images/tomatopuree.png"/>2 cup pureed tomatoes</a>
+ingredient8: <a href="https://www.amazon.com/gp/product/B001SAWI38/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cilalime-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001SAWI38&linkId=f50a9f64e07d6fe1dfa9c524415c9b72"><img src="/images/tomatopuree.jpeg"/>2 cup pureed tomatoes</a>
 ingredient9: <a href="https://www.amazon.com/Gustus-Vitae-Crushed-Non-GMO-Seasoning/dp/B00T8AVQ4M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1481945021&sr=1-6&keywords=organic+red+pepper+flakes&linkCode=ll1&tag=cilalime09-20&linkId=3eacf8e946e0323de7e947533f61f45f"><img src="/images/chiliflakes.jpeg"/>1/2 tsp chili flakes</a>
 
 equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truffle/dp/B0076NOFSC/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481598867&sr=1-38&keywords=le+creuset&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=9987204213f6c7ac4d1e12889972e623"><img src="/images/stockpot.jpeg"/>stockpot</a>
