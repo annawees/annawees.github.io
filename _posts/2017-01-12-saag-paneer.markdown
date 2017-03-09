@@ -4,6 +4,7 @@ category: recipe
 title: Saag Paneer
 thumbnail: "/images/saagpaneerthumb.jpg"
 image: "/images/saagpaneer.jpg"
+accent: rgb(177,77,2)
 description: A creamy curry of spinach and yogurt is dotted with fresh pan-fried paneer cheese.
 
 time: 45 Minutes
