@@ -51,11 +51,8 @@ image6: <img src="/images/toltott6.jpeg"/>
 step6: Stuff the cleaned tv peppers with the pork mixture.<p><i> Have leftover meat? Form a meatball to cook in the tomato broth along with the peppers.</i></p>
 
 image7: <img src="/images/toltott7.jpeg"/>
-step7: Place the reserved onions in a stockpot with the tomatoes, 1 1/2 cups of water, 1/4 tsp of salt, hot paprika, the remaining sweet paprika and filled peppers. <p> Cover the stockpot with the lid, place on medium heat, and cook for 20 minutes. </p>
+step7: Place the reserved onions in a stockpot with the tomatoes, 1 1/2 cups of water, 1/4 tsp of salt, hot paprika, the remaining sweet paprika and filled peppers. <p> Cover the stockpot with the lid, place on medium heat, and cook for 20 minutes. </p><p>After 20 minutes have lapsed, transfer the peppers from the stockpot to a plate. Keep the stockpot on medium heat and cook uncovered until the sauce thickens, approx. 5-7 minutes.</p>
 
-image8: <img src="/images/toltott8.jpeg"/>
-step8: Transfer the peppers from the stockpot to a plate. Keep the stockpot on medium heat and cook uncovered until the sauce thickens, approx. 5-7 minutes.
-
-image9: <img src="/images/toltott9.jpeg"/>
+image9: <img src="/images/toltott8.jpeg"/>
 step9: Plate the sauce in a shallow bowl or plate. Top with the cooked peppers, accent with the parsley, and serve with the cream.
 ---
