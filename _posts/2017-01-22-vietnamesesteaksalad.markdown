@@ -5,6 +5,8 @@ category: recipe
 thumbnail: "/images/vietsaladthumb.jpg"
 image: "/images/vietsalad.jpg"
 video: "/images/vietsalad.mp4"
+accent: rgb(215,69,89)
+
 comments: true
 
 description:
