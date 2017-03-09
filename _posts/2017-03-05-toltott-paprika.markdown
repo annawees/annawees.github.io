@@ -18,6 +18,8 @@ fiber: 5g
 fat: 15g
 protein: 49g
 
+tags: [hungarian, pork, ground pork,]
+
 equipment1: <img src="/images/stockpot.jpeg"/> stockpot with lid
 
 ingredient1: <img src="/images/groundpork.jpeg"/> 3/4 lb ground pork
