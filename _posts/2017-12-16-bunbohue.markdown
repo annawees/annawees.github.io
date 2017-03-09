@@ -5,6 +5,7 @@ category: recipe
 thumbnail: "/images/bunbohuethumb.jpg"
 image: "/images/bunbohue.jpg"
 video: "/images/bunbohue.mp4"
+accent: rgb(153,169,48)
 
 description: A spicy, sour, salty broth nestles rice noodles, herbs, fresh bean sprouts, and thinly sliced beef. 
 
