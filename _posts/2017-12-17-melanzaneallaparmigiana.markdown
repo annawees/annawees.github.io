@@ -3,7 +3,7 @@ layout: single
 title: Melanzane alla Parmigiana
 category: recipe
 thumbnail: "/images/eggplantparmthumb.jpg"
-image:"/images/eggplantparm.jpg"
+image: "/images/eggplantparm.jpg"
 video: "/images/melanzaneallaparmigiana.mp4"
 description:  Stacks of eggplant meld with hand pulled mozzarella, rich tomato sauce, fresh basil, and savory parmesan cheese. Paired with a rocket salad, this is the perfect Italian comfort food.
 
