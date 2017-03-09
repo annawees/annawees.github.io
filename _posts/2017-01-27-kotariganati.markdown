@@ -2,8 +2,10 @@
 layout: single
 title: Kota Riganati
 category: recipe
-thumbnail: "/images/kotariganati.jpg"
-video: "/images/kotariganati.mp4"
+thumbnail: "/images/kotariganatithumb.jpg"
+image: "/images/kotariganati.jpg"
+accent:
+
 description: This traditionally Greek chicken is roasted in fragrant lemon, garlic, and oregano until crispy. This delicious roast chicken pairs perfectly with a refreshing greek salad and savory tahini.
 
 time: 45 Minutes
