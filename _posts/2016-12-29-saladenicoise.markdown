@@ -2,7 +2,7 @@
 layout: single
 title: Salade Niçoise
 category: recipe
-thumbnail: "/images/saladenicoise.jpg"
+image: "/images/saladenicoise.jpg"
 video: "/images/saladenicoise.mp4"
 description: This protein rich salad from Provence has become a staple of brasseries all over France. Made with Spanish oil cured tuna, French anchovies, a soft boiled egg and a tangy vinaigrette- we've pumped up the flavor in this classic French dish. 
 
