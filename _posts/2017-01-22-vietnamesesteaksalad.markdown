@@ -21,7 +21,7 @@ fiber: 3g
 fat: 17g
 protein: 29g
 
-ingredient1: <img src="/images/ribeye.jpeg"/> 3/4 lb ribeye or NY strip
+ingredient1: <img src="/images/nystrip.jpeg"/> 3/4 lb ribeye or NY strip
 ingredient2: <img src="/images/cucumber.jpeg"/> 3 cucumbers
 ingredient3: <img src="/images/carrot.jpeg"/> 1 carrot
 ingredient4: <img src="/images/radishes.jpeg"/> 4 radishes
