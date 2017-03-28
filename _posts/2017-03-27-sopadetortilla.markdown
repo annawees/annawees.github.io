@@ -2,8 +2,8 @@
 layout: feature
 title: Sopa de Tortilla
 category: recipe
-image: 
-thumbnail:
+image: "/images/sopadetortilla.jpg"
+thumbnail: "/images/sopadetortillathumb.jpg"
 
 time: 1 hour
 skill: Intermediate
