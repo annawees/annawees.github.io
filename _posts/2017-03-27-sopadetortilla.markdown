@@ -4,7 +4,7 @@ title: Sopa de Tortilla
 category: recipe
 image: "/images/sopadetortilla.jpg"
 thumbnail: "/images/sopadetortillathumb.jpg"
-accent: rgb(213,126,39)
+accent: rgb(216,101,0)
 
 time: 1 hour
 skill: Intermediate
