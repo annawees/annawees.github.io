@@ -1,5 +1,5 @@
 ---
-layout: feature
+layout: single
 title: Sopa de Tortilla
 category: recipe
 image: "/images/sopadetortilla.jpg"
