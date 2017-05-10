@@ -24,9 +24,9 @@ ingredient3: <img src="/images/3scallions.jpeg"/> 3 scallions
 ingredient4: <img src="/images/shallot.jpeg"/> 3 shallots
 ingredient5: <img src="/images/garlic.jpeg"/> 6 garlic cloves
 ingredient6: <img src="/images/ricewine.jpeg"/> 1/4 cup rice wine
-ingredient7: <img src="/images/oystersauce.jpeg"/> 2 tbsp oyster sauce
-ingredient8: <img src=
+ingredient7: <img src="/images/soysauce.jpeg"/> 1/8 cup soy sauce
+ingredient8: <img src="/images/oystersauce.jpeg"/> 2 tbsp oyster sauce
 ingredient9: <img src="/images/honey.jpeg"/> 2 tbsp honey
-
+ingredient10: 
 ---
 
