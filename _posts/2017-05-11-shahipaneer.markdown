@@ -4,7 +4,7 @@ title: Shahi Paneer
 category: recipe
 thumbnail: "/images/shahipaneerthumb.jpg"
 image: "/images/shahipaneer.jpg"
-accent: rgb(186,133,3)
+accent: rgb(146,54,3)
 
 description: A north Indian curry made for the royals, pan fried cubes of paneer are served in a creamy, fragrant sauce of tomatoes, yogurt and cream.
 
