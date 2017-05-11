@@ -48,19 +48,19 @@ image4: <img src="/images/scalloprisotto4.jpeg"/>
 step4: Set a large skillet on medium high heat and add enough oil to coat the bottom of the pan. Add the shallots and sauté until they become soft.
 
 image5: <img src="/images/scalloprisotto5.jpeg"/>
-step5: Add the stock to the skillet. Stir occasionally, until all the water has been absorbed.
+step5: Add the arborio rice and stock to the skillet. Stir occasionally, until all the stock has been absorbed.
 
 image6: <img src="/images/scalloprisotto6.jpeg"/>
 step6: <i>While the arborio rice cooks, make the poblano puree.</i> Place the poblanos in a blender with 2 1/2 cups of water, cilantro, 1/4 tsp of salt, and the juice of 1 lime. Puree.
 
 image7: <img src="/images/scalloprisotto7.jpeg"/>
-step7: Add the poblano puree to the arborio rice in 4 smaller portions, letting the puree absorb into the risotto before adding the next portion. <p>With the final addition of the puree, add the corn and crema to the to the risotto. Set aside for plating.</p>
+step7: Add the poblano puree to the arborio rice in 4 smaller portions, letting the puree absorb into the risotto before adding the next portion. 
 
 image8: <img src="/images/scalloprisotto8.jpeg"/>
-step8: While adding the second to last portion of poblano puree, start cooking the scallops. Place the butter on a large not non-stick skillet. Heat the butter on medium heat. Once the pan is hot, lie the scallops onto the rim of the pan where the butter has collected.<p><i>The scallops should make a loud sizzle when they make contact with the pan.</i></p>
+step8: With the final addition of the puree, add the corn and crema to the to the risotto. Set aside for plating.
 
 image9: <img src="/images/scalloprisotto9.jpeg"/>
-step9: Cook the scallops for 4-5 minutes on each side, allowing for each side to develop a crispy caramelized bottom before flipping the scallop over.
+step9: While adding the second to last portion of poblano puree, start cooking the scallops. Place the butter on a large not non-stick skillet. Heat the butter on medium heat. Once the pan is hot, lie the scallops onto the rim of the pan where the butter has collected.<p><i>The scallops should make a loud sizzle when they make contact with the pan.</i></p><p>Cook the scallops for 4-5 minutes on each side, allowing for each side to develop a crispy caramelized bottom before flipping the scallop over.</p>
 
 image10: <img src="/images/scalloprisotto10.jpeg"/>
 step10: Plate the scallops over the risotto.
