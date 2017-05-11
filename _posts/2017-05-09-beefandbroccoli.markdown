@@ -58,8 +58,7 @@ image8: <img src="/images/beefandbroccoli8.jpeg"/>
 step8: Add the shallots, garlic, and scallions to the pan. Sauté until the they are tender and have browned.
 
 image9: <img src="/images/beefandbroccoli9.jpeg"/>
-step9: Squeeze the water from the blanched gai lan. Add the gai lan to the pan along with the
-marinade. Let the gai lan cook for 4 minutes, and then add the beef. Once the beef has been coated in the pan sauce, remove the pan from heat.
+step9: Squeeze the water from the blanched gai lan. Add the gai lan to the pan along with the marinade. Let the gai lan cook for 4 minutes, and then add the beef. Once the beef has been coated in the pan sauce, remove the pan from heat.
 
 image10: <img src="/images/beefandbroccoli10.jpeg"/>
 step10: Serve the beef and broccoli with the jasmine rice.
