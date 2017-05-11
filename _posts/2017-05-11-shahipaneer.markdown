@@ -43,33 +43,36 @@ equipment1: <a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control
 equipment2: <a href=""><img src="/images/stockpot.jpeg"/>stockpot</a>
 
 
-image1: <img src="/images/scalloprisotto1.jpeg"/>
-step1: Set the oven to broil and move a rack to the upper portion of the oven. Remove the seeds and core from the poblano peppers.<p> Place the poblanos on a baking sheet or roasting pan and broil them until they develop a char, approximately 5-7 minutes.</p>
+image1: <img src="/images/shahipaneer1.jpeg"/>
+step1: Set a saucepan with a lid on high heat with 2/3 cup of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the basmati rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.
 
-image2: <img src="/images/scalloprisotto2.jpeg"/>
-step2: Hold the corn upright on a cutting board. Run a knife along the cob removing the kernels.
+image2: <img src="/images/shahipaneer2.jpeg"/>
+step2: Once the water has reached a boil, add the rinsed rice, and cover. Stir the pot to ensure that the rice is submerged. Reduce the heat to low and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.
 
-image3: <img src="/images/scalloprisotto3.jpeg"/>
-step3: Finely slice the shallots.
+image3: <img src="/images/shahipaneer3.jpeg"/>
+step3: Slice the onion.
 
-image4: <img src="/images/scalloprisotto4.jpeg"/>
-step4: Set a large skillet on medium high heat and add enough oil to coat the bottom of the pan. Add the shallots and sauté until they become soft.
+image4: <img src="/images/shahipaneer4.jpeg"/>
+step4: Coat the bottom of a stockpot with olive oil and place on medium high heat. Once the oil is hot add the sliced onions and cook until the onions have caramelized and have become tender, approx. 15 minutes.
 
-image5: <img src="/images/scalloprisotto5.jpeg"/>
-step5: Add the arborio rice and stock to the skillet. Stir occasionally, until all the stock has been absorbed.
+image5: <img src="/images/shahipaneer5.jpeg"/>
+step5: <i> While the onions cook, prep the paneer. </i> Cut the paneer into 1/2" cubes. Sprinkle the cubes of cheese with a pinch of salt.
 
-image6: <img src="/images/scalloprisotto6.jpeg"/>
-step6: <i>While the arborio rice cooks, make the poblano puree.</i> Place the poblanos in a blender with 2 1/2 cups of water, cilantro, 1/4 tsp of salt, and the juice of 1 lime. Puree.
+image6: <img src="/images/shahipaneer6.jpeg"/>
+step6: Transfer the browned onions to a blender. <p> Remove the stems from the thai chile and place in the blender along with the cashews, garlic, clove, cardamom, cinnamon, turmeric, 1/2 tsp of salt and 1/2 c of water. </p> Puree until completely smooth. <i> This may require more water than 1/2 c.</i>
 
-image7: <img src="/images/scalloprisotto7.jpeg"/>
-step7: Add the poblano puree to the arborio rice in 4 smaller portions, letting the puree absorb into the risotto before adding the next portion. 
+image7: <img src="/images/shahipaneer7.jpeg"/>
+step7: Place the butter in a large skillet and place on medium high heat. Once the butter is hot, fry the paneer cheese on all sides until golden brown. Remove the paneer from the pan, and set aside for later use.
 
-image8: <img src="/images/scalloprisotto8.jpeg"/>
-step8: With the final addition of the puree, add the corn and crema to the to the risotto. Set aside for plating.
+image8: <img src="/images/shahipaneer8.jpeg"/>
+step8: Add the puree to the pan. Sauté for 10 minutes, until the puree thickens and darkens.
 
-image9: <img src="/images/scalloprisotto9.jpeg"/>
-step9: While adding the second to last portion of poblano puree, start cooking the scallops. Place the butter on a large not non-stick skillet. Heat the butter on medium heat. Once the pan is hot, lie the scallops onto the rim of the pan where the butter has collected.<p><i>The scallops should make a loud sizzle when they make contact with the pan.</i></p><p>Cook the scallops for 4-5 minutes on each side, allowing for each side to develop a crispy caramelized bottom before flipping the scallop over.</p>
+image9: <img src="/images/shahipaneer9.jpeg"/>
+step0: Reduce the heat to medium. Add the tomatoes and cook for 10 minutes.
 
-image10: <img src="/images/scalloprisotto10.jpeg"/>
-step10: Plate the scallops over the risotto.
+image10: <img src="/images/shahipaneer10.jpeg"/>
+step10: After the tomatoes have cooked add the greek yogurt, heavy cream, cayenne, and garam masala to the pan. Stir to incorporate. Add the previously browned paneer cheese. Stir to warm the cheese.
+
+image11: <img src="/images/shahipaneer11.jpeg"/>
+step11: Plate the shahi paneer. Accent with cilantro. Serve with the basmati rice.
 ---
