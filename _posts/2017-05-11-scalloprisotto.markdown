@@ -4,7 +4,7 @@ title: Scallops and Poblano Risotto
 category: recipe
 thumbnail: "/images/scalloprisottothumb.jpg"
 image: "/images/scalloprisotto.jpg"
-accent: rgb()
+accent: rgb(186,133,3)
 
 description: A classic italian dish is reinvented with the flavor of rajas, a classic Mexican side dish of charred poblanos, fresh sweet corn and crema Mexicana.
 
