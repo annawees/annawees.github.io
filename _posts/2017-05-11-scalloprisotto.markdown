@@ -54,7 +54,7 @@ image6: <img src="/images/scalloprisotto6.jpeg"/>
 step6: <i>While the arborio rice cooks, make the poblano puree.</i> Place the poblanos in a blender with 2 1/2 cups of water, cilantro, 1/4 tsp of salt, and the juice of 1 lime. Puree.
 
 image7: <img src="/images/scalloprisotto7.jpeg"/>
-step7: Add the poblano puree to the arborio rice in 4 smaller portions, letting the puree absorb into the risotto before adding the next portion. Add the corn to the risotto. Set aside for plating.
+step7: Add the poblano puree to the arborio rice in 4 smaller portions, letting the puree absorb into the risotto before adding the next portion. <p>With the final addition of the puree, add the corn and crema to the to the risotto. Set aside for plating.</p>
 
 image8: <img src="/images/scalloprisotto8.jpeg"/>
 step8: While adding the second to last portion of poblano puree, start cooking the scallops. Place the butter on a large not non-stick skillet. Heat the butter on medium heat. Once the pan is hot, lie the scallops onto the rim of the pan where the butter has collected.<p><i>The scallops should make a loud sizzle when they make contact with the pan.</i></p>
