@@ -26,7 +26,7 @@ ingredient3: <img src="/images/corn.jpeg"/>1 ear of corn
 ingredient4: <img src="/images/poblanos.jpeg"/>4 poblanos
 ingredient5: <img src="/images/lime.jpeg"/>1 lime
 ingredient6: <img src="/images/cilantro.jpeg"/>1/4 bunch cilantro
-ingredient7: <img src="/images/3shallots.jpeg"/>3 shallots
+ingredient7: <img src="/images/shallot.jpeg"/>3 shallots
 ingredient8: <a href="https://www.amazon.com/Savory-Choice-Chicken-Broth-Concentrate/dp/B002HQUZIM/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482454407&sr=1-1&keywords=chicken+stock+concentrate&linkCode=ll1&tag=cilalime09-20&linkId=bd0b06086a845ab2851f7a2c60477eb6"><img src="/images/chickenstock.jpeg"/>1/2 cup chicken stock</a>
 ingredient9: <a href="https://www.amazon.com/Campanini-Vialone-Nano-Semifino-16/dp/B000XMQ9Z0/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1482454508&sr=1-4&keywords=arborio&refinements=p_85:2470955011,p_36:698503011&linkCode=ll1&tag=cilalime09-20&linkId=9db6a43b0d813b860954c8591f387e2b"><img src="/images/arborio.jpeg"/>3/4 cup arborio rice </a>
 
