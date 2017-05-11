@@ -59,7 +59,7 @@ image8: <img src="/images/scalloprisotto8.jpeg"/>
 step8: While adding the second to last portion of poblano puree, start cooking the scallops. Place the butter on a large not non-stick skillet. Heat the butter on medium heat. Once the pan is hot, lie the scallops onto the rim of the pan where the butter has collected.
 <p><i>The scallops should make a loud sizzle when they make contact with the pan.</i></p>
 
-image9: <img src="/images/scalloprisotto9.jpeg"/> </div>
+image9: <img src="/images/scalloprisotto9.jpeg"/>
 step9: Cook the scallops for 4-5 minutes on each side, allowing for each side to develop a crispy caramelized bottom before flipping the scallop over.
 
 image10: <img src="/images/scalloprisotto10.jpeg"/>
