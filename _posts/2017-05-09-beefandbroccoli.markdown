@@ -62,5 +62,7 @@ step9: Squeeze the water from the blanched gai lan. Add the gai lan to the pan a
 
 image10: <img src="/images/beefandbroccoli10.jpeg"/>
 step10: Serve the beef and broccoli with the jasmine rice.
+
+tags: [beef, flank steak, chinese]
 ---
 
