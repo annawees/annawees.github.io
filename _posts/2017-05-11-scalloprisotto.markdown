@@ -21,14 +21,15 @@ fat: 7g
 protein: 21g
 
 ingredient1: <img src="/images/scallops.jpeg"/> 1/2 lb sea scallops
-ingredient2: <img src="/images/butter.jpeg"/>1 tbsp butter
-ingredient3: <img src="/images/corn.jpeg"/>1 ear of corn
-ingredient4: <img src="/images/poblanos.jpeg"/>4 poblanos
-ingredient5: <img src="/images/lime.jpeg"/>1 lime
-ingredient6: <img src="/images/cilantro.jpeg"/>1/4 bunch cilantro
-ingredient7: <img src="/images/shallot.jpeg"/>3 shallots
-ingredient8: <a href="https://www.amazon.com/Savory-Choice-Chicken-Broth-Concentrate/dp/B002HQUZIM/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482454407&sr=1-1&keywords=chicken+stock+concentrate&linkCode=ll1&tag=cilalime09-20&linkId=bd0b06086a845ab2851f7a2c60477eb6"><img src="/images/chickenstock.jpeg"/>1/2 cup chicken stock</a>
-ingredient9: <a href="https://www.amazon.com/Campanini-Vialone-Nano-Semifino-16/dp/B000XMQ9Z0/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1482454508&sr=1-4&keywords=arborio&refinements=p_85:2470955011,p_36:698503011&linkCode=ll1&tag=cilalime09-20&linkId=9db6a43b0d813b860954c8591f387e2b"><img src="/images/arborio.jpeg"/>3/4 cup arborio rice </a>
+ingredient2: <img src="/images/cremamexicana.jpeg"/> 1/4 c crema Mexicana or sour cream
+ingredient3: <img src="/images/butter.jpeg"/>1 tbsp butter
+ingredient4: <img src="/images/corn.jpeg"/>1 ear of corn
+ingredient5: <img src="/images/poblanos.jpeg"/>4 poblanos
+ingredient6: <img src="/images/lime.jpeg"/>1 lime
+ingredient7: <img src="/images/cilantro.jpeg"/>1/4 bunch cilantro
+ingredient8: <img src="/images/shallot.jpeg"/>3 shallots
+ingredient9: <a href="https://www.amazon.com/Savory-Choice-Chicken-Broth-Concentrate/dp/B002HQUZIM/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482454407&sr=1-1&keywords=chicken+stock+concentrate&linkCode=ll1&tag=cilalime09-20&linkId=bd0b06086a845ab2851f7a2c60477eb6"><img src="/images/chickenstock.jpeg"/>1/2 cup chicken stock</a>
+ingredient10: <a href="https://www.amazon.com/Campanini-Vialone-Nano-Semifino-16/dp/B000XMQ9Z0/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1482454508&sr=1-4&keywords=arborio&refinements=p_85:2470955011,p_36:698503011&linkCode=ll1&tag=cilalime09-20&linkId=9db6a43b0d813b860954c8591f387e2b"><img src="/images/arborio.jpeg"/>3/4 cup arborio rice </a>
 
 equipment1: <a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/blender.jpeg"/>blender</a>
 equipment2: <a href="https://www.amazon.com/All-Clad-Stainless-Tri-Ply-Dishwasher-Cookware/dp/B004T6MSIS/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482454672&sr=8-1&keywords=all+clad+skillet&th=1&linkCode=ll1&tag=cilalime09-20&linkId=787618f0f49c025ff9cd0cc7d53b0bfa"><img src="/images/skillet.jpeg"/>skillet that is not non-stick (for scallops)</a>
