@@ -29,14 +29,14 @@ ingredient6: <img src="/images/thaichile.jpeg"/>1 thai chili
 ingredient7: <img src="/images/garlic.jpeg"/> 3 garlic cloves
 ingredient8: <img src="/images/onion.jpeg"/>onion
 ingredient9: <a href=""><img src="/images/tomatopuree.jpeg"/>1 c tomato puree</a>
-ingredient10: <a href=""><img src="/images/basmati.jpeg"/>1/2 c basmati rice </a>
-ingredient11: <a href=""> <img src="/images/cashew.jpeg"/> 5 cashews </a>
-ingredient12: <a href=""> <img src="/images/clove.jpeg"/> 1 clove </a>
-ingredient13: <a href=""> <img src="/images/cardamom.jpeg"/> 1 cardamom </a>
-ingredient14: <a href=""> <img src="/images/turmeric.jpeg"/> 1 tsp turmeric </a>
-ingredient15: <a href=""> <img src="/images/garammasala.jpeg"/> 1/2 tsp garam masala </a>
-ingredient16: <a href=""> <img src="/images/groundcinnamon.jpeg"/> 1/2 tsp cinnamon </a>
-ingredient17: <a href=""> <img src="/images/cayenne.jpeg"/> 1/4 tsp cayenne </a>
+ingredient10: <a href="https://www.amazon.com/Royal-Basmati-Rice-15-Pound-Bag/dp/B00I330QEQ/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1494535748&sr=1-4&keywords=basmati+rice&th=1&linkCode=ll1&tag=cilalime09-20&linkId=78648fb71a9be12f7ee2528148854254"><img src="/images/basmati.jpeg"/>1/2 c basmati rice </a>
+ingredient11: <a href="https://www.amazon.com/Terrasoul-Superfoods-Organic-Whole-Cashews/dp/B00MPZZD4Q/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1494535856&sr=1-27&keywords=cashews&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=3e80023af0ab3f3a80444c069f9d2e41"> <img src="/images/cashew.jpeg"/> 5 cashews </a>
+ingredient12: <a href="https://www.amazon.com/Terrasoul-Superfoods-Organic-Whole-Cashews/dp/B00MPZZD4Q/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1494535856&sr=1-27&keywords=cashews&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=3e80023af0ab3f3a80444c069f9d2e41"> <img src="/images/clove.jpeg"/> 1 clove </a>
+ingredient13: <a href="https://www.amazon.com/Terrasoul-Superfoods-Organic-Whole-Cashews/dp/B00MPZZD4Q/ref=as_li_ss_tl?s=grocery&rps=1&ie=UTF8&qid=1494535856&sr=1-27&keywords=cashews&refinements=p_85:2470955011&th=1&linkCode=ll1&tag=cilalime09-20&linkId=3e80023af0ab3f3a80444c069f9d2e41"> <img src="/images/cardamom.jpeg"/> 1 cardamom </a>
+ingredient14: <a href="https://www.amazon.com/Simply-Organic-Certified-2-38-Ounce-Container/dp/B000WR4LMY/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485030020&sr=1-4&keywords=turmeric&th=1&linkCode=ll1&tag=cilalime09-20&linkId=d4a71604f085d91783242c5dfd307ad4"> <img src="/images/turmeric.jpeg"/> 1 tsp turmeric </a>
+ingredient15: <a href="https://www.amazon.com/Simply-Organic-Garam-Masala-Ounce/dp/B00AJRKQDU/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485029909&sr=1-4&keywords=garam+masala&th=1&linkCode=ll1&tag=cilalime09-20&linkId=ec195bfb1c6aac05665759b9acdab3ed"> <img src="/images/garammasala.jpeg"/> 1/2 tsp garam masala </a>
+ingredient16: <a href="https://www.amazon.com/Simply-Organic-Cayenne-Certified-Containers/dp/B0019I2FP0/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485030130&sr=1-2&keywords=cayenne&th=1&linkCode=ll1&tag=cilalime09-20&linkId=ed4c58015de552add593c854319d73de"> <img src="/images/groundcinnamon.jpeg"/> 1/2 tsp cinnamon </a>
+ingredient17: <a href="https://www.amazon.com/Simply-Organic-Cayenne-Certified-Containers/dp/B0019I2FP0/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1485030130&sr=1-2&keywords=cayenne&th=1&linkCode=ll1&tag=cilalime09-20&linkId=ed4c58015de552add593c854319d73de"> <img src="/images/cayenne.jpeg"/> 1/4 tsp cayenne </a>
 
 
 equipment1: <a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/blender.jpeg"/>blender</a>
