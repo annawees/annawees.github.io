@@ -36,7 +36,7 @@ equipment1: <a href="https://www.amazon.com/Creuset-Signature-Round-French-Truff
 equipment2: <a href="https://www.amazon.com/Simply-Organic-Certified-0-14-Ounce-Container/dp/B0012BS9F4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1482335352&sr=1-1&keywords=simply+organic+bay&th=1&linkCode=ll1&tag=cilalime09-20&linkId=c8a097e1230c862f6ce966bf3962812b"><img src="/images/whisk.jpeg"/>whisk </a>
 equipment3: <a href="https://www.amazon.com/Microplane-35009-Medium-Ribbon-Grater/dp/B00009WE3V/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1482039177&sr=1-10&keywords=microplane&linkCode=ll1&tag=cilalime09-20&linkId=e0f7f0f676e7565f4b0f1ff0b4f8c1f6"><img src="/images/coarsegrater.jpeg"/>coarse grater </a>
 
-tags: [balkans, greek, beef, ground beef]
+tags: [balkans, greek, beef, ground beef, main]
 
 image1: <img src="/images/moussaka1.jpeg"/>
 step1: Move a rack to the upper 1/3 of the oven, and set the oven to broil.<p>Cut the eggplant into 1/3" slices.</p>
