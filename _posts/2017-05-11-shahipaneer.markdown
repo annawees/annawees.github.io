@@ -42,18 +42,17 @@ ingredient17: <a href="https://www.amazon.com/Simply-Organic-Cayenne-Certified-C
 equipment1: <a href="https://www.amazon.com/Breville-BBL605XL-Hemisphere-Control-Blender/dp/B005I72LMU/ref=as_li_ss_tl?s=kitchen&rps=1&ie=UTF8&qid=1481601822&sr=1-14&keywords=blender&refinements=p_85:2470955011,p_36:1253526011&linkCode=ll1&tag=cilalime09-20&linkId=b637316d3937e7e1c15e28b6e74a1c97"><img src="/images/blender.jpeg"/>blender</a>
 equipment2: <a href=""><img src="/images/stockpot.jpeg"/>stockpot</a>
 
-
 image1: <img src="/images/shahipaneer1.jpeg"/>
-step1: Set a saucepan with a lid on high heat with 2/3 cup of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the basmati rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.
+step1: Slice the onion.
 
 image2: <img src="/images/shahipaneer2.jpeg"/>
-step2: Once the water has reached a boil, add the rinsed rice, and cover. Stir the pot to ensure that the rice is submerged. Reduce the heat to low and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.
+step2: Coat the bottom of a stockpot with olive oil and place on medium high heat. Once the oil is hot add the sliced onions and cook until the onions have caramelized and have become tender, approx. 15 minutes.
 
 image3: <img src="/images/shahipaneer3.jpeg"/>
-step3: Slice the onion.
+step3: <i> While the onions caramelize, cook the rice. </i> Set a saucepan with a lid on high heat with 2/3 cup of water and 1/4 teaspoon of salt. While waiting for the water to boil, place the basmati rice in a bowl and fill it with water. Swish your hands in the rice until the water becomes cloudy, and then drain. Repeat two more times.
 
 image4: <img src="/images/shahipaneer4.jpeg"/>
-step4: Coat the bottom of a stockpot with olive oil and place on medium high heat. Once the oil is hot add the sliced onions and cook until the onions have caramelized and have become tender, approx. 15 minutes.
+step4: Once the water has reached a boil, add the rinsed rice, and cover. Stir the pot to ensure that the rice is submerged. Reduce the heat to low and cover. Cook the rice for 16 minutes, and remove from heat. Keep the lid on the pot until ready to serve.
 
 image5: <img src="/images/shahipaneer5.jpeg"/>
 step5: <i> While the onions cook, prep the paneer. </i> Cut the paneer into 1/2" cubes. Sprinkle the cubes of cheese with a pinch of salt.
