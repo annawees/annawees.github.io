@@ -67,7 +67,7 @@ image8: <img src="/images/shahipaneer8.jpeg"/>
 step8: Add the puree to the pan. Sauté for 10 minutes, until the puree thickens and darkens.
 
 image9: <img src="/images/shahipaneer9.jpeg"/>
-step0: Reduce the heat to medium. Add the tomatoes and cook for 10 minutes.
+step9: Reduce the heat to medium. Add the tomatoes and cook for 10 minutes.
 
 image10: <img src="/images/shahipaneer10.jpeg"/>
 step10: After the tomatoes have cooked add the greek yogurt, heavy cream, cayenne, and garam masala to the pan. Stir to incorporate. Add the previously browned paneer cheese. Stir to warm the cheese.
